@@ -9,7 +9,7 @@ sections:
   - hero:
       title: School of Science and Technology, Singapore
       subtitle: Home Page
-      background: /images/Homepage Banner.jpeg
+      background: /images/Homepage Banner.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
