@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SST Milestones.md
       - SST Identity.md
       - SST DNA.md
       - Vision, Mission & Goals.md
