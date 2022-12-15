@@ -2,4 +2,5 @@ collections:
   applied-subjects:
     output: true
     order:
+      - Design Studies.md
       - Biotechnology.md
