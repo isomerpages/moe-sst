@@ -2,5 +2,6 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Change Makers.md
       - Mathematics.md
       - Language Arts.md
