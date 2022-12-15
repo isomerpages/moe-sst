@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - FAQs.md
-      - Publication.md
-      - School Rules & Regulation.md
-      - SST Milestones.md
-      - SST Identity.md
-      - SST DNA.md
-      - Vision, Mission & Goals.md
-      - Management Team.md
       - Board Of Directors.md
+      - Management Team.md
+      - Vision, Mission & Goals.md
+      - SST DNA.md
+      - SST Identity.md
+      - SST Milestones.md
+      - School Rules & Regulation.md
+      - Publication.md
+      - FAQs.md
+      - Contact Us.md
