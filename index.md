@@ -10,12 +10,9 @@ sections:
       title: School of Science and Technology, Singapore
       subtitle: Home Page
       background: /images/Homepage Banner.png
-      button: Contact Us
+      button: About Us
       url: /contact-us/
       key_highlights:
-        - title: About Us
-          description: ""
-          url: ""
         - title: Student Experience
           description: ""
           url: ""
@@ -23,6 +20,9 @@ sections:
           description: ""
           url: ""
         - title: Partners
+          description: ""
+          url: ""
+        - title: Student Admission
           description: ""
           url: ""
   - infobar:
