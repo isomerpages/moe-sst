@@ -69,10 +69,10 @@ links:
       - title: Visitors to SST
         url: /permalink
   - title: Student Admission
-    url: /dsa-selection-criteria
+    url: /permalink
     sublinks:
       - title: DSA Selection Criteria
-        url: /permalink
+        url: /student-admission/dsa-selection-criteria/
       - title: S1 Admission
         url: /permalink
       - title: S3 Admission
