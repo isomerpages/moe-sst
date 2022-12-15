@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Singapore Youth Flying Club.md
       - Scout (Air).md
       - About CCA.md
       - Athletics (Track).md
