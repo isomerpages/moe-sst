@@ -37,5 +37,29 @@ SST students will:
 * Respect and adhere to the rules and regulations of SST.
 * Practice situational awareness and conduct themselves appropriately out of consideration for others.
 * Treat all with courtesy and use appropriate language to communicate on all platforms. 
-* Respect and care for the environment by keeping it clean and conducive for learning.  
+* Respect and care for the environment by keeping it clean and conducive for learning.
 
+**Responsibility:** SST Students will be responsible for their own actions.
+
+SST students will:
+
+*   Take responsibility for their own learning.
+*   Put in their best effort to contribute positively to their classroom, school and the environment.  
+*   Be responsible for their own conduct in and out of school.
+
+**Relationships:** SST Students will be active builders of positive relationships.
+
+SST students will:
+
+*   Interact with others in a manner that builds and maintains positive relationships.
+*   Manage themselves and be sensitive to others’ mental and social- emotional well-being in their interactions.
+
+**Reflection:** SST Students will be reflective learners. 
+
+SST students will:
+
+*   Think before they act. 
+*   Be mindful of their actions and behaviour and the impact on themselves,others and the community.
+*   Strengthen their performance and moral character by reflecting on their decisions and actions.
+
+_(Content updated as of 20 January 2022)_
