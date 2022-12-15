@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Football.md
-      - Floorball.md
-      - Fencing.md
-      - Basketball.md
-      - Badminton.md
-      - Athletics (Track).md
       - About CCA.md
+      - Athletics (Track).md
+      - Badminton.md
+      - Basketball.md
+      - Fencing.md
+      - Floorball.md
+      - Football.md
