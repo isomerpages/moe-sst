@@ -9,7 +9,9 @@ links:
         url: /permalink
       - title: Vision, Mission SST DNA
         url: /permalink
-      - title: Out Identity
+      - title: SST DNA
+        url: /permalink
+      - title: SST Identity
         url: /permalink
       - title: SST Milestones
         url: /permalink
@@ -20,8 +22,6 @@ links:
       - title: FAQs
         url: /permalink
       - title: Contact Us
-        url: /permalink
-      - title: Our DNA
         url: /permalink
   - title: Student Experience
     url: /permalink
