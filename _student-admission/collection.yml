@@ -2,6 +2,7 @@ collections:
   student-admission:
     output: true
     order:
+      - National Digital Literacy Programme.md
       - Scholarship & Bursary.md
       - School Fees.md
       - DSA Selection Criteria.md
