@@ -66,3 +66,20 @@ links:
         url: /permalink
       - title: ParentForSST
         url: /permalink
+  - title: Student Admission
+    url: /permalink
+    sublinks:
+      - title: DSA Talent Area
+        url: /permalink
+      - title: DSA Selection Criteria
+        url: /permalink
+      - title: S1 Admission
+        url: /permalink
+      - title: S3 Admission
+        url: /permalink
+      - title: School Fees
+        url: /permalink
+      - title: Scholarship & Bursary
+        url: /permalink
+      - title: National Digital Literacy Prog
+        url: /permalink
