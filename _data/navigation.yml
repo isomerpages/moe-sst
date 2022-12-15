@@ -1,8 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /contact-us/
-  - title: Student Experience
-    url: /example-page/
-  - title: SST Hightlighs
-    collection: example-folder
+    url: /permalink
+    sublinks:
+      - title: Board of Directors
+        url: /permalink
+      - title: Management Team
+        url: /permalink
