@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Sports & Wellness.md
       - Science.md
       - Mother Tongue Languages.md
       - Change Makers.md
