@@ -2,7 +2,7 @@ collections:
   house-of-leaders:
     output: true
     order:
+      - Student Councilor.md
+      - Peer Support Board.md
       - Active Citizenship Education (ACE) Leader.md
       - House Leader.md
-      - Peer Support Board.md
-      - Student Councilor.md
