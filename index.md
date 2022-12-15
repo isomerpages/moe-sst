@@ -12,16 +12,6 @@ sections:
       background: /images/Homepage Banner.png
       button: About Us
       url: /contact/
-      key_highlights:
-        - title: Success Stories
-          description: ""
-          url: ""
-        - title: SST in News
-          description: ""
-          url: ""
-        - title: Key School Events
-          description: ""
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
