@@ -2,4 +2,5 @@ collections:
   sst-highlights:
     output: true
     order:
+      - SST in News.md
       - Success Stories.md
