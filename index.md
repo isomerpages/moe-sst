@@ -11,7 +11,7 @@ sections:
       subtitle: Home Page
       background: /images/Homepage Banner.png
       button: About Us
-      url: /contact-us/
+      url: /contact/
       key_highlights:
         - title: Student Experience
           description: ""
