@@ -2,6 +2,7 @@ collections:
   student-admission:
     output: true
     order:
+      - School Fees.md
       - DSA Selection Criteria.md
       - DSA Talent Area.md
       - S1 Admission.md
