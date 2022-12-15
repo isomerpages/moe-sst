@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SST
 locations:
   - address:
       - 1 Technology Drive
@@ -17,13 +17,6 @@ locations:
         description: ""
     maps_link: ""
     title: General Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6123 4567
@@ -35,4 +28,9 @@ contacts:
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
+  - content:
+      - phone: ""
+      - email: admission@ssts.edu.sg
+      - other: ""
+    title: Admission Matters
 ---
