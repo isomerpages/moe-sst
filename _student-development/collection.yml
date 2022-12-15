@@ -2,9 +2,9 @@ collections:
   student-development:
     output: true
     order:
-      - House of Leaders.md
-      - Talent Development & Management Programme.md
       - Student Development.md
+      - Talent Development & Management Programme.md
+      - House of Leaders.md
       - Character & Citizenship Education.md
       - Education and Career Guidance.md
       - Sexuality Education.md
