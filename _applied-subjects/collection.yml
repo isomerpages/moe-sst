@@ -2,7 +2,7 @@ collections:
   applied-subjects:
     output: true
     order:
-      - Computing.md
-      - Electronics.md
-      - Design Studies.md
       - Biotechnology.md
+      - Computing.md
+      - Design Studies.md
+      - Electronics.md
