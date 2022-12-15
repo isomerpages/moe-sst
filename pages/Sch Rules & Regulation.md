@@ -18,8 +18,8 @@ The 10Cs categorised into 3 areas.
 | Intellectual Disposition | Personal Effectiveness | Interpersonal Effectiveness |
 | -------- | -------- | -------- |
 | Critical Thinking |Courage| Communication|
-Intellectual Curiosity | Commitment| Collaboration| Cross|
-Creative Thinking | Confidence     | ererer     |
+Intellectual Curiosity | Commitment| Collaboration |
+Creative Thinking | Confidence     | Citizenship|fsfsd| dfgdgf |
 
 
 
