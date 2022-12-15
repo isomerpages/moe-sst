@@ -12,16 +12,13 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
     title: General Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: +65 6571 7200
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -32,5 +29,5 @@ contacts:
       - phone: ""
       - email: admission@ssts.edu.sg
       - other: ""
-    title: Admission Matters
+    title: Student Admission Matters
 ---
