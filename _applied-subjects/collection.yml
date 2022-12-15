@@ -1,0 +1,4 @@
+collections:
+  applied-subjects:
+    output: true
+    order: []
