@@ -2,5 +2,6 @@ collections:
   sst-highlights:
     output: true
     order:
+      - Key School Events.md
       - SST in News.md
       - Success Stories.md
