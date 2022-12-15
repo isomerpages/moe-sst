@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Scout (Air).md
       - About CCA.md
       - Athletics (Track).md
       - Badminton.md
