@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: School of Science and Technology, Singapore
-      subtitle: Home Page
       background: /images/Homepage Banner.png
   - infobar:
       title: Infobar title
