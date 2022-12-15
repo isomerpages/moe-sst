@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Sexuality Education.md
-      - Education and Career Guidance.md
       - Character & Citizenship Education.md
+      - Education and Career Guidance.md
+      - Sexuality Education.md
