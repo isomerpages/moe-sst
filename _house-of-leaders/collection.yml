@@ -2,5 +2,6 @@ collections:
   house-of-leaders:
     output: true
     order:
+      - House Leader.md
       - Peer Support Board.md
       - Student Councilor.md
