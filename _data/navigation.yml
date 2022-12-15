@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
+  - title: About SST
     url: /permalink
     sublinks:
       - title: Board of Directors
@@ -62,11 +62,11 @@ links:
     sublinks:
       - title: Partners
         url: /permalink
-      - title: Visitors to SST
+      - title: ParentForSST
         url: /permalink
       - title: Alumni
         url: /permalink
-      - title: ParentForSST
+      - title: Visitors to SST
         url: /permalink
   - title: Student Admission
     url: /permalink
