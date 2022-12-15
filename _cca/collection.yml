@@ -2,6 +2,13 @@ collections:
   cca:
     output: true
     order:
+      - About CCA.md
+      - Athletics (Track).md
+      - Badminton.md
+      - Basketball.md
+      - Fencing.md
+      - Floorball.md
+      - Football.md
       - English Drama Club.md
       - Guitar Ensemble.md
       - Show Choir and Dance.md
@@ -10,10 +17,3 @@ collections:
       - Robotics @APEX.md
       - Singapore Youth Flying Club.md
       - Scout (Air).md
-      - About CCA.md
-      - Athletics (Track).md
-      - Badminton.md
-      - Basketball.md
-      - Fencing.md
-      - Floorball.md
-      - Football.md
