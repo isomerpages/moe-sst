@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission SST DNA.md
       - Management Team.md
       - Board Of Directors.md
