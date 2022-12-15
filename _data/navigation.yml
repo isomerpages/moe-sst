@@ -55,13 +55,13 @@ links:
     url: /permalink
     sublinks:
       - title: Partners
-        url: /permalink
+        url: /partners/partners/
       - title: ParentForSST
-        url: /permalink
+        url: /partners/parentforsst/
       - title: Alumni
-        url: /permalink
+        url: /partners/alumni/
       - title: Visitors to SST
-        url: /permalink
+        url: /partners/visitorstosst/
   - title: Student Admission
     url: /permalink
     sublinks:
