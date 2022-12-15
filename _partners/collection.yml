@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Visitors to SST.md
       - Partners.md
