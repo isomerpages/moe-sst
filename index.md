@@ -13,16 +13,13 @@ sections:
       button: About Us
       url: /contact/
       key_highlights:
-        - title: Student Experience
+        - title: Success Stories
           description: ""
           url: ""
-        - title: SST Highlights
+        - title: SST in News
           description: ""
           url: ""
-        - title: Partners
-          description: ""
-          url: ""
-        - title: Student Admission
+        - title: Key School Events
           description: ""
           url: ""
   - infobar:
