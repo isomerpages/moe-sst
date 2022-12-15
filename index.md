@@ -10,8 +10,6 @@ sections:
       title: School of Science and Technology, Singapore
       subtitle: Home Page
       background: /images/Homepage Banner.png
-      button: About Us
-      url: /contact/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
