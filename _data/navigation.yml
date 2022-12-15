@@ -55,3 +55,14 @@ links:
         url: /permalink
       - title: Key School Event
         url: /permalink
+  - title: Partners
+    url: /permalink
+    sublinks:
+      - title: Partners
+        url: /permalink
+      - title: Visitors to SST
+        url: /permalink
+      - title: Alumni
+        url: /permalink
+      - title: ParentForSST
+        url: /permalink
