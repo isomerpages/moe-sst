@@ -1,4 +1,5 @@
 collections:
   academic-subjects:
     output: true
-    order: []
+    order:
+      - Language Arts.md
