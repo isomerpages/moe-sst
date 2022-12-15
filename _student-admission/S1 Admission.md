@@ -3,7 +3,7 @@ title: S1 Admission
 permalink: /student-admission/s1-admission/
 description: ""
 ---
-**SST SECONDARY 1 (S1) ADMISSION**
+# SST SECONDARY 1 (S1) ADMISSION
 
 SST admits all our Secondary 1 students into the Express Course of study through the Direct School Admission Secondary (DSA-Sec) exercise. It does not participate in the MOE Secondary One Posting Exercise. 
 
