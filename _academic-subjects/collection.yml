@@ -2,10 +2,10 @@ collections:
   academic-subjects:
     output: true
     order:
-      - Humanities.md
-      - Sports & Wellness.md
-      - Science.md
-      - Mother Tongue Languages.md
-      - Change Makers.md
-      - Mathematics.md
       - Language Arts.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Change Makers.md
+      - Sports & Wellness.md
