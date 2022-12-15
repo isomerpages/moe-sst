@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Publication.md
       - School Rules & Regulation.md
       - SST Milestones.md
       - SST Identity.md
