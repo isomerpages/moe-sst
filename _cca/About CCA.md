@@ -16,7 +16,7 @@ Below are the range of CCAs at SST.
 | Athletics (Track)     | English Drama Club      | Astronomy Club     | Scouts (Air)|
 | Badminton     | Guitar Ensemble    | Media Club   | |
 Basketball| Show Choir and Dance|Robotics @APEX| 
-| Fencing |  |  |  |
-|Floorball|||
-|Football|||
-|Taekwondo|||
+| Fencing | |Singapore Youth Flying Club
+Floorball
+Football
+|Taekwondo|
