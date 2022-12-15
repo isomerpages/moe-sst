@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
+  - title: Student Experience
     url: /example-page/
-  - title: Example Folder
+  - title: SST Hightlighs
     collection: example-folder
