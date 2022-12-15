@@ -2,7 +2,7 @@ collections:
   applied-subjects:
     output: true
     order:
-      - What are Applied Subjects.md
+      - About Applied Subjects.md
       - Biotechnology.md
       - Computing Plus.md
       - Design Studies.md
