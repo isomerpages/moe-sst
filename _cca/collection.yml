@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - English Drama Club.md
       - Guitar Ensemble.md
       - Show Choir and Dance.md
       - Astronomy Club.md
