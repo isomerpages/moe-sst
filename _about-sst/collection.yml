@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-sst:
     output: true
     order:
       - Board Of Directors.md
