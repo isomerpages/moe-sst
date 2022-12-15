@@ -18,11 +18,11 @@ links:
       - title: School Rules & Regulation
         url: /about-us/schoolrulesregulation/
       - title: Publication
-        url: /permalink
+        url: /about-us/publication/
       - title: FAQs
-        url: /faq
+        url: /about-us/faqs
       - title: Contact Us
-        url: /contact-us
+        url: /about-us/contactus/
   - title: Student Experience
     url: /permalink
     sublinks:
