@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Management Team.md
       - Board Of Directors.md
