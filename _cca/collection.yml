@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Badminton.md
       - Athletics (Track).md
       - About CCA.md
