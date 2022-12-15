@@ -69,10 +69,8 @@ links:
       - title: Visitors to SST
         url: /permalink
   - title: Student Admission
-    url: /permalink
+    url: /student-admission
     sublinks:
-      - title: DSA Talent Area
-        url: /permalink
       - title: DSA Selection Criteria
         url: /permalink
       - title: S1 Admission
