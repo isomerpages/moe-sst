@@ -2,4 +2,5 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Mathematics.md
       - Language Arts.md
