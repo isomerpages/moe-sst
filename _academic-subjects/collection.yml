@@ -1,0 +1,4 @@
+collections:
+  academic-subjects:
+    output: true
+    order: []
