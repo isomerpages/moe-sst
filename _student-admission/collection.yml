@@ -2,4 +2,5 @@ collections:
   student-admission:
     output: true
     order:
+      - S1 Admission.md
       - S3 Admission.md
