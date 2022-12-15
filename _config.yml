@@ -2,13 +2,13 @@ title: School of Science and Technology, Singapore
 url: https://www.open.sg
 favicon: /images/School_of_Science_and_Technology,_Singapore_logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#0078c9"
+  secondary-color: "#6a737b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#e70033"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4372d6"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
