@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Astronomy Club.md
       - Media Club.md
       - Robotics @APEX.md
       - Singapore Youth Flying Club.md
