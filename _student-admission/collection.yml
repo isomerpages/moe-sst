@@ -1,4 +1,5 @@
 collections:
   student-admission:
     output: true
-    order: []
+    order:
+      - S3 Admission.md
