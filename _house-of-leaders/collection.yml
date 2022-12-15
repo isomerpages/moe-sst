@@ -1,4 +1,5 @@
 collections:
   house-of-leaders:
     output: true
-    order: []
+    order:
+      - Student Councilor.md
