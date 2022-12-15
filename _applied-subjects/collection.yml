@@ -2,9 +2,9 @@ collections:
   applied-subjects:
     output: true
     order:
-      - Engineer Plus.md
       - What are Applied Subjects.md
       - Biotechnology.md
       - Computing Plus.md
       - Design Studies.md
       - Electronics.md
+      - Engineer Plus.md
