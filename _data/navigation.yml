@@ -21,3 +21,24 @@ links:
         url: /permalink
       - title: Contact Us
         url: /permalink
+  - title: Student Experience
+    url: /permalink
+    sublinks:
+      - title: Acad Subjects
+        url: /permalink
+      - title: Applied Subjects
+        url: /permalink
+      - title: Integrated Diploma Programme
+        url: /permalink
+      - title: CCAs
+        url: /permalink
+      - title: Internationalisation Programme
+        url: /permalink
+      - title: Student Development Overview
+        url: /permalink
+      - title: Talent Dev& Mgmt Framework
+        url: /permalink
+      - title: House of Leaders (Students)
+        url: /permalink
+      - title: Character & Citizenship Edu
+        url: /permalink
