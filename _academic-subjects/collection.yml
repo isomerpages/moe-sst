@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Science.md
       - Mother Tongue Languages.md
       - Change Makers.md
       - Mathematics.md
