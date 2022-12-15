@@ -8,5 +8,3 @@ The Computing+ course in SST equips students with computational thinking and cre
 Students who learn computing can apply the thinking skills across the curriculum and begin to see a relationship between subjects as well as real-life applications beyond the classroom. For example, they may use their skills to figure out the rules for binomial expressions, map the entire human DNA experience or analyse a poem in the study of metre and rhythm, tone and diction.
 
 Computing+ is an applied subject taken in the upper secondary. Students from SST are further challenged beyond the O-Level Computing curriculum through additional (+) modules. 
-
-Learn more about Computing+ through our e-publications [here](https://www.sst.edu.sg/our-school/publications/).
