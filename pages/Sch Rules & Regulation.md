@@ -17,17 +17,11 @@ The 10Cs categorised into 3 areas.
 
 | Intellectual Disposition | Personal Effectiveness | Interpersonal Effectiveness |
 | -------- | -------- | -------- |
-| Critical Thinking |Courage| Communication|
-Intellectual Curiosity | Commitment| Collaboration |
-Creative Thinking | Confidence     | Citizenship|fsfsd| dfgdgf |
+| **C**ritical Thinking |**C**ourage| **C**ommunication|
+Intellectual **C**uriosity | **C**ommitment| **C**ollaboration |
+**C**reative Thinking | **C**onfidence     | **C**ross-Cultural Understanding| 
+|  |  | **C**itizenship |
 
-
-
-
-
-Intellectual Disposition	, y, Creative Thinking
-Personal Effectiveness (Affective)	Courage, Commitment, Confidence
- (Social)	Communication, Collaboration, Cross-Cultural Understanding, Citizenship
 
 Students should carry the SST identity with pride and are expected to uphold the good name of the school. They are responsible for conducting themselves in a manner that promotes a healthy and conducive environment for work and play in school. 
 
