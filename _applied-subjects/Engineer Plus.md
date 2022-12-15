@@ -3,6 +3,8 @@ title: Engineer Plus
 permalink: /applied-subjects/engineer/
 description: ""
 ---
+# Engineering+ Programme
+
 The World Economic Forum believes that connected devices will outnumber people worldwide. These electronic devices, commonly known as the internet of things (IoT), come in many forms and applications. By 2025, the number of IoT devices is projected to exceed 40 billion, fuelled by continued technological advances and the plummeting costs of computing, storage and connectivity to spread to all aspects of daily life.
 
 Programming is a must for every Electronics Engineering field except hardware design field. But knowing programming will help the hardware engineer also to create hardware better. IoT requires engineers who can manage the confluence of electronics and programming.
