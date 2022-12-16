@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Student Development.md
+      - Student Development Overview.md
       - Talent Development & Management Programme.md
       - Character & Citizenship Education.md
       - Education and Career Guidance.md
