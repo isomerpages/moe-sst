@@ -3,23 +3,6 @@ title: DSA Selection Criteria
 permalink: /student-admission/dsa-selection-criteria/
 description: ""
 ---
-#### Talent Area
-Science, Technology,  Engineering, Aesthetics and Mathematics (STEAM)
-
-#### Selection Criteria
-**Academic and Cognitive Abilities**
-
-Applicants are assessed on both academic achievements and cognitive abilities based on academic track records and other accomplishments, as well as the outcome of the SST Direct School Admission (DSA) selection tests.
-
-**Aptitude for Applied Learning**
-
-SST aims to engage our students through Applied Learning approaches. Shortlisted candidates will thus have to participate in a selection activity and be assessed for their suitability to work and learn in the fast-paced and rigorous environment of the school.
-
-**Interests and Motivation**
-
-Candidates’ proclivity and passion for areas related to STEAM may be gauged through their school and non-school involvement.
-
-
 <table style="box-sizing: inherit; font-family: &quot;Source Sans Pro&quot;, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 802.664px; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 100%; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);">
    <tbody style="box-sizing: inherit; font-family: Lato, sans-serif;">
       <tr style="box-sizing: inherit; font-family: Lato, sans-serif; background: rgb(255, 255, 255);">
@@ -40,4 +23,5 @@ Candidates’ proclivity and passion for areas related to STEAM may be gauged th
       </tr>
    </tbody>
 </table>
-Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+**Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
