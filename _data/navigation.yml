@@ -24,7 +24,7 @@ links:
       - title: Contact Us
         url: /about-us/contactus/
   - title: Student Experience
-    url: /permalink
+    url: /
     sublinks:
       - title: Academic Subjects
         url: /academic-subjects/lang-arts/
