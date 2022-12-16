@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Partners.md
       - ParentForSST.md
       - Alumni.md
       - Visitors to SST.md
-      - Partners.md
