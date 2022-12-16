@@ -20,3 +20,14 @@ Basketball| Show Choir and Dance|Robotics @APEX|
 Floorball
 Football
 |Taekwondo|
+
+
+| Sports | Performing Arts | Clubs and Societies | Uniform Group |
+| --- | --- | --- | --- |
+| Athletics (Track) | English Drama Club | Astronomy Club | Scouts (Air) |
+| Badminton | Guitar Ensemble | Media Club |  |
+| Basketball | Show Choir and Dance | Robotics @APEX |  |
+| Fencing |  | Singapore Youth Flying Club |  |
+| Floorball |  |  |  |
+| Football |  |  |  |
+| Taekwondo |
