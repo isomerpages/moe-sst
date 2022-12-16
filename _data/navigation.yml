@@ -1,7 +1,7 @@
 logo: /images/School_of_Science_and_Technology,_Singapore_logo.png
 links:
   - title: About SST
-    url: /about-us
+    url: /
     sublinks:
       - title: Board of Directors
         url: /about-us/BOD/
@@ -24,7 +24,7 @@ links:
       - title: Contact Us
         url: /about-us/contactus/
   - title: Student Experience
-    url: /.
+    url: /
     sublinks:
       - title: Academic Subjects
         url: /academic-subjects/lang-arts/
