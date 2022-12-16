@@ -40,6 +40,8 @@ links:
         url: /cca/about-cca/
       - title: Internationalisation Programme
         url: /permalink
+  - title: Menu Title
+    resource_room: true
   - title: Partners
     url: /
     sublinks:
@@ -66,5 +68,3 @@ links:
         url: /student-admission/scholarship-bursary
       - title: National Digital Literacy Prog
         url: /student-admission/NDLP
-  - title: Menu Title
-    resource_room: true
