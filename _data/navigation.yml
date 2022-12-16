@@ -39,14 +39,7 @@ links:
       - title: Internationalisation Programme
         url: /permalink
   - title: SST Highlights
-    url: /
-    sublinks:
-      - title: Success Stories
-        url: /sst-highlights/successstories/
-      - title: SST in News
-        url: /sst-highlights/sstinnews
-      - title: Key School Events
-        url: /permalink
+    resource_room: true
   - title: Partners
     url: /
     sublinks:
@@ -73,5 +66,3 @@ links:
         url: /student-admission/scholarship-bursary
       - title: National Digital Literacy Prog
         url: /student-admission/NDLP
-  - title: Highlights
-    resource_room: true
