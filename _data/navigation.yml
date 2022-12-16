@@ -66,3 +66,5 @@ links:
         url: /student-admission/scholarship-bursary
       - title: National Digital Literacy Prog
         url: /student-admission/NDLP
+  - title: Menu Title
+    resource_room: true
