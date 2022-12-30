@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: School of Science and Technology, Singapore
       background: /images/Homepage Banner.png
   - infobar:
       title: Infobar title
@@ -16,5 +15,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
