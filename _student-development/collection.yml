@@ -2,12 +2,12 @@ collections:
   student-development:
     output: true
     order:
-      - Digital Citizenship.md
-      - Active Citizenship Education.md
       - Student Development Overview.md
       - Talent Development & Management Programme.md
       - National Education.md
       - Character & Citizenship Education.md
+      - Active Citizenship Education.md
+      - Digital Citizenship.md
       - Education and Career Guidance.md
       - Sexuality Education.md
       - Lower Sec Cohort Experience.md
