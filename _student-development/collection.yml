@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Lower Sec Cohort Experience.md
       - Student Development Overview.md
       - Talent Development & Management Programme.md
       - Character & Citizenship Education.md
