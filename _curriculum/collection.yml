@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Integrated Diploma Programme/.keep
       - Applied Subjects/.keep
       - Subjects/Change Makers.md
       - Subjects/Mathematics.md
