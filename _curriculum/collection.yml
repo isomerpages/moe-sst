@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Subjects/.keep
       - Language Arts.md
       - Mother Tongue Languages.md
       - Mathematics.md
