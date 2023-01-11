@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCAs/.keep
       - Student Development.md
