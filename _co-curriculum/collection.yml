@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Cohort Experience/Lower Sec Cohort Experience.md
-      - Cohort Experience/.keep
-      - CCAs/.keep
       - Student Development.md
+      - CCAs/.keep
+      - Cohort Experience/.keep
+      - Cohort Experience/Lower Sec Cohort Experience.md
