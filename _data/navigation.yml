@@ -26,6 +26,8 @@ links:
     sublinks:
       - title: Curriculum
         url: /academic-subjects/lang-arts/
+      - title: Co-Curriculum
+        url: /permalink
       - title: CCAs
         url: /cca/about-cca/
       - title: Student Development
@@ -33,8 +35,6 @@ links:
       - title: House of Leaders
         url: /house-of-leaders/sc/
       - title: Internationalisation Programme
-        url: /permalink
-      - title: Co-Curriculum
         url: /permalink
   - title: SST Highlights
     resource_room: true
