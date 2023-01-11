@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Applied Subjects/.keep
       - Subjects/Change Makers.md
       - Subjects/Mathematics.md
       - Subjects/Mother Tongue Languages.md
