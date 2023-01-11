@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Development.md
+      - CCAs/Robotics @APEX.md
       - CCAs/.keep
       - Cohort Experience/.keep
       - Cohort Experience/Lower Sec Cohort Experience.md
