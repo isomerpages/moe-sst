@@ -2,8 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Integrated Diploma Programme/.keep
-      - Applied Subjects/.keep
+      - Subjects/.keep
       - Subjects/Change Makers.md
       - Subjects/Mathematics.md
       - Subjects/Mother Tongue Languages.md
@@ -11,4 +10,5 @@ collections:
       - Subjects/Sports & Wellness.md
       - Subjects/Science.md
       - Subjects/Language Arts.md
-      - Subjects/.keep
+      - Applied Subjects/.keep
+      - Integrated Diploma Programme/.keep
