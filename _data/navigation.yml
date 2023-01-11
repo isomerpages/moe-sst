@@ -39,14 +39,12 @@ links:
   - title: Partners
     url: /
     sublinks:
+      - title: Parent for SST
+        url: /partners/parentforsst/
       - title: Partners
         url: /partners/partners/
-      - title: ParentForSST
-        url: /partners/parentforsst/
       - title: Alumni
         url: /partners/alumni/
-      - title: Visitors to SST
-        url: /partners/visitorstosst/
   - title: Student Admission
     url: /
     sublinks:
