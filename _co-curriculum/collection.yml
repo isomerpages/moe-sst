@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Cohort Experience/.keep
       - CCAs/.keep
       - Student Development.md
