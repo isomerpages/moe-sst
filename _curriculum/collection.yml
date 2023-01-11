@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Subjects/Humanities.md
       - Subjects/Sports & Wellness.md
       - Subjects/Science.md
       - Subjects/Language Arts.md
