@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - SST in News.md
-      - Success Stories.md
+      - SSTories.md
       - Key School Events.md
