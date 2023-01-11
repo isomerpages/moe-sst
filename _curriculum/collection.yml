@@ -1,5 +1,5 @@
 collections:
-  academic-subjects:
+  curriculum:
     output: true
     order:
       - Language Arts.md
