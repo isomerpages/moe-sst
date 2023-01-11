@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  co-curriculum:
     output: true
     order:
       - Student Development Overview.md
