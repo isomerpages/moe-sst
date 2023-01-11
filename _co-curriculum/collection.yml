@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - National Education.md
       - Student Development.md
-      - CCAs/Robotics @APEX.md
       - CCAs/.keep
+      - CCAs/Robotics @APEX.md
+      - National Education.md
       - Cohort Experience/.keep
       - Cohort Experience/Lower Sec Cohort Experience.md
