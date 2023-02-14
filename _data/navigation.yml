@@ -37,10 +37,10 @@ links:
     sublinks:
       - title: Parent for SST (PforSST)
         url: /partners/parentforsst/
-      - title: Partners
-        url: /partners/partners/
       - title: Alumni
         url: /partners/alumni/
+      - title: Partners
+        url: /partners/partners/
   - title: Student Admission
     url: /
     sublinks:
