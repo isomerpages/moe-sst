@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Parent For SST (PforSST).md
-      - Partners.md
       - Alumni.md
+      - Partners.md
