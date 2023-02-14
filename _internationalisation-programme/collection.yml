@@ -1,4 +1,5 @@
 collections:
   internationalisation-programme:
     output: true
-    order: []
+    order:
+      - Internationalisation Programme.md
