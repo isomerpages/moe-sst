@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About Applied Subjects.md
-      - Design Studies.md
       - Electronics.md
       - Engineer Plus.md
