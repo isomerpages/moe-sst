@@ -2,7 +2,7 @@ collections:
   about-sst:
     output: true
     order:
-      - SST Identity/SST Identity.md
+      - SST Identity/Vision.md
       - SST Identity/.keep
       - Board Of Directors.md
       - School Exco Team.md
