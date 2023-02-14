@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - The 3 DNAs.md
       - Board Of Directors.md
       - School Exco Team.md
       - Staff.md
