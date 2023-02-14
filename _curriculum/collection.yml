@@ -4,13 +4,11 @@ collections:
     order:
       - Subjects/.keep
       - Subjects/Change Makers.md
-      - Subjects/Mathematics.md
+      - Subjects/Language Arts.md
       - Subjects/Mother Tongue Languages.md
+      - Subjects/Mathematics.md
+      - Subjects/Science.md
       - Subjects/Humanities.md
       - Subjects/Sports & Wellness.md
-      - Subjects/Science.md
-      - Subjects/Language Arts.md
-      - Applied Subjects/Example Title.md
-      - Applied Subjects/.keep
       - Integrated Diploma Programme/Example Title.md
       - Integrated Diploma Programme/.keep
