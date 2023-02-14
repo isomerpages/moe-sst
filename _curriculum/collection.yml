@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Change Makers.md
+      - Subjects/ChangeMakers.md
       - Subjects/Language Arts.md
       - Subjects/Mother Tongue Languages.md
       - Subjects/Mathematics.md
