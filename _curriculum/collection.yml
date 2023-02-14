@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied/About Applied Subjects.md
-      - Applied/.keep
+      - Applied Subject/About Applied Subjects.md
+      - Applied Subject/.keep
       - Subjects/.keep
       - Subjects/ChangeMakers.md
       - Subjects/Language Arts.md
