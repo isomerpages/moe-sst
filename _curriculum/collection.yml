@@ -2,8 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied Subject/About Applied Subjects.md
-      - Applied Subject/.keep
       - Subjects/.keep
       - Subjects/ChangeMakers.md
       - Subjects/Language Arts.md
@@ -12,5 +10,7 @@ collections:
       - Subjects/Science.md
       - Subjects/Humanities.md
       - Subjects/Sports & Wellness.md
-      - Integrated Diploma Programme/Example Title.md
+      - Applied Subject/.keep
+      - Applied Subject/About Applied Subjects.md
       - Integrated Diploma Programme/.keep
+      - Integrated Diploma Programme/Example Title.md
