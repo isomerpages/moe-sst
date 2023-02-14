@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SST Identity/.keep
-      - SST Identity/Vision.md
+      - SST Identity/Vision, Mission, Values and Goals.md
       - SST Identity/SST Symbols.md
       - Board Of Directors.md
       - School Exco Team.md
