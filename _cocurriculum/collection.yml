@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - Student Development.md
-      - CCAs/.keep
-      - CCAs/Robotics @APEX.md
       - National Education.md
