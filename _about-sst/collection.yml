@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Example Title.md
       - Board Of Directors.md
       - School Exco Team.md
       - Staff.md
