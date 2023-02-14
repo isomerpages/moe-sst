@@ -7,6 +7,8 @@ links:
         url: /about-us/BOD/
       - title: School Exco Team
         url: /about-us/sch-exco/
+      - title: Staff
+        url: /about-us/sst-identity/staff
       - title: SST Identity
         url: /about-us/sst-identity/
       - title: School Rules & Regulation
@@ -15,8 +17,6 @@ links:
         url: /about-us/publication/
       - title: FAQs
         url: /about-us/faqs
-      - title: Staff
-        url: /about-us/sst-identity/staff
   - title: Student Experience
     url: /
     sublinks:
