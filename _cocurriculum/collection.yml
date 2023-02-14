@@ -2,6 +2,6 @@ collections:
   cocurriculum:
     output: true
     order:
-      - Sexuality Education.md
       - Student Development.md
       - National Education.md
+      - Sexuality Education.md
