@@ -2,9 +2,9 @@ collections:
   about-sst:
     output: true
     order:
-      - SST Identity/SST Symbols.md
-      - SST Identity/Vision.md
       - SST Identity/.keep
+      - SST Identity/Vision.md
+      - SST Identity/SST Symbols.md
       - Board Of Directors.md
       - School Exco Team.md
       - Staff.md
