@@ -1,5 +1,5 @@
 collections:
-  applied-subjects:
+  old-applied-subjects:
     output: true
     order:
       - About Applied Subjects.md
