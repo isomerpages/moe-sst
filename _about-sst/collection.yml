@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Board of Directors/Industry.md
       - Board of Directors/Government Agencies.md
       - Board of Directors/Institutes of Higher Learning.md
       - Board of Directors/.keep
