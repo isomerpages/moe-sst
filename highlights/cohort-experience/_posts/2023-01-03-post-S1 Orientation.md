@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/2023%20S1%20Orientation%20Collage.png)
 
-**SST extends a warm welcome to cohort 2023 - our Secondary 1s!**
+##### SST extends a warm welcome to cohort 2023 - our Secondary 1s!
 
 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐎𝐮𝐫 𝐂𝐚𝐥𝐥, 𝐖𝐞 𝐑𝐢𝐬𝐞 𝐀𝐛𝐨𝐯𝐞 𝐀𝐥𝐥 as this year's theme spoke of embracing learning opportunities, taking up challenges with positivity, striving for excellence and empowering themselves and others to achieve greater heights. 
 
