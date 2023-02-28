@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Board of Directors/.keep
-      - Board Of Director.md
       - School Exco Team.md
       - Staff.md
       - SST Identity/.keep
