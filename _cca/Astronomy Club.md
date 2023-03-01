@@ -34,21 +34,10 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 #### Key Competitions/ Programme
 
 *   Astronomy Competitions
-    
-
 *   Astrochallenge
-    
 *   Astrigue 
-    
-*   Singapore Astronomy Olympiad  
-    
-
+*   Singapore Astronomy Olympiad 
 *   Space Science Competitions
-    
-
 *   International Space Challenge
-    
 *   Satellite Design Competition 
-    
-
 *   Astronomy Field Trips**
