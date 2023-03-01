@@ -3,6 +3,7 @@ title: Astronomy Club
 permalink: /cca/astronomy-club/
 description: ""
 ---
+![](/images/Astronomy%20Club.jpeg)
 #### Vision
 To be a global leader in astronomy and space science.
 
