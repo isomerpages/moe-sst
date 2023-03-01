@@ -31,8 +31,8 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 #### Training 
 *   Wednesdays (3.00pm to 5.00pm)
 *   Monthly star gazing trip 
-#### Key Competitions/ Programme
 
+#### Key Competitions/ Programmes
 *   Astronomy Competitions
 *   Astrochallenge
 *   Astrigue 
