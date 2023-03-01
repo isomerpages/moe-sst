@@ -7,8 +7,7 @@ third_nav_title: School Exco Team
 ![](/images/Nick-Chan.jpeg)
 
 **Welcome to the School of Science and Technology, Singapore (SST)!**
-
-##### **_SST, an institution where we create our exciting story together._**
+##### SST, an institution where we create our exciting story together.
 
 The SST story is one that is full of inspiration and excitement and brings fond memories to the SST family. Applied Learning (AL) is our way of life as we strive to **nurture passionate innovators who apply knowledge of science and technology*, guided by the spirit of the humanities for a better world**. Being one of a kind, these are philosophies, which are deeply ingrained in whatever we do in SST. In fact, Applied Learning, Science and Technology are the very existential fundamentals for the establishment of SST.  How do we breathe life into the disciplines and connect them together to create betterment for human life?
 
