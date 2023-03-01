@@ -10,13 +10,13 @@ To be a global leader in astronomy and space science.
 #### Mission
 To nurture passionate astronomers who improve society through real-world applications of science and technology.
 
-  ### Goals
+### Goals
 
 *   Life-long Learners of Character 
 *   Creative Problem Finders and Solvers
 *   Dynamic Leaders in Service of Humanity
    
-  #### Values
+#### Values
 
 *   Forging Excellence: “Ad Astra” (To the stars) 
 *   Building an Empowered Community
