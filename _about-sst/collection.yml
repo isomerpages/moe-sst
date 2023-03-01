@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Exco Team/School Exco Team.md
       - Exco Team/.keep
       - Board of Directors.md
       - Staff.md
