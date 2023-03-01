@@ -10,7 +10,7 @@ To be a global leader in astronomy and space science.
 #### Mission
 To nurture passionate astronomers who improve society through real-world applications of science and technology.
 
-### Goals
+#### Goals
 *   Life-long Learners of Character 
 *   Creative Problem Finders and Solvers
 *   Dynamic Leaders in Service of Humanity
@@ -39,3 +39,4 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 *   International Space Challenge
 *   Satellite Design Competition 
 *   Astronomy Field Trips**
+
