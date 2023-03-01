@@ -4,17 +4,17 @@ permalink: /about-sst/SST-Identity/vmvg/
 description: ""
 third_nav_title: SST Identity
 ---
-#### Vision
+### Vision
 
 A globally connected institution dedicated to transforming learning
 
 
-#### Mission
+### Mission
 
 To nurture passionate innovators who apply knowledge of science and technology, guided by the spirit of the humanities for a better world
 
 
-#### Values
+### Values
 ##### Forging Excellence
 
 Members of the SST community will embark on every endeavour with passion, commitment, confidence and courage; and a belief that our best efforts will bring about positive outcomes for the common good, whilst developing excellence in personal work ethics and character. SST is an organisation where people care about and work towards being the best they can be, both personally and at the organisational and community levels.
@@ -28,7 +28,7 @@ In SST, we shall build ourselves and others, in every interaction and decision w
 SST is an ecological entity unto itself, where individuals with diverse interests, talents and world-views converge as a learning community, and where everyone is interdependent and actively leverages the diversity to share knowledge and build collective wisdom. SST is positioned to be a forerunner in learning on the Information and Communication Technology (ICT) platform, and in leading the way for learning communities in Singapore and beyond.
 
 
-#### Goals
+### Goals
 
 At SST, students will be nurtured to become:
 
