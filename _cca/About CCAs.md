@@ -3,7 +3,7 @@ title: About CCAs
 permalink: /cca/about-cca/
 description: ""
 ---
-
+![](/images/About%20CCAs.jpeg)
 #### CCAs
 
 SST believes in values-based education with a holistic approach that will nurture graduates of exceptional character.
