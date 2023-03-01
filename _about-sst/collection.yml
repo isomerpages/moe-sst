@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Board of Directors.md
-      - Exco Team/.keep
-      - Exco Team/Principal Message.md
-      - Exco Team/Exco Team.md
+      - School Exco Team/.keep
+      - School Exco Team/Principal Message.md
+      - School Exco Team/Exco Team.md
       - Staff.md
       - SST Identity/.keep
       - SST Identity/School Vision, Mission, Values and Goals.md
