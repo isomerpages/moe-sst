@@ -20,7 +20,7 @@ Good digital citizens know that the online environment offers many ways to acces
 Good digital citizens are willing to debate and revise our understanding of the impact of digital technology and seek to positively promote thoughtful and empathetic intentions to advance humanity’s interests.
 
 ### Digital Citizenship Programmes
-
+![](/images/SD-DC.jpeg)
 The Digital Citizenship Committee oversees the various programmes and carries them out with the Digital Citizenship Leadership Board (DCB) and Digital Citizenship Representatives (DCRs) from each class.
 
 ![](/images/DC%20Programme.png)
