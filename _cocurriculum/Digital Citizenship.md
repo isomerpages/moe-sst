@@ -7,6 +7,8 @@ description: ""
 
 In SST, Digital Citizenship is Applied Cyber Wellness. To be actively applied and become competent digital citizens, we are seeking to be authentic and community-focused.
 
+![](/images/DC%20Framework.png)
+
 We believe that
 
 ###### Digital Citizenship promotes Cyber Wellness
@@ -22,6 +24,8 @@ Good digital citizens are willing to debate and revise our understanding of the 
 #### Digital Citizenship Programmes
 
 The Digital Citizenship Committee oversees the various programmes and carries them out with the Digital Citizenship Leadership Board (DCB) and Digital Citizenship Representatives (DCRs) from each class.
+
+![](/images/DC%20Programme.png)
 
 ###### DC Parents Engagement
 We conduct talks and workshops on Educational Technology and ICT for parents to build a united community on our approach towards developing digital citizens.
@@ -45,5 +49,3 @@ The DC Board takes the lead to equip students with relevant knowledge and skills
 
 ###### Ongoing Training 
 Workshops and learning journeys are organised to equip members of the DCB with key principles of our Digital Citizenship Framework as well as operational skills to organise and implement the events.
-
-
