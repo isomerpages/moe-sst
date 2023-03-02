@@ -10,9 +10,9 @@ sections:
       background: /images/Hero Banner 01b.svg
       title: SCHOOL OF SCIENCE AND TECHNOLOGY
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: 2023 SST Open House
+      subtitle: Lastest Announcement
+      description: Discover Our World of Innovation
+      button: Link to details
       url: /faq/
 ---
