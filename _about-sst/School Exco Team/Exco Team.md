@@ -25,5 +25,4 @@ third_nav_title: School Exco Team
 ![](/images/SWP%20Profile%20(1).svg)
 
 ![](/images/Header%20-%20SH_AH.svg)
-
-![](/images/SWP%20Profile%20(3).svg)
+![](/images/SWP%20Profile%20(4).png)
