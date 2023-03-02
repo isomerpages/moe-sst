@@ -22,7 +22,6 @@ description: ""
 
 You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-* * *
 
 #### Overview of School Of Science & Technology, Singapore Sexuality Education Programme for 2023
 
