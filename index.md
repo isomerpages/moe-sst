@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner 01B.svg
+      background: /images/Hero Banner 01.jpeg
       subtitle: Shaping the future leaders. The SST Way.
+      title: School of Science and Technology, Singapore
   - infobar:
       title: 2023 SST Open House
       subtitle: Lastest Announcement
