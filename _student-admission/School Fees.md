@@ -19,3 +19,10 @@ description: ""
 #### Changes in Citizenship Status
 
 Students are advised to keep the school updated with changes in your citizenship by submitting a copy of your new Identity Card or Passport as documentary proof to the SST General Office. The revised school fees rate will commence from the next month upon receipt of documents.
+
+#### Collection of School Fees
+
+1.   All fees are collected through the Inter-bank Giro Scheme.
+2.  It is compulsory for parents / guardians of students to take part in the Inter-bank Giro scheme. Parents / guardians must have a savings or current account. Fees due from students will then be automatically deducted through the scheme.
+3.  The softcopy of the form in PDF is available below:
+    *   [APPLICATION FORM FOR INTERBANK GIRO](https://www.sst.edu.sg/wp-content/uploads/2019/04/APPLICATION-FORM-FOR-INTERBANK-GIRO_15072016-1.pdf)
