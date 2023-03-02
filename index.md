@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01b.svg
+      title: SCHOOL OF SCIENCE AND TECHNOLOGY
   - infobar:
       title: Infobar title
       subtitle: Subtitle
