@@ -7,10 +7,8 @@ description: ""
 
 In SST, Digital Citizenship is Applied Cyber Wellness. To be actively applied and become competent digital citizens, we are seeking to be authentic and community-focused.
 
-
 We believe that
-
-*  ** Digital Citizenship promotes Cyber Wellness **
+* ###### Digital Citizenship promotes Cyber Wellness
 Good digital citizens maintain awareness of the dangerous aspects of using social technology and advocate good behaviours to protect themselves and others online.
 
   
