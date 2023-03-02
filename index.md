@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01B.svg
+      subtitle: Shaping future leaders. The SST Way.
   - infobar:
       title: 2023 SST Open House
       subtitle: Lastest Announcement
