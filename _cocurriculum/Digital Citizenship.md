@@ -8,8 +8,7 @@ description: ""
 In SST, Digital Citizenship is Applied Cyber Wellness. To be actively applied and become competent digital citizens, we are seeking to be authentic and community-focused.
 
 ![](/images/DC%20Framework.png)
-
-We believe that
+ 
 ##### Digital Citizenship promotes Cyber Wellness
 Good digital citizens maintain awareness of the dangerous aspects of using social technology and advocate good behaviours to protect themselves and others online.
 
@@ -20,7 +19,7 @@ Good digital citizens know that the online environment offers many ways to acces
 
 Good digital citizens are willing to debate and revise our understanding of the impact of digital technology and seek to positively promote thoughtful and empathetic intentions to advance humanity’s interests.
 
-#### Digital Citizenship Programmes
+### Digital Citizenship Programmes
 
 The Digital Citizenship Committee oversees the various programmes and carries them out with the Digital Citizenship Leadership Board (DCB) and Digital Citizenship Representatives (DCRs) from each class.
 
