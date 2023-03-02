@@ -40,24 +40,23 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 
 ##### At School Of Science & Technology, Singapore, the following Sexuality Education lessons will be taught in 2023:
+![](/images/Sex-Edn%20S1%20Pg1.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-121745-sec-1a.jpg)
+![](/images/Sex-Edn%20S1%20Pg2.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-122020-sec-1b.jpg)
+![](/images/Sex-Edn%20S2%20Pg1.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-133515-sec-2aa.jpg)
+![](/images/Sex-Edn%20S2%20Pg2.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-133607-Sec-2bb.jpg)
+![](/images/Sex-Edn%20S3%20Pg1.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-133647-Sec-3aa.jpg)
+![](/images/Sex-Edn%20S3%20Pg2.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-133727-Sec-3bb.jpg)
+![](/images/Sex-Edn%20S4%20Pg1.jpeg)
 
-![](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-152520-Sec-4a-1.jpg)
+![](/images/Sex-Edn%20S4%20Pg2.jpeg)
 
-![Annotation 2023 02 01 152607 Sec4b](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-152607-Sec4b.jpg)
-
-![Annotation 2023 02 01 152648 Sec 4c](https://www.sst.edu.sg/wp-content/uploads/2023/02/Annotation-2023-02-01-152648-sec-4c.jpg)
+![](/images/Sex-Edn%20S4%20Pg3.jpeg)
 
 * * *
 ##### eTeens Programme
