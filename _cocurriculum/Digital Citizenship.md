@@ -14,6 +14,6 @@ Good digital citizens maintain awareness of the dangerous aspects of using socia
 *  ###### Digital Citizenship balances personal empowerment and community well-being
 Good digital citizens know that the online environment offers many ways to access information, create content, work collaboratively, and consume knowledge. Our ability to influence others in our community has increased multifold. Hence, we need to interact with online resources respectfully and ethically.
 
-* **Digital Citizenship requires ongoing community participation**
-Good digital citizens are willing to debate and revise our understanding of the impact of digital technology and seek to positively promote thoughtful and empathetic intentions to advance humanity’s interests.
+* **Digital Citizenship requires ongoing community participation** 
 
+Good digital citizens are willing to debate and revise our understanding of the impact of digital technology and seek to positively promote thoughtful and empathetic intentions to advance humanity’s interests.
