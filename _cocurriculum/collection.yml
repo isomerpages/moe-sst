@@ -2,7 +2,7 @@ collections:
   cocurriculum:
     output: true
     order:
-      - Active Citizenship Education.md
       - Student Development.md
       - National Education.md
+      - Active Citizenship Education.md
       - Sexuality Education.md
