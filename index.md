@@ -15,4 +15,12 @@ sections:
       description: Discover Our World of Innovation
       button: Link to details
       url: /faq/
+  - infopic:
+      title: 2023 Open House
+      subtitle: Infopic Subtitle
+      description: Discover Our World of Innovation
+      button: More Details HERE
+      url: www.sstopenhouse.com.sg
+      image: /images/23 Open House Banner.png
+      alt: Image alt text
 ---
