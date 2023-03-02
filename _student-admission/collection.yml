@@ -2,6 +2,7 @@ collections:
   student-admission:
     output: true
     order:
+      - Scholarship & Bursary/.keep
       - DSA Selection Criteria.md
       - S1 Admission.md
       - S3 Admission.md
