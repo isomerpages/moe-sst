@@ -28,3 +28,5 @@ The jDCB are Secondary 2 students who demonstrated the potential to contribute t
 ##### Digital Citizenship Representatives (DCRs)
     
 There are to be two to three DCRs from each class. These DCRs are not officially invested into the board, but they will be provided with training by or with the DCLs. DCRs who demonstrate commitment and leadership potential will be invited to apply for membership in the DCB when they are in secondary two. They will take charge of digital citizenship-related matters in their classes and work with the board members on their digital citizenship projects.
+
+![](/images/(DC)%20DCB%20Photos.jpeg)
