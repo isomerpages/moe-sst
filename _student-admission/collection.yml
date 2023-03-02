@@ -2,7 +2,7 @@ collections:
   student-admission:
     output: true
     order:
-      - Scholarship & Bursary/Example Title.md
+      - Scholarship & Bursary/Bursary.md
       - Scholarship & Bursary/Scholarship.md
       - Scholarship & Bursary/.keep
       - DSA Selection Criteria.md
