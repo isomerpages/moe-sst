@@ -38,3 +38,18 @@ third_nav_title: School Exco Team
 ![](/images/H%20-%20Arfah%20Profile%20(Grey).svg)
 
 ![](/images/H%20-%20Camellia%20Profile%20(Grey).svg)
+
+![](/images/SH%20-%20Karen%20Ng%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Stanley%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Chuan%20Leong%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Keith%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Ming%20Yang%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Guohui%20Profile%20(Blue%20-%20R).svg)
+
+![](/images/SH%20-%20Mui%20Profile%20(Blue%20-%20R).svg)
+
