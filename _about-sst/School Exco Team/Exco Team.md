@@ -27,3 +27,6 @@ third_nav_title: School Exco Team
 
 ![](/images/H%20-%20Woon%20Foong%20Profile%20(Grey).svg)
 
+![](/images/H%20-%20Lam%20Hin%20Chew%20Profile%20(Grey).svg)
+
+![](/images/H%20-%20Camellia%20Profile%20(Grey).svg)
