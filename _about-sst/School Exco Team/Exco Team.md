@@ -17,6 +17,8 @@ third_nav_title: School Exco Team
 
 ![](/images/H%20-%20Irfan%20Profile%20(Grey).svg)
 
+![](/images/H%20-%20Aurelius%20Profile%20(Grey).svg)
+
 ![](/images/H%20-%20Siu%20Yin%20Profile%20(Grey).svg)
 
 ![](/images/H%20-%20Alvin%20Profile%20(Grey).svg)
@@ -29,4 +31,9 @@ third_nav_title: School Exco Team
 
 ![](/images/H%20-%20Lam%20Hin%20Chew%20Profile%20(Grey).svg)
 
+![](/images/H%20-%20Kwai%20Yin%20Profile%20(Grey).svg)
+
+![](/images/H%20-%20Wee%20Peng%20Profile%20(Grey).svg)
+
 ![](/images/H%20-%20Camellia%20Profile%20(Grey).svg)
+
