@@ -35,5 +35,6 @@ third_nav_title: School Exco Team
 
 ![](/images/H%20-%20Wee%20Peng%20Profile%20(Grey).svg)
 
-![](/images/H%20-%20Camellia%20Profile%20(Grey).svg)
+![](/images/H%20-%20Arfah%20Profile%20(Grey).svg)
 
+![](/images/H%20-%20Camellia%20Profile%20(Grey).svg)
