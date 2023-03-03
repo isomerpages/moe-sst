@@ -52,4 +52,3 @@ third_nav_title: School Exco Team
 ![](/images/SH%20-%20Guohui%20Profile%20(Blue%20-%20R).svg)
 
 ![](/images/SH%20-%20Mui%20Profile%20(Blue%20-%20R).svg)
-
