@@ -23,4 +23,7 @@ third_nav_title: School Exco Team
 
 ![](/images/H%20-%20John%20Tan%20Profile%20(Grey).svg)
 
+![](/images/H%20-%20Wee%20Chuen%20Profile%20(Grey).svg)
+
 ![](/images/H%20-%20Woon%20Foong%20Profile%20(Grey).svg)
+
