@@ -39,4 +39,3 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 *   International Space Challenge
 *   Satellite Design Competition 
 *   Astronomy Field Trips**
-
