@@ -75,5 +75,3 @@ Mr Teo, our basketball coach, giving instructions to the B Division Girls.**
 
 **![](https://lh5.googleusercontent.com/0ysXA5jaB5jb3bL3W4fWMiOmYRyVHyFeT5LFA7QOp_TH0q2_obEkCxbvuhnaKmVnHjX7lNEuRNHbgnfHWX4rrpPTxGOo-xboGn9yKn7OoCuthVQjjO2Z--q-7SWoADrcJJ8D7dkMNKn_j94dyZv2ReM)**
 2022 Farewell Party for Secondary 4 seniors
-
-
