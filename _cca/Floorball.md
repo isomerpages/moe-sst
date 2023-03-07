@@ -40,4 +40,3 @@ Through the sport, our boys also have another platform to hone their 21st-centur
 *   ActiveSG - SFA Plate and Bowl (Both B and C Divisions)
     
 #### Achievements/ Milestones
-
