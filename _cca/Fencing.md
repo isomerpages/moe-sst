@@ -36,7 +36,4 @@ All in all, we hope that you have gained a better understanding of what fencing 
 * National School Games (NSG) 
 * Singapore Minime
 
-
-### Achievements/ Milestones
-
-
+#### Achievements/ Milestones
