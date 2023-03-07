@@ -40,4 +40,3 @@ Through progressive training, friendly matches, CCA Day Camp and reflections, th
 *   CCA Day Camp
     
 #### Achievements/ Milestones
-
