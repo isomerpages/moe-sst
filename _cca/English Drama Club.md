@@ -3,7 +3,6 @@ title: English Drama Club
 permalink: /cca/drama-club/
 description: ""
 ---
-
 ### English Language Drama Club
 
 #### Vision
@@ -48,4 +47,3 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 *   Best Actress - 2nd Runner-up
 2021
 *   SYF Drama Distinction, Taming of the Shrew
-    
