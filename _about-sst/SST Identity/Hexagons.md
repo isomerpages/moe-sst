@@ -4,8 +4,7 @@ permalink: /about-sst/SST-Identity/hexagons/
 description: ""
 third_nav_title: SST Identity
 ---
-![](/images/SST-Colour-Hexagon-small-99774.png)
-
+![](/images/SST_colour_hexagon.jpg)
 The hexagon cluster, known as ‘The Hexagons’, is used as supporting brand elements in SST.
 
 Hexagons can be widely found in the natural world of science, for example, in the honeycomb cells of beehives, shells of turtles and even in snowflakes – it is one of nature’s most stable engineered forms. The hexagon is nature’s way of optimising the use of resources to achieve efficiency and maximal result. It represents the application of theory of science in the practical world of technology.
