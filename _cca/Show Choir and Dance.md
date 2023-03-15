@@ -4,8 +4,6 @@ permalink: /cca/show-choir-dance/
 description: ""
 ---
 
-### Show Choir and Dance
-
 #### Vision
 A community of dedicated individuals who embody the spirit of creative excellence.
 
@@ -89,28 +87,3 @@ The commitment to produce passionate and excellent performers not only broadens 
      *   Best Props and Sets Award
     
      *   Diamond Award (Vocals: Duet)
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-
-
-
-
