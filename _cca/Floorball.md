@@ -3,7 +3,6 @@ title: Floorball
 permalink: /cca/floorball/
 description: ""
 ---
-### Floorball
 
 #### Vision
 Floorballers who develop core values and strong performance character through sportsmanship, leadership and commitment to the CCA. 
