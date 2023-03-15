@@ -3,7 +3,7 @@ title: Fencing
 permalink: /cca/fencing/
 description: ""
 ---
-### Fencing
+
 #### Vision 
 Achieving excellence in fencing and becoming an inspiring sportsman. 
 
