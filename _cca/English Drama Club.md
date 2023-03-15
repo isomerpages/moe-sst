@@ -3,7 +3,6 @@ title: English Drama Club
 permalink: /cca/drama-club/
 description: ""
 ---
-### English Language Drama Club
 
 #### Vision
 To be a dynamic drama club that dares to be in the spotlight!
