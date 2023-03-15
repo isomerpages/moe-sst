@@ -50,9 +50,40 @@ LEGO FLL
 Singapore VEX Competition
 
 #### Achievements/ Milestones
-**2022**
-* Award List
-**2021**
-* Award List
-**2020**
-* Award List
+##### 2022
+* Robot Run, Influencer Award 3rd Place, Distinction 
+*   IDE Robotics (Secondary) Champion
+*   IDE Sprint (Secondary) 4th Place 
+*   IDE Robotics (Secondary) 8th Place 
+*   IDE Robotics (Secondary) 7th Place
+*   IDE Robotics (Secondary 4th Place 
+*   IDE Robotics (Secondary) 9th Place 
+*   Champions Award (Secondary) 3rd Place 
+*   Robot Performance Award (Secondary) 3rd Place**
+
+#### 2021
+* Presentation, RoboCup Junior Rescue Line (U19) Merit 
+*   Technical Challenge, RoboCup Junior Rescue Line (U19) 2nd Place 
+*   Presentation, RoboCup Junior Rescue (U19) Merit 
+*   Presentation, RoboCup Junior Rescue (U19) Distinction
+*   Presentation, RoboCup Junior Rescue (U19) Distinction 
+*   Technical Challenge, RCAP CoSpace Autonomous Driving (U19) 3rd Place 
+*   Presentation, RCAP CoSpace Autonomous Driving (U19) Distinction
+*   RCAP CoSpace Autonomous Driving (U19) 1st Place 
+*   IDE Robotics 2nd Runner-up 
+*   WRO Future Engineers Category Champions
+*   WRO Future Engineers Category 1st Runner-up 
+*   WRO Future Engineers Category 2nd Runner-up
+*   WRO Regular Category Judges Award 
+*   WRO Open Category Judges Award 
+*   Robot Performance Award (Secondary) 4th Place 
+*   Champions Award (Secondary) 3rd Place**
+
+##### 2020
+*   RCAP CoSpace Rescue Challenge (U19) Finalist 
+*   RCAP CoSpace Rescue Challenge (U19) Finalist 
+*   Research Award Champions 
+*   Innovative Solutions Award 1st Runner-up
+    
+
+ 
