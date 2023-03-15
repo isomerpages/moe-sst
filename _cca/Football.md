@@ -3,7 +3,6 @@ title: Football
 permalink: /cca/football/
 description: ""
 ---
-### Football
 
 #### Vision
 A CCA dedicated to developing committed gentlemen who uphold sportsmanship and self-discipline through football.
@@ -42,5 +41,3 @@ On the field, our players are fierce competitors who play with respect and deter
 *   Participation
 ###### 2020
 *   Participation
-    
-
