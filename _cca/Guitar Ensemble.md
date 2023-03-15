@@ -3,7 +3,6 @@ title: Guitar Ensemble
 permalink: /cca/guitar-ensemble/
 description: ""
 ---
-### Guitar Ensemble
 
 #### Vision
 One Guitar, One Sound!
@@ -67,5 +66,3 @@ Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble mad
 *   2015 "Lyrics and Notes" Concert with St. Joseph's Institution
 *   2015 Singapore Raffles International Music Festival (SRIMF)
 *   2015 Singapore Youth Festival (SYF) - Silver Award - "Kiss the Rain" and "Brandenburg Concerto No. 2"
-    
-
