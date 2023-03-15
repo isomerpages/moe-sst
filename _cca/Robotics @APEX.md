@@ -84,6 +84,3 @@ Singapore VEX Competition
 *   RCAP CoSpace Rescue Challenge (U19) Finalist 
 *   Research Award Champions 
 *   Innovative Solutions Award 1st Runner-up
-    
-
- 
