@@ -3,7 +3,6 @@ title: Badminton
 permalink: /cca/badminton/
 description: ""
 ---
-### Badminton
 
 ##### **Vision**
 Ensure that athletes, no matter what their background, will have an opportunity to reach their potential in badminton.
