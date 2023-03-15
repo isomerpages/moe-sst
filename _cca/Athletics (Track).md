@@ -4,7 +4,6 @@ permalink: /cca/athletics/
 description: ""
 ---
 
-### Athletics (Track)
 
 #### Vision
 A community of athletes who are passionate and reflective in their pursuit for excellence in the sports.
