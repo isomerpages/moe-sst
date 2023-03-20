@@ -16,6 +16,6 @@ sections:
       description: Discover Our World of Innovation
       button: More Details HERE
       url: www.sstopenhouse.com.sg
-      image: /images/23 Open House Banner.png
+      image: /images/2023 OP Banner (Final).png
       alt: Image alt text
 ---
