@@ -11,3 +11,5 @@ The programme takes students through the various stages of a project, from conce
 The ChangeMakers Programme offers an integrated learning experience that equips students with essential skills and knowledge needed to succeed in today's innovation-driven economy. By teaching students how to think creatively and critically, design, and develop prototypes, the programme prepares them to face the challenges of the future with confidence. 
 
 The students engage in a collaborative effort to tackle real-world challenges using cardboard modelling and SSTduino, a customised Arduino board developed inhouse by our very own SST students. This culminates in the SST Innofest in secondary one and 3M-SST InnoScience Challenge in secondary two, where the students showcase their innovation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UD6j_JCcyu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
