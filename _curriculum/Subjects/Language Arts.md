@@ -17,5 +17,3 @@ SStudents get to create and represent meaning using a variety of semiotic modes 
 
 ###### Student Congress 
 The annual Student Congress aims to inculcate the attitude of advocacy for a better world.  SStudents examine local and global issues, explore the multiple perspectives of the issues and advocate for causes through presentations,  debates, and speakers in a panel discussion.
-
-**
