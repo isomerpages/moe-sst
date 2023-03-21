@@ -4,9 +4,8 @@ permalink: /applied-subjects/electronics/
 description: ""
 third_nav_title: Applied Subjects
 ---
+The Electronics module introduces students to the study of electronics engineering through the application of scientific knowledge of electricity and electronics and to solve authentic engineering problems using the engineering design process.
+ 
+These authentic engineering experiences encourage students to be innovative, take calculated risks and persevere to reach a workable solution. The process provides opportunities for students to think critically, evaluate information and communicate effectively.
 
-# Electronics
-
-The Electronics course aims to equip students with a sound understanding of basic electronics and provides ample opportunities for students to hone their creative and problem solving skills. Topics include fundamentals of physics and electricity, types of resistors, voltage and current sources, Network Theorem and analysis, capacitors, light-emitting semiconductors, sensors, output devices, bipolar junction transistors and project management.
-
-Students will experience learning through the practical application of electronics to the design of authentic gadgets and products. Examples include the building of a transistor organ, rain detector, sound-activated ballet dancer, universal electronic timer, heat sensor, line-follower robot, and two-way electronic intercom system.
+Students will apply their knowledge of the science of electricity and electronic components to design and build electronic systems that can solve daily problems. The students will also develop testing and troubleshooting skills. Through these learning experiences, the subject should provide a broad-based foundation for further studies in electronics engineering and related field. 
