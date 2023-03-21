@@ -6,7 +6,7 @@ third_nav_title: Subjects
 ---
 ![](/images/Curriculum/IP%20-%20El%20Collate.png)
 
-SST's English Language curriculum emphasises applied learning, with a focus on innovative teaching methods and a commitment to fostering advocacy for a better world. Our approach to language education focuses on building a strong foundation in linguistic and communicative competencies. At SST, we provide a myriad of opportunities for students to showcase their knowledge and skills through authentic experiences, create and represent meaning using various modes of representation, and use language as a vehicle of thought and expression to improve society.   
+SST's Language Art curriculum emphasises applied learning, with a focus on innovative teaching methods and a commitment to fostering advocacy for a better world. Our approach to language education focuses on building a strong foundation in linguistic and communicative competencies. At SST, we provide a myriad of opportunities for students to showcase their knowledge and skills through authentic experiences, create and represent meaning using various modes of representation, and use language as a vehicle of thought and expression to improve society.   
 
   
 
