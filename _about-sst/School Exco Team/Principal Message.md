@@ -4,8 +4,6 @@ permalink: /about-sst/Exco-Team/p-message/
 description: ""
 third_nav_title: School Exco Team
 ---
-![](/images/Exco%20Photo/Nick-Chan.jpeg)
-
 **Welcome to the School of Science and Technology, Singapore (SST)!**
 ##### SST, an institution where we create our exciting story together.
 
@@ -37,3 +35,5 @@ Stay Curious and Dare to Dream!  
 
 **– Mr Nick Chan –**  
 _Principal, School of Science and Technology_
+
+![](/images/P%20Message.svg)
