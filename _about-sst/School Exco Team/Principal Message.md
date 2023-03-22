@@ -37,5 +37,3 @@ Stay Curious and Dare to Dream!  
 
 **– Mr Nick Chan –**  
 _Principal, School of Science and Technology_
-
-![](/images/test%20of%20p%20message.png)
