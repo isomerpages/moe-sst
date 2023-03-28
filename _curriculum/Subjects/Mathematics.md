@@ -21,3 +21,5 @@ The integration of Computational Thinking and Mathematical Mindset in the SST Ma
 
 Students who showcase aptitude and mathematical rigour are also given support to develop their mathematical competencies through project showcases and competition opportunities through the SST Math Talent Development Programme (TDP).
 
+![](/images/Curriculum/Maths%2001.png)
+*Unlocking the power of teamwork:  Collaborative problem solving elevates learning in the class.*
