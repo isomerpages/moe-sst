@@ -8,10 +8,39 @@ Language is a communication tool that can be applied in various aspects of life.
 
 The Mother Tongue Languages (MTLs) department aims to nurture every student to become a “Global Connecting Architect”, effective in the use of a second language to think, plan, create and communicate so that they can confidently venture beyond our shores to connect with other cultures, and to frame discourse from foreign perspectives.
 
-##### Chinese Language / 华文
+#### Chinese Language / 华文
 Students are groomed into active learners and effective communicators of Chinese language. They will be able to connect both local and global communities through relevant and creative approaches. 
 
 Here, students create multimedia artefacts ranging from microfilms, animations, documentaries and digital posters in the Chinese language. Authentic learning takes place as they research on societal issues and apply skills learnt in their curriculum through these hands-on tasks.
 
+##### Applied Learning in Action
 
 Through collaborative projects, students research on different topics of interest. Communication skill is one of the key learning objectives they will hone as they participate actively in discussions and field research.
+
+Students assumed different roles in producing their final work. This process allows them to understand societal issues from different perspectives as they work on the project. Deep and insightful understanding of language skills and current issues takes place when opportunities for application are present.
+
+##### Author-In-Residence Programme
+SST participates annually in the Author-in-Residence Programme organised by Singapore Association of Writers, and Committee to Promote Chinese Language Learning. In 2019, selected secondary two students attended the programme conducted by Associate Professor Chua Chee Lay. Prof Chua is a local writer, poet, academic, author and editor of several books including Keeping My Mandarin Alive: Lee Kuan Yew’s Language Learning Experience.
+
+Throughout the programme, the students enjoyed learning the skills of writing poems, short stories and novels. They reflected that the lessons were thought-provoking and requested to have more sessions and opportunities to listen to Chinese stories. 
+
+#### Malay Language / Bahasa Melayu
+At SST, our students learn as active participants in an ICT-enhanced learning environment. They create various digital artefacts, such as microfilms, documentaries, animations and advertisements. These activities allow students to express their opinions, persuade intended audiences or disseminate information. The learning is authentic in the way that it mirrors actual tasks in the real world. 
+
+
+Students embark on learning journeys, which make the Malay language learning more interesting and meaningful. They also learn about the Malay culture in an interactive way through hands-on workshops and public engagement.
+
+##### Honing Critical Thinking Skills & Creativity
+
+Language is a tool for transmission of thoughts, emotions and values. It is also a vehicle for imagination and creativity. Students get creative to bring across the message of Cyber Wellness through dramatisation in their Performance Task.
+
+Producing a microfilm enables students to showcase their ability in comprehending a given theme and expressing their ideas creatively. It is a platform for students to integrate their learning and skills, as well as an opportunity to collaborate with their peers.
+
+##### Learning Beyond the Classroom
+Learning is not just limited to the classroom. Students are presented with an array of interesting activities that provide them with the opportunities to learn and appreciate the Malay language and culture in a conducive environment. These include kompang, silat and traditional kite making workshops. Learning journeys are also conducted to give students a rich and fun learning experience beyond the classroom. 
+
+##### Malay Language Month Showcase
+
+SST students participate actively in community events such as the Malay Language Month, as it is an opportunity for them to use the language with members of the public in an authentic setting. Titled Bingkisan Nelayan (The Fisherman’s Gift), the students showcased their project on the fishing tools used by traditional Malay fishermen last year. They also shared about how the intimate knowledge of the sea and fishes are reflected in Malay philosophy and idioms. The students were commended for their efforts and received positive feedback from the public.
+
+#### Tamil Language / தமிழ் மொழி
