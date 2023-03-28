@@ -27,6 +27,7 @@ Through collaborative projects, students research on different topics of interes
 Students assumed different roles in producing their final work. This process allows them to understand societal issues from different perspectives as they work on the project. Deep and insightful understanding of language skills and current issues takes place when opportunities for application are present.
 
 ##### Author-In-Residence Programme
+![](/images/Curriculum/MTL%20AIR01.jpg)
 SST participates annually in the Author-in-Residence Programme organised by Singapore Association of Writers, and Committee to Promote Chinese Language Learning. In 2019, selected secondary two students attended the programme conducted by Associate Professor Chua Chee Lay. Prof Chua is a local writer, poet, academic, author and editor of several books including Keeping My Mandarin Alive: Lee Kuan Yew’s Language Learning Experience.
 
 Throughout the programme, the students enjoyed learning the skills of writing poems, short stories and novels. They reflected that the lessons were thought-provoking and requested to have more sessions and opportunities to listen to Chinese stories. 
