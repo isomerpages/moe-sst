@@ -54,7 +54,13 @@ Learning is not just limited to the classroom. Students are presented with an ar
 
 ##### Malay Language Month Showcase
 
-
 SST students participate actively in community events such as the Malay Language Month, as it is an opportunity for them to use the language with members of the public in an authentic setting. Titled Bingkisan Nelayan (The Fisherman’s Gift), the students showcased their project on the fishing tools used by traditional Malay fishermen last year. They also shared about how the intimate knowledge of the sea and fishes are reflected in Malay philosophy and idioms. The students were commended for their efforts and received positive feedback from the public.
 
 #### Tamil Language / தமிழ் மொழி
+
+![](/images/Curriculum/MTL%20TL%2001.png)
+
+During the MTL Fortnight, there were many different types of class activities for each level of students. The Secondary One students went to the Indian Heritage Centre, where they learnt the past about the Indian culture, how it has impacted Singapore and how it has changed over the years. They also went to a local Indian restaurant to taste different types of Indian food, from Dosai to Vadai.
+
+Students also wrote speeches about a topic and presented in front of their class. These were part of the class activities that helped them improved their oratorical skills. Other activities, such as dramas, were also done in class to further improve their speech skills. The students were divided into two groups with the same script. They had to assign themselves to different roles and memorise their script in order to act it out.
+
