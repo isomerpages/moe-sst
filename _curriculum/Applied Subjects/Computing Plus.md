@@ -10,6 +10,4 @@ The Computing+ course in SST equips students with computational thinking techniq
 
 Students who learn Computing can apply the thinking skills across the curriculum and begin to see a relationship between subjects as well as real-life applications beyond the classroom. Students also develop skills to handle and process data in computer systems, as well as understand the need to be ethical when dealing with data.
 
-Students from SST are further challenged through the introduction of additional (+) modules, which deepen their understanding and exposure to current technological trends.
-
-This provides students with a  strong foundation to take their learning in Computing+ to the next stage in the field of Informatics.
+Students from SST are further challenged through the introduction of additional (+) modules, which deepen their understanding and exposure to current technological trends. This provides students with a  strong foundation to take their learning in Computing+ to the next stage in the field of Informatics.
