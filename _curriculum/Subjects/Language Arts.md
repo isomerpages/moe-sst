@@ -18,13 +18,6 @@ SStudents get to create and represent meaning using a variety of semiotic modes 
   During HBL days, SStudents are given the opportunity to be exposed to trends in society as well as how language is used in the various industries by inviting industry experts to share. Some experts include journalists, editors, social media influencers, a HR professional, and a social worker.
 
 ##### Student Congress 
-The annual Student Congress aims to inculcate the attitude of advocacy for a better world.  SStudents examine local and global issues, explore the multiple perspectives of the issues and advocate for causes through presentations,  debates, and s
-
-peakers in a panel discussion.
+The annual Student Congress aims to inculcate the attitude of advocacy for a better world.  SStudents examine local and global issues, explore the multiple perspectives of the issues and advocate for causes through presentations,  debates, and speakers in a panel discussion.
 
 ![](/images/Artefact%20(LA).png)
-
-
-![](/images/Curriculum/IP%20-%20EL%2004.png) *Creation of a poster by Sec 1 students advocating on social isolation among the elderly.*
-
-![](/images/Curriculum/IP%20-%20EL%2002.png) *Infographics created by Secondary 3 students to advocate for children with mental disabilities*
