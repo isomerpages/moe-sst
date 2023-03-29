@@ -12,7 +12,7 @@ sections:
       title: School of Science and Technology, Singapore
       key_highlights:
         - title: Open House 2023
-          description: join us to find out
+          description: Our World of Innovation
           url: sst.edu.sg
         - title: Affilated Links
           description: Discover student initiatives
