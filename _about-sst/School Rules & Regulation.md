@@ -3,7 +3,7 @@ title: School Rules & Regulation
 permalink: /about-us/school-rules-regulation/
 description: ""
 ---
-### SST Students’ Code of Conduct
+
 
 As a globally connected institution and forerunner in 1 to 1 learning in Singapore, SST envisions to be A Global Leader in Transforming Learning. The SST school goals are achieved through the school programming with the SST 10Cs as the enablers to enable students to succeed as individuals and become a contributing member of society. 
 
