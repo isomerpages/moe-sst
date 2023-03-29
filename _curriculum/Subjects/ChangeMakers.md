@@ -4,7 +4,7 @@ permalink: /academic-subjects/changemakers/
 description: ""
 third_nav_title: Subjects
 ---
-![](/images/Curriculum/CM%20Collate.jpg)
+![](/images/Curriculum/IP%20-%20CM.jpeg)
 
 The ChangeMakers Programme for Lower Secondary students is designed to foster an changemaker mindset and innovative attitudes and attributes. The programme combines principles, knowledge, and skills from Art, Design, Media and Technology, Innovation and Entrepreneurship, and Information and Communication Technology subjects. Students are taught to apply the SST ChangeMakers process as an essential part of the innovation process to enhance people's lives.
 
