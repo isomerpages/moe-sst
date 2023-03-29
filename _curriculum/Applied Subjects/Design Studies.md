@@ -4,7 +4,7 @@ permalink: /applied-subjects/design-studies/
 description: ""
 third_nav_title: Applied Subjects
 ---
-![](/images/Curriculum/AS%20-%20DS%20Cover%20Page.jpg)
+![](/images/Curriculum/IP%20-%20DS%20Cover.jpg)
 
 The Design Studies Applied Subject delves deeper into the subject matter, introduces the process of design thinking and general design processes, as well as the three design disciplines of visual communication design (VCD), interior and exhibition space design (IESD), and architectural design (AD). 
 
