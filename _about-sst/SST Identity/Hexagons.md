@@ -4,7 +4,7 @@ permalink: /about-sst/SST-Identity/hexagons/
 description: ""
 third_nav_title: SST Identity
 ---
-![](/images/Hexagon.png)
+![](/images/Hexagon.jpeg)
 
 The hexagon cluster, known as ‘The Hexagons’, is used as supporting brand elements in SST.
 
