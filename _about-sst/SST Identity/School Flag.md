@@ -4,7 +4,7 @@ permalink: /about-sst/SST-Identity/school-flag/
 description: ""
 third_nav_title: SST Identity
 ---
-![](/images/SST%20Flag%20Resize.png)
+![](/images/SST%20Flag%20Resize.jpeg)
 
 The designing of the school flag started as a post-exam activity run by the Student Development Department back in 2011.
 
