@@ -12,5 +12,5 @@ Through authentic and practical performance tasks, the Design Studies Applied Su
 
 In addition, students will develop creative and innovative mindsets, critical thinking and analytical skills through design activities; and acquire the ability to critique design works and generate creative design solutions. Students will also develop competencies in visual and oral expression and communication, as well as digital design techniques for presenting design concepts more aesthetically and effectively. The performance tasks also aim to sharpen the students’ skill sets in project and time management, heighten their confidence and seed in them a sense of efficacy and purpose when working on their designs to resolve the given briefs.
 
-#### Photo Gallery
+#### Student Activity Collage
 ![](/images/Curriculum/DS%20Collate.jpg)
