@@ -5,6 +5,7 @@ description: ""
 ---
 #### SST Alumni Association
 ![](/images/alumni%20cover.jpg)
+
 We stay connected with our fellow alumni and are proud to say that they have contributed to the SST community in many ways. They are indeed an inspiration to their juniors across various batches. The school is honoured to celebrate their achievements and provide support for their goals.
 
 #### Get Involved
