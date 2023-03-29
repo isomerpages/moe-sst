@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Subjects
 ---
 ![](/images/Curriculum/IP%20-%20Math%20Cover.png)
+
 “I didn’t know I could learn and enjoy Mathematics too!” is a phrase we often hear in the SST Mathematics classroom. The Mathematics Department aims to develop the 10 competencies and the 3 DNAs (Applied Learning, Integrated Learning and Innovation) of SST as we leverage technology in engaging our students.
 
 Real-world scenarios are presented as performance tasks for students to apply their problem-solving skills. Some examples of authentic integrated learning experiences include:
