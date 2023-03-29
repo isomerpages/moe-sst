@@ -4,7 +4,7 @@ permalink: /applied-subjects/electronics/
 description: ""
 third_nav_title: Applied Subjects
 ---
-![](/images/Curriculum/IP%20-%20Electronics%20Cover.jpg)
+![](/images/Curriculum/IP%20-%20Electronics%20Cover.jpeg)
 
 The Electronics module introduces students to the study of electronics engineering through the application of scientific knowledge of electricity and electronics, and to solve authentic engineering problems using the engineering design process.
  
