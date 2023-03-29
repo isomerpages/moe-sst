@@ -17,7 +17,7 @@ sections:
         - title: Affilated Links
           description: Discover student initiatives
           url: https://www.sstinc.org/
-      url: sst.edu.sg
+      url: https://staging.d197prea913inm.amplifyapp.com/student-admission/s1-admission/
       button: Direct School Admission 2023
   - infopic:
       title: 2023 Open House
