@@ -23,8 +23,6 @@ What is Integrated Learning in SST?
 
 
 ##### Innovation
-*placeholder*
+At SST, innovation is encouraged through various programmess and initiatives like SST-3M InnoScience Challenge and SST ChangeMakers InnoFest that aim to foster creativity, critical thinking, and problem-solving skills amongst students. Students are encouraged to take on real-world challenges, work collaboratively, and apply their knowledge and skills to develop innovative solutions that can make a positive impact on society.
 
-At SST, innovation is encouraged through various programmess and initiatives like 3M-SST InnoScience Challenge and Innofest that aim to foster creativity, critical thinking, and problem-solving skills among students. Students are encouraged to take on real-world challenges, work collaboratively, and apply their knowledge and skills to develop innovative solutions that can make a positive impact on society.
-
-Overall, innovation is seen as a key driver of progress and development, and SST is committed to equipping its students with the skills and mindset necessary to become passionate innovators and change-makers in their future careers.
+Overall, innovation is seen as a key driver of progress and development, and SST is committed to equipping its students with the skills and mindset necessary to become passionate innovators and changemakers in their future careers.
