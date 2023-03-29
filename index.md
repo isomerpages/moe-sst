@@ -14,6 +14,9 @@ sections:
         - title: Open House 2023
           description: join us to find out
           url: sst.edu.sg
+        - title: erewrew
+          description: ssfsn
+          url: sst.edu.sg
       url: sst.edu.sg
       button: Direct School Admission 2023
   - infopic:
