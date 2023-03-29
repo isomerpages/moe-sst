@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/ACE%20Food%20Drive.jpg)
 
-The Active Citizenship Education (ACE) curriculum plays a pivotal role in fostering SSTudents to become global and local active citizens who contribute to the betterment of the community through,
+The Active Citizenship Education (ACE) curriculum plays a pivotal role in fostering SSTudents to become local and global active citizens who contribute to the betterment of the community through,
 
 *   advocating positive social action and serving the community with purpose and enthusiasm;   
     
