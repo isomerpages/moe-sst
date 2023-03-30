@@ -23,3 +23,6 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 
 ![](/images/Partnership/HGMICS%20PBV%20Competition.jpg)
 *Students presenting their solution at the Purpose Built Vehicle (HBV) Competition*
+
+![](/images/Partnership/Workshop%20by%20NP%20LifeScience%20&%20Chemical%20Technology.jpeg)
+*Biotechnology students attending the workshop by NP Life Science & Chemical Technology*
