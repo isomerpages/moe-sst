@@ -6,6 +6,8 @@ third_nav_title: School Exco Team
 ---
 ![](/images/Exco%20Photo/Exco%20Profile%20(1).svg)
 
+![](/images/Exco%20Photo/Divider%20-%20SL.svg)
+
 ![](/images/Exco%20Photo/SL%20-%20Nick%20Chan%20Profile%20(Blue).svg)
 
 ![](/images/Exco%20Photo/SL%20-%20Guan%20Kiat%20Profile%20(Blue).svg)
