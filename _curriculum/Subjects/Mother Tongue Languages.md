@@ -46,7 +46,7 @@ Producing a microfilm enables students to showcase their ability in comprehendin
 
 ##### Learning Beyond the Classroom
 
-![](/images/Curriculum/MTL%20-%20Showcase%2001.png)
+![](/images/Curriculum/Photo%20for%20learning%20beyond%20classroom.jpeg)
 Learning is not just limited to the classroom. Students are presented with an array of interesting activities that provide them with the opportunities to learn and appreciate the Malay language and culture in a conducive environment. These include kompang, silat and traditional kite making workshops. Learning journeys are also conducted to give students a rich and fun learning experience beyond the classroom. 
 
 
