@@ -4,7 +4,7 @@ permalink: /about-us/school-exco-team/exco-team/
 description: ""
 third_nav_title: School Exco Team
 ---
-![](/images/Exco%20Photo/Exco%20Group%20Photo.png)
+![](/images/Exco%20Photo/Exco%20Profile.svg)
 
 ![](/images/Exco%20Photo/SL%20-%20Nick%20Chan%20Profile%20(Blue).svg)
 
