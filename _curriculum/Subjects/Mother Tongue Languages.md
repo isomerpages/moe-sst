@@ -47,11 +47,12 @@ Producing a microfilm enables students to showcase their ability in comprehendin
 ##### Learning Beyond the Classroom
 
 ![](/images/Curriculum/Photo%20for%20learning%20beyond%20classroom.jpeg)
+
 Learning is not just limited to the classroom. Students are presented with an array of interesting activities that provide them with the opportunities to learn and appreciate the Malay language and culture in a conducive environment. These include kompang, silat and traditional kite making workshops. Learning journeys are also conducted to give students a rich and fun learning experience beyond the classroom. 
 
 
 ##### Malay Language Month Showcase
-
+![](/images/Curriculum/Photo%20for%20Malay%20Language%20Month.jpeg)
 SST students participate actively in community events such as the Malay Language Month, as it is an opportunity for them to use the language with members of the public in an authentic setting. Titled Bingkisan Nelayan (The Fisherman’s Gift), the students showcased their project in 2019 on the fishing tools used by traditional Malay fishermen. They also shared how the intimate knowledge of the sea and fishes are reflected in Malay philosophy and idioms. The students were commended for their efforts and received positive feedback from the public.
 
 #### Tamil Language / தமிழ் மொழி
