@@ -52,7 +52,7 @@ Learning is not just limited to the classroom. Students are presented with an ar
 
 ##### Malay Language Month Showcase
 
-SST students participate actively in community events such as the Malay Language Month, as it is an opportunity for them to use the language with members of the public in an authentic setting. Titled Bingkisan Nelayan (The Fisherman’s Gift), the students showcased their project on the fishing tools used by traditional Malay fishermen last year. They also shared about how the intimate knowledge of the sea and fishes are reflected in Malay philosophy and idioms. The students were commended for their efforts and received positive feedback from the public.
+SST students participate actively in community events such as the Malay Language Month, as it is an opportunity for them to use the language with members of the public in an authentic setting. Titled Bingkisan Nelayan (The Fisherman’s Gift), the students showcased their project in 2019 on the fishing tools used by traditional Malay fishermen. They also shared how the intimate knowledge of the sea and fishes are reflected in Malay philosophy and idioms. The students were commended for their efforts and received positive feedback from the public.
 
 #### Tamil Language / தமிழ் மொழி
 
