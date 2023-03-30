@@ -18,3 +18,6 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 
 ![](/images/Partnership/SUTD-NP-SST%20Big%20D%20Camp.jpeg)
 *Secondary 3 students at the SUTD-NP-SST Big D Camp*
+
+![](/images/Partnership/S2%20Learning%20Journey%20-%20St%20John's%20&%20Lazarus%20Islands.jpeg) *Secondary 2  students travel to St John's Island and Lazarus Island*
+
