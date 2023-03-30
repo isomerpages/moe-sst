@@ -16,6 +16,7 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 *SST is an Apple Distinguished School - a centre of leadership and educational excellence that demonstrate Apple’s vision for learning with technology*
 
 
+![](/images/Partnership/SUTD-NP-SST%20Big%20D%20Camp.jpeg)
+*Secondary 3 students at the SUTD-NP-SST Big D Camp *
+
 ##### Learning Journeys
-
-
