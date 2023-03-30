@@ -14,15 +14,16 @@ third_nav_title: School Exco Team
 
 ![](/images/Exco%20Photo/SL%20-%20Vincent%20Tan%20Profile%20(Blue).svg)
 
-***
-
+![](/images/Exco%20Photo/Divider%20-%20Deans.svg)
 
 ![](/images/Exco%20Photo/D%20-%20Priscilla%20Profile%20(Red).svg)
 
 ![](/images/Exco%20Photo/D%20-%20Bee%20Sun%20Profile%20(Red).svg)
 
 ![](/images/Exco%20Photo/D%20-%20Doreen%20Profile%20(Red).svg)
-***
+
+![](/images/Exco%20Photo/Divider%20-%20HoDs.svg)
+
 ![](/images/Exco%20Photo/H%20-%20Irfan%20Profile%20(Grey).svg)
 
 ![](/images/Exco%20Photo/H%20-%20Aurelius%20Profile%20(Grey).svg)
@@ -47,7 +48,8 @@ third_nav_title: School Exco Team
 
 ![](/images/Exco%20Photo/H%20-%20Camellia%20Profile%20(Grey).svg)
 
-***
+![](/images/Exco%20Photo/Divider%20-%20SH.svg)
+
 ![](/images/Exco%20Photo/SH%20-%20Karen%20Ng%20Profile%20(Blue%20-%20R).svg)
 
 ![](/images/Exco%20Photo/SH%20-%20Stanley%20Profile%20(Blue%20-%20R).svg)
