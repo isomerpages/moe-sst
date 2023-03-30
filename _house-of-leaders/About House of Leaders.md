@@ -31,7 +31,8 @@ The Digital Citizenship was added to the boards in 2023, bringing the total numb
 Under the auspices of the House of Leaders, we aim to nurture and our students discover the leader within. Student leadership development programmes are designed based on the Levels of Service by Donald J. Treffinger.
 
 
+![](/images/House%20of%20Leaders/house%20of%20leader%2002.png)
+*Treffinger, Young, Nassab, & Wittig (2004)*
 
 
 Through these planned experiential programmes facilitated by mentors (teachers and seniors), student leaders have the opportunities to apply leadership knowledge, skills and understanding in leading self, peers and the community.
-
