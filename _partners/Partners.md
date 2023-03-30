@@ -21,3 +21,5 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 
 ![](/images/Partnership/S2%20Learning%20Journey%20-%20St%20John's%20&%20Lazarus%20Islands.jpeg) *Secondary 2  students travel to St John's Island and Lazarus Island*
 
+![](/images/Partnership/HGMICS%20PBV%20Competition.jpg)
+*Students presenting their solution at the Purpose Built Vehicle (HBV) Competition*
