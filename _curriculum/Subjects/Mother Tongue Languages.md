@@ -21,7 +21,6 @@ Here, students create multimedia artefacts ranging from microfilms, animations, 
 
 ##### Applied Learning in Action
 
-![](/images/Curriculum/MTL%20-%20AL%2002.png)
 Through collaborative projects, students research on different topics of interest. Communication skill is one of the key learning objectives they will hone as they participate actively in discussions and field research.
 
 Students assumed different roles in producing their final work. This process allows them to understand societal issues from different perspectives as they work on the project. Deep and insightful understanding of language skills and current issues takes place when opportunities for application are present.
