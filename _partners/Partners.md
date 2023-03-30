@@ -5,12 +5,17 @@ description: ""
 ---
 ![](/images/Partnership%20Framework.png)
 
-##### SST 'Flywheel' Partnership Framework
+#### SST 'Flywheel' Partnership Framework
 SST’s curriculum is guided by the Applied Learning approach to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff. 
 
 Recognising the positive impact of the SST partnerships strategy, the revised SST OP ‘Flywheel’ Framework aims to reflect the value of partnerships in enriching the learning experiences of students and staff, strengthening the brand of SST and attracting STEAM talents to SST. It also highlights how slight incremental improvement in their quality builds on each other over time and eventually gains enough momentum that it becomes self-sustaining.
 
-##### Enriching Learning Experience for Students
+#### Enriching Learning Experience for Students
+
+![](/images/Partnership/ADS%20Photo.jpeg)
+*SST is an Apple Distinguished School - a centre of leadership and educational excellence that demonstrate Apple’s vision for learning with technology*
 
 
-![](/images/Partnership%20Cover.jpg)
+##### Learning Journeys
+
+
