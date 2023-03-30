@@ -12,7 +12,7 @@ The Mother Tongue Languages (MTLs) department aims to nurture every student to b
 
 The annual MTL Fortnight provide an immersive environment for students to learn and appreciate MTL. A wide range of activities are conducted for students; they include a Chinese seal carving and fan painting workshop, Malay arts appreciation and Tamil traditional games. They also go on learning journeys to learn about their own culture and heritage. 
 
-![](/images/Curriculum/MTL%20-%2001.png)
+![](/images/Curriculum/MTL%20-%20Carving.jpeg)
 
 #### Chinese Language / 华文
 Students are groomed into active learners and effective communicators of Chinese language. They will be able to connect both local and global communities through relevant and creative approaches. 
