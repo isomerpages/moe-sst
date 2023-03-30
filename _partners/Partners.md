@@ -17,6 +17,4 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 
 
 ![](/images/Partnership/SUTD-NP-SST%20Big%20D%20Camp.jpeg)
-*Secondary 3 students at the SUTD-NP-SST Big D Camp *
-
-##### Learning Journeys
+*Secondary 3 students at the SUTD-NP-SST Big D Camp*
