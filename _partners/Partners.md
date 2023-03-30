@@ -26,3 +26,6 @@ Recognising the positive impact of the SST partnerships strategy, the revised SS
 
 ![](/images/Partnership/Workshop%20by%20NP%20LifeScience%20&%20Chemical%20Technology.jpeg)
 *Biotechnology students attending the workshop organised by Ngee Ann Polytechnic, Life Science & Chemical Technology*
+
+![](/images/Partnership/InnoScience%202.jpeg)
+*Secondary 2 students presenting their idea to 3M Country Director, Jannik Termansen at 3M-SST InnoScience Challenge.*
