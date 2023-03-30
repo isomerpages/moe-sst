@@ -4,7 +4,6 @@ permalink: /partners/partners/
 description: ""
 ---
 ![](/images/Partnership%20Framework.png)
-
 #### SST 'Flywheel' Partnership Framework
 SST’s curriculum is guided by the Applied Learning approach to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff. 
 
