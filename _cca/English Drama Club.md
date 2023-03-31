@@ -4,6 +4,7 @@ permalink: /cca/drama-club/
 description: ""
 ---
 
+
 #### Vision
 To be a dynamic drama club that dares to be in the spotlight!
 
@@ -46,3 +47,10 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 *   Best Actress - 2nd Runner-up
 2021
 *   SYF Drama Distinction, Taming of the Shrew
+
+
+![](/images/CCA/drama%2001.png)
+
+![](/images/CCA/drama%2002.jpg)
+![](/images/CCA/drama%2003.png)
+![](/images/CCA/drama%2004.jpg)
