@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
-      subtitle: Shaping the future innovators, The SST Way.
+      subtitle: Shaping passionate innovators, The SST Way.
       title: School of Science and Technology, Singapore
       key_highlights:
         - title: Open House 2023
