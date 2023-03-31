@@ -44,4 +44,3 @@ Besides providing athletes with physical training, they are also taught to hone 
 
 ![](/images/CCA/athletics%2001.jpg)
 *Students doing their warm-up around the school field before training to prevent injuries during training sessions.*
-
