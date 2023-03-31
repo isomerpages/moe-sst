@@ -67,3 +67,12 @@ Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble mad
 *   2015 "Lyrics and Notes" Concert with St. Joseph's Institution
 *   2015 Singapore Raffles International Music Festival (SRIMF)
 *   2015 Singapore Youth Festival (SYF) - Silver Award - "Kiss the Rain" and "Brandenburg Concerto No. 2"
+
+![](/images/CCA/guitar%2001.jpg)
+*Behold – The SST Guitar Ensemble!*
+
+![](/images/CCA/guitar%2002.jpg)
+*Final practice before the 2021 Singapore Youth Festival*
+
+![](/images/CCA/guitar%2004.jpg)
+*Bedazzling the audience at the 2019 Singapore Raffles Institution Music Festival*
