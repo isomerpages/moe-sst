@@ -3,14 +3,8 @@ title: Partners
 permalink: /partners/partners/
 description: ""
 ---
-![](/images/Partnership%20Framework.png)
-#### SST 'Flywheel' Partnership Framework
-SST’s curriculum is guided by the Applied Learning approach to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff. 
-
-Recognising the positive impact of the SST partnerships strategy, the revised SST OP ‘Flywheel’ Framework aims to reflect the value of partnerships in enriching the learning experiences of students and staff, strengthening the brand of SST and attracting STEAM talents to SST. It also highlights how slight incremental improvement in their quality builds on each other over time and eventually gains enough momentum that it becomes self-sustaining.
-
 #### Enriching Learning Experience for Students
-At SST, provision is made for students to be academically, professionally and globally competitive in the fields of science and technology. Through our partnerships with premier tertiary institutions such as Singapore University of Technology and Design, Ngee Ann Polytechnic, 3M and Apple, we have availed various learning opportunities to all our students.
+SST’s curriculum is guided by the Applied Learning approach to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff.  Through our partnerships with premier tertiary institutions such as Singapore University of Technology and Design, Ngee Ann Polytechnic, 3M and Apple, we have availed various learning opportunities to all our students.
 
 We also have partner schools and organisations in our overseas networks that provide additional learning experiences for our students.
 
