@@ -36,8 +36,13 @@ Through the sport, our boys also have another platform to hone their 21st-centur
 
 #### Key Competitions/ Programme
 *   SSSC National Floorball Championships (Both B and C Divisions)
-*   ActiveSG - SFA Plate and Bowl (Both B and C Divisions)
+*  ActiveSG - SFA Plate and Bowl (Both B and C Divisions)
     
 ![](/images/CCA/floorball%2002.png)
+*2022 C Division Boys NSG Competition Team*
 
 ![](/images/CCA/floorball%2003.png)
+*Discussing strategies during a match*
+
+![](/images/CCA/floorball%2004.png)
+*Friendly match with another school*
