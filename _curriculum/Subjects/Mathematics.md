@@ -4,7 +4,7 @@ permalink: /academic-subjects/mathematics/
 description: ""
 third_nav_title: Subjects
 ---
-![](/images/Curriculum/IP%20-%20Math%20Cover.png)
+![](/images/Curriculum/IP%20-%20Math%20Cover.jpeg)
 
 “I didn’t know I could learn and enjoy Mathematics too!” is a phrase we often hear in the SST Mathematics classroom. The Mathematics Department aims to develop the 10 competencies and the 3 DNAs (Applied Learning, Integrated Learning and Innovation) of SST as we leverage technology in engaging our students.
 
