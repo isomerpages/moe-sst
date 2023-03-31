@@ -3,19 +3,20 @@ title: Football
 permalink: /cca/football/
 description: ""
 ---
+![](/images/CCA/football%20cca%203.jpg)
 
-#### Vision
+##### Vision
 A CCA dedicated to developing committed gentlemen who uphold sportsmanship and self-discipline through football.
 
-#### Mission
+##### Mission
 To nurture football players who apply sportsmanship by being gentlemanly in all their endeavours.
 
-#### Goals
+##### Goals
 *   To develop gentlemen who are committed team players;
 *   critical thinking sportsmen; and
 *   self-disciplined lifelong learners.
     
-#### Values
+##### Values
 *   Commitment
 *   Teamwork
 *   Discipline
@@ -26,18 +27,11 @@ Our experienced coaches not only train our players to develop their skills on th
 
 On the field, our players are fierce competitors who play with respect and determination. They give their all, striving for victory while treating their opponents with the utmost respect. Our Football CCA is designed to help our young players grow, excel, and become future leaders in society.
 
-#### Training 
+##### Training 
 *   Wednesdays (3.30pm to 5.30pm)
 *   Fridays (3.30pm to 5.30pm)
     
-#### Key Competitions/ Programme
+##### Key Competitions/ Programme
 *   National School Games (Football B Division)
 *   National School Games (Football C Division)
     
-#### Achievements/ Milestones
-###### 2022
-*   Participation
-###### 2021
-*   Participation
-###### 2020
-*   Participation
