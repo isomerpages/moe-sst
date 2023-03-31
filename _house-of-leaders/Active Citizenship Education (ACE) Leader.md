@@ -3,6 +3,8 @@ title: Active Citizenship Education (ACE) Leader
 permalink: /house-of-leaders/ace/
 description: ""
 ---
+![](/images/House%20of%20Leaders/ace%20leaders.jpg)
+
 The Active Citizenship Education (ACE) curriculum plays a pivotal role in fostering SSTudents to become global and local active citizens who contribute to the betterment of the community through,
 
 *   advocating positive social action and serving the community with purpose and enthusiasm;   
