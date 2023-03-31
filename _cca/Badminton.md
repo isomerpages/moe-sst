@@ -3,18 +3,18 @@ title: Badminton
 permalink: /cca/badminton/
 description: ""
 ---
-
-##### **Vision**
+![](/images/CCA/sst%20badminton%20(b%20div)%205.jpeg)
+##### Vision
 Ensure that athletes, no matter what their background, will have an opportunity to reach their potential in badminton.
 
-##### **Mission**
+##### Mission
 To nurture passionate athletes who persevere in improving their skills in the badminton sport and are open-minded, committed and grounded in sportsmanship. 
-#### **Goals**
+##### Goals
 *   Collaborative and independent athletes;
 *   dynamic leaders with strong moral and performance character, and sportsmanship; and
 *   confident, open-minded and disciplined athletes who will thrive in a competitive world.
    
-#### Values
+##### Values
 *   Sportsmanship 
 *   Passion
 *   Perseverance
@@ -38,4 +38,3 @@ Through progressive training, friendly matches, CCA Day Camp and reflections, th
 *   National School Games West Zone Badminton Championships
 *   CCA Day Camp
     
-#### Achievements/ Milestones
