@@ -10,6 +10,8 @@ The uniform distinguishes the SST students who should wear it with pride and loy
 Modification of the school uniform is not allowed and is to be worn as prescribed.
 
 ![](/images/school%20attire.png)
+![](/images/school%20attire%2002.png)
+![](/images/school%20attire%2003.png)
 
 
 
