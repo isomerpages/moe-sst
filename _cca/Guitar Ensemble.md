@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /cca/guitar-ensemble/
 description: ""
 ---
+![](/images/CCA/guitar%20cover.jpeg)
 
 #### Vision
 One Guitar, One Sound!
