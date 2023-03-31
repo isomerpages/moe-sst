@@ -37,4 +37,12 @@ Through progressive training, friendly matches, CCA Day Camp and reflections, th
 #### Key Competitions/ Programme
 *   National School Games West Zone Badminton Championships
 *   CCA Day Camp
-    
+
+![](/images/CCA/badmintion%20-%20debrief%20from%20the%20coach.JPG)
+*Debrief from the coach after the National School Games West Zone Badminton Championships Competition.*
+
+![](/images/CCA/badmintion%20-%20team%20building%20activities.JPG)
+*One of numerous team building activities during CCA Day Camp*
+
+![](/images/CCA/badmintion%20-%20tour.jpg)
+*A tour to the Singapore Sports Institute’s facilities on National Biomechanics Day*
