@@ -16,12 +16,4 @@ sections:
           url: https://sites.google.com/sst.edu.sg/ 2023-sst-open-house
       url: https://staging.d197prea913inm.amplifyapp.com/student-admission/s1-admission/
       button: Direct School Admission 2023
-  - infopic:
-      title: 2023 Open House
-      subtitle: Event
-      description: Discover Our World of Innovation
-      button: More Details HERE
-      url: https://sites.google.com/sst.edu.sg/ 2023-sst-open-house
-      image: /images/2023 op banner final.png
-      alt: Image alt text
 ---
