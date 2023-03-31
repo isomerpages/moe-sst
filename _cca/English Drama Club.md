@@ -3,6 +3,7 @@ title: English Drama Club
 permalink: /cca/drama-club/
 description: ""
 ---
+![](/images/CCA/drama%2002.jpg)
 #### Vision
 To be a dynamic drama club that dares to be in the spotlight!
 
