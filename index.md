@@ -24,7 +24,7 @@ sections:
       subtitle: Event
       description: Discover Our World of Innovation
       button: More Details HERE
-      url: www.sstopenhouse.com.sg
+      url: https://sites.google.com/sst.edu.sg/ 2023-sst-open-house
       image: /images/2023 OP Banner (Final).png
       alt: Image alt text
 ---
