@@ -14,6 +14,19 @@ Modification of the school uniform is not allowed and is to be worn as prescribe
 ![](/images/school%20attire%2003.png)
 
 
+##### 2. SCHOOL ATTENDANCE POLICY
+**2.1 Attendance **
+
+2.1.1 General reporting
+Students are to be in the venues of morning assembly by 8.40 a.m. on Mondays and Thursdays; and 7.40 a.m. on Tuesdays, Wednesdays and Fridays to observe the National Symbols.
+
+  
+
+Students are expected to be punctual and present physically at the stipulated time and venue for all classes, CCA sessions, examinations and all other school-organised activities. Wilful absenteeism is a serious offence.
+
+  
+
+2.1.2 Students who have a substantiated reason for being late for school or any school-related activities must produce, without prompting, the official documents to his/her form teacher, subject teacher, CCA teacher or discipline mistress/master. (A letter from parents/guardians for tardiness is not considered an official document. The school will make a decision on whether the reason provided is approved.)**
 
 
 
