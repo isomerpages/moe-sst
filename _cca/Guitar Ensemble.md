@@ -5,29 +5,29 @@ description: ""
 ---
 ![](/images/CCA/guitar%20cover.jpeg)
 
-#### Vision
+##### Vision
 One Guitar, One Sound!
 
-#### Mission
+##### Mission
 A place where leaders are groomed, friendships are forged, passions are developed and a vibrant generation of guitarists is nurtured.
 
-#### Goals
+##### Goals
 *   Nurturing guitarists into active, passionate lifelong learners of music;
 *   who contribute to society through the production of performances with great excellence; and
 *   being active and excellent student leaders with strong moral and performance character.
     
-#### Values
+##### Values
 *   Friendship
 *   Passion for music
 *   Excellence
   
 Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble made up of a close-knitted community of young passionate musicians. Under the guidance of established guitar conductors, we work towards excellence and continue to be exposed to a wide variety of song genres, from classical to jazz and modern music.
 
-#### Training 
+##### Training 
 *   Wednesdays (3.00pm to 5.00pm)
 *   Fridays (2.30pm to 5.30pm)
     
-#### Key Competitions/ Programme
+##### Key Competitions/ Programme
 *   Singapore Youth Festival (SYF) 
 *   Singapore Raffles Institution Music Festival (SRIMF)
 *   Vienna Virtuoso Festival
@@ -37,7 +37,7 @@ Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble mad
 *   Staff Appreciation Week Concert
 *   SST School Open House
     
-#### Achievements/ Milestones
+##### Achievements/ Milestones
 2022
 *   2022 Staff Appreciation Week Concert - "Can't Take My Eyes Off You"
 *   2022 Vienna Virtuoso Festival - Second Place Award (Chamber Music Group B Category) - "Beauty and the Beast"
