@@ -3,8 +3,6 @@ title: English Drama Club
 permalink: /cca/drama-club/
 description: ""
 ---
-
-
 #### Vision
 To be a dynamic drama club that dares to be in the spotlight!
 
@@ -49,8 +47,11 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 *   SYF Drama Distinction, Taming of the Shrew
 
 
-![](/images/CCA/drama%2001.png)
+![](/images/CCA/drama%2001.png) 
+*The English Language Drama Club booth at CCA Fair 2023.*
 
-![](/images/CCA/drama%2002.jpg)
 ![](/images/CCA/drama%2003.png)
+*\[L-R\] Lim Wei Qing (S4-06), Chan Yusheng Darwin (S4-04) and Mirunalene Devanand (S4-03) performing ‘live’ via Zoom for NLB’s #TellStory Competition 2022.*
+
 ![](/images/CCA/drama%2004.jpg)
+*Alumni return to help out at CCA Fair 2023.*
