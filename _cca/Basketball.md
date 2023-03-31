@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/basketball/
 description: ""
 ---
+![](/images/CCA/bball%2003.png)
 
 #### Vision
 Nurture student athletes with an unwavering commitment to excellence, sportsmanship, and teamwork, so that they fulfill their full potential both on and off the court.
