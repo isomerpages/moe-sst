@@ -11,7 +11,7 @@ The 10Cs categorised into 3 areas.
 * Personal Effectiveness and 
 * Inter-Personal Effectiveness.
 
-![](/images/sst%2010%20cs.png)
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;">Intellectual Disposition</td><td style="box-sizing: inherit; padding: 5px 10px;"><b style="box-sizing: inherit; font-weight: bold;">C</b>ritical Thinking, Intellectual<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>uriosity,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>reative Thinking</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;">Personal Effectiveness (Affective)</td><td style="box-sizing: inherit; padding: 5px 10px;"><b style="box-sizing: inherit; font-weight: bold;">C</b>ourage,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>ommitment,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>onfidence</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;">Inter-Personal Effectiveness (Social)</td><td style="box-sizing: inherit; padding: 5px 10px;"><b style="box-sizing: inherit; font-weight: bold;">C</b>ommunication,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>ollaboration,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>ross-Cultural Understanding,<span>&nbsp;</span><b style="box-sizing: inherit; font-weight: bold;">C</b>itizenship</td></tr></tbody></table>
 
 Students should carry the SST identity with pride and are expected to uphold the good name of the school. They are responsible for conducting themselves in a manner that promotes a healthy and conducive environment for work and play in school. 
 
@@ -29,26 +29,26 @@ SST students will:
 * Treat all with courtesy and use appropriate language to communicate on all platforms. 
 * Respect and care for the environment by keeping it clean and conducive for learning.
 
-**Responsibility:** SST Students will be responsible for their own actions.
+**Responsibility:**&nbsp;SST Students will be responsible for their own actions.
 
 SST students will:
 
 *   Take responsibility for their own learning.
-*   Put in their best effort to contribute positively to their classroom, school and the environment.  
+*   Put in their best effort to contribute positively to their classroom, school and the environment.&nbsp;&nbsp;
 *   Be responsible for their own conduct in and out of school.
 
-**Relationships:** SST Students will be active builders of positive relationships.
+**Relationships:**&nbsp;SST Students will be active builders of positive relationships.
 
 SST students will:
 
 *   Interact with others in a manner that builds and maintains positive relationships.
 *   Manage themselves and be sensitive to others’ mental and social- emotional well-being in their interactions.
 
-**Reflection:** SST Students will be reflective learners. 
+**Reflection:**&nbsp;SST Students will be reflective learners.&nbsp;
 
 SST students will:
 
-*   Think before they act. 
+*   Think before they act.&nbsp;
 *   Be mindful of their actions and behaviour and the impact on themselves,others and the community.
 *   Strengthen their performance and moral character by reflecting on their decisions and actions.
 
