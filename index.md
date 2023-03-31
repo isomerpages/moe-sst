@@ -16,7 +16,7 @@ sections:
       title: 2023 SST Open House
       subtitle: Event
       button: Click on the link below to find out more.
-      url: https://sites.google.com/sst.edu.sg/ 2023-sst-open-house
+      url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/open-house-programmes
       image: /images/2023 op banner final.png
       alt: Image alt text
 ---
