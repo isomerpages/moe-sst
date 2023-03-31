@@ -3,8 +3,7 @@ title: Athletics (Track)
 permalink: /cca/athletics/
 description: ""
 ---
-
-
+![](/images/CCA/cca_athletics%20cover.jpeg)
 #### Vision
 A community of athletes who are passionate and reflective in their pursuit for excellence in the sports.
 
@@ -35,4 +34,14 @@ Besides providing athletes with physical training, they are also taught to hone 
 *   National School Games 
 *   National Cross Country
     
-#### Achievements/ Milestones
+
+
+![](/images/CCA/athletics%2002.jpg)
+*Drills are an integral part of the athletes’ training, as it builds the fundamental strength and conditioning for the sport.*
+
+![](/images/CCA/athletics%2003.jpg)
+*Students doing their warm-up around the school field before training to prevent injuries during training sessions.*
+
+![](/images/CCA/athletics%2001.jpg)
+*Students doing their warm-up around the school field before training to prevent injuries during training sessions.*
+
