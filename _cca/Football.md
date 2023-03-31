@@ -36,7 +36,10 @@ On the field, our players are fierce competitors who play with respect and deter
 *   National School Games (Football C Division)
 
 ![](/images/CCA/football%20cca%201.jpg)
+*Our football players pressing, intercepting and tackling our opponents tirelessly.*
+
+![](/images/CCA/football%20cca%204.jpg)
+*Our football coach conducting a motivating team talk at half-time to seal our team’s victory.*
 
 ![](/images/CCA/football%20cca%202.jpg)
-
-![](/images/CCA/football%20cca%202.jpg)
+*Our football captains conducting an intense tactical session to improve their gameplay.*
