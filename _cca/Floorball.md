@@ -3,7 +3,7 @@ title: Floorball
 permalink: /cca/floorball/
 description: ""
 ---
-
+![](/images/CCA/floorball%2001.png)
 #### Vision
 Floorballers who develop core values and strong performance character through sportsmanship, leadership and commitment to the CCA. 
 
@@ -38,4 +38,6 @@ Through the sport, our boys also have another platform to hone their 21st-centur
 *   SSSC National Floorball Championships (Both B and C Divisions)
 *   ActiveSG - SFA Plate and Bowl (Both B and C Divisions)
     
-#### Achievements/ Milestones
+![](/images/CCA/floorball%2002.png)
+
+![](/images/CCA/floorball%2003.png)
