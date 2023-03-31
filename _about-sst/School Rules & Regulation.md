@@ -10,4 +10,4 @@ SST works to build a positive culture and healthy relationships in the school. C
 You may refer to the document for our school rules & regulations.
 [SST School Rules and Regulations V.Jan 2023](/files/About%20SST/r&r%20v%20jan%202023.pdf)
 
-_(Content updated as of 20 January 2022)_
+_(Content updated as of January 2023)_
