@@ -11,15 +11,7 @@ The 10Cs categorised into 3 areas.
 * Personal Effectiveness and 
 * Inter-Personal Effectiveness.
 
-
-
-| Intellectual Disposition | Personal Effectiveness | Interpersonal Effectiveness |
-| -------- | -------- | -------- |
-| **C**ritical Thinking |**C**ourage| **C**ommunication|
-Intellectual **C**uriosity | **C**ommitment| **C**ollaboration |
-**C**reative Thinking | **C**onfidence     | **C**ross-Cultural Understanding| 
-|  |  | **C**itizenship |
-
+![](/images/sst%2010%20cs.png)
 
 Students should carry the SST identity with pride and are expected to uphold the good name of the school. They are responsible for conducting themselves in a manner that promotes a healthy and conducive environment for work and play in school. 
 
