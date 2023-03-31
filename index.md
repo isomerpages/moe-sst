@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: Our World of Innovation
-          url: sst.edu.sg
+          url: https://sites.google.com/sst.edu.sg/ 2023-sst-open-house
         - title: Affilated Links
           description: Discover student initiatives
           url: https://www.sstinc.org/
