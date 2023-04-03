@@ -15,7 +15,7 @@ description: ""
 | Purpose | Email Address | 
 | -------- | -------- | 
 | General Enquiries & Feedback       | contactus@sst.edu.sg  |
-|Student Admission  | admission@ssts.edu.sg  | Career | hrd@sst.edu.sg|
+|Student Admission  | admission@ssts.edu.sg  | -------- | -------- | Career | hrd@sst.edu.sg|
 
 
 
