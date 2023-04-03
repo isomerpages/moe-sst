@@ -18,8 +18,7 @@ T: (+65) 6571 7200
 ![](/images/school%20map.png)
 ##### Address:
 1 Technology Drive  
-Singapore 138572
-[View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A)
+Singapore 138572 ([View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A))
 
 ##### School General Office Opening Hours:
 * 7:00 a.m. – 5:30 p.m. (Monday – Thursday)  
