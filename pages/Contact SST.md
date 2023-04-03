@@ -39,4 +39,3 @@ Saturday
 
 *   During drop-off, parents are urged to stop as near towards Block D as possible so as not to hold up traffic behind.
 *   For parents’ own safety and that of their children, parents are reminded to drive towards Block D after dropping off their children before doing a U-turn, instead of doing a 3-point turn at the parking lot areas as this may again hold back traffic and increase the possibility of an accident.
-
