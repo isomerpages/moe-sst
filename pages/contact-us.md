@@ -17,12 +17,12 @@ locations:
 contacts:
   - content:
       - phone: +65 6571 7200
-      - email: enquiries@abc.gov.sg
+      - email: contactus@sst.edu.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: hrd@sst.edu.sg
       - other: ""
     title: Careers
   - content:
