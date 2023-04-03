@@ -3,10 +3,6 @@ title: Contact SST
 permalink: /contact-sst/
 description: ""
 ---
-#### School Map
-![](/images/school%20map.png)
-
-
 #### Contact Details
 | Purpose | Email Address | 
 | -------- | -------- | 
@@ -25,7 +21,7 @@ T: (+65) 6571 7200
 Singapore 138572
 
 [View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A)
-
+![](/images/school%20map.png)
 ##### School General Office Opening Hours:
 * 7:00 a.m. – 5:30 p.m. (Monday – Thursday)  
 * 7:00 a.m. – 5:00 p.m. (Friday)  
