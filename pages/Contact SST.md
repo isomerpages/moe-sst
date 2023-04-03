@@ -9,6 +9,17 @@ description: ""
 | General Enquiries & Feedback     |  6571 7200  | contactus@sst.edu.sg       |
 | Career | - | hrd@sst.edu.sg |
 | Student Admission     |  6571 7200  |  admission@ssts.edu.sg     |
+
+
+
+| Purpose | Email Address | 
+| -------- | -------- | 
+| General Enquiries & Feedback       | contactus@sst.edu.sg  |
+|Student Admission  | admission@ssts.edu.sg  | Career | hrd@sst.edu.sg|
+
+
+
+
 ##### Address:
 1 Technology Drive  
 Singapore 138572
