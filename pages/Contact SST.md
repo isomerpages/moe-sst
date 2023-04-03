@@ -11,6 +11,9 @@ description: ""
 Career | hrd@sst.edu.sg |
 
 
+T: (+65) 6571 7200
+
+F: (+65) 6872 0856
 
 
 ##### Address:
