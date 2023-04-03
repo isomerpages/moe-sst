@@ -33,14 +33,12 @@ Career | hrd@sst.edu.sg |
 T: (+65) 6571 7200
  
  F: (+65) 6872 0856
-
-
+*** 
+![](/images/school%20map.png)
 ##### Address:
 1 Technology Drive  
 Singapore 138572
-
 [View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A)
-![](/images/school%20map.png)
 
 ##### School General Office Opening Hours:
 * 7:00 a.m. – 5:30 p.m. (Monday – Thursday)  
