@@ -8,7 +8,7 @@ description: ""
 Telephone: (+65) 6571 7200 |       Fax: (+65) 6872 0856
 
 ##### Address:
-1 Technology Drive Singapore 138572 ([View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A))
+1 Technology Drive, Singapore 138572 ([View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A))
 
 ![](/images/school%20map.png)
 
