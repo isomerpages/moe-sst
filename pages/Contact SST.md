@@ -4,9 +4,28 @@ permalink: /contact-sst/
 description: ""
 ---
 #### Contact Details
+
+  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;Company  
+&nbsp;&nbsp;&nbsp;&nbsp;Contact  
+&nbsp;&nbsp;&nbsp;&nbsp;Country  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;Alfreds Futterkiste  
+&nbsp;&nbsp;&nbsp;&nbsp;Maria Anders  
+&nbsp;&nbsp;&nbsp;&nbsp;Germany  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;Centro comercial Moctezuma  
+&nbsp;&nbsp;&nbsp;&nbsp;Francisco Chang  
+&nbsp;&nbsp;&nbsp;&nbsp;Mexico  
+&nbsp;&nbsp;  
+
+
 | Purpose | Email Address | 
 | -------- | -------- | 
-| General Enquiries & Feedback| contactus@sst.edu.sg |
+| General Enquiries &amp; Feedback| contactus@sst.edu.sg |
 |Student Admission  | admission@ssts.edu.sg  |
 Career | hrd@sst.edu.sg |
 
@@ -22,10 +41,11 @@ Singapore 138572
 
 [View Map](https://goo.gl/maps/W6TH3bcHUhWw7FV5A)
 ![](/images/school%20map.png)
+
 ##### School General Office Opening Hours:
 * 7:00 a.m. – 5:30 p.m. (Monday – Thursday)  
 * 7:00 a.m. – 5:00 p.m. (Friday)  
-* Closed (Weekends & Public Holidays)
+* Closed (Weekends &amp; Public Holidays)
 
 ##### School General Office Operating Hours During School Holidays (June and Nov/Dec):
 * 8:00 a.m. – 4:30 p.m. (Monday – Thursday)  
@@ -34,7 +54,7 @@ Singapore 138572
 **School Gate Opening Hours:**
 
 Monday to Friday
-*   Gate B, in front of Block A General Office, will be open to **pedestrians only** from 6:30 a.m to 6:30 p.m. For students taking public transport, please enter or exit via Gate B.
+*   Gate B, in front of Block A General Office, will be open to&nbsp;**pedestrians only**&nbsp;from 6:30 a.m to 6:30 p.m. For students taking public transport, please enter or exit via Gate B.
 
 *   Gate A, next to the linkway drop-off point, will be open to vehicles from 6.30 a.m to 7.00 p.m.
 
