@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: School of Science and Technology, Singapore
-description: An Isomer site of the Singapore Government
+description: Shaping passionate innovators, The SST Way.
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: ""
