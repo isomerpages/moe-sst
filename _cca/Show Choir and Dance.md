@@ -91,6 +91,7 @@ The commitment to produce passionate and excellent performers not only broadens 
 
 ![](/images/CCA/show%20choir%2003.jpg)
 *Bdazzled Music & Dance Festival - Rehearsal*
+
 ![](/images/CCA/show%20choir%2001.jpg)
 *Bdazzled Music & Dance Festival - Diamond Award (Show Choir)*
 
