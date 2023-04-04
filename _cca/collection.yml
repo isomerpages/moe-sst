@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Taekwondo.md
       - About CCAs.md
+      - Astronomy Club.md
       - Athletics (Track).md
       - Badminton.md
       - Basketball.md
@@ -12,9 +12,9 @@ collections:
       - Floorball.md
       - Football.md
       - Guitar Ensemble.md
-      - Show Choir and Dance.md
-      - Astronomy Club.md
       - Media Club.md
       - Robotics @APEX.md
-      - Singapore Youth Flying Club.md
       - Scout (Air).md
+      - Show Choir and Dance.md
+      - Singapore Youth Flying Club.md
+      - Taekwondo.md
