@@ -3,7 +3,7 @@ title: Fencing
 permalink: /cca/fencing/
 description: ""
 ---
-
+![](/images/CCA/fencing%20cover.jpg)
 #### Vision 
 Achieving excellence in fencing and becoming an inspiring sportsman. 
 
@@ -36,4 +36,8 @@ All in all, we hope that you have gained a better understanding of what fencing 
 * National School Games (NSG) 
 * Singapore Minime
 
-#### Achievements/ Milestones
+![](/images/CCA/fencing%2001.jpg)
+*Towards Victory!*
+
+![](/images/CCA/fencing%2002.jpg)
+*Fencers, ready to charge!*
