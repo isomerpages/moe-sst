@@ -30,8 +30,12 @@ The SST Badminton CCA was set up in 2010 and has evolved from a small group of s
 Through progressive training, friendly matches, CCA Day Camp and reflections, they have been able to hone resilience, perseverance, communication, and badminton skills and learn the importance of teamwork, cooperation and sportsmanship that will serve them well in their daily lives.    
 
 #### Training 
-*   Wednesdays (2.30pm to 6.00pm)
-*   Fridays (2.00pm to 5.00pm)
+*   Wednesdays 
+	*   2.30pm to 4.30pm (C Div)
+	*   4.00pm to 6.00pm (B Div)
+*   Fridays 
+	*   2.00pm to 6.00pm (C Div)
+	*   3.30pm to 5.30pm (B Div)
     
 
 #### Key Competitions/ Programme
