@@ -41,9 +41,17 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 *   Astronomy Field Trips
 
 ![](/images/CCA/astro%2001.png)
+*Astronomy Outreach Efforts 
+(Public)*
 
 ![](/images/CCA/astro%2002.jpeg)
+*Attending Talks by Scientists
+(Dr Steven Vance, NASA 
+Jet Propulsion Laboratory)*
 
 ![](/images/CCA/astro%2003.jpeg)
+*Learning Journeys to Observatories 
+(Tech Dome Penang)* 
 
 ![](/images/CCA/astro%2004.jpeg)
+*Participating in Astronomy Competitions (Poster & Quiz)*
