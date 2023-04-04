@@ -15,6 +15,7 @@ On 16 November 2022, our inaugural batch of the SST-NP IDP received their letter
 
 ![](/images/Curriculum/idp%2005.jpg)
 
+![](/images/Curriculum/idp%2002.jpg)
 
 
 On 27th February 2023, SMU Academy, the professional training arm of Singapore Management University (SMU), and the School of Science and Technology, Singapore (SST) signed a memorandum of understanding (MoU) to launch the SMU-SST Technopreneurship Programme. 
