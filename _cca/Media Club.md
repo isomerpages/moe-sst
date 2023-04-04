@@ -3,6 +3,7 @@ title: Media Club
 permalink: /cca/media-club/
 description: ""
 ---
+![](/images/CCA/media%20club%20cover.jpeg)
 ##### Vision
 Active learners who harness the use of multimedia to effectively convey stories, messages and information.
 
