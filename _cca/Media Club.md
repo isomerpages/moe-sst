@@ -3,7 +3,6 @@ title: Media Club
 permalink: /cca/media-club/
 description: ""
 ---
-
 ##### Vision
 Active learners who harness the use of multimedia to effectively convey stories, messages and information.
 
@@ -70,3 +69,9 @@ At the SST Media Club, members will be able to develop a range of practical skil
      *   The team “stress\_pop!” achieved the Commendation award for their video which was aimed at raising awareness on mental health issues   
             -    LIU SHYANG WAN IAN (S4-06)   
             -    NEO GAO EN (S4-07)
+
+
+![](/images/CCA/media%20club%2001.jpg)
+
+![](/images/CCA/media%20club%2002.jpg)
+
