@@ -96,4 +96,3 @@ The commitment to produce passionate and excellent performers not only broadens 
 
 ![](/images/CCA/show%20choir%2002.jpg)
 *Chinese Street Dance Competition  -  Champion (Dance Crew)*
-
