@@ -3,6 +3,8 @@ title: Taekwondo
 permalink: /cca/taekwondo/
 description: ""
 ---
+
+
 #### Vision
 A CCA which cultivates resilient and confident athletes. 
 
@@ -47,9 +49,13 @@ SST Taekwondo is committed to helping students develop their skills and characte
 
 
 ![](/images/CCA/tkd%2001.jpg)
+*Members undergoing physical training*
 
 ![](/images/CCA/tkd%2002.jpg)
+*Secondary One students trying out TKD*
 
 ![](/images/CCA/tkd%2003.jpg)
+*Promoting Taekwondo as a CCA during the CCA fair8
 
 ![](/images/CCA/tkd%2004.jpg)
+*A performance for Staff Appreciation Week (SAW)*
