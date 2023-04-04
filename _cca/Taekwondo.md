@@ -35,12 +35,12 @@ SST Taekwondo is committed to helping students develop their skills and characte
 * National School Games TKD (Kyorugi)
 
 #### Achievements/ Milestones
-2022
+##### 2022
 * C Division Boys Team Yellow: 2nd 
 * C Division Boys Individual Yellow: 3rd
 * B Division Boys Team Blue: 4th
 * B Division Girls Individual Blue 4: 2nd
 
-2021
+##### 2021
 * B Division Girls Team Blue 4: 2nd
 * B Division Boys Individual Black 2: 2nd
