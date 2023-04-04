@@ -3,6 +3,7 @@ title: Show Choir and Dance
 permalink: /cca/show-choir-dance/
 description: ""
 ---
+![](/images/CCA/show%20choir%20cover.jpeg)
 #### Vision
 A community of dedicated individuals who embody the spirit of creative excellence.
 
