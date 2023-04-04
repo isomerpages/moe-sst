@@ -3,6 +3,7 @@ title: Robotics @APEX
 permalink: /cca/robotics/
 description: ""
 ---
+![](/images/CCA/robotics%20cover.jpg)
 #### Vision
 
 To be a global leader in robotics and automation research
@@ -84,3 +85,7 @@ Singapore VEX Competition
 *   RCAP CoSpace Rescue Challenge (U19) Finalist 
 *   Research Award Champions 
 *   Innovative Solutions Award 1st Runner-up
+
+![](/images/CCA/robotics%2002.jpg)
+
+![](/images/CCA/robotics%2001.jpg)
