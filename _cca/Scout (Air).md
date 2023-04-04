@@ -3,6 +3,7 @@ title: Scout (Air)
 permalink: /cca/scout/
 description: ""
 ---
+![](/images/CCA/scout%20cover.jpeg)
 #### Vision
 
 A leading air scout unit in aviation and outdoor education programmes.
