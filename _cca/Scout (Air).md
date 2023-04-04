@@ -56,3 +56,13 @@ Using the Scout Method, every scout is empowered to be the principal agent of hi
 ##### 2015-2019
 
 *   Frank Cooper Sands Award (Bronze)
+
+
+![](/images/CCA/scout%2001.jpg)
+*Aviation training: Glider making session*
+
+![](/images/CCA/scout%2002.jpg)
+*Unit bonding: Cycling expedition*
+
+![](/images/CCA/scout%2005.png)
+*Enrichment activity: Air rifle shooting*
