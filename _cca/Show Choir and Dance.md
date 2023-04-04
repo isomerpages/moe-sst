@@ -3,7 +3,6 @@ title: Show Choir and Dance
 permalink: /cca/show-choir-dance/
 description: ""
 ---
-
 #### Vision
 A community of dedicated individuals who embody the spirit of creative excellence.
 
@@ -79,7 +78,6 @@ The commitment to produce passionate and excellent performers not only broadens 
    
 ##### 2018
 *   B-Dazzled Music & Dance Festival (Show Choir)
-    
      *   Diamond Award
     
      *   Best Costumes Award
@@ -87,3 +85,15 @@ The commitment to produce passionate and excellent performers not only broadens 
      *   Best Props and Sets Award
     
      *   Diamond Award (Vocals: Duet)
+
+![](/images/CCA/show%20choir%2004.jpg)
+*Dance Crew and their instructors*
+
+![](/images/CCA/show%20choir%2003.jpg)
+*Bdazzled Music & Dance Festival - Rehearsal*
+![](/images/CCA/show%20choir%2001.jpg)
+*Bdazzled Music & Dance Festival - Diamond Award (Show Choir)*
+
+![](/images/CCA/show%20choir%2002.jpg)
+*Chinese Street Dance Competition  -  Champion (Dance Crew)*
+
