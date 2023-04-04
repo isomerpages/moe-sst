@@ -40,11 +40,11 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 *   #Tellastory (NLB)
     
 #### Achievements/ Milestones
-2022
+##### 2022
 *   National Library Board (NLB) #TellStory7 Competition
 *   Best Live Performance
 *   Best Actress - 2nd Runner-up
-2021
+##### 2021
 *   SYF Drama Distinction, Taming of the Shrew
 
 
