@@ -73,9 +73,15 @@ At the SST Media Club, members will be able to develop a range of practical skil
 
 
 ![](/images/CCA/media%20club%2001.jpg)
+*Sharing by Media Club Alumni* 
 
 ![](/images/CCA/media%20club%2002.jpg)
+*Media Club EXCO Members at ‘A Day @ SST’*
 
 ![](/images/CCA/media%20club%2004.jpg)
+*Learning Journey to TheSmartLocal Office*
+
 
 ![](/images/CCA/media%20club%2003.jpg)
+*Secondary One Media Clubbers with their trainer*
+
