@@ -38,7 +38,7 @@ Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble mad
 *   SST School Open House
     
 #### Achievements/ Milestones
-2022
+##### 2022
 *   2022 Staff Appreciation Week Concert - "Can't Take My Eyes Off You"
 *   2022 Vienna Virtuoso Festival - Second Place Award (Chamber Music Group B Category) - "Beauty and the Beast"
 *   2022 Lunar New Year Concert - "Merry Go Round Of Life"
