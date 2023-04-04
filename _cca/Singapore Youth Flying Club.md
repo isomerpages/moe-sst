@@ -3,7 +3,6 @@ title: Singapore Youth Flying Club
 permalink: /cca/syfc/
 description: ""
 ---
-
 #### Vision
 A school-based entity that excels nationally in aeromodelling and aviation-related education and training.
 
@@ -151,17 +150,9 @@ In 2020 till early 2022, despite the presence of Covid-19, our CCA sessions cont
 *       ANJALI CURIC, S1-08
     
 *       SARAH FOO ZHI NING, S1-08
-    
 
+![](/images/CCA/syfc%20-%20internal%20fs%20competition.JPG)
+*Internal Flight Simulation Competition*
 
-
-
-
-
-
-
-
-
-
-
-    
+![](/images/CCA/syfc%202021%20safmc%20lg%20champion%20with%20goh.JPG)
+*2021 SAFMC LG Champion with the G.O.H.*
