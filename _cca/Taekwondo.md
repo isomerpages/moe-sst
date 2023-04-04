@@ -55,7 +55,7 @@ SST Taekwondo is committed to helping students develop their skills and characte
 *Secondary One students trying out TKD*
 
 ![](/images/CCA/tkd%2003.jpg)
-*Promoting Taekwondo as a CCA during the CCA fair8
+*Promoting Taekwondo as a CCA during the CCA fair*
 
 ![](/images/CCA/tkd%2004.jpg)
 *A performance for Staff Appreciation Week (SAW)*
