@@ -4,15 +4,15 @@ permalink: /cca/media-club/
 description: ""
 ---
 ![](/images/CCA/media%20club%20cover.jpeg)
-##### Vision
+#### Vision
 Active learners who harness the use of multimedia to effectively convey stories, messages and information.
 
-##### Mission
+#### Mission
 To equip every member to be competent in media elements, such as photography, videography and journalism.
 
 To serve the school through coverage and AV, photography and videography services.
 
-##### Goals
+#### Goals
 
 *   Each Media Club student becomes an effective communicator (through mediums such as photography, videography and journalism);
 *   \*assist the school in photography, videography and AV; and
@@ -20,7 +20,7 @@ To serve the school through coverage and AV, photography and videography service
 
 \*Each member serves at least 2 internal school events.
 
-##### Values
+#### Values
 
 *   Creativity 
 *   Collaboration
@@ -41,7 +41,7 @@ At the SST Media Club, members will be able to develop a range of practical skil
 	\[For students interested in The Immersive Media with Apple programme or Student-Interest Groups\]
 *   Fridays (2.30pm to 4.30pm)
     
-##### Key Competitions/ Programme
+#### Key Competitions/ Programme
 *   Media Skills Training by Experts in Photography, Videography and Animation. 
 *   SST Media Club-Scouts Basic Photography Training 
 *   Journalism Team for SSTraits Times Publication 
@@ -49,7 +49,7 @@ At the SST Media Club, members will be able to develop a range of practical skil
 *   Secondary 4 Graduation Project 
 *   Media Club Exhibition
     
-##### Achievements/ Milestones
+#### Achievements/ Milestones
 ##### 2022
 
 *   SYFgoesOnline! 2022 Showcase(Pixel Perfect) Shortlisted entry
@@ -84,4 +84,3 @@ At the SST Media Club, members will be able to develop a range of practical skil
 
 ![](/images/CCA/media%20club%2003.jpg)
 *Secondary One Media Clubbers with their trainer*
-
