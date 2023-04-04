@@ -15,7 +15,9 @@ colors:
       color: "#e70033"
     - title: media-color-five
       color: "#00838f"
-description: Shaping passionate innovators, The SST Way.
+description: |-
+  School of Science and Technology, Singapore
+  Shaping passionate innovators, The SST Way.
 permalink: none
 baseurl: ""
 exclude:
