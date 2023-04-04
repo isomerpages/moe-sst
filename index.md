@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: School of Science and Technology, Singapore
-description: Shaping passionate innovators, The SST Way.
+description: |-
+  School of Science and Technology, Singapore
+  Shaping passionate innovators, The SST Way.
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: ""
