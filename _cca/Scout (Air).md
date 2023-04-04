@@ -14,9 +14,9 @@ To nurture active scouts who learn by doing and benefit others through service.
 
 #### Goals
 
-*   Develop an outdoor education programme that focuses on the holistic development of scouts in the social, physical, intellectual, character, emotional and spiritual domains (SPICES); and
+*   To develop an outdoor education programme that focuses on the holistic development of scouts in the social, physical, intellectual, character, emotional and spiritual domains (SPICES); and
     
-*   nurture scouts through fun-filled and exciting scouting activities that will enable them to discover, learn and put into practice essential life skills.
+*  To nurture scouts through fun-filled and exciting scouting activities that will enable them to discover, learn and put into practice essential life skills.
     
 #### Values
 
