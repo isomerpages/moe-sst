@@ -14,6 +14,7 @@ To foster a culture of hard work, dedication, and sportsmanship, by providing ou
 *   make the school proud with our strong sense of sportsmanship, passion, and dedication to the sport;
 *   embody the best values of the school as model student-athletes; and
 *   be dynamic sportsmen with strong moral and performance character.
+
 #### Values
 *   Sportsmanship 
     
