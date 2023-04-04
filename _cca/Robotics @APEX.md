@@ -87,5 +87,10 @@ Singapore VEX Competition
 *   Innovative Solutions Award 1st Runner-up
 
 ![](/images/CCA/robotics%2002.jpg)
+*Brainstorming with our trainers*
 
 ![](/images/CCA/robotics%2001.jpg)
+*Preparing for competition season*
+
+![](/images/CCA/robotics%2005.jpg)
+*Displaying our equipment and accolades during CCA Open House*
