@@ -3,7 +3,7 @@ title: Astronomy Club
 permalink: /cca/astronomy-club/
 description: ""
 ---
-![](/images/Astronomy%20Club.jpeg)
+![](/images/CCA/astro%20cover.jpg)
 #### Vision
 To be a global leader in astronomy and space science.
 
@@ -38,4 +38,12 @@ The phrases “Ad Astra” and “See the BIG picture” encapsulates the aspira
 *   Space Science Competitions
 *   International Space Challenge
 *   Satellite Design Competition 
-*   Astronomy Field Trips**
+*   Astronomy Field Trips
+
+![](/images/CCA/astro%2001.png)
+
+![](/images/CCA/astro%2002.jpeg)
+
+![](/images/CCA/astro%2003.jpeg)
+
+![](/images/CCA/astro%2004.jpeg)
