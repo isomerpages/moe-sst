@@ -44,3 +44,12 @@ SST Taekwondo is committed to helping students develop their skills and characte
 ##### 2021
 * B Division Girls Team Blue 4: 2nd
 * B Division Boys Individual Black 2: 2nd
+
+
+![](/images/CCA/tkd%2001.jpg)
+
+![](/images/CCA/tkd%2002.jpg)
+
+![](/images/CCA/tkd%2003.jpg)
+
+![](/images/CCA/tkd%2004.jpg)
