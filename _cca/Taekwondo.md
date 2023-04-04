@@ -6,17 +6,14 @@ description: ""
 #### Vision
 A CCA which cultivates resilient and confident athletes. 
 
-
-Mission
+#### Mission
 To empower students to strive with determination and true sportsmanship.
 
-
-Goals
+#### Goals
 To develop resilient students who overcome challenges and adversity; and
 confident athletes who exhibit exemplary sportsmanship.
 
-
-Values
+#### Values
 Mindset of excellence
 Resilience
 Commitment
