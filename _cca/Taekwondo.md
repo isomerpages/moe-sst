@@ -3,7 +3,7 @@ title: Taekwondo
 permalink: /cca/taekwondo/
 description: ""
 ---
-
+![](/images/CCA/tkd%20cover.jpg)
 
 #### Vision
 A CCA which cultivates resilient and confident athletes. 
