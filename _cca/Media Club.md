@@ -75,3 +75,6 @@ At the SST Media Club, members will be able to develop a range of practical skil
 
 ![](/images/CCA/media%20club%2002.jpg)
 
+![](/images/CCA/media%20club%2004.jpg)
+
+![](/images/CCA/media%20club%2003.jpg)
