@@ -3,6 +3,7 @@ title: Singapore Youth Flying Club
 permalink: /cca/syfc/
 description: ""
 ---
+![](/images/CCA/syfc%20cover.jpg)
 #### Vision
 A school-based entity that excels nationally in aeromodelling and aviation-related education and training.
 
