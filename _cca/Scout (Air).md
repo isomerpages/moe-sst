@@ -3,7 +3,6 @@ title: Scout (Air)
 permalink: /cca/scout/
 description: ""
 ---
-
 #### Vision
 
 A leading air scout unit in aviation and outdoor education programmes.
@@ -54,14 +53,6 @@ Using the Scout Method, every scout is empowered to be the principal agent of hi
 *   Intra-/Extra-unit competitions (e.g. Drones Odyssey Challenge, SAFMC competitions)
     
 #### Achievements/ Milestones
-2015-2019
+##### 2015-2019
 
 *   Frank Cooper Sands Award (Bronze)
-    
-
-
-
- 
-
-
-
