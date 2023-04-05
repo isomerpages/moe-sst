@@ -14,7 +14,4 @@ Key Programmes/ Events
 * Overseas Learning Experiences (IP/CCA/TDP)
 
 
-
-![](/images/Internationalisation/astronomy%20internationalisation.png)
-
 ![](/images/Internationalisation/astronomy%20internationalisation%202.png)
