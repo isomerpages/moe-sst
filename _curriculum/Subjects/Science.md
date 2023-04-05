@@ -25,7 +25,9 @@ ISS provides students with the opportunity to be budding scientists or innovator
 
 
 ![](/images/Curriculum/science%2001.jpg)
+*The ultimate pitch:  Students showcase their competencies as they present their product to a panel of judges.*
 
 ![](/images/Curriculum/science%2002.jpg)
+*Transforming design concepts into reality:  3D printing of prototypes.*
 
 ![](/images/Curriculum/science%2005.jpg)
