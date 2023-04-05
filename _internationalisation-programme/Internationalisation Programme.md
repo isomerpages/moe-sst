@@ -9,6 +9,6 @@ In an increasingly interconnected and interdependent global landscape, a well co
 
 
 Key Programmes/ Events
-SST Lab School
-Learning Alliance Beyond Borders 
-Overseas Learning Experiences (IP/CCA/TDP)
+* SST Lab School
+* Learning Alliance Beyond Borders 
+* Overseas Learning Experiences (IP/CCA/TDP)
