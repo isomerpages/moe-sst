@@ -12,3 +12,7 @@ Key Programmes/ Events
 * SST Lab School
 * Learning Alliance Beyond Borders 
 * Overseas Learning Experiences (IP/CCA/TDP)
+
+
+
+![](/images/Internationalisation/astronomy%20internationalisation.png)
