@@ -13,15 +13,15 @@ We also have partner schools and organisations in our overseas networks that pro
 
 
 ![](/images/Partnership/SUTD-NP-SST%20Big%20D%20Camp.jpeg)
-*Secondary 3 students at the SUTD-NP-SST Big D Camp*
+*Secondary 3 students at the SUTD-NP-SST Big D Camp.*
 
-![](/images/Partnership/S2%20Learning%20Journey%20-%20St%20John's%20&%20Lazarus%20Islands.jpeg) *Secondary 2  students travel to St John's Island and Lazarus Island for learning journey*
+![](/images/Partnership/S2%20Learning%20Journey%20-%20St%20John's%20&%20Lazarus%20Islands.jpeg) *Secondary 2  students travel to St John's Island and Lazarus Island for learning journey.*
 
 ![](/images/Partnership/HGMICS%20PBV%20Competition.jpg)
-*Students presenting their solution at the Purpose Built Vehicle (HBV) Competition*
+*Students presenting their solution at the Purpose Built Vehicle (HBV) Competition.*
 
 ![](/images/Partnership/Workshop%20by%20NP%20LifeScience%20&%20Chemical%20Technology.jpeg)
-*Biotechnology students attending the workshop organised by Ngee Ann Polytechnic, Life Science & Chemical Technology*
+*Biotechnology students attending the workshop organised by Ngee Ann Polytechnic, Life Science & Chemical Technology.*
 
 ![](/images/Partnership/InnoScience%202.jpeg)
 *Secondary 2 students presenting their idea to 3M Country Director, Jannik Termansen at 3M-SST InnoScience Challenge.*
