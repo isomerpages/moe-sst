@@ -26,7 +26,7 @@ Through collaborative projects, students research on different topics of interes
 Students assumed different roles in producing their final work. This process allows them to understand societal issues from different perspectives as they work on the project. Deep and insightful understanding of language skills and current issues takes place when opportunities for application are present.
 
 ##### Author-In-Residence Programme
-![](/images/Curriculum/MTL%20AIR01.jpg)
+![](/images/Curriculum/mtl%20001.JPG)
 
 As part of the Chinese Talent Development Programme, selected students participated in the Author-in-Residence Programme, held in collaboration with the Singapore Association of Writers, and Committee to Promote Chinese Language Learning. Throughout the programme, the students enjoyed learning the skills of creative writing, short stories, poems and novels. They reflected that the lessons were thought-provoking and were useful in honing their critical writing skills.
 
