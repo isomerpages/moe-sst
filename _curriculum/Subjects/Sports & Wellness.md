@@ -16,3 +16,12 @@ Students experience physical, mental and social emotional challenges that effect
 There is also a focus on outdoor education that compels students to develop appropriate outdoor skills and sharpen their coping and management strategies through physical activities while cultivating an attitude of care and appreciation for the environment.
 
 The key concept in the outdoor education programmes is relationship. It creates self-awareness and efficacy, building relationships with self, others and the environment.
+
+![](/images/Curriculum/s&w%2002.jpg)
+*Combining fun and fitness:  Students playing Ultimate Frisbee as part of the Sports Education Model programme.*
+
+![](/images/Curriculum/s&w%2001.png)
+*Unleashing athleticism and skill:  Students engage in Javelin throwing during lessons.*
+
+![](/images/Curriculum/s&w%2003.jpg)
+*Fostering teamwork and camaraderie:  Yellow House participates in a team-building activity during the Outdoor Education Expedition.*
