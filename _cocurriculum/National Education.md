@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/SD-NE.jpeg)
 
-National Education (NE) was launched in 1997 with the intent to instil national identity and the spirit of togetherness in our young.
+National Education (NE) was launched in 1997 with the intent to instill national identity and the spirit of togetherness in our young.
 
 As a significant aspect of Character and Citizenship Education (CCE), NE comprises a wide range of school efforts that aims to:
 
