@@ -32,7 +32,7 @@ Please note the age requirement for Secondary 1 (S1) admission. Non-SC/SPR stude
 ### Curriculum Matters
 
 ##### How is SST’s curriculum different from other secondary schools?
-SST offers a range of Applied Subjects to all students. The Applied Subjects are reflected in the GCE O-Level Examination Certificate and are recognised for admission into local Junior Colleges and Polytechnics. Applied subjects include Biotechnology, Computing+, Design Studies and Electronics. Biotechnology and Design Studies are exclusive to SST. Students can also opt to take up two Applied Subjects, Computing+ and Electronics, under the Engineering+ programme.
+SST offers a range of Applied Subjects to all students. The Applied Subjects are reflected in the GCE O-Level Examination Certificate and are recognized for admission into local Junior Colleges and Polytechnics. Applied subjects include Biotechnology, Computing+, Design Studies and Electronics. Biotechnology and Design Studies are exclusive to SST. Students can also opt to take up two Applied Subjects, Computing+ and Electronics, under the Engineering+ programme.
 
 The collaboration with SST partners such as the Singapore University of Technology and Design (SUTD), Ngee Ann Polytechnic, and leading companies such as 3M and Apple Inc. provide additional learning opportunities, attachments, and enrichment programmes in applied areas for the students.
 
@@ -58,9 +58,9 @@ SST graduates have gone to junior colleges, Polytechnics and schools offering In
 ##### Will financial aid be available to students from low-income families in SST for them to purchase their own learning devices?
 MOE has financial assistance schemes to help needy students.
 
-Students (Singapore Citizens) who successfully gain admission into Secondary One at SST may apply for the MOE Independent School Bursary (ISB) as well as the UPLIFT Scholarship that recognises the achievements of students in Independent Schools who have performed well academically or in specific talents areas and are from lower-income families.
+Students (Singapore Citizens) who successfully gain admission into Secondary One at SST may apply for the MOE Independent School Bursary (ISB) as well as the UPLIFT Scholarship that recognizes the achievements of students in Independent Schools who have performed well academically or in specific talents areas and are from lower-income families.
 
-From 2021, all Secondary 1 students who are Singapore citizens will be able to utilise the funds in their Edusave account to offset the cost for their Personal Learning Device. Students who are Singapore citizens from lower-income families will enjoy further subsidies for the purchase.
+From 2021, all Secondary 1 students who are Singapore citizens will be able to utilize the funds in their Edusave account to offset the cost for their Personal Learning Device. Students who are Singapore citizens from lower-income families will enjoy further subsidies for the purchase.
 
 ##### Are there any scholarships or financial assistance for eligible students?
 Similar to the other independent schools, the Government will provide  financial assistance to ensure that the fees payable by Singaporean students are affordable.
