@@ -12,7 +12,7 @@ In an increasingly interconnected and interdependent global landscape, a well co
 * Learning Alliance Beyond Borders 
 * Overseas Learning Experiences (IP/CCA/TDP)
 
-##### Year 2023
+##### Year 2023 Snapshots
 ![](/images/Internationalisation/internationalisation%20-%20sf2.png)
 
 
