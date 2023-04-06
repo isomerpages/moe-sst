@@ -18,7 +18,7 @@ To nurture passionate innovators who apply knowledge of science and technology, 
 ### Values
 ##### Forging Excellence
 
-Members of the SST community will embark on every endeavour with passion, commitment, confidence and courage; and a belief that our best efforts will bring about positive outcomes for the common good, whilst developing excellence in personal work ethics and character. SST is an organisation where people care about and work towards being the best they can be, both personally and at the organisational and community levels.
+Members of the SST community will embark on every endeavour with passion, commitment, confidence and courage; and a belief that our best efforts will bring about positive outcomes for the common good, whilst developing excellence in personal work ethics and character. SST is an organization where people care about and work towards being the best they can be, both personally and at the organizational and community levels.
 
 ##### Building an Empowered Community
 
