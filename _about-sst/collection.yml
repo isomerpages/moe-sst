@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - School Milestones.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
