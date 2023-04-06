@@ -15,8 +15,8 @@ To serve the school through coverage and AV, photography and videography service
 #### Goals
 
 *   Each Media Club student becomes an effective communicator (through mediums such as photography, videography and journalism);
-*   \*assist the school in photography, videography and AV; and
-*   has the opportunity to represent the school/ self by taking part in at least 1 external competition.
+*   \*Assist the school in photography, videography and AV; and
+*   Has the opportunity to represent the school/ self by taking part in at least 1 external competition.
 
 \*Each member serves at least 2 internal school events.
 
