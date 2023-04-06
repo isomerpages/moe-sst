@@ -13,7 +13,7 @@ To ensure that every member becomes a better athlete and person by harnessing th
 #### Goals 
 ● Nurture ordinary people into inspiring sportsmen and better people; 
 and  
-● work well as a fencing team even though it is an individual sport.
+● Work well as a fencing team even though it is an individual sport.
 
 #### Values 
 *  Sportsmanship 
