@@ -12,8 +12,8 @@ To nurture confident and passionate performers who strive to constantly challeng
 
 #### Goals
 *   Creative and disciplined performers who push boundaries to become the best versions of themselves;
-*   an inclusive environment for diverse performers; and
-*   confident leaders who lead by example, and display strong moral and performance character.
+*   An inclusive environment for diverse performers; and
+*   Confident leaders who lead by example, and display strong moral and performance character.
    
 #### Values
 *   Showmanship
