@@ -12,8 +12,8 @@ To nurture and equip individuals who are guided by strong principles of sportsma
 
 #### Goals
 *   Empathetic and independent athletes;
-*   reflective leaders with strong moral character, and intellectual curiosity; and
-*   well-articulated, lateral thinkers of an ever-changing sports world.
+*   Reflective leaders with strong moral character, and intellectual curiosity; and
+*   Well-articulated, lateral thinkers of an ever-changing sports world.
 
 #### Values
 *   Team spirit 
