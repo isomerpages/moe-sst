@@ -15,7 +15,7 @@ In SST, the Applied Learning approach encompasses learning that is
 * authentic
 * integrated
 * community-focused
-* learner-centred 
+* learner-centered
 * process-focused.
 
 ##### Integrated Learning
