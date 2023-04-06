@@ -12,8 +12,8 @@ A CCA which cultivates resilient and confident athletes.
 To empower students to strive with determination and true sportsmanship.
 
 #### Goals
-To develop resilient students who overcome challenges and adversity; and
-confident athletes who exhibit exemplary sportsmanship.
+* To develop resilient students who overcome challenges and adversity; and
+* Confident athletes who exhibit exemplary sportsmanship.
 
 #### Values
 Mindset of excellence
