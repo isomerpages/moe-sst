@@ -12,8 +12,8 @@ To nurture passionate aviators who aspire to improve society through real-world 
 
 #### Goals
 *   To provide members with regular training that develops in them knowledge and skills on various aspects of aeromodelling and aviation;
-*   opportunities to participate in aeromodelling competitions and related events conducted externally; and
-*   guidance and mentoring to inculcate in them 21st-century skills (10Cs) and values.
+*   Opportunities to participate in aeromodelling competitions and related events conducted externally; and
+*   Guidance and mentoring to inculcate in them 21st-century skills (10Cs) and values.
     
 #### Values
 *   Respect
