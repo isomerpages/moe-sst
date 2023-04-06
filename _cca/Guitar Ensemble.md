@@ -13,15 +13,15 @@ A place where leaders are groomed, friendships are forged, passions are develope
 
 #### Goals
 *   Nurturing guitarists into active, passionate lifelong learners of music;
-*   who contribute to society through the production of performances with great excellence; and
-*   being active and excellent student leaders with strong moral and performance character.
+*   Who contribute to society through the production of performances with great excellence; and
+*   Being active and excellent student leaders with strong moral and performance character.
     
 #### Values
 *   Friendship
 *   Passion for music
 *   Excellence
   
-Formed in 2010, theGuitar Ensemble is a full-fledged Niibori guitar ensemble made up of a close-knitted community of young passionate musicians. Under the guidance of established guitar conductors, we work towards excellence and continue to be exposed to a wide variety of song genres, from classical to jazz and modern music.
+Formed in 2010, the Guitar Ensemble is a full-fledged Niibori guitar ensemble made up of a close-knitted community of young passionate musicians. Under the guidance of established guitar conductors, we work towards excellence and continue to be exposed to a wide variety of song genres, from classical to jazz and modern music.
 
 #### Training 
 *   Wednesdays (3.00pm to 5.00pm)
