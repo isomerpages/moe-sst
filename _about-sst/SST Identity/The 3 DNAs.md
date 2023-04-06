@@ -11,12 +11,12 @@ The Applied Learning approach guides the SST teaching and learning process so th
 is delivered within a relevant real-life context to ensure that learning experiences are coherent,
 challenging and aimed at developing the full range of student capabilities and talents.
 In SST, the Applied Learning approach encompasses learning that is 
-* active and relevant
-* authentic
-* integrated
-* community-focused
-* learner-centered
-* process-focused.
+* Active and Relevant
+* Authentic
+* Integrated
+* Community-focused
+* Learner-centred
+* Process-focused.
 
 ##### Integrated Learning
 What is Integrated Learning in SST?
