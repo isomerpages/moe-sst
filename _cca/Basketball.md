@@ -11,9 +11,9 @@ Nurture student athletes with an unwavering commitment to excellence, sportsmans
 To foster a culture of hard work, dedication, and sportsmanship, by providing our players with the training and support necessary to reach their full potential. We strive to work as a cohesive unit, pushing each other to new heights and embodying the values of the school, as we aim to compete and win at the highest levels.
 #### Goals
 *   To excel and win every competition;
-*   make the school proud with our strong sense of sportsmanship, passion, and dedication to the sport;
-*   embody the best values of the school as model student-athletes; and
-*   be dynamic sportsmen with strong moral and performance character.
+*   Make the school proud with our strong sense of sportsmanship, passion, and dedication to the sport;
+*   Embody the best values of the school as model student-athletes; and
+*   Be dynamic sportsmen with strong moral and performance character.
 
 #### Values
 *   Sportsmanship 
