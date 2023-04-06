@@ -11,8 +11,8 @@ Ensure that athletes, no matter what their background, will have an opportunity 
 To nurture passionate athletes who persevere in improving their skills in the badminton sport and are open-minded, committed and grounded in sportsmanship. 
 ##### Goals
 *   Collaborative and independent athletes;
-*   dynamic leaders with strong moral and performance character, and sportsmanship; and
-*   confident, open-minded and disciplined athletes who will thrive in a competitive world.
+*   Dynamic leaders with strong moral and performance character, and sportsmanship; and
+*   Confident, open-minded and disciplined athletes who will thrive in a competitive world.
    
 ##### Values
 *   Sportsmanship 
