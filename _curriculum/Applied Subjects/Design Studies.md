@@ -17,3 +17,6 @@ In addition, students will develop creative and innovative mindsets, critical th
 
 ![](/images/Curriculum/ds%20%2004.JPG)
 *Q&A session after their final presentation in ArchiFest 2022, organised by URA. The theme was on reimagining and redesigning the Queenstown neighbourhood area.*
+
+![](/images/Curriculum/ds%20%2003.jpg)
+*Students working in teams to identify problems during their Design Thinking lessons.*
