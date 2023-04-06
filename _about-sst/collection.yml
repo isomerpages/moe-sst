@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Publication.md
       - School Milestones.md
       - Board of Directors.md
       - School Exco Team/.keep
@@ -19,4 +18,5 @@ collections:
       - SST Identity/Hexagons.md
       - Student's Code of Conduct.md
       - School Rules & Regulation.md
+      - Publication.md
       - FAQs.md
