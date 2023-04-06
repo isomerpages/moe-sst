@@ -7,12 +7,12 @@ description: ""
 
 The Active Citizenship Education (ACE) curriculum plays a pivotal role in fostering SSTudents to become local and global active citizens who contribute to the betterment of the community through,
 
-*   advocating positive social action and serving the community with purpose and enthusiasm;   
+*   Advocating positive social action and serving the community with purpose and enthusiasm;   
     
-*   displaying the attributes that will allow them to take advantage of the myriad of opportunities abroad;  
+*   Displaying the attributes that will allow them to take advantage of the myriad of opportunities abroad;  
     
-*   seeking to interact with and learn from people from diverse cultural backgrounds;                                                      
-*   developing respect and empathy for others.
+*   Seeking to interact with and learn from people from diverse cultural backgrounds;                                                      
+*   Developing respect and empathy for others.
 
 With the vision of developing a community engaged in active citizenship and being transformed by service-learning, the ACE committee leads a 4 year ACE curriculum for every SSTudent to undergo applied learning experiences in the areas of Service Learning, National Education, Cultural exchanges with SST's overseas educational partners and on.
 
