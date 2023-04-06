@@ -12,8 +12,8 @@ To nurture passionate and confident drama members who will continually seek inno
 
 #### Goals
 *   Collaborative and confident drama members;
-*   curious cast members who seek creative ways to express ideas and convey authorial messages through drama; and
-*   dynamic leaders with strong moral and performance character.
+*   Curious cast members who seek creative ways to express ideas and convey authorial messages through drama; and
+*   Dynamic leaders with strong moral and performance character.
     
 #### Values 
 *   Passion 
