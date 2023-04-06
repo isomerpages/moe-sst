@@ -30,7 +30,7 @@ After a 2 year hiatus due to Covid 19, our B and C Division team finally had the
 Through the sport, our boys also have another platform to hone their 21st-century competencies to prepare them for the future.
 
 #### Training 
-*   Wednesdays (3.00pm to 6.00pm
+*   Wednesdays (3.00pm to 6.00pm)
 *   Fridays (2.30pm to 5.30pm)
     
 
