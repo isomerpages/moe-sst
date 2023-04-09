@@ -31,3 +31,5 @@ Under the auspices of the House of Leaders, we aim to nurture and our students d
 
 
 Through these planned experiential programmes facilitated by mentors (teachers and seniors), student leaders have the opportunities to apply leadership knowledge, skills and understanding in leading self, peers and the community.
+
+Follow us on Instagram: @sstudents.life
