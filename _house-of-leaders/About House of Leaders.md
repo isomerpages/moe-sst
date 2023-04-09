@@ -13,9 +13,9 @@ description: ""
 
 
 
-SST Student Leadership Boards were set up in 2012 when the first batch of students were in their 3rd year, with the goal of developing leadership competencies and inspiring students to build a culture of ownership, collaboration and community in the classroom and beyond. In the inaugural year, two boards were established/ instituted: Student Council and Peer Support Board. 
+SST Student Leadership Boards were set up in 2012 when the first batch of students were in their 3rd year, with the goal of developing leadership competencies and inspiring students to build a culture of ownership, collaboration and community in the classroom and beyond. In the inaugural year, two boards were established: Student Council and Peer Support Board. 
 
-In 2019, the House of Leaders was founded, bringing together student leaders from the CCA, the House and Active Citizenship Education.
+In 2019, the House of Leaders was conceptualised, bringing together student leaders from the CCA, the House and Active Citizenship Education.
 
 The Digital Citizenship was added to the boards in 2023, bringing the total number of boards to six.
 
