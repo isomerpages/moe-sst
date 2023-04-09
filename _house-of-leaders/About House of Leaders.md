@@ -8,10 +8,11 @@ description: ""
 ![](/images/House%20of%20Leaders/house%20of%20leader%2001.png)
 
 *We, the student leaders of SST,
-pledge our commitment and dedication to the service of our school.
+pledge our commitment and dedication to the service of our school.*
 
-We promise to carry out our duties and responsibilities with respect and humility;
-We will do our best in ensuring the continuous growth of our school.*
+*We promise to carry out our duties and responsibilities with respect and humility;*
+
+*We will do our best in ensuring the continuous growth of our school.*
 
 Pioneer Batch of Student Leaders (2013)
 
