@@ -1,0 +1,7 @@
+collections:
+  sst-highlights:
+    output: true
+    order:
+      - SST in News.md
+      - SSTories.md
+      - Cohort Experience.md

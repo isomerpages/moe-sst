@@ -1,0 +1,5 @@
+collections:
+  internationalisation-programme:
+    output: true
+    order:
+      - Internationalisation Programme.md

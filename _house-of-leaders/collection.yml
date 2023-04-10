@@ -1,0 +1,10 @@
+collections:
+  house-of-leaders:
+    output: true
+    order:
+      - About House of Leaders.md
+      - Student Council.md
+      - Peer Support Board.md
+      - Active Citizenship Education (ACE) Leader.md
+      - Digital Citizenship (DC) Board.md
+      - House.md

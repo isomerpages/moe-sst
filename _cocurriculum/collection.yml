@@ -1,0 +1,8 @@
+collections:
+  cocurriculum:
+    output: true
+    order:
+      - National Education.md
+      - Active Citizenship Education.md
+      - Digital Citizenship.md
+      - Sexuality Education.md

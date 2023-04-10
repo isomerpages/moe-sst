@@ -1,0 +1,20 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Subjects/.keep
+      - Subjects/ChangeMakers.md
+      - Subjects/English Language.md
+      - Subjects/Mother Tongue Languages.md
+      - Subjects/Mathematics.md
+      - Subjects/Science.md
+      - Subjects/Humanities.md
+      - Subjects/Sports & Wellness.md
+      - Applied Subjects/.keep
+      - Applied Subjects/About Applied Subjects.md
+      - Applied Subjects/Biotechnology.md
+      - Applied Subjects/Computing Plus.md
+      - Applied Subjects/Design Studies.md
+      - Applied Subjects/Electronics.md
+      - Applied Subjects/Engineer Plus.md
+      - Integrated Diploma Programme.md
