@@ -6,7 +6,19 @@ description: ""
 ![](/images/House%20of%20Leaders/house%20of%20leader%2001.png)
 
 ##### SST STUDENT LEADERS’ OATH
-![](/images/House%20of%20Leaders/student%20leader%20oath.svg)
+*We, the student leaders of SST,
+pledge our commitment and dedication to the service of our school.*
+
+*We promise to carry out our duties and responsibilities with respect and humility;*
+
+*We will do our best in ensuring the continuous growth of our school.*
+
+*We will be exemplary in our discipline and behaviour,
+to set the standards for all generations to come.*
+
+*We will.*
+
+**Pioneer Batch of Student Leaders (2013)**
 
 ***
 
