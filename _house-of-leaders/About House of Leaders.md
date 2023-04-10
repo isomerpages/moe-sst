@@ -13,7 +13,13 @@ pledge our commitment and dedication to the service of our school.*
 
 *We will do our best in ensuring the continuous growth of our school.*
 
+*We will be exemplary in our discipline and behaviour,
+to set the standards for all generations to come.*
+
+*We will.*
+
 Pioneer Batch of Student Leaders (2013)
+
 
 ***
 
