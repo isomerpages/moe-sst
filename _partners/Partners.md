@@ -4,7 +4,7 @@ permalink: /partners/partners/
 description: ""
 ---
 #### Enriching Learning Experience for Students
-SST’s curriculum is guided by the Applied Learning approach to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff.  Through our partnerships with premier tertiary institutions such as Singapore University of Technology and Design, Ngee Ann Polytechnic, 3M and Apple, we have availed various learning opportunities to all our students.
+SST’s curriculum is guided by the 3 DNAs to deliver rigorous learning experiences within a real-life context to develop the full range of student capabilities and talents. Hence, forming partnerships with external organisations is one of the key strategies to deliver coherent and authentic learning experiences for students and staff.  Through our partnerships with premier tertiary institutions such as Singapore University of Technology and Design, Ngee Ann Polytechnic, 3M and Apple, we have availed various learning opportunities to all our students.
 
 We also have partner schools and organisations in our overseas networks that provide additional learning experiences for our students.
 
