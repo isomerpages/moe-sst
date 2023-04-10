@@ -23,6 +23,14 @@ sections:
       alt: Image alt text
       description: "Join us at our open house to discover our world of innovation. "
   - infopic:
+      title: Signing of the MoU
+      subtitle: Event
+      description: Signing of the MoU between SST and Infineon Technologies alliance
+      button: Link
+      url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid02qJhQKHvf9g5AFgGrMUp9Yc92JzyKZ9SLpPBx5UJsHSKkLpu1Q5o1F4vkFwDrf911l
+      image: /images/Curriculum/idp 03.jpeg
+      alt: Image alt text
+  - infopic:
       title: Signing of the MoU between SST and SMU
       subtitle: Event
       button: Link
