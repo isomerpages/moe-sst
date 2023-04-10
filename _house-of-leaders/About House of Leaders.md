@@ -6,9 +6,7 @@ description: ""
 ![](/images/House%20of%20Leaders/house%20of%20leader%2001.png)
 
 ##### SST STUDENT LEADERS’ OATH
-
 ![](/images/House%20of%20Leaders/student%20leader%20oath.svg)
-
 
 ***
 
