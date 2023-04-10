@@ -32,7 +32,7 @@ sections:
       image: /images/Curriculum/idp 03.jpeg
       alt: Image alt text
   - infopic:
-      title: SST & SMU
+      title: SST and SMU
       subtitle: Event
       button: Link
       url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid0fbq6FCZVcAoaEm5WfdvvfJc9bkZaoNCSWvwNjWf8XP6AdWE6hq9Ev2eF4nxVGdN8l
