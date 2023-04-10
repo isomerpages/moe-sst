@@ -37,5 +37,5 @@ sections:
       url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid0fbq6FCZVcAoaEm5WfdvvfJc9bkZaoNCSWvwNjWf8XP6AdWE6hq9Ev2eF4nxVGdN8l
       image: /images/Curriculum/idp 05.jpg
       alt: Image alt text
-      description: Signing of the MoU between SST and SMU
+      description: Signing of the Memorandum of Understanding (MOU) between SST and SMU
 ---
