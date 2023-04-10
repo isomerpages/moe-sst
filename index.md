@@ -25,7 +25,8 @@ sections:
   - infopic:
       title: SST and Infineon Technologies alliance
       subtitle: Event
-      description: Signing of the MoU between SST and Infineon Technologies alliance
+      description: Signing of the Memorandum of Understanding (MOU) between SST and
+        Infineon Technologies alliance
       button: Link
       url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid02qJhQKHvf9g5AFgGrMUp9Yc92JzyKZ9SLpPBx5UJsHSKkLpu1Q5o1F4vkFwDrf911l
       image: /images/Curriculum/idp 03.jpeg
