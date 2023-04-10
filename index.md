@@ -22,4 +22,11 @@ sections:
       image: /images/2023 op banner final.png
       alt: Image alt text
       description: "Join us at our open house to discover our world of innovation. "
+  - infopic:
+      title: Signing of the MoU between SST and SMU
+      subtitle: Event
+      button: Link
+      url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid0fbq6FCZVcAoaEm5WfdvvfJc9bkZaoNCSWvwNjWf8XP6AdWE6hq9Ev2eF4nxVGdN8l
+      image: /images/Curriculum/idp 05.jpg
+      alt: Image alt text
 ---
