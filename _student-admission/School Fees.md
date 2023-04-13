@@ -22,13 +22,13 @@ Students are advised to keep the school updated with changes in your citizenship
 
 #### Collection of School Fees
 
-1.   All fees are collected through the Inter-bank Giro Scheme.
+1.  &nbsp;All fees are collected through the Inter-bank Giro Scheme.
 2.  It is compulsory for parents / guardians of students to take part in the Inter-bank Giro scheme. Parents / guardians must have a savings or current account. Fees due from students will then be automatically deducted through the scheme.
 3.  The softcopy of the form in PDF is available below:
-    *   [APPLICATION FORM FOR INTERBANK GIRO](https://www.sst.edu.sg/wp-content/uploads/2019/04/APPLICATION-FORM-FOR-INTERBANK-GIRO_15072016-1.pdf)
+    *   [APPLICATION FORM FOR INTERBANK GIRO](https://www-sst-edu-sg-admin.cwp.sg/wp-content/uploads/2019/04/APPLICATION-FORM-FOR-INTERBANK-GIRO_15072016-1.pdf)
 
 #### School Fees Giro Deduction Dates
 
-Annual school fees payable is spread over 12 months of the academic year. Students who join on or before 5 February will have to pay fees for January. Those who leave on or after 5 May will have to pay fees for June. Those who leave on or after 5 October will have to pay fees for November and December. For students who have applied for withdrawal from School, all outstanding fees will have to be made in full before the last day of school.
+Annual school fees payable is spread over 12 months of the academic year. Students who join on or before&nbsp;5 February&nbsp;will have to pay fees for January.&nbsp;Those who leave on or after 5 May will have to pay fees for June.&nbsp;Those who leave on or after&nbsp;5 October&nbsp;will have to pay fees for November and December. For students who have applied for withdrawal from School, all outstanding fees will have to be made in full before the last day of school.
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 820px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">Month</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">Scheduled Date of Deduction</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">January &amp; February</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of February</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">March – October</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of the month</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">November &amp; December</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of November</td></tr></tbody></table>
