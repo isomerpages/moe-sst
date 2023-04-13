@@ -1,0 +1,4 @@
+collections:
+  current-students:
+    output: true
+    order: []
