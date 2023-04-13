@@ -1,4 +1,5 @@
 collections:
   current-students:
     output: true
-    order: []
+    order:
+      - Insurance For Students.md
