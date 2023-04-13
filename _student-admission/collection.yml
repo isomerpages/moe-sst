@@ -2,7 +2,6 @@ collections:
   student-admission:
     output: true
     order:
-      - Insurance For Students.md
       - DSA Selection Criteria.md
       - S1 Admission.md
       - S3 Admission.md
@@ -11,4 +10,5 @@ collections:
       - Scholarship & Bursary/.keep
       - Scholarship & Bursary/Bursary.md
       - Scholarship & Bursary/Scholarship.md
+      - Insurance For Students.md
       - 1 to 1 Learning Device.md
