@@ -1,6 +1,6 @@
 ---
 title: Insurance For Students
-permalink: /current-students/insurance-for-students/
+permalink: /student-admission/insurance-for-students/
 description: ""
 ---
 **GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS**
