@@ -5,7 +5,7 @@ description: ""
 ---
 ### SST SECONDARY 1 (S1) ADMISSION
 
-SST admits all our Secondary 1 students into the Express Course of study through the Direct School Admission Secondary (DSA-Sec) exercise. **It does not participate in the MOE Secondary One Posting Exercise. **
+SST admits all our Secondary 1 students into the Express Course of study through the Direct School Admission Secondary (DSA-Sec) exercise. **It does not participate in the MOE Secondary One Posting Exercise.** 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
