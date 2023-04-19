@@ -34,4 +34,4 @@ All applicants will receive the outcome of their application&nbsp;**via email** 
 
 
 
-*Information is correct as of 4 May 2023*
+*Information is correct as of 20 April 2023*
