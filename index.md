@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Student Services
           description: Information for Parents
-          url: ""
+          url: /student-services/insurance-for-students/
         - title: Career
           description: Job Oportunities
           url: ""
