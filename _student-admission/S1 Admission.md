@@ -32,9 +32,6 @@ The SST phase 2 STEAM Challenge is an activity-based assessment where candidates
 
 All applicants will receive the outcome of their application&nbsp;**via email** at the end of the DSA-Sec Exercise. Applicants posted through the DSA-Sec Exercise are also not permitted to transfer to another school after the release of the PSLE results.
 
-***
-#### International Students
 
-International students seeking Secondary 1 admission to SST will participate in the DSA-Sec exercise as described above.
 
 *Information is correct as of 4 May 2023*
