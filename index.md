@@ -15,11 +15,11 @@ sections:
       url: /student-admission/s1-admission/
       button: Direct School Admission 2023
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Student Services
+          description: Information for Parents
           url: ""
         - title: Career
-          description: ""
+          description: Job Oportunities
           url: ""
   - infopic:
       title: 2023 SST Open House
