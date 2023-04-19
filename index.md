@@ -20,7 +20,7 @@ sections:
           url: /student-services/insurance-for-students/
         - title: Career
           description: Job Oportunities
-          url: ""
+          url: /sst-careers/
   - infopic:
       title: 2023 SST Open House
       subtitle: Event
