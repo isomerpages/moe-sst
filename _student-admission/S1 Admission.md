@@ -11,7 +11,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
-#### (A) SST Phase 1 Written Test (All candidates)
+#### (A) SST Phase 1 Written Test (Only for shortlisted candidates)
 
 The SST phase 1 Written Test assesses candidates’ ability to solve real-world problems through the application of STEM knowledge and skills. The duration of the test is about 1 hour and 30 min.  All applicants will be informed of the test date and timing via email.
 
