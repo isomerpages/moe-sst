@@ -35,3 +35,6 @@ All applicants will receive the outcome of their application **via email** at 
 International students seeking Secondary 1 admission to SST will have to pass MOE’s Admissions Exercise for International Students (AEIS) test and participate in the DSA-Sec exercise as described above.
 
 More information on AEIS is available here: [https://www.moe.gov.sg/international-students/aeis](https://www.moe.gov.sg/international-students/aeis)
+
+
+*Information is correct as of 4 May 2023*
