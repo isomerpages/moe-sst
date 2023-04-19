@@ -19,7 +19,7 @@ sections:
           description: Information for Parents
           url: /student-services/insurance-for-students/
         - title: Career
-          description: Job Oportunities
+          description: Job Opportunities
           url: /sst-careers/
   - infopic:
       title: 2023 SST Open House
