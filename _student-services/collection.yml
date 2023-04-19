@@ -1,4 +1,5 @@
 collections:
   student-services:
     output: true
-    order: []
+    order:
+      - Insurance for Students.md
