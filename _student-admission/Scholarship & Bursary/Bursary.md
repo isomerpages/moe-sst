@@ -1,6 +1,6 @@
 ---
 title: Bursary
-permalink: /student-admission/Scholarship-and-Bursary/bursary/
+permalink: /student-admission/scholarship-bursary/bursary/
 description: ""
 third_nav_title: Scholarship &amp; Bursary
 ---
