@@ -23,7 +23,7 @@ The SST phase 1 Written Test assesses candidates’ ability to solve real-world 
 
 #### (B) SST Phase 2 STEAM Challenge (Only for shortlisted candidates)
 
-The SST phase 2 STEAM Challenge is an activity-based assessment where candidates will work in groups to solve real-world issues. Shortlisted applicants will be informed of the test date and timing via email.
+The SST phase 2 STEAM Challenge is an activity-based assessment where candidates will work in groups to solve real-world issues. **Shortlisted** applicants will be informed of the test date and timing via email.
 
 #### (C) Release of DSA-Sec Application Outcome
 
