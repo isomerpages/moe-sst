@@ -12,8 +12,15 @@ sections:
       background: /images/Hero Banner 01.jpeg
       subtitle: Shaping passionate innovators, The SST Way.
       title: School of Science and Technology, Singapore
-      url: https://staging.d197prea913inm.amplifyapp.com/student-admission/s1-admission/
+      url: /student-admission/s1-admission/
       button: Direct School Admission 2023
+      key_highlights:
+        - title: Student Services
+          description: Information for Parents
+          url: /student-services/insurance-for-students/
+        - title: Career
+          description: Job Opportunities
+          url: /sst-careers/
   - infopic:
       title: 2023 SST Open House
       subtitle: Event

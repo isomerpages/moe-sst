@@ -1,0 +1,6 @@
+collections:
+  student-services:
+    output: true
+    order:
+      - Insurance For Students.md
+      - Uniform and Book Shop.md
