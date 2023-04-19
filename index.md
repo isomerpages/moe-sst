@@ -14,6 +14,13 @@ sections:
       title: School of Science and Technology, Singapore
       url: /student-admission/s1-admission/
       button: Direct School Admission 2023
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Career
+          description: Seeking Opportunity to join SST?
+          url: ""
   - infopic:
       title: 2023 SST Open House
       subtitle: Event
