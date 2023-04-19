@@ -19,7 +19,7 @@ sections:
           description: Key Highlight description
           url: ""
         - title: Career
-          description: Seeking Opportunity to join SST?
+          description: ""
           url: ""
   - infopic:
       title: 2023 SST Open House
