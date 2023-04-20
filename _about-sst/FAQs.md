@@ -25,7 +25,7 @@ Click [here](https://www.sst.edu.sg/admission/secondary-1-admission/) for more i
 The application is free-of-charge.
 
 ##### How can my child apply for admission to SST through DSA if he/she is currently not studying in any mainstream primary school in Singapore?
-Students who are not studying in MOE schools have to approach MOE Customer Service Centre (CSC) to get a unique registration number for Direct School Admission – Secondary applications. This is required for them to complete their applications to all DSA-Sec schools through the online DSA Portal.
+Students will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal via the FormSG. You may refer to the MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
 Please note the age requirement for Secondary 1 (S1) admission. Non-SC/SPR students must be between 12 and 14+ years old as at 1st January of the year of S1 admission.
 
