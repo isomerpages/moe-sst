@@ -19,16 +19,16 @@ Applicants currently studying at Secondary 2 (or equivalent) in Singapore.
 
 #### (c) When to apply?
 
-The application period is from **10 Oct 2022, 9.00 a.m. to 21 Oct 2022, 5.00 p.m.**
+The application period is from **10 Oct 2022, 9.00 a.m. to 21 Oct 2022, 5.00 p.m.**
 
 #### (d) How to apply?
 
 **(I) Complete application online:**  
-Applicants are to complete the [online application form](https://form.gov.sg/6332543aeb453b0012ecb898) to indicate their interest.  
+Applicants are to complete the&nbsp;[online application form](https://form.gov.sg/6332543aeb453b0012ecb898) to indicate their interest.
 
 **(II) Submit S2 End-of-Year Results:**
 
-Applicants have to submit scanned copies of their **S2 overall result slips via email (admission@ssts.edu.sg) by 29 Oct 2022, 12 pm**.
+Applicants have to submit scanned copies of their **S2 overall result slips via email (admission@ssts.edu.sg) by 29 Oct 2022, 12 pm**.
 
 **(III) Sit for Placement Test (For shortlisted applicants only):**
 
@@ -45,5 +45,4 @@ Shortlisted applicants will be invited for an individual interview.
 
 All applicants will receive a final outcome of their application via email by 18 Nov 2022.
 
-Please email [admission@ssts.edu.sg](mailto:admission@ssts.edu.sg) for any enquiries.
-
+Please email&nbsp;[admission@ssts.edu.sg](mailto:admission@ssts.edu.sg) for any enquiries.

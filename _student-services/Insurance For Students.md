@@ -3,7 +3,7 @@ title: Insurance For Students
 permalink: /student-services/insurance-for-students/
 description: ""
 ---
-**GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS**
+#### GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS
 
 The school has taken up a Group Personal Accident (GPA) Insurance for all students with Income Insurance limited. The GPA Insurance provides coverage for students against accidents related to all school programmes and activities, including Co-Curriculum Activities and sports, both in and out of school, be it local or abroad. This is in line with the Ministry of Education’s safety requirements. The policy is by no means extensive and is intended to help defray some of the medical costs incurred in the event of an accident.
 
