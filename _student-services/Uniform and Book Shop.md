@@ -35,7 +35,7 @@ Click [here](https://www-sst-edu-sg-admin.cwp.sg/wp-content/uploads/2020/10/Uni
 *   Bleach: Do not bleach the uniforms
 *   Iron: Iron using low-temperature setting
 
-**Recommendation**
+##### Recommendation
 
 All students are to be appropriately groomed and attired in SST school uniform when they report for school.
 
