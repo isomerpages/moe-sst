@@ -15,7 +15,7 @@ The Operations Executive supports the Operations Manager in developmental projec
 *   Manage logistics support for events and examinations
 *   Support facilities management when the need arises
 *   On the ground to ensure smooth operations during peak hours (e.g. managing vehicular and human traffic flow, checking on systems)
-*   Able to start work at 6.30am
+*   Able to start work at 6.30 am
 
 Requirements:
 
@@ -38,7 +38,7 @@ The role includes but is not limited to the following:
 *   Participate and contribute to the development of the school by supporting departments/school programmes
 *   Be open to learning and adopt innovative pedagogies and technology
 
-\*For HOD position, candidates with at least 3 years in a Subject Head position may apply.
+For HOD position, candidates with at least 3 years in a Subject Head position may apply.
 
 * * *
 
