@@ -45,4 +45,4 @@ Shortlisted applicants will be invited for an individual interview.
 
 All applicants will receive a final outcome of their application via email by 18 Nov 2022.
 
-Please email&nbsp;[admission@ssts.edu.sg](mailto:admission@ssts.edu.sg)for any enquiries.
+Please email&nbsp;[admission@ssts.edu.sg](mailto:admission@ssts.edu.sg) for any enquiries.
