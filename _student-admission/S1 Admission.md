@@ -14,7 +14,7 @@ SST admits all our Secondary 1 students into Posting Group 3 through the Direct 
 
 
 
-Applicants not studying in MOE mainstream primary schools must apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal via the FormSG. You may refer to the MOE website at: https://go.gov.sg/nmsdsa-sec-application
+Applicants not studying in MOE mainstream primary schools must apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal via the FormSG. You may refer to the MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
