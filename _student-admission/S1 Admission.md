@@ -22,7 +22,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 
 #### (A) SST Phase 1 Written Test (All candidates)
 
-The SST phase 1 Written Test assesses candidates’ ability to solve real-world problems by applying STEM knowledge and skills. The duration of the test is about 2 hours.  All applicants will be informed of the test date and timing via email.
+The SST phase 1 Written Test assesses candidates’ ability to solve real-world problems by applying STEM knowledge and skills. The duration of the test is about 2 hours.  Applicants will be informed of the test date and timing via email.
 
 #### (B) SST Phase 2 STEAM Challenge (Only for shortlisted candidates)
 
