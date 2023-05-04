@@ -46,4 +46,9 @@ sections:
       image: /images/Curriculum/idp 05.jpg
       alt: Image alt text
       description: Signing of the Memorandum of Understanding (MOU) between SST and SMU
+  - infopic:
+      title: Canteen vacancy
+      button: Click here for details
+      url: https://www.sst.edu.sg/canteen-vacancy/
+      alt: Image alt text
 ---
