@@ -49,6 +49,6 @@ sections:
   - infopic:
       title: Canteen vacancy
       button: Click here for details
-      url: https://www.sst.edu.sg/canteen-vacancy/
+      url: /canteen-vacancy/
       alt: Image alt text
 ---
