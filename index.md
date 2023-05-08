@@ -10,8 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
-      subtitle: Shaping passionate innovators, The SST Way.
-      title: School of Science and Technology, Singapore
       url: /student-admission/s1-admission/
       button: Direct School Admission 2023
       key_highlights:
@@ -22,8 +20,8 @@ sections:
           description: Job Opportunities
           url: /sst-careers/
   - infopic:
-      title: 2023 SST Open House
-      subtitle: Event
+      title: 2023 Open House
+      subtitle: 27 May (Sat) | 8.30 am to 4 pm
       button: Click here to find out more.
       url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/open-house-programmes
       image: /images/2023 op banner final.png
@@ -46,4 +44,9 @@ sections:
       image: /images/Curriculum/idp 05.jpg
       alt: Image alt text
       description: Signing of the Memorandum of Understanding (MOU) between SST and SMU
+  - infopic:
+      title: Canteen vacancy
+      button: Click here for details
+      url: /canteen-vacancy/
+      alt: Image alt text
 ---
