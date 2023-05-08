@@ -20,7 +20,7 @@ sections:
           description: Job Opportunities
           url: /sst-careers/
   - infopic:
-      title: 2023 SST Open House
+      title: 2023 Open House
       subtitle: 27 May (Sat) | 8.30 am to 4 pm
       button: Click here to find out more.
       url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/open-house-programmes
