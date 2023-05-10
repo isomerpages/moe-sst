@@ -28,7 +28,7 @@ third_nav_title: School Exco Team
 
 ![](/images/Exco%20Photo/H%20-%20Aurelius%20Profile%20(Grey).svg)
 
-![](/images/Exco%20Photo/H%20-%20Siu%20Yin%20Profile%20(Grey).svg)
+![](/images/Exco%20Photo/h%20-%20siu%20yin%20profile%20(grey).svg)
 
 ![](/images/Exco%20Photo/H%20-%20Alvin%20Profile%20(Grey).svg)
 
