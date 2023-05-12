@@ -23,7 +23,7 @@ sections:
       title: 2023 Open House
       subtitle: 27 May (Sat) | 8.30 am to 4 pm
       button: Click here to find out more.
-      url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/open-house-programmes
+      url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/
       image: /images/2023 op banner final.png
       alt: Image alt text
       description: Join us at our open house to discover our world of innovation.
