@@ -6,7 +6,8 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Closure of General Office on 19 May 2023 (Closed at 4pm) & 5 June
+  2023 (Closed for Full Day)
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
