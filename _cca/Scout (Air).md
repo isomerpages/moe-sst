@@ -58,6 +58,11 @@ Using the Scout Method, every scout is empowered to be the principal agent of hi
 
 *   Frank Cooper Sands Award (Bronze)
 
+##### 2022
+*  Frank Cooper Sands Award (Silver)
+
+\*Note: Due to COVID-19, there is no FCSA assessment.
+
 
 ![](/images/CCA/scout%2001.jpg)
 *Aviation training: Glider making session*
