@@ -9,8 +9,8 @@ description: ""
 | --- | --- |
 | Singapore Citizen | $300 |
 | Permanent Resident | $850 |
-| International Student (ASEAN) | $1,600 |
-| International Student (Non-ASEAN) | $2,200 |
+| International Student (ASEAN) | $1,750 |
+| International Student (Non-ASEAN) | $2,400 |
 
 *Please note that there will be an additional miscellaneous fee of $30 per month.
 
