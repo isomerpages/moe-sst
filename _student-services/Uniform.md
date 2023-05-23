@@ -1,6 +1,6 @@
 ---
-title: Uniform and Book Shop
-permalink: /student-services/uniform-and-book-shop/
+title: Uniform
+permalink: /student-services/uniform/
 description: ""
 ---
 #### Jeep Sing Fashion
