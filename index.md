@@ -6,7 +6,9 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Closure of General Office on 5 June 2023 (Closed for Full Day)
+notification: "Closure of General Office on 5 June 2023 (Closed for Full Day).
+  GO Operating Hours During School Holidays: Mondays to Thursdays: 8.00 am to
+  4.30 pm,  Fridays: 8.00am to 4.00pm"
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
