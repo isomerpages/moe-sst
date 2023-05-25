@@ -23,11 +23,28 @@ Requirements:
 *   2 years of relevant working experience. Experience working in a school/educational environment will be an advantage
 *   Team player who is willing to step in when the situation calls for it
 
-**2) Head of Department, Mathematics**
+**2) Senior HR Executive**
+*   Handle full spectrum of HR function
+*   Maintain and update employees' personal files and HR Systems (SAGE Easypay)
+*   Prepare all employment-related documents, e.g. employment contact, letter etc  
+    
+*   To process monthly staff payroll
+*   To ensure all payroll transactions are processed accurately and efficiently, in accordance with regulations, including preparation of IR21, IR8A, leave pay and claims etc.
+*   On-boarding / Off-boarding formalities
+*   Processing of Government Bodies claim such as Maternity claims, Childcare leave claims, NSmen claims and statutory claims
+*   Provide support on office administrative matters where necessary
 
-**3) Education Officer, Humanities (Geography)**
+Requirements:
 
-**4) Education Officer, Sports & Wellness**
+*   Diploma in HRM or equivalent
+*   Resourceful, self-driven, and possessed a high degree of professional integrity
+*   Good interpersonal skills and works well in a team
+
+**3) Head of Department, Mathematics**
+
+**4) HOD, Mother Tongue Languages**
+
+**5) Education Officer, Sports & Wellness**
 
 If you enjoy working with youth and are passionate about sharing your expertise with them, come join us in transforming learning to groom future-ready students!
 
