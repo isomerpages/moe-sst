@@ -32,4 +32,6 @@ The SST phase 2 STEAM Challenge is an activity-based assessment where candidates
 
 All applicants will receive the outcome of their application **via email** at the end of the DSA-Sec Exercise. Applicants posted through the DSA-Sec Exercise are also not permitted to transfer to another school after the release of the PSLE results.
 
+#### International Student
+International students applying for admission to SST do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to their specialized curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to&nbsp;[https://www.moe.gov.sg/international-students/aeis.](https://www.moe.gov.sg/international-students/aeis)
 ###### *Information is correct as of 3 May 2023*
