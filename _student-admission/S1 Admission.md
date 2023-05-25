@@ -34,4 +34,4 @@ All applicants will receive the outcome of their application **via email** at th
 
 #### International Student
 International students applying for admission to SST do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to their specialized curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to&nbsp;[https://www.moe.gov.sg/international-students/aeis.](https://www.moe.gov.sg/international-students/aeis)
-###### *Information is correct as of 3 May 2023*
+###### *Information is correct as of 25 May 2023*
