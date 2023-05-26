@@ -42,7 +42,7 @@ Requirements:
 
 **3) Head of Department, Mathematics**
 
-**4) HOD, Mother Tongue Languages**
+**4) Head of Department, Mother Tongue Languages**
 
 **5) Education Officer, Sports & Wellness**
 
