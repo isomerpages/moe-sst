@@ -22,6 +22,14 @@ sections:
           description: Job Opportunities
           url: /sst-careers/
   - infopic:
+      title: From coding novice to tech mentor
+      subtitle: Alumni news
+      description: An inspiring journey with Apple's Swift Accelerator Programme
+      button: Click here to find out more
+      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
+      image: /images/bianco_kv.jpg
+      alt: Image alt text
+  - infopic:
       title: 2023 Open House
       subtitle: 27 May (Sat) | 8.30 am to 4 pm
       button: Click here to find out more.
