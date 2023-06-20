@@ -52,7 +52,9 @@ Requirements:
 
 **8) Education Officer, Computing**
 
-**9) Education Officer, Sports & Wellness**
+**9) Education Officer, English Language**
+
+**10) Education Officer, Sports & Wellness**
 
 For **Education Officer (Art, Design, Media & Technology),** the ideal candidate is steeped in the Design and/or Art discipline, and familiar with the use of technology to design and create products which are either graphics or prototypes in real-world contexts and applications.
 
@@ -62,9 +64,6 @@ For **Education Officer (Computing)**, the role includes creating and developi
 
 For **Education Officer (Sports & Wellness)**, candidates may be required to teach Innovation and Entrepreneurship if needed and will be guided to deliver the curriculum.  Innovation and Entrepreneurship is a module in the ChangeMakers Programme where students learn problem solving skills, understand key concepts of entrepreneurship like marketing and work on real world problems. 
 
-
-If you enjoy working with youth and are passionate about sharing your expertise with them, come join us in transforming learning to groom future-ready students!
-
 The role includes but is not limited to the following:
 
 *   Participate and contribute to the planning, development, and teaching of an integrated curriculum/assigned subject, this includes creating and developing units of study, lesson plans, assessments and appropriate rubics
@@ -73,6 +72,8 @@ The role includes but is not limited to the following:
 *   Be open to learning and adopt innovative pedagogies and technology
 
 For HOD position, candidates with at least 3 years in a Subject Head position may apply.
+
+If you enjoy working with youth and are passionate about sharing your expertise with them, come join us in transforming learning to groom future-ready students!
 
 * * *
 
