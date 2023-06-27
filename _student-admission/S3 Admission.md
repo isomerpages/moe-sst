@@ -3,7 +3,7 @@ title: S3 Admission
 permalink: /student-admission/s3-admission/
 description: ""
 ---
-### Admission for 2023 SST Secondary 3 (S3) Intake
+### Admission for 2024 SST Secondary 3 (S3) Intake
 
 Admission for 2023 SST S3 Intake is open to Secondary 2 (or equivalent) applicants who have a proclivity and passion in areas related to Science, Technology, Engineering, Aesthetics and Mathematics (STEAM). 
 
