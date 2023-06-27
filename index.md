@@ -6,13 +6,10 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "GO Operating Hours During School Holidays: Mondays to Thursdays:
-  8.00 am to 4.30 pm,  Fridays: 8.00am to 4.00pm"
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
-      url: /student-admission/s1-admission/
-      button: Direct School Admission 2023
       key_highlights:
         - title: Student Services
           description: Information for Parents
@@ -28,14 +25,6 @@ sections:
       url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
       image: /images/bianco_kv.jpg
       alt: Image alt text
-  - infopic:
-      title: 2023 Open House
-      subtitle: 27 May (Sat) | 8.30 am to 4 pm
-      button: Click here to find out more.
-      url: https://sites.google.com/sst.edu.sg/2023-sst-open-house/
-      image: /images/2023 op banner final.png
-      alt: Image alt text
-      description: Join us at our open house to discover our world of innovation.
   - infopic:
       title: SST and Infineon Technologies alliance
       subtitle: Event
