@@ -24,7 +24,7 @@ The application period is from **9 Oct 2023, 9.00 a.m. to 20 Oct 2023, 5.00 p.m.
 #### (d) How to apply?
 
 **(I) Complete application online:**  
-Applicants are to complete the&nbsp;[online application form](https://form.gov.sg/6332543aeb453b0012ecb898) to indicate their interest.
+Applicants are to complete the online application form (Link will made available on 9 Oct) to indicate their interest.
 
 **(II) Submit S2 End-of-Year Results:**
 
