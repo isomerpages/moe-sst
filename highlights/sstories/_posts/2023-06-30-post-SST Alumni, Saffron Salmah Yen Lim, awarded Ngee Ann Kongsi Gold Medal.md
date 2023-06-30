@@ -11,6 +11,6 @@ image: ""
 SST is pleased to share the news that our SST Alumni, Saffron Salman Yen Lim, was awarded the Ngee Ann Kongsi Gold Medal for being the most outstanding graduate from Ngee Ann Poly's Class of 2023. She had also received the Lee Kuan Yew Award for being one of the most outstanding graduates from a technology course in Ngee Ann Poly. 
 
 Read more about Saffron below. 
-![](/images/saffron%20np.png) Taken from NP's Graduation E-Book, on page 8.
+![](/images/saffron%20np.png) Taken from [NP's Graduation E-Book](https://www.np.edu.sg/graduation/ebook), on page 8.
 
 We would like to congratulate Saffron for her hard work and success, and we hope that she will serve as an inspiration to all our SST students!
