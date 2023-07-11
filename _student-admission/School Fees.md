@@ -21,7 +21,7 @@ Students are advised to keep the school updated with changes in your citizenship
 1.  &nbsp;All fees are collected through the Inter-bank Giro Scheme.
 2.  It is compulsory for parents / guardians of students to take part in the Inter-bank Giro scheme. Parents / guardians must have a savings or current account. Fees due from students will then be automatically deducted through the scheme.
 3.  The softcopy of the form in PDF is available below:
-    *   [APPLICATION FORM FOR INTERBANK GIRO](https://www-sst-edu-sg-admin.cwp.sg/wp-content/uploads/2019/04/APPLICATION-FORM-FOR-INTERBANK-GIRO_15072016-1.pdf)
+    *   [APPLICATION FOR INTERBANK GIRO](/files/application%20form%20for%20interbank%20giro.pdf)
 
 #### School Fees Giro Deduction Dates
 
