@@ -5,56 +5,19 @@ description: ""
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
 
-**1) Operations Executive**
+**1) Head of Department, Mathematics**
 
-The Operations Executive supports the Operations Manager in developmental projects, safety, and emergency matters. The responsibilities include, but are not limited to:
+**2) Education Officer, Art, Design, Media & Technology**
 
-*   Coordinate and oversee the execution of projects, this includes managing the schedule, budget, and progress update
-*   Partner with stakeholders for transformation projects, which includes identifying areas of improvement for efficiency and effectiveness purposes
-*   Manage and follow up on issues related to safety and security
-*   Manage logistics support for events and examinations
-*   Support facilities management when the need arises
-*   On the ground to ensure smooth operations during peak hours (e.g. managing vehicular and human traffic flow, checking on systems)
-*   Able to start work at 6.30 am
+**3) Education Officer, Biotechnology**
 
-Requirements:
+**4) Education Officer, Chinese Language**
 
-*   Diploma in Facilities Management/Building Services Engineering. Those without a Diploma but possess relevant experience may also apply
-*   2 years of relevant working experience. Experience working in a school/educational environment will be an advantage
-*   Team player who is willing to step in when the situation calls for it
+**5) Education Officer, Computing**
 
-**2) Senior HR Executive**
-*   Handle full spectrum of HR function
-*   Maintain and update employees' personal files and HR Systems (SAGE Easypay)
-*   Prepare all employment-related documents, e.g. employment contact, letter etc  
-    
-*   To process monthly staff payroll
-*   To ensure all payroll transactions are processed accurately and efficiently, in accordance with regulations, including preparation of IR21, IR8A, leave pay and claims etc.
-*   On-boarding / Off-boarding formalities
-*   Processing of Government Bodies claim such as Maternity claims, Childcare leave claims, NSmen claims and statutory claims
-*   Provide support on office administrative matters where necessary
+**6) Education Officer, English Language**
 
-Requirements:
-
-*   Diploma in HRM or equivalent
-*   Resourceful, self-driven, and possessed a high degree of professional integrity
-*   Good interpersonal skills and works well in a team
-
-**3) Head of Department, Mathematics**
-
-**4) Head of Department, Mother Tongue Languages**
-
-**5) Education Officer, Art, Design, Media & Technology**
-
-**6) Education Officer, Biotechnology**
-
-**7) Education Officer, Chinese Language**
-
-**8) Education Officer, Computing**
-
-**9) Education Officer, English Language**
-
-**10) Education Officer, Sports & Wellness**
+**7) Education Officer, Sports & Wellness**
 
 For **Education Officer (Art, Design, Media & Technology),** the ideal candidate is steeped in the Design and/or Art discipline, and familiar with the use of technology to design and create products which are either graphics or prototypes in real-world contexts and applications.
 
