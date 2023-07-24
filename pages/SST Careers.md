@@ -95,7 +95,7 @@ Responsibilities:
 *   Assist in annual budget and forecast exercise
     
 *   Supports school in general administration on student matters and student enquires
-    *   Any other ad hoc tasks as required
+*   Any other ad hoc tasks as required
     
 
 **Requirements:**
