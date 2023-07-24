@@ -5,19 +5,82 @@ description: ""
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
 
-**1) Head of Department, Mathematics**
+**1) Special Educational Needs Officer**
 
-**2) Education Officer, Art, Design, Media & Technology**
+As a Special Educational Needs Officer, you will support students with special educational needs in the school. 
 
-**3) Education Officer, Biotechnology**
+Examples of special educational needs are dyslexia, attention deficit hyperactivity disorder (ADHD), mild autism spectrum disorders, sensory impairments, and physical impairments.
 
-**4) Education Officer, Chinese Language**
+  
 
-**5) Education Officer, Computing**
+**Roles and Responsibilities**
+*   Communicating with specialists, parents and teachers regarding the development, implementation and monitoring of an Individual Educational Plan for students
+    
+*   Working with and supporting students with SEN with necessary learning adjustments
+    
+*   Collect and collate data and information regarding the needs and progress of students
+    
+*   Assist with the development of school-wide policies, practices and programmes to assist in identifying and addressing the needs of students
+    
+*   Provide training and development to staff in strengthening the capacity of teachers to meet the needs of the students with SEN
+    
 
-**6) Education Officer, English Language**
+**Requirements**
 
-**7) Education Officer, Sports & Wellness**
+*   Passion and disposition to work with students with SEN
+    
+*   Resourceful and good problem-solving skills
+    
+*   Ability to build positive relationships with students, parents and staff
+    
+*   A demonstrated ability to work collaboratively with other staff contributing as a proactive and engaged member of a professional learning community
+    
+*   Special Education qualification/s are preferred
+    
+*   Experience working with SEN students is preferred
+    
+*   Exceptional communication, interpersonal and organisational skills
+    
+*   Competency in record keeping and report writing
+    
+
+  
+
+**2) Senior/Human Resource & School Administration Executive**
+
+  
+
+**Roles and Responsibilities**
+
+*   Handle full spectrum of HR function
+*   Maintain and update employees' personal files and HR Systems (SAGE Easypay)
+*   Prepare all employment-related documents, e.g. employment contact, letter etc  
+    
+*   To process monthly staff payroll
+*   To ensure all payroll transactions are processed accurately and efficiently, in accordance with regulations, including preparation of IR21, IR8A, leave pay and claims etc.
+*   On-boarding / Off-boarding formalities
+*   Processing of Government Bodies claim such as Maternity claims, Childcare leave claims, NSmen claims and statutory claims
+*   Provide support on office administrative matters where necessary
+
+**Requirements**
+
+*   Diploma in HRM or equivalent
+*   Resourceful, self-driven, and possessed a high degree of professional integrity
+*   Good interpersonal skills and works well in a team
+
+**3) Head of Department, Mathematics**
+
+**4) Education Officer, Art, Design, Media & Technology**
+
+**5) Education Officer, Biotechnology**
+
+**6) Education Officer, Chinese Language**
+
+**7) Education Officer, Computing**
+
+**8) Education Officer, English Language**
+
+**9) Education Officer, Sports & Wellness**
 
 For **Education Officer (Art, Design, Media & Technology),** the ideal candidate is steeped in the Design and/or Art discipline, and familiar with the use of technology to design and create products which are either graphics or prototypes in real-world contexts and applications.
 
