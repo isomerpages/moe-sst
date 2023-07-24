@@ -68,19 +68,66 @@ Examples of special educational needs are dyslexia, attention deficit hyperactiv
 *   Resourceful, self-driven, and possessed a high degree of professional integrity
 *   Good interpersonal skills and works well in a team
 
-**3) Head of Department, Mathematics**
+**3) Finance & Student Affairs Executive**
 
-**4) Education Officer, Art, Design, Media & Technology**
+Responsibilities:
 
-**5) Education Officer, Biotechnology**
+*   Post suppliers’ invoices to accounting system and prepare payment
+    
+*   Prepare monthly school and other fees’ schedule for collection of fees
+    
+*   Prepare and post journals when necessary
+    
+*   Prepare Bank Reconciliation
+    
+*   Prepare monthly AR ageing report and follow up on outstanding school and other fees
+    
+*   Monitor budget and prepare monthly budget utilization reports
+    
+*   Prepare GST returns and MOE grants’ returns
+    
+*   Maintain Fixed Asset schedules and perform annual asset verification
+    
+*   Handle procurement of goods and services
+    
+*   Assist in audit queries and prepare audit schedules
+    
+*   Assist in annual budget and forecast exercise
+    
+*   Supports school in general administration on student matters and student enquires
+*   Any other ad hoc tasks as required
+    
 
-**6) Education Officer, Chinese Language**
+**Requirements:**
 
-**7) Education Officer, Computing**
+*   Diploma in Accountancy/Business or equivalent (Fresh Diploma holders are welcome)
+    
+*   Those without a Diploma but has relevant work experience are welcome
+    
+*   Knowledge of Accpac Accounting System preferred  
+    
+*   Proficient in Microsoft Office
+    
+*   Good communication and interpersonal skills
+    
+*   Meticulous, independent, resourceful and able to work under minimal supervision
+    
+*   Strong organizational, administrative and time management skills
 
-**8) Education Officer, English Language**
 
-**9) Education Officer, Sports & Wellness**
+**4) Head of Department, Mathematics**
+
+**5) Education Officer, Art, Design, Media & Technology**
+
+**6) Education Officer, Biotechnology**
+
+**7) Education Officer, Chinese Language**
+
+**8) Education Officer, Computing**
+
+**9) Education Officer, English Language**
+
+**10) Education Officer, Sports & Wellness**
 
 For **Education Officer (Art, Design, Media & Technology),** the ideal candidate is steeped in the Design and/or Art discipline, and familiar with the use of technology to design and create products which are either graphics or prototypes in real-world contexts and applications.
 
