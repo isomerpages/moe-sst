@@ -6,8 +6,8 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The General Office will be closed at 3pm on 8th August, and will
-  be closed for the full day on 9th & 10th August.
+notification: "Note: Early closure of the General Office on 8th August at 3pm.
+  GO will also be closed for the full day from 9th to 10th August."
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
