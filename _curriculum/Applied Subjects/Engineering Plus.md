@@ -1,6 +1,6 @@
 ---
-title: Engineer Plus
-permalink: /applied-subjects/engineer/
+title: Engineering Plus
+permalink: /applied-subjects/engineering-plus/
 description: ""
 third_nav_title: Applied Subjects
 ---
