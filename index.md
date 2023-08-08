@@ -7,7 +7,7 @@ description: |-
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: "Announcement: Early closure of the General Office on 8th August
-  at 3pm. GO will also be closed for the full day from 9th to 10th August."
+  at 2pm. GO will also be closed for the full day from 9th to 10th August."
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
