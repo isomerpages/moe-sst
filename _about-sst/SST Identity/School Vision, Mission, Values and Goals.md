@@ -36,4 +36,4 @@ At SST, students will be nurtured to become:
 *   Critical Thinkers and Life-long Learners 
 *   Future Leaders with Exemplary Character 
 *   Creative Problem Finders & Solvers 
-*   Active Stewards in Service of Humanity 
+*   Active Stewards in Service of Humanity
