@@ -33,8 +33,7 @@ SST is an ecological entity unto itself, where individuals with diverse interest
 
 At SST, students will be nurtured to become:
 
-*   **Life-long learners of Character** who are imbued with intellectual curiosity and humility, and intrinsic motivation to continue to learn and grow, whilst squarely anchored in ethical values.
-*   **Creative Thinkers and Innovators** who possess inquiring and inventive minds with the confidence and courage to seize and transform opportunities for the benefit of society.
-*   **Collaborative and Independent Problem Solvers** who are self-directed individuals, yet value participation and contributions from others, as they recognise the inextricable interdependence of humanity in managing the challenges that abound.
-*   **Dynamic Leaders in Service of Humanity** who are movers and shakers; and who challenge the status quo to improve society.
-*   **Active Local and Global Citizens** who are stewards of their lives and the community beyond; and who bridge cultures, beliefs and international borders to create a better world.
+*   Critical Thinkers and Life-long Learners 
+*   Future Leaders with Exemplary Character 
+*   Creative Problem Finders & Solvers 
+*   Active Stewards in Service of Humanity
