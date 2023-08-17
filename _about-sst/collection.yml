@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Test/Integrated Diploma Programme.md
       - Test/FAQs.md
       - Test/.keep
       - Board of Directors.md
