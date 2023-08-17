@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - FAQs/.keep
       - Integrated Diploma Programme.md
       - FAQ/.keep
       - Board of Directors.md
@@ -21,3 +20,4 @@ collections:
       - Student's Code of Conduct.md
       - School Rules & Regulation.md
       - Publication.md
+      - FAQs/.keep
