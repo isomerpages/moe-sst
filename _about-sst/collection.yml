@@ -2,8 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Integrated Diploma Programme.md
-      - FAQ/.keep
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
@@ -20,4 +18,6 @@ collections:
       - Student's Code of Conduct.md
       - School Rules & Regulation.md
       - Publication.md
+      - FAQ/.keep
+      - Integrated Diploma Programme.md
       - FAQs/.keep
