@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Test/.keep
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
