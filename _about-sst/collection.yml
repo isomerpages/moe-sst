@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - FAQs/.keep
       - Integrated Diploma Programme.md
       - FAQ/.keep
       - Board of Directors.md
