@@ -2,9 +2,9 @@ collections:
   about-sst:
     output: true
     order:
-      - Test/Integrated Diploma Programme.md
-      - Test/FAQs.md
-      - Test/.keep
+      - FAQ/Integrated Diploma Programme.md
+      - FAQ/FAQs.md
+      - FAQ/.keep
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
