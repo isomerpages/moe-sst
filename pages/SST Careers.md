@@ -5,57 +5,25 @@ description: ""
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
 
-**1) Special Educational Needs Officer**
+**1) Operations Manager**
 
-As a Special Educational Needs Officer, you will support students with special educational needs in the school. 
+The Operations Manager reports to the Vice Principal(Adminstration) and is a key member of the School Administration Team. He/She leads a team of Executives and vendors to manage the following areas.
 
-Examples of special educational needs are dyslexia, attention deficit hyperactivity disorder (ADHD), mild autism spectrum disorders, sensory impairments, and physical impairments.
-
-  
-
-**Roles and Responsibilities**
-*   Communicating with specialists, parents and teachers regarding the development, implementation and monitoring of an Individual Educational Plan for students
+*   Facilities and estate management, including improvement works for school buildings*   Mechanical & Electrical system
+*   Pest control and landscape
+*   School safety and security, including traffic management*   Emergency preparedness
+*   Logistics support for school programmes
+*   Canteen and cafe operations
+*   Fire Safety Manager role
     
-*   Working with and supporting students with SEN with necessary learning adjustments
-    
-*   Collect and collate data and information regarding the needs and progress of students
-    
-*   Assist with the development of school-wide policies, practices and programmes to assist in identifying and addressing the needs of students
-    
-*   Provide training and development to staff in strengthening the capacity of teachers to meet the needs of the students with SEN
-    
-
-**Requirements**
-
-*   Passion and disposition to work with students with SEN
-    
-*   Resourceful and good problem-solving skills
-    
-*   Ability to build positive relationships with students, parents and staff
-    
-*   A demonstrated ability to work collaboratively with other staff contributing as a proactive and engaged member of a professional learning community
-    
-*   Special Education qualification/s are preferred
-    
-*   Experience working with SEN students is preferred
-    
-*   Exceptional communication, interpersonal and organisational skills
-    
-*   Competency in record keeping and report writing
-    
-
-  
 
 **2) Senior/Human Resource & School Administration Executive**
-
-  
 
 **Roles and Responsibilities**
 
 *   Handle full spectrum of HR function
 *   Maintain and update employees' personal files and HR Systems (SAGE Easypay)
 *   Prepare all employment-related documents, e.g. employment contact, letter etc  
-    
 *   To process monthly staff payroll
 *   To ensure all payroll transactions are processed accurately and efficiently, in accordance with regulations, including preparation of IR21, IR8A, leave pay and claims etc.
 *   On-boarding / Off-boarding formalities
@@ -117,25 +85,13 @@ Responsibilities:
 
 **4) Head of Department, Mathematics**
 
-**5) Education Officer, Art, Design, Media & Technology**
+**5) Education Officer, Science/Physics**
 
-**6) Education Officer, Biotechnology**
+**6) Education Officer, Computing**
 
-**7) Education Officer, Chinese Language**
-
-**8) Education Officer, Computing**
-
-**9) Education Officer, English Language**
-
-**10) Education Officer, Sports & Wellness**
-
-For **Education Officer (Art, Design, Media & Technology),** the ideal candidate is steeped in the Design and/or Art discipline, and familiar with the use of technology to design and create products which are either graphics or prototypes in real-world contexts and applications.
-
-For **Education Officer (Biotechnology)**, candidates must have a degree/diploma in Life Sciences (with specialisation in molecular and cell biology), have experience teaching pure Biology at Upper Secondary level and be open to teaching Lower Secondary Science. 
+**7) Education Officer, English Language**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
-
-For **Education Officer (Sports & Wellness)**, candidates may be required to teach Innovation and Entrepreneurship if needed and will be guided to deliver the curriculum.  Innovation and Entrepreneurship is a module in the ChangeMakers Programme where students learn problem solving skills, understand key concepts of entrepreneurship like marketing and work on real world problems. 
 
 The role includes but is not limited to the following:
 
