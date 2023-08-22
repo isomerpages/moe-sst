@@ -85,11 +85,11 @@ Responsibilities:
 
 **4) Head of Department, Mathematics**
 
-**5) Education Officer, Science/Physics**
+**5) Education Officer, Computing**
 
-**6) Education Officer, Computing**
+**6) Education Officer, English Language**
 
-**7) Education Officer, English Language**
+**7) Education Officer, Science/Physics**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
 
