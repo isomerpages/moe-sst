@@ -15,6 +15,16 @@ The Operations Manager reports to the Vice Principal(Adminstration) and is a key
 *   Logistics support for school programmes
 *   Canteen and cafe operations
 *   Fire Safety Manager role
+
+**Requirements**
+*   Minimum Diploma in Facilities Management/Building Services Engineering or equivalent
+*   Fire Safety Manager certification would be an advantage
+*   Relevant experience in lieu of qualifications will be considered
+*   5 years of relevant working experience, including managing a team of executives
+*   Experience in a school/educational environment will be an advantage
+*   Proficient in contract and facilities management
+*   Keen eye on safety and security issues
+*   Good sense of emergency management
     
 
 **2) Senior/Human Resource & School Administration Executive**
