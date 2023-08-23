@@ -27,3 +27,8 @@ Currently, the SST-NP IDP is only for SST students.
 IDP and mainstream students on the IDP pay the same fees. 
 Click [here](https://www.sst.edu.sg/student-admission/school-fees/) for more information.
 
+##### Do IDP students need to take the GCE O-Level Examination? 
+IDP students do not need to take the GCE O-Level Examination with the exception of Mother Tongue Language / Higher Mother Tongue Language, which is a national requirement. 
+
+##### How are students assessed in the SST-NP IDP Programme?
+IDP students would be assessed through school-based assessments and must obtain at least a pass for their capstone project when in Secondary 4.
