@@ -46,7 +46,40 @@ The Operations Manager reports to the Vice Principal(Adminstration) and is a key
 *   Resourceful, self-driven, and possessed a high degree of professional integrity
 *   Good interpersonal skills and works well in a team
 
-**3) Finance & Student Affairs Executive**
+**3) Senior Finance and Student Services Executive**
+
+Reporting to the Manager, the Senior Executive's roles and responsibilities are:
+
+Provide administrative support for Student Affairs matters such as 
+*   Overseas Learning Enrichment trips
+*   Admissions
+*   External services, such as health screening and vaccinations, dental services, NRIC registration
+*   Student Withdrawals and transfers 
+*   Student insurance
+*   CCA Instructor appointments
+
+Administer Scholarship programmes and Financial Assistance Schemes  
+    
+* Manage School bookshop and uniform shop vendors
+* Attend to students who are sick or injured
+* Respond to the front desk and general phone line enquiries as backup for primary front desk staff
+* Any other duties as assigned by Reporting Officer
+
+Requirements:
+
+*   Diploma in Business Administration or equivalent with at least 5 years of experience in general administration 
+    
+*   Those without a Diploma but has relevant work experience are welcome
+    
+*   Proficient in Microsoft Office
+    
+*   Good communication and interpersonal skills
+    
+*   Meticulous, independent, resourceful and able to work under minimal supervision
+    
+*   Strong organizational, administrative and time management skills
+
+**4) Finance & Student Affairs Executive**
 
 Responsibilities:
 
@@ -93,13 +126,13 @@ Responsibilities:
 *   Strong organizational, administrative and time management skills
 
 
-**4) Head of Department, Mathematics**
+**5) Head of Department, Mathematics**
 
-**5) Education Officer, Computing**
+**6) Education Officer, Computing**
 
-**6) Education Officer, English Language**
+**7) Education Officer, English Language**
 
-**7) Education Officer, Science/Physics**
+**8) Education Officer, Science/Physics**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
 
