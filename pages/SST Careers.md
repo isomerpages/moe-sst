@@ -50,15 +50,9 @@ The Operations Manager reports to the Vice Principal(Adminstration) and is a key
 
 Reporting to the Manager, the Senior Executive's roles and responsibilities are:
 
-Provide administrative support for Student Affairs matters such as 
-*   Overseas Learning Enrichment trips
-*   Admissions
-*   External services, such as health screening and vaccinations, dental services, NRIC registration
-*   Student Withdrawals and transfers 
-*   Student insurance
-*   CCA Instructor appointments
+* Provide administrative support for Student Affairs matters such as Overseas Learning Enrichment trips, Admissions, External services, such as health screening and vaccinations, dental services, NRIC registration, Student Withdrawals and transfers, Student insurance and CCA Instructor appointments
 
-Administer Scholarship programmes and Financial Assistance Schemes  
+* Administer Scholarship programmes and Financial Assistance Schemes  
     
 * Manage School bookshop and uniform shop vendors
 * Attend to students who are sick or injured
