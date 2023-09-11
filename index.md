@@ -6,8 +6,7 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "To facilitate the Presidential Election, the school campus will
-  be closed on 31st August 2023. "
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
