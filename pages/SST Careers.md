@@ -4,30 +4,8 @@ permalink: /sst-careers/
 description: ""
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
-
-**1) Operations Manager**
-
-The Operations Manager reports to the Vice Principal(Adminstration) and is a key member of the School Administration Team. He/She leads a team of Executives and vendors to manage the following areas.
-
-*   Facilities and estate management, including improvement works for school buildings*   Mechanical & Electrical system
-*   Pest control and landscape
-*   School safety and security, including traffic management*   Emergency preparedness
-*   Logistics support for school programmes
-*   Canteen and cafe operations
-*   Fire Safety Manager role
-
-**Requirements**
-*   Minimum Diploma in Facilities Management/Building Services Engineering or equivalent
-*   Fire Safety Manager certification would be an advantage
-*   Relevant experience in lieu of qualifications will be considered
-*   5 years of relevant working experience, including managing a team of executives
-*   Experience in a school/educational environment will be an advantage
-*   Proficient in contract and facilities management
-*   Keen eye on safety and security issues
-*   Good sense of emergency management
     
-
-**2) Senior/Human Resource & School Administration Executive**
+**1) Senior/Human Resource & School Administration Executive**
 
 **Roles and Responsibilities**
 
@@ -46,13 +24,13 @@ The Operations Manager reports to the Vice Principal(Adminstration) and is a key
 *   Resourceful, self-driven, and possessed a high degree of professional integrity
 *   Good interpersonal skills and works well in a team
 
-**3) Head of Department, Mathematics**
+**2) Head of Department, Mathematics**
 
-**4) Education Officer, Computing**
+**3) Education Officer, Computing**
 
-**5) Education Officer, English Language**
+**4) Education Officer, English Language**
 
-**6) Education Officer, Science/Physics**
+**5) Education Officer, Science/Physics**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
 
