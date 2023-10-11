@@ -6,6 +6,7 @@ description: ""
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
 
 **1) Senior/Student Affairs and Services Executive**
+
 Reporting to the Manager, **the roles and responsibilities are:**
 
 1) Provide administrative support for Student Affairs matters such as
