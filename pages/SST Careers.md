@@ -16,14 +16,15 @@ Reporting to the Manager, **the roles and responsibilities are:**
 *   Student insurance
 *   CCA Instructor appointments
 
-2. Administer Scholarship programmes and Financial Assistance Schemes
+2) Administer Scholarship programmes and Financial Assistance Schemes
 
-3. Manage school bookshop and uniform shop vendors
+3) Manage school bookshop and uniform shop vendors
 
-4. Attend to students who are sick or injured
+4) Attend to students who are sick or injured
 
-5. Respond to the front desk and general phone line enquiries as backup for primary front desk staff
-6. Any other duties as assigned by the Reporting Officer
+5) Respond to the front desk and general phone line enquiries as backup for primary front desk staff
+
+6) Any other duties as assigned by the Reporting Officer
 
 **Requirements:**
 
