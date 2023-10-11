@@ -6,10 +6,9 @@ description: ""
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
 
 **1) Senior/Student Affairs and Services Executive**
-
 Reporting to the Manager, **the roles and responsibilities are:**
 
-`1) Provide administrative support for Student Affairs matters such as`
+1) Provide administrative support for Student Affairs matters such as
 * Overseas Learning Enrichment trips
 *   Admissions
 *   External services, such as health screening and vaccinations, dental services, NRIC registration
@@ -17,15 +16,14 @@ Reporting to the Manager, **the roles and responsibilities are:**
 *   Student insurance
 *   CCA Instructor appointments
 
-`2. Administer Scholarship programmes and Financial Assistance Schemes   `
+2. Administer Scholarship programmes and Financial Assistance Schemes
 
-`3. Manage school bookshop and uniform shop vendors`
+3. Manage school bookshop and uniform shop vendors
 
-`4. Attend to students who are sick or injured`
+4. Attend to students who are sick or injured
 
-`5. Respond to the front desk and general phone line enquiries as backup for primary front desk staff`
-
-`6. Any other duties as assigned by the Reporting Officer`
+5. Respond to the front desk and general phone line enquiries as backup for primary front desk staff
+6. Any other duties as assigned by the Reporting Officer
 
 **Requirements:**
 
