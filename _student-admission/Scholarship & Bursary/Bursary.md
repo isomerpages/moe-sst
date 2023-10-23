@@ -2,7 +2,7 @@
 title: Bursary
 permalink: /student-admission/scholarship-bursary/bursary/
 description: ""
-third_nav_title: Scholarship &amp; Bursary
+third_nav_title: Scholarship & Bursary
 ---
 #### MOE Independent School Bursary (ISB)
 
@@ -10,7 +10,7 @@ Students (Singapore Citizens) who successfully gain admission into SST may apply
 
 ##### **How to Apply?**
 
-Students who wish to apply for the bursary can obtain the application form from SST General Office, or download and print a copy of the&nbsp;[MOE ISB Application Form](https://www-sst-edu-sg-admin.cwp.sg/wp-content/uploads/2022/10/MOE-ISB-Application-Form-October-2022.pdf)
+Students who wish to apply for the bursary can obtain the application form from SST General Office, or download and print a copy of the [MOE ISB Application Form](https://www.moe.gov.sg/-/media/files/financial-matters/moe-isb-application-form-oct2022.pdf).
 
 Students may also apply for the MOE ISB at any time throughout the academic year should the need arise. The bursary will take effect in the month the application is approved. There will be&nbsp;**NO**&nbsp;backdating of the effective month.
 
