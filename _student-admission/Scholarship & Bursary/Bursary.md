@@ -10,7 +10,7 @@ Students (Singapore Citizens) who successfully gain admission into SST may apply
 
 ##### **How to Apply?**
 
-Students who wish to apply for the bursary can obtain the application form from SST General Office, or download and print a copy of the [MOE ISB Application Form](https://www.moe.gov.sg/-/media/files/financial-matters/moe-isb-application-form-oct2022.pdf).
+Students who wish to apply for the bursary can obtain the application form from SST General Office, or download and print a copy of the [MOE ISB Application Form](/files/moe%20isb%20application%20form.pdf).
 
 Students may also apply for the MOE ISB at any time throughout the academic year should the need arise. The bursary will take effect in the month the application is approved. There will be&nbsp;**NO**&nbsp;backdating of the effective month.
 
