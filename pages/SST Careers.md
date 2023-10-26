@@ -26,11 +26,11 @@ Envisioned to be a global leader in transforming learning, the School of Science
 
 **2) Head of Department, Mathematics**
 
-**3) Education Officer, Mathematics**
+**3) Education Officer, Computing**
 
-**4) Education Officer, Computing**
+**4) Education Officer, English Language**
 
-**5) Education Officer, English Language**
+**5) Education Officer, Mathematics**
 
 **6) Education Officer, Science/Physics**
 
