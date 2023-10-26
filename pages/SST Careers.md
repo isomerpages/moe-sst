@@ -4,44 +4,8 @@ permalink: /sst-careers/
 description: ""
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
-
-**1) Senior/Student Affairs and Services Executive**
-
-Reporting to the Manager, **the roles and responsibilities are:**
-
-1) Provide administrative support for Student Affairs matters such as
-* Overseas Learning Enrichment trips
-*   Admissions
-*   External services, such as health screening and vaccinations, dental services, NRIC registration
-*   Student Withdrawals and transfers 
-*   Student insurance
-*   CCA Instructor appointments
-
-2) Administer Scholarship programmes and Financial Assistance Schemes
-
-3) Manage school bookshop and uniform shop vendors
-
-4) Attend to students who are sick or injured
-
-5) Respond to the front desk and general phone line enquiries as backup for primary front desk staff
-
-6) Any other duties as assigned by the Reporting Officer
-
-**Requirements:**
-
-*   Diploma in Business Administration or equivalent with at least 5 years of experience in general administration 
     
-*   Those without a Diploma but has relevant work experience are welcome
-    
-*   Proficient in Microsoft Office
-    
-*   Good communication and interpersonal skills
-    
-*   Meticulous, independent, resourceful and able to work under minimal supervision
-    
-*   Strong organizational, administrative and time management skills
-    
-**2) Senior/Human Resource & School Administration Executive**
+**1) Senior/Human Resource & School Administration Executive**
 
 **Roles and Responsibilities**
 
@@ -60,11 +24,13 @@ Reporting to the Manager, **the roles and responsibilities are:**
 *   Resourceful, self-driven, and possessed a high degree of professional integrity
 *   Good interpersonal skills and works well in a team
 
-**3) Head of Department, Mathematics**
+**2) Head of Department, Mathematics**
 
-**4) Education Officer, Computing**
+**3) Education Officer, Computing**
 
-**5) Education Officer, English Language**
+**4) Education Officer, English Language**
+
+**5) Education Officer, Mathematics**
 
 **6) Education Officer, Science/Physics**
 
