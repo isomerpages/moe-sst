@@ -2,9 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Publication/.keep
-      - Publication/Yearbook.md
-      - Publication/The SSTraits Times.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
@@ -20,8 +17,11 @@ collections:
       - SST Identity/Hexagons.md
       - Student's Code of Conduct.md
       - School Rules & Regulation.md
-      - FAQs/Integrated Diploma Programme.md
+      - Publication/.keep
+      - Publication/Yearbook.md
+      - Publication/The SSTraits Times.md
       - FAQs/.keep
+      - FAQs/Integrated Diploma Programme.md
       - FAQs/General Matters.md
       - FAQs/Curriculum Matters.md
       - FAQs/Financial Matters.md
