@@ -2,7 +2,7 @@ collections:
   about-sst:
     output: true
     order:
-      - Publication/Publication.md
+      - Publication/Yearbook.md
       - Publication/.keep
       - Board of Directors.md
       - School Exco Team/.keep
