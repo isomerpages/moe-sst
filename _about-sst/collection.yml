@@ -2,9 +2,9 @@ collections:
   about-sst:
     output: true
     order:
-      - Publication/The SSTraits Times.md
-      - Publication/Yearbook.md
       - Publication/.keep
+      - Publication/Yearbook.md
+      - Publication/The SSTraits Times.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
