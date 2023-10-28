@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Publication/.keep
-      - Publication.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
