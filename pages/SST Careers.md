@@ -46,15 +46,15 @@ Envisioned to be a global leader in transforming learning, the School of Science
 * Able to take initiative and work closely with relevant stakeholders to achieve desired outcomes  
 * Independent, resourceful, meticulous and able to independently produce reports, manuals, and training programmes, where relevant
 
-**2) Head of Department, Mathematics**
+**3) Head of Department, Mathematics**
 
-**3) Education Officer, Computing**
+**4) Education Officer, Computing**
 
-**4) Education Officer, English Language**
+**5) Education Officer, English Language**
 
-**5) Education Officer, Mathematics**
+**6) Education Officer, Mathematics**
 
-**6) Education Officer, Science/Physics**
+**7) Education Officer, Science/Physics**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
 
