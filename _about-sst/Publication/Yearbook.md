@@ -1,7 +1,8 @@
 ---
-title: Publication
-permalink: /about-us/publication/
+title: Yearbook
+permalink: /about-us/publication/yearbook/
 description: ""
+third_nav_title: Publication
 ---
 #### SST Yearbooks
 
