@@ -2,9 +2,9 @@ collections:
   student-admission:
     output: true
     order:
-      - S1 Admission/Supplementary Intake Exercise.md
-      - S1 Admission/Direct School Admission.md
       - S1 Admission/.keep
+      - S1 Admission/Direct School Admission.md
+      - S1 Admission/Supplementary Intake Exercise.md
       - DSA Selection Criteria.md
       - S3 Admission.md
       - Returning Singaporean.md
