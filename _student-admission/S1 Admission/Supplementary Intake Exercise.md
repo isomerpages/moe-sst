@@ -16,3 +16,18 @@ The Supplementary Intake Exercise is an admission exercise for primary six stude
 2.  For successful SIE applicants, their school choices in the S1 Posting will be void but their Third Language(s) options will continue to apply.
 3.  For unsuccessful SIE applicants, they will be posted based on their school choices and Third Language option(s) (if applicable) in the S1 Posting.
 4.  Candidates who are offered a place in SST will need to sign an acceptance form in person to complete the SIE.
+
+
+#### APPLICATION PROCESS
+
+Applicants must create a unique account and apply through the following link: https://dsa.sst.edu.sg/SIE/login/
+
+The following documents should be submitted **online** to complete the application:
+
+1. Student EZ-Link Card/Passport (or equivalent photo-identification);
+2. PSLE Results Slip with the subject grades and PSLE score clearly shown;
+3. Unfilled MOE S1 Options Form that shows the applicant is not posted to a school via DSA;
+4. P5 Mid Year and Overall Results from School Report Book;
+5. P6 Mid Year and Prelim Results from School Report Book;
+6. CCA/Relevant Achievements (if any).
+
