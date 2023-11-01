@@ -28,3 +28,13 @@ The following documents should be submitted **online** to complete the applicati
 4. P5 Mid Year and Overall Results from School Report Book;
 5. P6 Mid Year and Prelim Results from School Report Book;
 6. CCA/Relevant Achievements (if any).
+
+Incomplete applications will not be considered.
+
+Only shortlisted candidates will be informed and invited to a face-to-face selection interview. The interview will be conducted in SST. Shortlisted candidates are only required to attend one session.
+
+The final outcome of the exercise will be made known to all applicants via email. 
+
+For further enquiries on SIE, please contact SST at 65717200 (General Office) or admission@ssts.edu.sg
+
+*Information is correct as of 16 Nov 2022*
