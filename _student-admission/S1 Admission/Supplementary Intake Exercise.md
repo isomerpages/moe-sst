@@ -10,8 +10,6 @@ The Supplementary Intake Exercise is an admission exercise for primary six stude
 
 ##### IMPORTANT INFORMATION AND DATES
 
-
-
 1. Students applying to SST will continue to participate in S1 Posting to choose schools and select Third Language option(s), if applicable.
 2.  For successful SIE applicants, their school choices in the S1 Posting will be void but their Third Language(s) options will continue to apply.
 3.  For unsuccessful SIE applicants, they will be posted based on their school choices and Third Language option(s) (if applicable) in the S1 Posting.
@@ -30,4 +28,3 @@ The following documents should be submitted **online** to complete the applicati
 4. P5 Mid Year and Overall Results from School Report Book;
 5. P6 Mid Year and Prelim Results from School Report Book;
 6. CCA/Relevant Achievements (if any).
-
