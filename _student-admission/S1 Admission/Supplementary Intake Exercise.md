@@ -37,4 +37,4 @@ The final outcome of the exercise will be made known to all applicants via email
 
 For further enquiries on SIE, please contact SST at 65717200 (General Office) or admission@ssts.edu.sg
 
-*Information is correct as of 16 Nov 2022*
+*Information is correct as of 1 Nov 2023*
