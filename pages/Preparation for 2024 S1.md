@@ -60,4 +60,4 @@ The AUP is intended to prescribe effective, ethical and lawful use of ICT resour
 
 Students and parents will be briefed about the terms of AUP during the Secondary 1 Orientation and Parent Engagement Session, respectively. Parents are encouraged to go through the AUP with the students before accepting the AUP in electronic form. 
 
-Click [HERE](http://studentsblog.sst.edu.sg/p/acceptable-use-policy-aup.html) to view the AUP**
+Click [HERE](http://studentsblog.sst.edu.sg/p/acceptable-use-policy-aup.html) to view the AUP
