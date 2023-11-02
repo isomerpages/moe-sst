@@ -61,3 +61,14 @@ The AUP is intended to prescribe effective, ethical and lawful use of ICT resour
 Students and parents will be briefed about the terms of AUP during the Secondary 1 Orientation and Parent Engagement Session, respectively. Parents are encouraged to go through the AUP with the students before accepting the AUP in electronic form. 
 
 Click [HERE](http://studentsblog.sst.edu.sg/p/acceptable-use-policy-aup.html) to view the AUP
+
+
+###### 2.6 Personal Data Protection Act (PDPA)
+
+SST has established a personal data privacy policy in view of the enactment of the Personal Data Protection Act effective since 2 July 2014. This pertains to SST’s collection and use of data belonging to you or your child. SST will/may collect, use, disclose and/or process your child/children and/or your personal data for various purposes. 
+
+In administering and/or managing activities organised and/or held by SST, please note that photographs(s) or video/interview images of your child/children and/or you may be taken during such activities and used, disclosed, processed and published in materials (both soft and hard copy) such as on our online social media platforms, newsletters or other publications.
+
+For more details, please view the [Privacy Policy](https://www.sst.edu.sg/privacy/) on the SST website.  
+  
+If you have any questions relating to our collection, use, disclosure and/or process of your child/children and/or your personal data or matters set out in this document, please email us at [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg).  If you wish to withdraw your consent in part or as a whole, please state details of your withdrawal request and email it to [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg)
