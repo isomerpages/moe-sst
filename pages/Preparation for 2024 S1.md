@@ -80,4 +80,6 @@ In administering and/or managing activities organised and/or held by SST, please
 
 For more details, please view the [Privacy Policy](https://www.sst.edu.sg/privacy/) on the SST website.  
   
-If you have any questions relating to our collection, use, disclosure and/or process of your child/children and/or your personal data or matters set out in this document, please email us at [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg).  If you wish to withdraw your consent in part or as a whole, please state details of your withdrawal request and email it to [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg)
+If you have any questions relating to our collection, use, disclosure and/or process of your child/children and/or your personal data or matters set out in this document, please email us at [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg).  
+
+If you wish to withdraw your consent in part or as a whole, please state details of your withdrawal request and email it to [contactus@sst.edu.sg](mailto:contactus@sst.edu.sg)
