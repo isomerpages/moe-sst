@@ -49,3 +49,7 @@ The school website, [www.sst.edu.sg](http://www.sst.edu.sg), is the general port
 For SST parents, we have planned the following channels of communication: 
 
 A Principal’s letter will be sent via the [Parents Gateway](https://pg.moe.edu.sg/) at the start of every school term (Week 2) and end of every school semester to inform you of SST’s current activities and future events regularly. The Parents Gateway is a new digital platform developed by the Ministry of Education and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities. Parents who do not have access to Parents Gateway may email [ssd@sst.edu.sg](mailto:ssd@sst.edu.sg) for information regarding the onboarding procedure.
+
+###### 2.4 SST Official Social Media Platforms
+
+For regular updates on our students,  school events and achievements, follow our official social media platforms: [Facebook](https://www.facebook.com/ssts.1technologydrive/), [Twitter](https://twitter.com/SSTSingapore?lang=en), and [YouTube](https://www.youtube.com/user/SSTSingapore).
