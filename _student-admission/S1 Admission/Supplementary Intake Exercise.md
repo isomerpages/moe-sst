@@ -25,7 +25,7 @@ The Supplementary Intake Exercise is an admission exercise for primary six stude
 
 #### APPLICATION PROCESS
 
-Applicants must create a unique account and apply through an online portal *(Link will be provided if SIE is open for application)*
+Applicants must create a unique account and apply through an online portal. *(Link will be provided on the day of application if SIE is open for application)*
 
 The following documents should be submitted **online** to complete the application:
 
