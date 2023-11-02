@@ -4,31 +4,6 @@ permalink: /cca/media-club/
 description: ""
 ---
 ![](/images/CCA/media%20club%20cover.jpeg)
-#### Vision
-Active learners who harness the use of multimedia to effectively convey stories, messages and information.
-
-#### Mission
-To equip every member to be competent in media elements, such as photography, videography and journalism.
-
-To serve the school through coverage and AV, photography and videography services.
-
-#### Goals
-
-*   Each Media Club student becomes an effective communicator (through mediums such as photography, videography and journalism);
-*   \*Assist the school in photography, videography and AV; and
-*   Has the opportunity to represent the school/ self by taking part in at least 1 external competition.
-
-\*Each member serves at least 2 internal school events.
-
-#### Values
-
-*   Creativity 
-*   Collaboration
-*   Passion 
-*   Excellence 
-*   Responsible
-*   Innovation
-*   Teamwork
     
 The SST Media Club provides a dynamic platform for students who are passionate about multimedia and technology. Our members come together to explore and create a variety of media forms, including journalism, photography, videography and audio-visual arts. The Club offers a wealth of opportunities to help members develop their skills in the ever-expanding field of multimedia. Those who are interested in video production, school event coverage, or simply honing your craft, the SST Media Club is the perfect place to start.
 
