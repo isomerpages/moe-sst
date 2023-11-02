@@ -4,21 +4,6 @@ permalink: /cca/astronomy-club/
 description: ""
 ---
 ![](/images/CCA/astro%20cover.jpg)
-#### Vision
-To be a global leader in astronomy and space science.
-
-#### Mission
-To nurture passionate astronomers who improve society through real-world applications of science and technology.
-
-#### Goals
-*   Life-long Learners of Character 
-*   Creative Problem Finders and Solvers
-*   Dynamic Leaders in Service of Humanity
-   
-#### Values
-*   Forging Excellence: “Ad Astra” (To the stars) 
-*   Building an Empowered Community
-*   Expanding Learning Networks: “See the BIG picture”
     
 The Astronomy Club started in 2013 with a small group of students. Over the years, the club grew from strength to strength to the current size, a choice CCA amongst the members of the SST community.   
 
