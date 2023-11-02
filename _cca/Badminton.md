@@ -4,25 +4,6 @@ permalink: /cca/badminton/
 description: ""
 ---
 ![](/images/CCA/sst%20badminton%20(b%20div)%205.jpeg)
-##### Vision
-Ensure that athletes, no matter what their background, will have an opportunity to reach their potential in badminton.
-
-##### Mission
-To nurture passionate athletes who persevere in improving their skills in the badminton sport and are open-minded, committed and grounded in sportsmanship. 
-##### Goals
-*   Collaborative and independent athletes;
-*   Dynamic leaders with strong moral and performance character, and sportsmanship; and
-*   Confident, open-minded and disciplined athletes who will thrive in a competitive world.
-   
-##### Values
-*   Sportsmanship 
-*   Passion
-*   Perseverance
-*   Commitment
-*   Teamwork
-*   Humility
-*   4Rs：Respect, Responsibility,  Relationship, Reflection
-    
 
 The SST Badminton CCA was set up in 2010 and has evolved from a small group of students to one of the biggest CCAs in SST.  The team comprises committed and dedicated students who genuinely enjoy the sport.  The members collaborate well and train hard for the yearly West Zone Badminton Competition. 
 
