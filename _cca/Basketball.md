@@ -5,30 +5,6 @@ description: ""
 ---
 ![](/images/CCA/bball%2003.png)
 
-#### Vision
-Nurture student athletes with an unwavering commitment to excellence, sportsmanship, and teamwork, so that they fulfill their full potential both on and off the court.
-#### Mission
-To foster a culture of hard work, dedication, and sportsmanship, by providing our players with the training and support necessary to reach their full potential. We strive to work as a cohesive unit, pushing each other to new heights and embodying the values of the school, as we aim to compete and win at the highest levels.
-#### Goals
-*   To excel and win every competition;
-*   Make the school proud with our strong sense of sportsmanship, passion, and dedication to the sport;
-*   Embody the best values of the school as model student-athletes; and
-*   Be dynamic sportsmen with strong moral and performance character.
-
-#### Values
-*   Sportsmanship 
-    
-*   Resilience
-    
-*   Dedication
-    
-*   Passion 
-    
-*   Integrity 
-    
-*   Responsibility
-    
-*   Teamwork
     
 The SST Basketball team is a group of talented and dedicated teenagers, who strive to reach their full potential on the court. With hard work and determination, they strive to be the team to beat in the National School Games, West Zone Basketball league every season.
 
