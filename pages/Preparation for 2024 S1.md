@@ -53,3 +53,11 @@ A Principal’s letter will be sent via the [Parents Gateway](https://pg.moe.edu
 ###### 2.4 SST Official Social Media Platforms
 
 For regular updates on our students,  school events and achievements, follow our official social media platforms: [Facebook](https://www.facebook.com/ssts.1technologydrive/), [Twitter](https://twitter.com/SSTSingapore?lang=en), and [YouTube](https://www.youtube.com/user/SSTSingapore).
+
+###### 2.5 Acceptable Use Policy (AUP)
+
+The AUP is intended to prescribe effective, ethical and lawful use of ICT resources by students and ensure a conducive and safe virtual environment in our learning community. This policy applies to the use of the ICT resources owned and managed by SST, as well as those brought in for use by students in SST. All students are to comply with this policy. 
+
+Students and parents will be briefed about the terms of AUP during the Secondary 1 Orientation and Parent Engagement Session, respectively. Parents are encouraged to go through the AUP with the students before accepting the AUP in electronic form. 
+
+Click [HERE](http://studentsblog.sst.edu.sg/p/acceptable-use-policy-aup.html) to view the AUP**
