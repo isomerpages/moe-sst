@@ -5,6 +5,15 @@ description: ""
 ---
 #### Preparation for 2024 SST Secondary 1
 
+Preparation for the new year begins after the release of the PSLE results. This section provides an overview of the important events and dates leading up to the Badge Ceremony that require your action.
+
+Please note that students do not need to report to school physically on the S1 registration day.
+
+In particular, please pay attention to the following:
+* Submission of information (online and hard copies, when applicable)
+* School-related purchases, which should be completed before the end of 2023
+* Engagement programmes for students and parents
+
 
 
 
