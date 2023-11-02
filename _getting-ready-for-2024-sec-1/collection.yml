@@ -2,6 +2,7 @@ collections:
   getting-ready-for-2024-sec-1:
     output: true
     order:
+      - Higher Mother Tongue Matters.md
       - Programme for S1 Students.md
       - Purchases & ICT Matters.md
       - School Fees And Financial Assistance.md
