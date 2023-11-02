@@ -4,36 +4,6 @@ permalink: /cca/robotics/
 description: ""
 ---
 ![](/images/CCA/robotics%20cover.jpg)
-#### Vision
-
-To be a global leader in robotics and automation research
-
-#### Mission
-
-To nurture passionate innovators who improve society through real-world applications of robotics and technology
-
-#### Goals
-
-*   Collaborative and independent innovators
-    
-*   Local and global activist in robotics field to improve society
-    
-*   Dynamic leaders with strong moral and performance character
-    
-
-#### Values
-
-*   Sportsmanship 
-    
-*   Passion 
-    
-*   Integrity 
-    
-*   Responsible
-    
-*   Innovation
-    
-*   Teamwork
 
 Robotics @APEX started in 2010 with a small group of students. Guided by the 3 operative values - Effective, Efficient and Exemplary and with the dedication of students and staff, the club scaled new heights year after year, establishing its reputation in the local and international robotics communities.  
 
