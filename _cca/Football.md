@@ -5,22 +5,6 @@ description: ""
 ---
 ![](/images/CCA/football%20cca%203.jpg)
 
-##### Vision
-A CCA dedicated to developing committed gentlemen who uphold sportsmanship and self-discipline through football.
-
-##### Mission
-To nurture football players who apply sportsmanship by being gentlemanly in all their endeavours.
-
-##### Goals
-*   To develop gentlemen who are committed team players;
-*   Critical thinking sportsmen; and
-*   Self-disciplined lifelong learners.
-    
-##### Values
-*   Commitment
-*   Teamwork
-*   Discipline
-
 At SST, the Football CCA is much more than just a sport. It is a time and place where our student-athletes work hard and play hard, pushing themselves both physically and mentally to achieve greatness. Our team is a tight-knit group of players who support each other through thick and thin, helping each other to reach their full potential.
 
 Our experienced coaches not only train our players to develop their skills on the field, but also instill important values like self-discipline and good behaviour. They are dedicated to helping each student become a better version of themselves and reach their full potential.
