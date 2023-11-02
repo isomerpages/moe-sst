@@ -2,5 +2,5 @@ collections:
   getting-ready-for-2024-sec-1:
     output: true
     order:
-      - Finanicial Matters.md
+      - Financial Matters.md
       - Purchases & ICT Matters.md
