@@ -29,12 +29,12 @@ Applicants must create a unique account and apply through the following link: ht
 
 The following documents should be submitted **online** to complete the application:
 
-1. Student EZ-Link Card/Passport (or equivalent photo-identification);
-2. PSLE Results Slip with the subject grades and PSLE score clearly shown;
-3. Unfilled MOE S1 Options Form that shows the applicant is not posted to a school via DSA;
-4. P5 Mid Year and Overall Results from School Report Book;
-5. P6 Mid Year and Prelim Results from School Report Book;
-6. CCA/Relevant Achievements (if any).
+ Student EZ-Link Card/Passport (or equivalent photo-identification);
+ PSLE Results Slip with the subject grades and PSLE score clearly shown;
+ Unfilled MOE S1 Options Form that shows the applicant is not posted to a school via DSA;
+ P5 Mid Year and Overall Results from School Report Book;
+ P6 Mid Year and Prelim Results from School Report Book;
+ CCA/Relevant Achievements (if any).
 
 Incomplete applications will not be considered.
 
