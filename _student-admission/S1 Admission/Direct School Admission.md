@@ -1,9 +1,10 @@
 ---
-title: S1 Admission
-permalink: /student-admission/s1-admission/
+title: Direct School Admission
+permalink: /student-admission/s1-dsa/
 description: ""
+third_nav_title: S1 Admission
 ---
-### SST SECONDARY 1 (S1) ADMISSION
+### Direct School Admission (DSA-Sec) Exercise
 
 SST admits **ALL** our Secondary 1 students through the Direct School Admission Secondary (DSA-Sec) exercise. **It does not participate in the MOE Secondary One Posting Exercise.** 
 
