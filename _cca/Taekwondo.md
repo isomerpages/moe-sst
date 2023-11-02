@@ -5,24 +5,6 @@ description: ""
 ---
 ![](/images/CCA/tkd%20cover.jpg)
 
-#### Vision
-A CCA which cultivates resilient and confident athletes. 
-
-#### Mission
-To empower students to strive with determination and true sportsmanship.
-
-#### Goals
-* To develop resilient students who overcome challenges and adversity; and
-* Confident athletes who exhibit exemplary sportsmanship.
-
-#### Values
-Mindset of excellence
-Resilience
-Commitment
-Reflective
-Discipline
-
-
 Taekwondo is a martial art form that combines both physical training and mental development, inculcating discipline and values in students as they progress through belt levels and advanced sequences (Poomsae). Sparring (Kyorugi) and unarmed combat help improve reaction time, quick thinking and temperament. 
 
 
