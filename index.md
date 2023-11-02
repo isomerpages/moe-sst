@@ -17,9 +17,6 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
-        - title: Test 1
-          description: Key Highlight description
-          url: /prep-for-s1/p1/
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
