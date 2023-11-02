@@ -41,3 +41,11 @@ Students may refer to the blog regularly to keep abreast of school updates. In a
 
 Click here to download the SST Announcer App:
 * [SST Announcer](https://apps.apple.com/sg/app/sst-announcer/id683929182) on Apple store
+
+###### 2.3 Digital Communications
+
+The school website, [www.sst.edu.sg](http://www.sst.edu.sg), is the general portal for communication to the public. 
+
+For SST parents, we have planned the following channels of communication: 
+
+A Principal’s letter will be sent via the [Parents Gateway](https://pg.moe.edu.sg/) at the start of every school term (Week 2) and end of every school semester to inform you of SST’s current activities and future events regularly. The Parents Gateway is a new digital platform developed by the Ministry of Education and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities. Parents who do not have access to Parents Gateway may email [ssd@sst.edu.sg](mailto:ssd@sst.edu.sg) for information regarding the onboarding procedure.
