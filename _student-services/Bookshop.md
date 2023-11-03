@@ -6,11 +6,11 @@ variant: markdown
 ---
 #### Asencio Pte Ltd operates a bookstore at our school premises.
 
-#### Location
+##### Location
 
 Block B, 02-03
 
-#### Contact Information
+##### Contact Information
 
 Office: 6764 3102
 
@@ -20,11 +20,11 @@ Text Message Only: 8031 0502 (Weekdays 9:00 a.m. to 5:00 p.m., all calls to this
 
 Website: [www.asencio.com.sg](http://www.asencio.com.sg/)
 
-#### Opening Hours
+##### Opening Hours
 
 7.30 a.m. to 2.30 p.m. (Mondays to Fridays, during School Term)
 
-#### Secondary 1 - 4 Booklist
+##### Secondary 1 - 4 Booklist
 
 Please refer to the instructions [HERE](/files/Preparation%20for%20S1/sst%20sale%20schedule%20ey23%20.pdf) to purchase the items in the booklist.
 
