@@ -2,6 +2,7 @@
 title: Bookshop
 permalink: /student-services/bookshop/
 description: ""
+variant: markdown
 ---
 #### Asencio Pte Ltd operates a bookstore at our school premises.
 
@@ -25,10 +26,10 @@ Website: [www.asencio.com.sg](http://www.asencio.com.sg/)
 
 #### Secondary 1 - 4 Booklist
 
-[Secondary 1 Booklist 2023](https://drive.google.com/file/d/1KDfjf0UIJbCSYnD66loGzbpoJr1Q4ZXo/view?usp=sharing)
+[Secondary 1 Booklist 2024](/files/Preparation%20for%20S1/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%201.pdf)
 
-[Secondary 2 Booklist 2023](https://drive.google.com/file/d/1Jhh2jkG2JBk_eDqpZwnzVGJIqFRdd360/view?usp=sharing)
+[Secondary 2 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%202.pdf)
 
-[Secondary 3 Booklist 2023](https://drive.google.com/file/d/1rnM4oejopvMIC8lxvbBVzQKn9eVDWv3D/view?usp=sharing)
+[Secondary 3 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%203.pdf)
 
-[Secondary 4 Booklist 2023](https://drive.google.com/file/d/1FDt1OiyQ7cEe61jLnCWy9isuga439vCf/view?usp=sharing)
+[Secondary 4 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%204.pdf)
