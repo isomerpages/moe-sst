@@ -4,25 +4,6 @@ permalink: /cca/drama-club/
 description: ""
 ---
 ![](/images/CCA/drama%2002.jpg)
-#### Vision
-To be a dynamic drama club that dares to be in the spotlight!
-
-#### Mission
-To nurture passionate and confident drama members who will continually seek innovative ways to clearly express ideas and convey universal values through drama.
-
-#### Goals
-*   Collaborative and confident drama members;
-*   Curious cast members who seek creative ways to express ideas and convey authorial messages through drama; and
-*   Dynamic leaders with strong moral and performance character.
-    
-#### Values 
-*   Passion 
-*   Collaboration 
-*   Responsibility
-*   Courage
-*   Curiosity
-*   Communication
-*   Teamwork
     
 SST English Drama Club is a small but mighty Performing Arts group that has grown from strength to strength, culminating in its award of the 2021 Certificate of Distinction for Singapore Youth Festival Arts Presentation (SYF 2021 AP). 
 

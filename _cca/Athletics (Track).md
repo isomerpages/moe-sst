@@ -4,23 +4,7 @@ permalink: /cca/athletics/
 description: ""
 ---
 ![](/images/CCA/cca_athletics%20cover.jpeg)
-#### Vision
-A community of athletes who are passionate and reflective in their pursuit for excellence in the sports.
 
-#### Mission
-To nurture and equip individuals who are guided by strong principles of sportsmanship and leadership.
-
-#### Goals
-*   Empathetic and independent athletes;
-*   Reflective leaders with strong moral character, and intellectual curiosity; and
-*   Well-articulated, lateral thinkers of an ever-changing sports world.
-
-#### Values
-*   Team spirit 
-*   Commitment
-*   Resilience
-*   Sportsmanship
-*   Integrity
  
 SST Athletics provides athletes the opportunity to grow and excel in the sport. The training programme provides students the opportunities to hone their athleticism in their areas of strength (long-distance/ short distance events). Through the experiences in participating in national competitions, athletes are able to experience for themselves the true meaning behind resilience and sportsmanship. 
 

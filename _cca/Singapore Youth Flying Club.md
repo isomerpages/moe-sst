@@ -4,21 +4,6 @@ permalink: /cca/syfc/
 description: ""
 ---
 ![](/images/CCA/syfc%20cover.jpg)
-#### Vision
-A school-based entity that excels nationally in aeromodelling and aviation-related education and training.
-
-#### Mission
-To nurture passionate aviators who aspire to improve society through real-world applications of science and technology.
-
-#### Goals
-*   To provide members with regular training that develops in them knowledge and skills on various aspects of aeromodelling and aviation;
-*   Opportunities to participate in aeromodelling competitions and related events conducted externally; and
-*   Guidance and mentoring to inculcate in them 21st-century skills (10Cs) and values.
-    
-#### Values
-*   Respect
-*   Discipline
-*   Commitment
 
 The Singapore Youth Flying Club (SYFC) provides programmes and activities to nurture our members’ passion for aviation and develop them to be creative problem-solvers and dynamic leaders who will serve in the various fields of aviation. Through workshops and competitions, our members gain more knowledge and experience in aviation. These create meaningful learning experiences.
 

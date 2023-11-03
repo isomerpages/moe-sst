@@ -4,25 +4,6 @@ permalink: /cca/show-choir-dance/
 description: ""
 ---
 ![](/images/CCA/show%20choir%20cover.jpeg)
-#### Vision
-A community of dedicated individuals who embody the spirit of creative excellence.
-
-#### Mission
-To nurture confident and passionate performers who strive to constantly challenge their creative self and promote art appreciation among the SST community. 
-
-#### Goals
-*   Creative and disciplined performers who push boundaries to become the best versions of themselves;
-*   An inclusive environment for diverse performers; and
-*   Confident leaders who lead by example, and display strong moral and performance character.
-   
-#### Values
-*   Showmanship
-*   Passion 
-*   Confidence
-*   Responsibility
-*   Creativity
-*   Teamwork
-*   Inclusivity
 
 Show Choir and Dance started off as an interest group in 2011. Individuals of diverse backgrounds came together and decided to enliven the SST community by sharing their passion in singing and dancing. It was later recognised and officiated as one of the performing arts CCA in 2013.
 

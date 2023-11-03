@@ -4,22 +4,6 @@ permalink: /cca/floorball/
 description: ""
 ---
 ![](/images/CCA/floorball%2001.png)
-#### Vision
-Floorballers who develop core values and strong performance character through sportsmanship, leadership and commitment to the CCA. 
-
-#### Mission
-To develop members who are committed lifelong learners, open-minded, self-disciplined and demonstrate good sportsmanship.
-
-#### Goals
-*   To nurture floorball players who constantly rise to the challenge of self-improvement by being receptive to feedback;
-*   actively contributing to the team’s efforts; and 
-*   maintaining a positive attitude.
-    
-#### Values
-*   Sportsmanship 
-*   Friendship 
-*   Respect
-*   Excellence
     
 In SST, our Boys’ Floorball team was set up in 2013. Floorball is an indoor team sport played by three to five players and one goalkeeper per team. It is a fast-paced and adrenaline pumping sport that requires not only physical stamina but also a strategic mind. 
 
