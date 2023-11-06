@@ -2,7 +2,7 @@ collections:
   getting-ready-for-2024-sec-1:
     output: true
     order:
-      - Purchases of Items.md
+      - 1 Purchases of Items.md
       - ICT Matters.md
       - School Fees And Financial Assistance.md
       - Higher Mother Tongue Matters.md
