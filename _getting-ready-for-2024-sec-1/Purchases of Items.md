@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### Preparation for 2024 SST Secondary 1
 
-Preparation for the new year begins after the release of the PSLE results. This section provides an overview of the important events and dates leading up to the Badge Ceremony that require your action.
+The school year begins on **2 January 2024 (Tuesday).** Students must report to school (Indoor Sports Hall, Block D) in full school uniform (SST T-shirt & pants/bermudas/skorts) by **7.40 am.**
 
-Please note that students do not need to report to school physically on the S1 registration day.
+Preparation for the new year begins after the release of the PSLE results. This section provides an overview of the important events and dates leading up to the Badge Ceremony that require your action.
 
 In particular, please pay attention to the following:
 * Submission of information (online and hard copies, when applicable)
@@ -35,4 +35,3 @@ The school has arranged for parents/guardians to purchase the PLD from a vendor 
 **Please recheck this page on 9 Dec to view the recorded briefing on PLD purchase.**
 
 SST will advise all students regarding the purchase of their PLD at a later date.
-
