@@ -1,5 +1,5 @@
 collections:
-  getting-ready-for-sec-1-2024:
+  getting-ready-for-sec-1:
     output: true
     order:
       - 1 Purchases of Items.md
