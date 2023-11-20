@@ -5,3 +5,5 @@ description: ""
 variant: markdown
 ---
 #### 5. Secondary 1 Orientation Programme
+
+More information to be released in December.
