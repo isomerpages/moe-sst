@@ -9,8 +9,8 @@ description: ""
 
 ##### 2.1 	Sec 1 ICT Pre-School Engagement
 
+We have curated some informative technology videos and activities to prepare students for the upcoming technology lessons at SST. We encourage all students to watch these videos and register for the “Today at Apple” workshops at their own pace to familiarise themselves with the technology that is used in SST.
 
-We have curated some informative technology videos and activities to prepare students for the upcoming technology lessons at SST. We encourage all students to watch these videos and register for the “Today at Apple” workshops at your own pace to familiarise yourself with the technology that are used in SST.
 
 Please access the package here. ([LINK](https://docs.google.com/document/d/e/2PACX-1vTY5gHDVH9fs57HdT7-t22u3zxYtgt4e4rNT25b4OLfRNPoPxGtqcuUSsF8NTYfkHyXs8vaEYiilp-G/pub))
 
