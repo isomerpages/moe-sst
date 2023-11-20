@@ -19,7 +19,3 @@ No deserving Singaporean student will be denied a place at SST due to his/her fa
 *   [MOE ISB Application Form](https://drive.google.com/file/d/1nq1nZYGtDJri2x5oVoAycpFHPGdBfU2v/view?usp=sharing)
     
 You may refer to the [SST website](https://www.sst.edu.sg/student-admission/scholarship-bursary/bursary/) or call the General Office on Tel: 6571 7200 for enquiry or clarification. All completed forms, together with the necessary documents, should be submitted to the SST General Office (hardcopy required) by 5 January 2024 for the bursary to be effective from January 2024 onwards.  Application forms can be submitted via mail to 1 Technology Drive, Singapore 138572. 
-
-  
-
-*Information is correct as of 2 Nov 2023.*
