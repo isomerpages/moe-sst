@@ -6,10 +6,21 @@ description: ""
 ---
 #### 2. ICT Matters For Students And Parents
 
-##### 2.1 Email Account
-All SST students are assigned an official email account for communication and access to learning resources during their study. The official email account will be used for all correspondence between the school and students. The login information (ID and Password) will be emailed to parents once available.
 
-##### 2.2 	Students’ Blog
+##### 2.1 	Sec 1 ICT Pre-School Engagement
+
+
+We have curated some informative technology videos and activities to prepare students for the upcoming technology lessons at SST. We encourage all students to watch these videos and register for the “Today at Apple” workshops at your own pace to familiarise yourself with the technology that are used in SST.
+
+Please access the package here. ([LINK](https://docs.google.com/document/d/e/2PACX-1vTY5gHDVH9fs57HdT7-t22u3zxYtgt4e4rNT25b4OLfRNPoPxGtqcuUSsF8NTYfkHyXs8vaEYiilp-G/pub))
+
+##### 2.2 Email Account
+All SST students are assigned an official email account for communication and access to learning resources during their study. The official email account will be used for all correspondence between the school and students. 
+
+The login information (ID and Password) will be emailed to parents once available. 
+
+
+##### 2.3 	Students’ Blog
 
 The students’ blog serves as a platform to communicate announcements and general information to students. 
 
@@ -20,7 +31,7 @@ Students may refer to the blog regularly to keep abreast of school updates. In a
 Click here to download the SST Announcer App:
 * [SST Announcer](https://apps.apple.com/sg/app/sst-announcer/id683929182) on Apple store
 
-##### 2.3 Digital Communications
+##### 2.4 Digital Communications
 
 The school website, [www.sst.edu.sg](http://www.sst.edu.sg), is the general portal for communication to the public. 
 
