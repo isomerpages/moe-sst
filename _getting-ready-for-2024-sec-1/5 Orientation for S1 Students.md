@@ -4,7 +4,7 @@ permalink: /getting-ready-for-2024-sec-1/p5/
 description: ""
 variant: markdown
 ---
-#### 5. Secondary 1 Orientation Programme
+#### 5. Sec 1 Orientation Programme
 
 The Sec 1 Orientation Programme aims to help students get to know new classmates, seniors and the school staff team who will be crucial in helping them transit and settle into the new learning environment.
 
