@@ -6,4 +6,6 @@ variant: markdown
 ---
 #### 5. Secondary 1 Orientation Programme
 
-More information to be released in December.
+The Sec 1 Orientation Programme aims to help students get to know new classmates, seniors and the school staff team who will be crucial in helping them transit and settle into the new learning environment.
+
+It will be held from **2 to 4 Jan 2024.** More information to be released in December.
