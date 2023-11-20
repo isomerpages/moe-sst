@@ -19,7 +19,7 @@ In particular, please pay attention to the following:
 
 
 
-#### 1. Purchase Of School Items
+##### 1. Purchase Of School Items
 
 Students may purchase their school uniform, textbooks and stationery early by referring to the information below. Students are encouraged to purchase textbooks and school uniforms through the online portal provided by the vendors.
 
