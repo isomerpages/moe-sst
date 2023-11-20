@@ -33,6 +33,6 @@ School of Science and Technology, Singapore (SST) is a one-to-one school where e
 
 The school has arranged for parents/guardians to purchase the PLD from a vendor for their child/ward’s use in school. The vendor has been identified based on the choice of the device determined by the school from a panel of awarded suppliers established by MOE. 
 
-**Please recheck this page on 9 Dec to view the recorded briefing on PLD purchase.**
+**Please recheck this page in Mid Dec to view the recorded briefing on PLD purchase.**
 
 SST will advise all students regarding the purchase of their PLD at a later date.
