@@ -4,8 +4,9 @@ permalink: /prep-for-s1/p1/
 description: ""
 variant: markdown
 ---
-#### Preparation for 2024 SST Secondary 1
 ![](/images/2024_Welcome_Pic.png)
+
+#### Preparation for 2024 SST Secondary 1
 
 The school year begins on **2 January 2024 (Tuesday).** Students must report to school (Indoor Sports Hall, Block D) in full school uniform (SST T-shirt & pants/bermudas/skorts) by **7.40 am.**
 
