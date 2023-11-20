@@ -18,6 +18,8 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
+      url: /prep-for-s1/p1/
+      button: Getting Ready for S1 (2024)
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
