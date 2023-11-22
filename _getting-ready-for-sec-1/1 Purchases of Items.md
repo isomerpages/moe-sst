@@ -35,10 +35,10 @@ School of Science and Technology, Singapore (SST) is a one-to-one school where e
 The school has arranged for parents/guardians to purchase the Macbook from a vendor for their child/ward’s use in school. The vendor has been identified based on the device chosen by the school from a panel of awarded suppliers established by MOE. 
 
 **Recommended Specifications**
-13-inch Macbook Air with Apple M2 Chip
-8GB Memory
-256GB SSD
-Ports: Magsafe 3 charging port, 3.5mm headphone jack, two thunderbolt/ USB 4 ports
+* 13-inch Macbook Air with Apple M2 Chip
+* 8GB Memory
+* 256GB SSD
+* Ports: Magsafe 3 charging port, 3.5mm headphone jack, two thunderbolt/ USB 4 ports
 
  
 **SST will advise all students regarding the purchase of their PLD in January 2024.**
