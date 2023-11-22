@@ -6,9 +6,8 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "GO will be closed at 12pm today (17/11/23). GO Operating Hours
-  During School Holidays: Mondays to Thursdays: 8.00 am to 4.30 pm,  Fridays:
-  8.00am to 4.00pm"
+notification: "GO Operating Hours During School Holidays: Mondays to Thursdays:
+  8.00 am to 4.30 pm,  Fridays: 8.00am to 4.00pm"
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
@@ -19,6 +18,8 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
+      url: /prep-for-s1/p1/
+      button: Getting Ready for S1 (2024)
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
