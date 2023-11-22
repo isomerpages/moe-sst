@@ -30,21 +30,14 @@ Students may purchase their school uniform, textbooks and stationery early by re
    
 #### 1.2  Personal Learning Device (PLD)
 
-School of Science and Technology, Singapore (SST) is a one-to-one school where every student uses a PLD for their learning. The PLD can be used with the national e-learning platform – the Singapore Student Learning Space (SLS) – and other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
+School of Science and Technology, Singapore (SST) is a one-to-one school where every student uses a Macbook for their learning. The Macbook can be used with the national e-learning platform – the Singapore Student Learning Space (SLS) – and other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-The school has arranged for parents/guardians to purchase the PLD from a vendor for their child/ward’s use in school. The vendor has been identified based on the device chosen by the school from a panel of awarded suppliers established by MOE. 
+The school has arranged for parents/guardians to purchase the Macbook from a vendor for their child/ward’s use in school. The vendor has been identified based on the device chosen by the school from a panel of awarded suppliers established by MOE. 
 
-The recommendation specification for the PLD is shown below.
-* Apple 13-Inch Macbook Air
-* Apple M2 Chip With 8 Core CPU, 8 Core GPU, 16 Core
-* Neural Engine
-* 8Gb Unified Memory
-* 256Gb SSD Storage
-* 30W USB-C Power Adapter
-* 13.6-Inch Liquid Retina Display With True Tone
-* 1080P Facetime HD Camera
-* Magsafe 3 Charging Port
-* Two Thunderbolt / USB 4 Ports
-* Backlit Magic Keyboard With Touch ID
-
-**SST will advise all students regarding the purchase of their PLD when the 2024 school term starts.**
+**Recommended Specifications**
+* 13-inch Macbook Air with Apple M2 Chip
+* 8GB Memory
+* 256GB SSD
+* Ports: Magsafe 3 charging port, 3.5mm headphone jack, two thunderbolt/ USB 4 ports
+ 
+**SST will advise all students regarding the purchase of their PLD in January 2024.**
