@@ -33,5 +33,4 @@ The Orientation Camp will be held on the school campus from 2 to 4 January 2024,
 
 **Week 2 (8 - 9 Jan 2024)**
 
-  
-On 8 to 9 January 2024, Monday - Tuesday, it will consist of talks and sessions with Form Teachers that will equip students with essential skills and knowledge for their transition.**
+ From 8 to 9 January 2024, Monday - Tuesday, it will consist of talks and sessions with Form Teachers to equip students with essential skills and knowledge for their transition.
