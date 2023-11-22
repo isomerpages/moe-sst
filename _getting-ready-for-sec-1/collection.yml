@@ -2,10 +2,10 @@ collections:
   getting-ready-for-sec-1:
     output: true
     order:
-      - 6 Badge Ceremony.md
       - 1 Purchases of Items.md
       - 2 ICT Matters.md
       - 3 School Fees And Financial Assistance.md
       - 4 Higher Mother Tongue Matters.md
       - 5 Sec 1 Orientation Programme.md
+      - 6 Badge Ceremony.md
       - 6 Parent Engagement Programmes.md
