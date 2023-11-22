@@ -34,6 +34,17 @@ School of Science and Technology, Singapore (SST) is a one-to-one school where e
 
 The school has arranged for parents/guardians to purchase the PLD from a vendor for their child/ward’s use in school. The vendor has been identified based on the device chosen by the school from a panel of awarded suppliers established by MOE. 
 
-**Please recheck this page in Mid Dec to view the recorded briefing on PLD purchase.**
+The recommendation specification for the PLD is shown below.
+* Apple 13-Inch Macbook Air
+* Apple M2 Chip With 8 Core Cpu, 8 Core Gpu, 16 Core
+* Neural Engine
+* 8Gb Unified Memory
+* 256Gb Ssd Storage
+* 30W Usb-C Power Adapter
+* 13.6-Inch Liquid Retina Display With True Tone
+* 1080P Facetime Hd Camera
+* Magsafe 3 Charging Port
+* Two Thunderbolt / USB 4 Ports
+* Backlit Magic Keyboard With Touch ID
 
-SST will advise all students regarding the purchase of their PLD at a later date.
+SST will advise all students regarding the purchase of their PLD when the 2024 school term starts.
