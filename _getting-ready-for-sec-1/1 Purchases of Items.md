@@ -36,13 +36,13 @@ The school has arranged for parents/guardians to purchase the PLD from a vendor 
 
 The recommendation specification for the PLD is shown below.
 * Apple 13-Inch Macbook Air
-* Apple M2 Chip With 8 Core Cpu, 8 Core Gpu, 16 Core
+* Apple M2 Chip With 8 Core CPU, 8 Core GPU, 16 Core
 * Neural Engine
 * 8Gb Unified Memory
-* 256Gb Ssd Storage
-* 30W Usb-C Power Adapter
+* 256Gb SSD Storage
+* 30W USB-C Power Adapter
 * 13.6-Inch Liquid Retina Display With True Tone
-* 1080P Facetime Hd Camera
+* 1080P Facetime HD Camera
 * Magsafe 3 Charging Port
 * Two Thunderbolt / USB 4 Ports
 * Backlit Magic Keyboard With Touch ID
