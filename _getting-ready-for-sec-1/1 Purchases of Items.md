@@ -47,4 +47,4 @@ The recommendation specification for the PLD is shown below.
 * Two Thunderbolt / USB 4 Ports
 * Backlit Magic Keyboard With Touch ID
 
-SST will advise all students regarding the purchase of their PLD when the 2024 school term starts.
+**SST will advise all students regarding the purchase of their PLD when the 2024 school term starts.**
