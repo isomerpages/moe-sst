@@ -39,6 +39,5 @@ The school has arranged for parents/guardians to purchase the Macbook from a ven
 * 8GB Memory
 * 256GB SSD
 * Ports: Magsafe 3 charging port, 3.5mm headphone jack, two thunderbolt/ USB 4 ports
-
  
 **SST will advise all students regarding the purchase of their PLD in January 2024.**
