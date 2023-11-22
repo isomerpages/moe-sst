@@ -3,8 +3,14 @@ title: Supplementary Intake Exercise
 permalink: /student-admission/s1-admission/s1-sie/
 description: ""
 third_nav_title: S1 Admission
+variant: markdown
 ---
 ### THE SST SUPPLEMENTARY INTAKE EXERCISE (SIE)
+
+
+##### Please note that there will be **NO** Supplementary Intake Exercise (SIE) for 2024 S1 Intake.
+
+
 
 The Supplementary Intake Exercise is an admission exercise for primary six students who wish to seek admission to SST (Secondary 1 Intake for the following year) after the release of PSLE results. This is subject to the **availability of vacancies**.
 
@@ -44,4 +50,4 @@ The final outcome of the exercise will be made known to all applicants via email
 
 For further enquiries on SIE, please contact SST at 65717200 (General Office) or admission@ssts.edu.sg
 
-*Information is correct as of 1 Nov 2023*
+*Information is correct as of 22 Nov 2023*
