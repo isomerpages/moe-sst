@@ -4,11 +4,11 @@ permalink: /getting-ready-for-2024-sec-1/p5/
 description: ""
 variant: markdown
 ---
-#### 5. Sec 1 Orientation Programme
+### 5. Sec 1 Orientation Programme
 
 The Sec 1 Orientation Programme 2024 aims to facilitate the ease of transition to a secondary school environment in SST by building a foundation of camaraderie and teamwork amongst students. 
 
-##### Objectives of Orientation 2024
+#### Objectives of Orientation 2024
 
  *   Formally welcome the Secondary One Students into SST
     
@@ -25,7 +25,7 @@ Through the Orientation activities, our SST Student Leaders will share the SST c
 
 In line with our school’s values and desired outcomes, the theme for Orientation 2024 is: Here we start our journey, with each day an open mind.
 
-##### Orientation Programme 
+#### Orientation Programme 
 
 **Week 1 (2 - 4 Jan 2024)**
 
