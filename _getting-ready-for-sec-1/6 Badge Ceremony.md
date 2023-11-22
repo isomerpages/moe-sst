@@ -4,7 +4,7 @@ permalink: /getting-ready-for-sec-1/p6/
 variant: markdown
 description: ""
 ---
-#### 6. Badge Ceremony
+### 6. Badge Ceremony
 
 The Badge Ceremony will be held on 12 January 2024 (Friday). Parents are invited to join the experience at 5:30 - 8:30 pm in SST. 
 

@@ -3,8 +3,12 @@ title: Supplementary Intake Exercise
 permalink: /student-admission/s1-admission/s1-sie/
 description: ""
 third_nav_title: S1 Admission
+variant: markdown
 ---
 ### THE SST SUPPLEMENTARY INTAKE EXERCISE (SIE)
+
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="477"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #ffffff 1pt;border-right:solid #ffffff 1pt;border-bottom:solid #ffffff 1pt;border-top:solid #ffffff 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Please note that there will be </span><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">NO</span><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Supplementary Intake Exercise (SIE) for 2024 S1 Intake.</span></p></td></tr></tbody></table>
+
 
 The Supplementary Intake Exercise is an admission exercise for primary six students who wish to seek admission to SST (Secondary 1 Intake for the following year) after the release of PSLE results. This is subject to the **availability of vacancies**.
 
@@ -44,4 +48,4 @@ The final outcome of the exercise will be made known to all applicants via email
 
 For further enquiries on SIE, please contact SST at 65717200 (General Office) or admission@ssts.edu.sg
 
-*Information is correct as of 1 Nov 2023*
+*Information is correct as of 22 Nov 2023*
