@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 ### **Digital Policy**
 
@@ -30,7 +31,7 @@ SST will/may collect, use, disclose and/or process your child/children and/or yo
     *   Processing of Concession Cards
     *   Processing of NRIC Registration
     *   including General Student related activities
-    *   Administering and/or managing overseas programmes (GCP trips)
+    *   Administering and/or managing overseas programmes (OLE trips)
 4.  Administering and/or managing activities organised and/or held by SST.  Please do note that photographs(s) or video/interview images of your child/children and/or you may be taken during such activities and used, disclosed, processed and published in materials (both soft and hard copy) such as on our online social media platforms, newsletters or other publications, handbooks, prospectus, yearbooks or any materials/books and you agree to the same;
 5.  Administering and/or managing the use of facilities including but not limited to your child/children accommodation needs, provision of Information Technology services and recreation facilities;
 6.  Contacting your child/children and/or you via different modes such as phone/voice call, short text message, email and/or postal mail for School related matters such as but not limited to School terms and events, studies, training and competition arrangement, fees and boarding and communicating with your child/children and/or you in the event of public transport disruptions, emergencies or other extraneous circumstances such as national disasters, health pandemics, fire drills, evacuation drills and etc.
