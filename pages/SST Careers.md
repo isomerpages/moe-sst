@@ -25,7 +25,51 @@ Envisioned to be a global leader in transforming learning, the School of Science
 *   Resourceful, self-driven, and possessed a high degree of professional integrity
 *   Good interpersonal skills and works well in a team
 
-**2) Design Technologist**
+**2) Finance & Procurement Executive**
+
+Responsibilities:
+
+*   Post suppliers’ invoices to accounting system and prepare payment
+    
+*   Prepare monthly school and other fees’ schedule for collection of fees
+    
+*   Prepare and post journals when necessary
+    
+*   Prepare Bank Reconciliation
+    
+*   Prepare monthly AR ageing report and follow up on outstanding school and other fees
+    
+*   Monitor budget and prepare monthly budget utilization reports
+    
+*   Prepare GST returns and MOE grants’ returns
+    
+*   Maintain Fixed Asset schedules and perform annual asset verification
+    
+*   Handle procurement of goods and services
+    
+*   Assist in audit queries and prepare audit schedules
+    
+*   Assist in annual budget and forecast exercise
+    *   Any other ad hoc tasks as required
+    
+
+Requirements:
+
+*   Diploma in Accountancy/Business or equivalent (Fresh Diploma holders are welcome)
+    
+*   Those without a Diploma but has relevant work experience are welcome
+    
+*   Knowledge of Accpac Accounting System preferred  
+    
+*   Proficient in Microsoft Office
+    
+*   Good communication and interpersonal skills
+    
+*   Meticulous, independent, resourceful and able to work under minimal supervision
+    
+*   Strong organizational, administrative and time management skills
+
+**3) Design Technologist**
 
 **Roles and Responsibilities**
 * In charge of maintaining tools, equipment, security and safety in the design studio and work areas  
@@ -47,13 +91,13 @@ Envisioned to be a global leader in transforming learning, the School of Science
 * Able to take initiative and work closely with relevant stakeholders to achieve desired outcomes  
 * Independent, resourceful, meticulous and able to independently produce reports, manuals, and training programmes, where relevant
 
-**3) Education Officer, Computing**
+**4) Education Officer, Computing**
 
-**4) Education Officer, English Language**
+**5) Education Officer, English Language**
 
-**5) Education Officer, Mathematics**
+**6) Education Officer, Mathematics**
 
-**6) Education Officer, Science/Physics**
+**7) Education Officer, Science/Physics**
 
 For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
 
