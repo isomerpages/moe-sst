@@ -2,6 +2,7 @@
 title: Uniform
 permalink: /student-services/uniform/
 description: ""
+variant: markdown
 ---
 #### Jeep Sing Fashion
 
@@ -26,7 +27,10 @@ Blk 4012, Ang Mo Kio Ave 10, #01-08 Techplace 1, Singapore 569628
 
 ##### Price Guide
 
-Click [here](https://www-sst-edu-sg-admin.cwp.sg/wp-content/uploads/2020/10/Uniform-Price-List-wef-Nov-2020.pdf) to access the Price Guide for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
+Click [here](https://jeepsinguniform.com/collections/school-of-science-and-technology)] to access the Price Guide for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
+
+Click [here](/files/SST_sale_schedule_EY23__amended_.pdf) for the sale schedule.
+
 
 ##### Care of Uniform
 

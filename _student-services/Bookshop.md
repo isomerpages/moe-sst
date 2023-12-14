@@ -26,7 +26,7 @@ Website: [www.asencio.com.sg](http://www.asencio.com.sg/)
 
 ##### Secondary 1 - 4 Booklist
 
-Please refer to the instructions [HERE](/files/Preparation%20for%20S1/sst%20sale%20schedule%20ey23%20.pdf) to purchase the items in the booklist.
+Please refer to the instructions on the booklist
 
 [Secondary 1 Booklist 2024](/files/Preparation%20for%20S1/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%201.pdf)
 
