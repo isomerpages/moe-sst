@@ -41,9 +41,9 @@ The UPLIFT Scholarship is awarded to students who are:
 
 1.  Singapore Citizens attending Independent Schools;
 2.  Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and
-3.  From families with gross monthly household income (GHI) ≤ $3,000, or monthly per capita income (PCI) ≤ $750 (PCI = GHI divided by the number of household members). &nbsp;(Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
+3.  From families with gross monthly household income (GHI) ≤ $4,400, or monthly per capita income (PCI) ≤ $1,100 (PCI = GHI divided by the number of household members). 
 
-ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship. To apply, please submit the completed ISB application form and all relevant documents to the school.
+No application is required. Your child will automatically be awarded if they are receiving ISB pertaining to those whose GHI ≤ $4,400 or (PCI) ≤ $1,100
 
 Students who require additional financial assistance may approach the school. You may call the General Office (Tel: 6571 7200) for enquiry or clarification.
 
