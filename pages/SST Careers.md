@@ -91,23 +91,6 @@ Requirements:
 * Able to take initiative and work closely with relevant stakeholders to achieve desired outcomes  
 * Independent, resourceful, meticulous and able to independently produce reports, manuals, and training programmes, where relevant
 
-**4) Education Officer, Computing**
-
-**5) Education Officer, English Language**
-
-**6) Education Officer, Mathematics**
-
-**7) Education Officer, Science/Physics**
-
-For **Education Officer (Computing)**, the role includes creating and developing units of study, lesson plans, assessments and appropriate rubrics for app development, i.e. Swift and Xcode, Android Studio, Python Programming.
-
-The role includes but is not limited to the following:
-
-*   Participate and contribute to the planning, development, and teaching of an integrated curriculum/assigned subject, this includes creating and developing units of study, lesson plans, assessments and appropriate rubics
-*   Nurture moral and performance character development of students (13-16 years)
-*   Participate and contribute to the development of the school by supporting departments/school programmes
-*   Be open to learning and adopt innovative pedagogies and technology
-
 If you enjoy working with youth and are passionate about sharing your expertise with them, come join us in transforming learning to groom future-ready students!
 
 * * *
