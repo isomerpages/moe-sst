@@ -6,9 +6,7 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "GO will be closed on 26th December for the whole day. GO
-  Operating Hours During School Holidays: Mondays to Thursdays: 8.00 am to 4.30
-  pm,  Fridays: 8.00am to 4.00pm"
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner 01.jpeg
@@ -21,6 +19,18 @@ sections:
           url: /sst-careers/
       url: /prep-for-s1/p1/
       button: Getting Ready for S1 (2024)
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of 2023 GCE O-Level Examination Results
+          date: 08 January 2024
+          announcement: >-
+            This announcement is for all 2023 Secondary 4 students.
+
+            2023 GCE O-Level Examination Results will be released on Thursday, 11 January 2024 at 2:00 p.m.
+          link_text: Please click here for more information.
+          link_url: /announcements/2023-gce-o-level-examination-results/
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
