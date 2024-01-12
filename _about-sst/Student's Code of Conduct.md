@@ -2,6 +2,7 @@
 title: Student's Code of Conduct
 permalink: /about-sst/student-code-of-conduct/
 description: ""
+variant: markdown
 ---
 As a globally connected institution and forerunner in 1 to 1 learning in Singapore, SST envisions to be A Global Leader in Transforming Learning. The SST school goals are achieved through the school programming with the SST 10Cs as the enablers to enable students to succeed as individuals and become a contributing member of society. 
 
@@ -23,7 +24,7 @@ As members of the community, they are expected to be guided and live by the inte
 SST students will:
 
 * Respect and strictly abide by the laws of Singapore. 
-* Respect the Nation
+* Respect the Nation. Students who are citizens of Singapore  must sing the National Anthem and recite the National Pledge. Students will recite the pledge with their right fists placed over their left chest.
 * Respect and adhere to the rules and regulations of SST.
 * Practice situational awareness and conduct themselves appropriately out of consideration for others.
 * Treat all with courtesy and use appropriate language to communicate on all platforms. 
