@@ -24,7 +24,7 @@ As members of the community, they are expected to be guided and live by the inte
 SST students will:
 
 * Respect and strictly abide by the laws of Singapore. 
-* Respect the Nation. Students who are citizens of Singapore  must sing the National Anthem and recite the National Pledge. Students will recite the pledge with their right fists placed over their left chest.
+* Respect the Nation: Students who are citizens of Singapore  must sing the National Anthem and recite the National Pledge. Students will recite the pledge with their right fists placed over their left chest.
 * Respect and adhere to the rules and regulations of SST.
 * Practice situational awareness and conduct themselves appropriately out of consideration for others.
 * Treat all with courtesy and use appropriate language to communicate on all platforms. 
