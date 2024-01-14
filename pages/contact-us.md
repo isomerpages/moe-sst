@@ -18,7 +18,9 @@ contacts:
   - content:
       - phone: +65 6571 7200
       - email: contactus@sst.edu.sg
-      - other: ""
+      - other: <br><p><strong>Got a Question?</strong><br> <strong>Ask
+          here:&nbsp;</strong><a
+          href="https://ask.gov.sg/sst">https://ask.gov.sg/sst</a></p>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -30,4 +32,5 @@ contacts:
       - email: admission@ssts.edu.sg
       - other: ""
     title: Student Admission Matters
+feedback: ""
 ---
