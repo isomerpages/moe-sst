@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner 01.jpeg
+      background: /images/Hero_Banner_03.jpeg
       key_highlights:
         - title: Student Services
           description: Information for Parents
