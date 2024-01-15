@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner 01.jpeg
+      background: /images/Hero_Banner_03.jpeg
       key_highlights:
         - title: Student Services
           description: Information for Parents
@@ -17,8 +17,6 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
-      url: /prep-for-s1/p1/
-      button: Getting Ready for S1 (2024)
   - announcements:
       title: Announcements
       id: announcements
