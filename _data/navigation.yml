@@ -1,0 +1,62 @@
+logo: /images/SSTLogoIcon.png
+links:
+  - title: About SST
+    url: /
+    sublinks:
+      - title: Board of Directors
+        url: /about-sst/board-of-directors/
+      - title: School Exco Team
+        url: /about-sst/Exco-Team/p-message/
+      - title: Staff
+        url: /about-sst/sst-staff/
+      - title: SST Identity
+        url: /about-sst/SST-Identity/vmvg/
+      - title: Student's Code of Conduct
+        url: /about-sst/student-code-of-conduct/
+      - title: School Rules & Regulation
+        url: /about-us/school-rules-regulation/
+      - title: Publication
+        url: /about-us/publication/yearbook/
+      - title: FAQs
+        url: /about-sst/faqs/faq-general-matters/
+  - title: Student Experience
+    url: /
+    sublinks:
+      - title: Curriculum
+        url: /academic-subjects/changemakers/
+      - title: Co-Curriculum
+        url: /co-curriculum/sd-ne/
+      - title: CCAs
+        url: /cca/about-cca/
+      - title: House of Leaders
+        url: /house-of-leaders/about-house-of-leaders/
+      - title: Internationalisation Programme
+        url: /internationalisation-programme/internationalisation-programme/
+  - title: SST Highlights
+    resource_room: true
+  - title: Partners
+    url: /
+    sublinks:
+      - title: ParentforSST (PforSST)
+        url: /partners/parentsforsst/
+      - title: Alumni
+        url: /partners/alumni/
+      - title: Partners
+        url: /partners/partners/
+  - title: Student Admission
+    url: /
+    sublinks:
+      - title: DSA Selection Criteria
+        url: /student-admission/dsa-selection-criteria/
+      - title: S1 Admission
+        url: /student-admission/s1-dsa/
+      - title: S3 Admission
+        url: /student-admission/s3-admission
+      - title: School Fees
+        url: /student-admission/school-fees
+      - title: Scholarship & Bursary
+        url: /student-admission/scholarship-bursary/bursary/
+      - title: 1-to-1 Learning Device
+        url: /student-admission/1-to-1-learning-device
+  - title: Have a Question?
+    url: https://ask.gov.sg/sst
