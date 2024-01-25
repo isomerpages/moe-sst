@@ -3,6 +3,7 @@ title: Integrated Diploma Programme
 permalink: /about-sst/faqs/faq-idp/
 description: ""
 third_nav_title: FAQs
+variant: markdown
 ---
 ###### *(Updated 18 Aug 2023)*
 
@@ -29,6 +30,19 @@ Click [here](https://www.sst.edu.sg/student-admission/school-fees/) for more inf
 
 ##### Do IDP students need to take the GCE O-Level Examination? 
 IDP students do not need to take the GCE O-Level Examination with the exception of Mother Tongue Language / Higher Mother Tongue Language, which is a national requirement. 
-
 ##### How are students assessed in the SST-NP IDP Programme?
-IDP students would be assessed through school-based assessments and must obtain at least a pass for their capstone project when in Secondary 4.
+IDP students would be assessed through school-based assessments and must obtain at least a pass for their capstone
+project when in Secondary 4.
+
+##### What are the 21 NP courses that the IDP students can articulate to?
+IDP students are offered 21 STEM-related courses from the [School of Engineering (SoE)[School of Engineering (SoE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering), [School of InfoComm Technology (SoICT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology), [School of Design & Environment (SoDE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment) and [School of Life Sciences & Chemical Technology (SoLSCT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology). Please refer to the diagram below.
+![21 STEM COURSES](/images/IDP_NP_courses.jpg)
+
+
+    
+
+
+
+
+
+
