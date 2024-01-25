@@ -5,7 +5,7 @@ description: ""
 third_nav_title: FAQs
 variant: markdown
 ---
-###### *(Updated 18 Aug 2023)*
+###### *(Updated 25 January 2024)*
 
 ##### What is the SST-NP Integrated Diploma Programme (IDP)?
 The SST-Ngee Ann Polytechnic (NP) IDP is a through-train programme **from SST to Ngee Ann Polytechnic Year 1**. IDP students will spend 2 years (Secondary 3 and 4) in SST before progressing to NP to pursue one of its 21 STEM-related diploma programmes.
@@ -35,7 +35,7 @@ IDP students would be assessed through school-based assessments and must obtain 
 project when in Secondary 4.
 
 ##### What are the 21 NP courses that the IDP students can articulate to?
-IDP students are offered 21 STEM-related courses from the [School of Engineering (SoE)[School of Engineering (SoE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering), [School of InfoComm Technology (SoICT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology), [School of Design & Environment (SoDE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment) and [School of Life Sciences & Chemical Technology (SoLSCT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology). Please refer to the diagram below.
+IDP students are offered 21 STEM-related courses from the [School of Engineering (SoE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering), [School of InfoComm Technology (SoICT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology), [School of Design & Environment (SoDE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment) and [School of Life Sciences & Chemical Technology (SoLSCT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology). Please refer to the diagram below.
 ![21 STEM COURSES](/images/IDP_NP_courses.jpg)
 
 
