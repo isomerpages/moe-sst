@@ -17,18 +17,6 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Release of 2023 GCE O-Level Examination Results
-          date: 08 January 2024
-          announcement: >-
-            This announcement is for all 2023 Secondary 4 students.
-
-            2023 GCE O-Level Examination Results will be released on Thursday, 11 January 2024 at 2:00 p.m.
-          link_text: Please click here for more information.
-          link_url: /announcements/2023-gce-o-level-examination-results/
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
