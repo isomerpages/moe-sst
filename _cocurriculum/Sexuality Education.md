@@ -10,18 +10,21 @@ variant: markdown
 
 2.         The **Goals** of Sexuality Education are to:
 
-(a)            Support students in managing their physiological, social                 and emotional changes as they grow up and develop                       safe and healthy relationships.
+(a) Support students in managing their physiological, social                  and emotional changes as they grow up and develop                      safe and healthy relationships.
 
-(b)           Guide students to make wise, informed and responsible                   decisions on sexuality matters.
+(b) Guide students to make wise, informed and responsible                  decisions on sexuality matters.
 
-(c)          Help students develop a moral compass and respect for                 themselves and others by having positive mainstream                     values and attitudes about sexuality that are premised on               the family as the basic unit of society.
+(c) Help students develop a moral compass and respect for                 themselves and others by having positive mainstream                     values and attitudes about sexuality that are premised on               the family as the basic unit of society.
 		 
 
 3.         The **Key messages** of Sexuality Education are:
 
-(a)       Love and respect yourself as you love and respect others;
+(a)          Love and respect yourself as you love and respect others;
+
 (b)       Build positive relationships based on love and respect                    (which are the foundation for strong families);
+
 (c)       Make responsible decisions for yourself, your family and                  society; and
+
 (d)      Abstinence before marriage is the best protection against                STIs/HIV and unintended pregnancies. Casual sex can harm            and hurt you and your loved ones.
 
 You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
