@@ -69,11 +69,11 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 * * *
 ##### eTeens Programme
 
-8.         _eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  The desired outcome of the _eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8.         eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.  eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
 9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At School Of Science & Technology, Singapore, the _eTeens  programme will be implemented as follows in 2024:**
+**At School Of Science & Technology, Singapore, the  eTeens  programme will be implemented as follows in 2024:**
 
 ![](/images/Curriculum/e_teems_programme.jpg)
 
@@ -81,13 +81,12 @@ You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/
 
 **Information for Parents**
 
-10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.      Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1VsKcPZa2QDcoqofqFDAqsfmb7xthVyUx/view?usp=sharing)
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1VsKcPZa2QDcoqofqFDAqsfmb7xthVyUx/view?usp=sharing).
 The completed form is to be submitted by 15 February 2024.
 
-12.      Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/14V3JmlluAqZvSMJBVPWaeGUFGD_QrUeX/view?usp=sharing).  The completed form is to be submitted by 15 February 2024.
+12.      Parents who wish to opt their children out of the **eTeens_ programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/14V3JmlluAqZvSMJBVPWaeGUFGD_QrUeX/view?usp=sharing).  The completed form is to be submitted by 15 February 2024.
 
 13.      Parents can contact the school at [contactus@sst.edu.sg](mailto:contactus@sst.edu.sgf) or discussion or to seek clarification about the school’s Sexuality Education programme.
-
 
