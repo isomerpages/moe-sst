@@ -5,27 +5,8 @@ description: ""
 variant: markdown
 ---
 Envisioned to be a global leader in transforming learning, the School of Science and Technology, Singapore (SST) seeks to nurture passionate innovators who improve society through real-world applications of science and technology. If what we do excites you, talk to us about building a rewarding career at SST!
-    
-**1) Senior/Human Resource & School Administration Executive**
 
-**Roles and Responsibilities**
-
-*   Handle full spectrum of HR function
-*   Maintain and update employees' personal files and HR Systems (SAGE Easypay)
-*   Prepare all employment-related documents, e.g. employment contact, letter etc  
-*   To process monthly staff payroll
-*   To ensure all payroll transactions are processed accurately and efficiently, in accordance with regulations, including preparation of IR21, IR8A, leave pay and claims etc.
-*   On-boarding / Off-boarding formalities
-*   Processing of Government Bodies claim such as Maternity claims, Childcare leave claims, NSmen claims and statutory claims
-*   Provide support on office administrative matters where necessary
-
-**Requirements**
-
-*   Diploma in HRM or equivalent
-*   Resourceful, self-driven, and possessed a high degree of professional integrity
-*   Good interpersonal skills and works well in a team
-
-**2) Finance & Procurement Executive**
+**1) Finance & Procurement Executive**
 
 Responsibilities:
 
@@ -69,7 +50,7 @@ Requirements:
     
 *   Strong organizational, administrative and time management skills
 
-**3) Design Technologist**
+**2) Design Technologist**
 
 **Roles and Responsibilities**
 * In charge of maintaining tools, equipment, security and safety in the design studio and work areas  
