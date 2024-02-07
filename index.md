@@ -6,8 +6,8 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "Early closure of the School on 7th Feb (Fri) at 12pm. School will
-  re-open on 14th Feb (Wed). "
+notification: Early closure of the School on 9th Feb (Fri) at 12pm. School will
+  re-open on 14th Feb (Wed).
 sections:
   - hero:
       background: /images/Hero_Banner_03.jpeg
