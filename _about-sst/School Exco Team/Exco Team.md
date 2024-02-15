@@ -3,6 +3,7 @@ title: Exco Team
 permalink: /about-us/school-exco-team/exco-team/
 description: ""
 third_nav_title: School Exco Team
+variant: markdown
 ---
 ![](/images/Exco%20Photo/Exco%20Profile%20(1).svg)
 
@@ -34,7 +35,7 @@ third_nav_title: School Exco Team
 
 ![](/images/Exco%20Photo/H%20-%20John%20Tan%20Profile%20(Grey).svg)
 
-![](/images/Exco%20Photo/H%20-%20Wee%20Chuen%20Profile%20(Grey).svg)
+![[](/Images/Exco%20Photo/H%20-](/images/Exco%20Photo/H___Lu_Ting_Profile__Grey_.svg)
 
 ![](/images/Exco%20Photo/H%20-%20Woon%20Foong%20Profile%20(Grey).svg)
 
