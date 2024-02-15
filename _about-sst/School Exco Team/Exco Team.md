@@ -19,8 +19,6 @@ variant: markdown
 
 ![](/images/Exco%20Photo/D%20-%20Priscilla%20Profile%20(Red).svg)
 
-![](/images/Exco%20Photo/D%20-%20Bee%20Sun%20Profile%20(Red).svg)
-
 ![](/images/Exco%20Photo/D%20-%20Doreen%20Profile%20(Red).svg)
 
 ![](/images/Exco%20Photo/Divider%20-%20HoDs.svg)
