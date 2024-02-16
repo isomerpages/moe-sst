@@ -17,6 +17,10 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
+        - title: Parents Engagement for Secondary One
+          description: Information for Parents
+          url: /getting-ready-for-2024-sec-1/p7/
+      variant: center
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
