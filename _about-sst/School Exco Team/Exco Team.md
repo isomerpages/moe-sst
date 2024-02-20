@@ -39,7 +39,7 @@ variant: markdown
 
 ![](/images/Exco%20Photo/H%20-%20Lam%20Hin%20Chew%20Profile%20(Grey).svg)
 
-![](/images/Exco%20Photo/H%20-%20Kwai%20Yin%20Profile%20(Grey).svg)
+![images/Exco%20%Photo/H%20](/images/Exco%20Photo/H___Kwai_Yin_Profile__Grey_.svg)
 
 ![](/images/Exco%20Photo/H%20-%20Wee%20Peng%20Profile%20(Grey).svg)
 
