@@ -78,13 +78,13 @@ Responsibilities:
 
 *   Support teaching and learning in the following areas:
     
-*   Preparation of laboratory materials, hand tools, and components for lessons and examinations
+	*   Preparation of laboratory materials, hand tools, and components for lessons and examinations
     
-*   Troubleshoot and maintenance of laboratory tools and instruments
+	*   Troubleshoot and maintenance of laboratory tools and instruments
     
-*   Management of laboratory space for student projects, project equipment, materials and storage
+	*   Management of laboratory space for student projects, project equipment, materials and storage
     
-*   Assist in managing activities in the laboratories and ensure safety procedures are observed
+	*   Assist in managing activities in the laboratories and ensure safety procedures are observed
     
 *   Perform daily housekeeping and maintenance to ensure the safety, cleanliness, and tidiness of laboratories
     
