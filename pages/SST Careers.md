@@ -34,7 +34,7 @@ Responsibilities:
     *   Any other ad hoc tasks as required
     
 
-Requirements:
+**Requirements:**
 
 *   Diploma in Accountancy/Business or equivalent (Fresh Diploma holders are welcome)
     
@@ -71,6 +71,44 @@ Requirements:
 * Have deep passion to teach and facilitate such maker-centric and edtech-based learning experiences; able to reach out to both the young and the older demographics comfortably, about design and related disciplines
 * Able to take initiative and work closely with relevant stakeholders to achieve desired outcomes  
 * Independent, resourceful, meticulous and able to independently produce reports, manuals, and training programmes, where relevant
+
+**3) Science Technologist (Physics/ Electronics/ Mechatronics)**
+
+**Responsibilities**
+
+*   Support teaching and learning in the following areas:
+    
+*   Preparation of laboratory materials, hand tools, and components for lessons and examinations
+    
+*   Troubleshoot and maintenance of laboratory tools and instruments
+    
+*   Management of laboratory space for student projects, project equipment, materials and storage
+    
+*   Assist in managing activities in the laboratories and ensure safety procedures are observed
+    
+*   Perform daily housekeeping and maintenance to ensure the safety, cleanliness, and tidiness of laboratories
+    
+*   Liaise with vendors and evaluate quotations from suppliers for laboratory equipment and electronics components
+    
+*   Track and maintain laboratory documentation (i.e., Risk Assessments and Components Data Sheets) and inventory of laboratory equipment, hand tools and components
+
+**Requirements**
+
+*   Diploma in Electronics & Electrical Engineering or equivalent
+    
+*   Knowledge in Electronics/Mechatronics
+    
+*   Knowledge and hands-on experience in operating Electronics measuring instruments such as Digital Oscilloscope, Digital Power Supplies, Digital Function Generator and Digital Multimeter
+    
+*   Able to understand PCB schematics, PCB/circuit layouts
+    
+*   Possesses good soldering skills
+    
+*   Proficiency in Microsoft Office and Circuit Simulation
+    
+*   Physically fit and not colour vision deficient
+    
+*   Team player and able to work independently
 
 If you enjoy working with youth and are passionate about sharing your expertise with them, come join us in transforming learning to groom future-ready students!
 
