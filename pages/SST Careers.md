@@ -34,7 +34,7 @@ Responsibilities:
     *   Any other ad hoc tasks as required
     
 
-Requirements:
+**Requirements:**
 
 *   Diploma in Accountancy/Business or equivalent (Fresh Diploma holders are welcome)
     
