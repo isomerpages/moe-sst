@@ -6,7 +6,7 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Early closure of the School & General Office at 4pm on 7th March 2024.
+notification: Early closure of the School & General Office at 4pm on 8th March 2024.
 sections:
   - hero:
       background: /images/Hero_Banner_03.jpeg
