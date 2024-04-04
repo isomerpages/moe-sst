@@ -10,10 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
-      key_highlights:
-        - title: Career
-          description: Job Opportunities
-          url: /sst-careers/
       variant: center
       backgroundColor: gray
       size: md
