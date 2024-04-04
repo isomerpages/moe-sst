@@ -61,14 +61,6 @@ sections:
       image: /images/SST_Facility_30.jpg
       alt: Image alt text
   - infopic:
-      title: Get official answers on our Q&A Platform
-      subtitle: Have A question?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/sst
-      image: /images/sst_askgov.png
-      alt: Image alt text
-  - infopic:
       title: Career with SST
       id: infopic
       description: Join our dedicated team, shaping future leaders and fostering excellence.
@@ -76,4 +68,12 @@ sections:
       url: /sst-careers/
       alt: Image alt text
       image: /images/Career_w_SST_Cover.jpg
+  - infopic:
+      title: Get official answers on our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/sst
+      image: /images/sst_askgov.png
+      alt: Image alt text
 ---
