@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage banner 02.jpg
+      background: /images/Homepage_Banner_04.jpg
       key_highlights:
         - title: Career
           description: Job Opportunities
@@ -17,8 +17,10 @@ sections:
         - title: Parents Engagement for Secondary One
           description: Information for Parents
           url: /getting-ready-for-2024-sec-1/p7/
-      variant: floating
+      variant: center
       title: Shaping Passionate Innovator, THE SST WAY
+      backgroundColor: gray
+      size: md
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
