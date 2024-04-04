@@ -55,4 +55,23 @@ sections:
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
       alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: SST-NP Integrated Diploma Programme
+          description: Empower students through applied STEAM learning and industry
+            partnerships
+          linktext: Learn more
+          url: /curriculum/idp-homepage/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
