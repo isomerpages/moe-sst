@@ -60,14 +60,6 @@ sections:
           linktext: Learn more
           url: /curriculum/Applied/about-as/
   - infopic:
-      title: From coding novice to tech mentor
-      subtitle: Alumni news
-      description: An inspiring journey with Apple's Swift Accelerator Programme
-      button: Click here to find out more
-      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
-      image: /images/bianco_kv.jpg
-      alt: Image alt text
-  - infopic:
       title: Get official answers on our Q&A Platform
       subtitle: Have A question?
       id: infopic
