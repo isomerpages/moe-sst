@@ -24,7 +24,7 @@ sections:
       title: Meet Our Leadership Team
       id: textcards
       description: Discover the Faces Behind Our School's Vision and Success. Get to
-        Know Our Leadership Team, Teachers, and Board of Directors.
+        Know Our Leadership Team, Middle Leaders, and Board of Directors.
       cards:
         - title: Board of Directors
           description: Strategic visionaries guiding our school's mission.
