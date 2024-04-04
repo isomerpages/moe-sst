@@ -39,25 +39,8 @@ sections:
           description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
-  - infopic:
-      title: From coding novice to tech mentor
-      subtitle: Alumni news
-      description: An inspiring journey with Apple's Swift Accelerator Programme
-      button: Click here to find out more
-      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
-      image: /images/bianco_kv.jpg
-      alt: Image alt text
-  - infopic:
-      title: Get official answers on our Q&A Platform
-      subtitle: Have A question?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/sst
-      image: /images/sst_askgov.png
-      alt: Image alt text
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Understand Our Special Curriculum Programme
       id: textcards
       description: Text card description
       cards:
@@ -75,4 +58,20 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infopic:
+      title: From coding novice to tech mentor
+      subtitle: Alumni news
+      description: An inspiring journey with Apple's Swift Accelerator Programme
+      button: Click here to find out more
+      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
+      image: /images/bianco_kv.jpg
+      alt: Image alt text
+  - infopic:
+      title: Get official answers on our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/sst
+      image: /images/sst_askgov.png
+      alt: Image alt text
 ---
