@@ -79,4 +79,5 @@ sections:
       button: Learn More
       url: /sst-careers/
       alt: Image alt text
+      image: /images/Career_w_SST_Cover.jpg
 ---
