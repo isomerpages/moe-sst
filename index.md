@@ -11,9 +11,6 @@ sections:
   - hero:
       background: /images/Hero_Banner_03.jpeg
       key_highlights:
-        - title: Student Services
-          description: Information for Parents
-          url: /student-services/insurance-for-students/
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
