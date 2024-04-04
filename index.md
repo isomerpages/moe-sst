@@ -52,16 +52,15 @@ sections:
           linktext: Learn more
           url: /curriculum/Applied/about-as/
   - infopic:
-      title: Student Services
+      title: Access Student Services
       id: infopic
-      description: Access essential student services, such as uniforms, books, and
-        insurance.
+      description: Essential student services, such as uniforms, books, and insurance.
       button: Learn More
       url: /student-services/insurance-for-students/
       image: /images/SST_Facility_30.jpg
       alt: Image alt text
   - infopic:
-      title: Career with SST
+      title: Grow Your Career with SST
       id: infopic
       description: Join our dedicated team, shaping future leaders and fostering excellence.
       button: Learn More
