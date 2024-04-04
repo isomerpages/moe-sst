@@ -21,22 +21,6 @@ sections:
           description: Information for Parents
           url: /getting-ready-for-2024-sec-1/p7/
       variant: center
-  - infopic:
-      title: From coding novice to tech mentor
-      subtitle: Alumni news
-      description: An inspiring journey with Apple's Swift Accelerator Programme
-      button: Click here to find out more
-      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
-      image: /images/bianco_kv.jpg
-      alt: Image alt text
-  - infopic:
-      title: Get official answers on our Q&A Platform
-      subtitle: Have A question?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/sst
-      image: /images/sst_askgov.png
-      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
@@ -55,4 +39,20 @@ sections:
           description: ""
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
+  - infopic:
+      title: From coding novice to tech mentor
+      subtitle: Alumni news
+      description: An inspiring journey with Apple's Swift Accelerator Programme
+      button: Click here to find out more
+      url: https://www.hardwarezone.com.sg/feature-wwdc2023-swift-accelerator-programme-apple
+      image: /images/bianco_kv.jpg
+      alt: Image alt text
+  - infopic:
+      title: Get official answers on our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/sst
+      image: /images/sst_askgov.png
+      alt: Image alt text
 ---
