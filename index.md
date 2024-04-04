@@ -66,10 +66,11 @@ sections:
             partnerships
           linktext: Learn more
           url: /curriculum/idp-homepage/
-        - title: Card
-          description: Card description
+        - title: The ChangeMakers Programme
+          description: Foster changemaker mindset through interdisciplinary learning and
+            innovation.
           linktext: Learn more
-          url: ""
+          url: /academic-subjects/changemakers/
         - title: Card
           description: Card description
           linktext: Learn more
