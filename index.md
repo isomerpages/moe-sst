@@ -60,7 +60,7 @@ sections:
       image: /images/SST_Facility_30.jpg
       alt: Image alt text
   - infopic:
-      title: Grow Your Career with SST
+      title: Join our Team
       id: infopic
       description: Join our dedicated team, shaping future leaders and fostering excellence.
       button: Learn More
