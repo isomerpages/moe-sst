@@ -64,10 +64,10 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
-        - title: Linkin
+        - title: Linkedin
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.linkedin.com/school/sstsingapore/?originalSubdomain=sg
   - infopic:
       title: Access Student Services
       id: infopic
