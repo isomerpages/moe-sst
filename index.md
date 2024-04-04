@@ -30,23 +30,6 @@ sections:
       image: /images/bianco_kv.jpg
       alt: Image alt text
   - infopic:
-      title: SST and Infineon Technologies alliance
-      subtitle: Event
-      description: Signing of the Memorandum of Understanding (MOU) between SST and
-        Infineon Technologies alliance
-      button: Link
-      url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid02qJhQKHvf9g5AFgGrMUp9Yc92JzyKZ9SLpPBx5UJsHSKkLpu1Q5o1F4vkFwDrf911l
-      image: /images/Curriculum/idp 03.jpeg
-      alt: Image alt text
-  - infopic:
-      title: SST and SMU
-      subtitle: Event
-      button: Link
-      url: https://www.facebook.com/ssts.1technologydrive/posts/pfbid0fbq6FCZVcAoaEm5WfdvvfJc9bkZaoNCSWvwNjWf8XP6AdWE6hq9Ev2eF4nxVGdN8l
-      image: /images/Curriculum/idp 05.jpg
-      alt: Image alt text
-      description: Signing of the Memorandum of Understanding (MOU) between SST and SMU
-  - infopic:
       title: Get official answers on our Q&A Platform
       subtitle: Have A question?
       id: infopic
@@ -54,4 +37,22 @@ sections:
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
       alt: Image alt text
+  - textcards:
+      title: Meet Our Leadership Team
+      id: textcards
+      description: Discover the Faces Behind Our School's Vision and Success. Get to
+        Know Our Leadership Team, Teachers, and Board of Directors.
+      cards:
+        - title: Principal Message
+          description: ""
+          linktext: Learn more
+          url: /about-sst/Exco-Team/p-message/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
