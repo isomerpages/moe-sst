@@ -56,7 +56,7 @@ sections:
           linktext: Learn more
           url: /academic-subjects/changemakers/
         - title: Applied Subjects
-          description: Card description
+          description: Applying theoretical knowledge to real-world scenarios.
           linktext: Learn more
           url: /curriculum/Applied/about-as/
   - infopic:
