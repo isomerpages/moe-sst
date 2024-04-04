@@ -22,7 +22,7 @@ sections:
         - title: Board of Directors
           description: Strategic visionaries guiding our school's mission.
           linktext: Learn more
-          url: /about-sst/board-of-directors/https://www.sst.edu.sg/about-sst/board-of-directors/
+          url: /about-sst/board-of-directors/
         - title: Principal Message
           description: "Principal's insights: nurturing excellence, fostering growth"
           linktext: Learn more
@@ -75,4 +75,21 @@ sections:
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
       alt: Image alt text
+  - textcards:
+      title: Stay Connected with SST
+      id: textcards
+      description: " Explore Our Social Media for the Latest Updates!"
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Instagram
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Linkin
+          description: ""
+          linktext: Learn more
+          url: ""
 ---
