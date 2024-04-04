@@ -28,15 +28,15 @@ sections:
         Know Our Leadership Team, Teachers, and Board of Directors.
       cards:
         - title: Board of Directors
-          description: ""
+          description: Strategic visionaries guiding our school's mission.
           linktext: Learn more
           url: /about-sst/board-of-directors/https://www.sst.edu.sg/about-sst/board-of-directors/
         - title: Principal Message
-          description: ""
+          description: "Principal's insights: nurturing excellence, fostering growth"
           linktext: Learn more
           url: /about-sst/Exco-Team/p-message/
         - title: School Exco Team
-          description: ""
+          description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
   - infopic:
