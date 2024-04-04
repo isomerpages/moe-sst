@@ -51,6 +51,23 @@ sections:
           description: Applying theoretical knowledge to real-world scenarios.
           linktext: Learn more
           url: /curriculum/Applied/about-as/
+  - textcards:
+      title: Stay Connected with SST
+      id: textcards
+      description: Explore Our Social Media for the Latest Updates!
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Instagram
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Linkin
+          description: ""
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Access Student Services
       id: infopic
@@ -75,21 +92,4 @@ sections:
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
       alt: Image alt text
-  - textcards:
-      title: Stay Connected with SST
-      id: textcards
-      description: " Explore Our Social Media for the Latest Updates!"
-      cards:
-        - title: Facebook
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Instagram
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Linkin
-          description: ""
-          linktext: Learn more
-          url: ""
 ---
