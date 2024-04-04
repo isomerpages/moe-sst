@@ -60,6 +60,15 @@ sections:
           linktext: Learn more
           url: /curriculum/Applied/about-as/
   - infopic:
+      title: Student Services
+      id: infopic
+      description: Access essential student services, such as uniforms, books, and
+        insurance.
+      button: Learn More
+      url: /student-services/insurance-for-students/
+      image: /images/SST_Facility_30.jpg
+      alt: Image alt text
+  - infopic:
       title: Get official answers on our Q&A Platform
       subtitle: Have A question?
       id: infopic
