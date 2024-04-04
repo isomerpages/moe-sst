@@ -28,7 +28,7 @@ sections:
         Know Our Leadership Team, Teachers, and Board of Directors.
       cards:
         - title: Board of Directors
-          description: Card description
+          description: ""
           linktext: Learn more
           url: /about-sst/board-of-directors/https://www.sst.edu.sg/about-sst/board-of-directors/
         - title: Principal Message
