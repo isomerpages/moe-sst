@@ -43,16 +43,16 @@ sections:
       description: Discover the Faces Behind Our School's Vision and Success. Get to
         Know Our Leadership Team, Teachers, and Board of Directors.
       cards:
+        - title: Board of Directors
+          description: Card description
+          linktext: Learn more
+          url: /about-sst/board-of-directors/https://www.sst.edu.sg/about-sst/board-of-directors/
         - title: Principal Message
           description: ""
           linktext: Learn more
           url: /about-sst/Exco-Team/p-message/
-        - title: Card
-          description: Card description
+        - title: School Exco Team
+          description: ""
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: /about-us/school-exco-team/exco-team/
 ---
