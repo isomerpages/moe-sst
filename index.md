@@ -74,7 +74,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Career with SST
-      subtitle: Add an image and text
       id: infopic
       description: Join our dedicated team, shaping future leaders and fostering excellence.
       button: Learn More
