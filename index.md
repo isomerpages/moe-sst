@@ -17,7 +17,7 @@ sections:
         - title: Parents Engagement for Secondary One
           description: Information for Parents
           url: /getting-ready-for-2024-sec-1/p7/
-      variant: center
+      variant: floating
       title: Shaping Passionate Innovator, THE SST WAY
   - textcards:
       title: Meet Our Leadership Team
