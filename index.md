@@ -63,7 +63,7 @@ sections:
         - title: Instagram
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.instagram.com/sst_edu_sg/?hl=en
         - title: Linkedin
           description: ""
           linktext: Learn more
