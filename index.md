@@ -14,9 +14,6 @@ sections:
         - title: Career
           description: Job Opportunities
           url: /sst-careers/
-        - title: Parents Engagement for Secondary One
-          description: Information for Parents
-          url: /getting-ready-for-2024-sec-1/p7/
       variant: center
       backgroundColor: gray
       size: md
@@ -74,5 +71,13 @@ sections:
       button: View or Ask Questions on Ask.Gov
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
+      alt: Image alt text
+  - infopic:
+      title: Career with SST
+      subtitle: Add an image and text
+      id: infopic
+      description: Join our dedicated team, shaping future leaders and fostering excellence.
+      button: Learn More
+      url: /sst-careers/
       alt: Image alt text
 ---
