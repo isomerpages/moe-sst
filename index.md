@@ -55,10 +55,10 @@ sections:
             innovation.
           linktext: Learn more
           url: /academic-subjects/changemakers/
-        - title: Card
+        - title: Applied Subjects
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /curriculum/Applied/about-as/
   - infopic:
       title: From coding novice to tech mentor
       subtitle: Alumni news
