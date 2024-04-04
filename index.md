@@ -59,7 +59,7 @@ sections:
         - title: Facebook
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.facebook.com/ssts.1technologydrive/
         - title: Instagram
           description: ""
           linktext: Learn more
