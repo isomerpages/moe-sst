@@ -18,7 +18,6 @@ sections:
           description: Information for Parents
           url: /getting-ready-for-2024-sec-1/p7/
       variant: center
-      title: Shaping Passionate Innovator, THE SST WAY
       backgroundColor: gray
       size: md
   - textcards:
