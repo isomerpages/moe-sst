@@ -42,7 +42,8 @@ sections:
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards
-      description: Text card description
+      description: Explore Our Unique Curriculum Based on Applied Learning, Integrated
+        learning and Innovation.
       cards:
         - title: SST-NP Integrated Diploma Programme
           description: Empower students through applied STEAM learning and industry
