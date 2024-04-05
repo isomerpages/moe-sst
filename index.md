@@ -19,6 +19,10 @@ sections:
       description: Discover the Faces Behind Our School's Vision and Success. Get to
         Know Our Leadership Team and Board of Directors.
       cards:
+        - title: Vision, Mission, and Values
+          description: Our guiding principles.
+          linktext: Learn more
+          url: /about-sst/SST-Identity/vmvg/
         - title: Board of Directors
           description: Strategic visionaries guiding our school's mission.
           linktext: Learn more
@@ -31,10 +35,6 @@ sections:
           description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
-        - title: Vision, Mission, and Values
-          description: Our Guiding Principles.
-          linktext: Learn more
-          url: /about-sst/SST-Identity/vmvg/
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards
