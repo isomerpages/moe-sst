@@ -92,4 +92,21 @@ sections:
       url: https://ask.gov.sg/sst
       image: /images/sst_askgov.png
       alt: Image alt text
+  - textcards:
+      title: Join Us via DSA-Sec Application
+      id: textcards
+      description: "Seek admission to SST based on your STEAM talent. "
+      cards:
+        - title: DSA Selection Criteria
+          description: Card description
+          linktext: Learn more
+          url: /student-admission/dsa-selection-criteria/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
