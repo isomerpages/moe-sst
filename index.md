@@ -31,6 +31,10 @@ sections:
           description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
+        - title: Vision, Mission, and Values
+          description: Our Guiding Principles.
+          linktext: Learn more
+          url: /about-sst/SST-Identity/vmvg/
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards
@@ -82,7 +86,7 @@ sections:
           linktext: Learn more
           url: https://www.linkedin.com/school/sstsingapore/?originalSubdomain=sg
   - infopic:
-      title: "Access Student Information & Services "
+      title: Access Student Information & Services
       id: infopic
       description: Understand essential student information and services, including
         uniforms, books, bursaries, schoolships and insurance.
