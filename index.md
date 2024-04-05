@@ -82,9 +82,10 @@ sections:
           linktext: Learn more
           url: https://www.linkedin.com/school/sstsingapore/?originalSubdomain=sg
   - infopic:
-      title: Access Student Services
+      title: "Access Student Information & Services "
       id: infopic
-      description: Essential student services, such as uniforms, books, and insurance.
+      description: Understand essential student information and services, including
+        uniforms, books, bursaries, schoolships and insurance.
       button: Learn More
       url: /student-services/insurance-for-students/
       image: /images/SST_Facility_30.jpg
