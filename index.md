@@ -57,11 +57,11 @@ sections:
       description: Seek admission to SST based on your STEAM talent.
       cards:
         - title: DSA Selection Criteria
-          description: Card description
+          description: "Discover Our Selection Criteria: Your Path to Success Begins Here."
           linktext: Learn more
           url: /student-admission/dsa-selection-criteria/
         - title: SST DSA-Sec Application
-          description: ""
+          description: "Start Your Journey: Learn About Our Application Process Today!"
           linktext: Learn more
           url: /student-admission/s1-dsa/
   - textcards:
