@@ -67,7 +67,7 @@ sections:
   - textcards:
       title: Stay Connected with SST
       id: textcards
-      description: Explore Our Social Media for the Latest Updates!
+      description: Explore Our Social Media for the Latest Highlights and Success Stories.
       cards:
         - title: Facebook
           description: ""
