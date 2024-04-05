@@ -101,7 +101,7 @@ sections:
           description: Card description
           linktext: Learn more
           url: /student-admission/dsa-selection-criteria/
-        - title: Direct School Admission (DSA-Sec) Exercise
+        - title: SST DSA-Sec Application
           description: ""
           linktext: Learn more
           url: /student-admission/s1-dsa/
