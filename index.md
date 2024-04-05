@@ -92,7 +92,7 @@ sections:
         uniforms, books, bursaries, schoolships and insurance.
       button: Learn More
       url: /student-services/insurance-for-students/
-      image: /images/SST_Facility_30.jpg
+      image: /images/Admin_Staff_at_Counter.jpg
       alt: Image alt text
   - infopic:
       title: Join our Team
