@@ -93,7 +93,7 @@ sections:
       title: Access Student Information & Services
       id: infopic
       description: Understand essential student information and services, including
-        uniforms, books, bursaries, schoolships and insurance.
+        uniforms, books, bursaries, fees, schoolships and insurance.
       button: Learn More
       url: /student-services/insurance-for-students/
       image: /images/Admin_Staff_at_Counter.jpg
