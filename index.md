@@ -85,6 +85,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.linkedin.com/school/sstsingapore/?originalSubdomain=sg
+        - title: Youtube
+          description: ""
+          linktext: Learn more
+          url: https://www.youtube.com/c/schoolofscienceandtechnologysingapore
   - infopic:
       title: Access Student Information & Services
       id: infopic
