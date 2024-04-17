@@ -14,6 +14,7 @@ sections:
       backgroundColor: gray
       size: md
       subtitle: School of Science and Technology, Singapore
+      title: Shaping passionate innovators. The SST Way
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
