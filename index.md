@@ -13,6 +13,7 @@ sections:
       variant: center
       backgroundColor: gray
       size: md
+      subtitle: School of Science and Technology, Singapore
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
