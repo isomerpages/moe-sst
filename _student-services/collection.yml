@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Scholarship.md
       - School Fees.md
       - Insurance For Students.md
       - Uniform.md
