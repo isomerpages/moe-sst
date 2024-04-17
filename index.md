@@ -97,7 +97,7 @@ sections:
       description: Be informed of essential student information and services,
         including uniforms, books, bursaries, fees, schoolships and insurance.
       button: Learn More
-      url: /student-services/insurance-for-students/
+      url: /student-admission/school-fees/
       image: /images/Admin_Staff_at_Counter.jpg
       alt: Image alt text
   - infopic:
