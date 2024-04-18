@@ -6,7 +6,7 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: The General Office will be closed early on Monday, 22 April 2024 at 4.30 pm.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
