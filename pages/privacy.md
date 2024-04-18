@@ -47,12 +47,14 @@ SST will/may collect, use, disclose and/or process your child/children and/or yo
 
 #### **Disclosure to 3rd Parties**
 
-SST may be required to disclose your child/children and/or your personal data to third parties which would be processing your child/children and/or your personal data for one or more above purposes.  These 3rd parties include but not limited to the followings:
+SST may be required to disclose your child/children and/or your personal data to third parties which would be processing your child/children and/or your personal data for one or more above purposes. These 3rd parties include but not limited to the followings:
 
 *   Organisations with which we are collaborating for one or more of the above-mentioned purposes;
 *   Individuals, Organisations and/or any government authority who have provided your child/children with scholarships, financial assistance, awards, medals or prizes during the period of your child/children studies in SST and who request for information relating to your child/children progress and result as a student in SST;
 *   Any service providers engaged by SST who process your child/children and/or your personal data on behalf of the School including but not limited to hospitals, medical centre(s), Outward Bound Schools and those which supply administrative services to the School such as manufactures of award medals, plaques, trophies, information technology companies and printers of the School publications; and
 *   Organisations and/or educational institutions that are involved in exchange programmes with us
+
+Please do note that photographs(s) or video/interview images of your child/children and/or you taken by the organisations during the activities for the above purposes may be used, disclosed, processed and published in materials (both soft and hard copy) such as on the organisation's online social media platforms, newsletters or other publications, handbooks, prospectus, yearbooks or any materials/books.
 
 We may/would not be able to process your child/children with us for place and/or financial assistance, grants and/or bursaries whether they are from us or external organisations should you fail to supply us with certain personal data.  Likewise, SST may/would not be able to effectively administer our relationship with your child/children and/or you.
 

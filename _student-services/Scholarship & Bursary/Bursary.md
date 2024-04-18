@@ -2,8 +2,8 @@
 title: Bursary
 permalink: /student-admission/scholarship-bursary/bursary/
 description: ""
-third_nav_title: Scholarship & Bursary
 variant: markdown
+third_nav_title: Scholarship & Bursary
 ---
 #### MOE Independent School Bursary (ISB)
 
