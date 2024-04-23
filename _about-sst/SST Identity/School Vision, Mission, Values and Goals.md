@@ -3,8 +3,10 @@ title: School Vision, Mission, Values and Goals
 permalink: /about-sst/SST-Identity/vmvg/
 description: ""
 third_nav_title: SST Identity
+variant: markdown
 ---
-![](/images/Homepage%20Banner.png)
+![](/images/Homepage%20Banner.jpeg)
+
 ### Vision
 
 A globally connected institution dedicated to transforming learning
