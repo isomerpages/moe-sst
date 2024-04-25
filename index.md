@@ -103,7 +103,8 @@ sections:
   - infopic:
       title: Join our Team
       id: infopic
-      description: Join our dedicated team, shaping future leaders and fostering excellence.
+      description: Join our dedicated team, shaping passionate innovators and
+        fostering excellence.
       button: Learn More
       url: /sst-careers/
       alt: Image alt text
