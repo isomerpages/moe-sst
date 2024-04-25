@@ -107,7 +107,7 @@ sections:
       button: Learn More
       url: /sst-careers/
       alt: Image alt text
-      image: /images/Career_w_SST_Cover.jpg
+      image: /images/SST_Career_Cover.jpg
   - infopic:
       title: Get official answers on our Q&A Platform
       subtitle: Have A question?
