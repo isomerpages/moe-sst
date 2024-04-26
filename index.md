@@ -18,7 +18,8 @@ sections:
   - infopic:
       title: Open House 2024
       id: infopic
-      description: Infopic description
+      description: Discover the endless possibilities awaiting you and your child at
+        our school's open house!
       button: Learn More
       url: https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes
       alt: Image alt text
