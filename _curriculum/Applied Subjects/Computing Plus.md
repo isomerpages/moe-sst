@@ -3,8 +3,9 @@ title: Computing Plus
 permalink: /applied-subjects/computing/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
-![](/images/Curriculum/IP%20-%20Computing%20Cover.jpeg)
+![](/images/Curriculum/AS___Computing_plus_Cover.jpg)
 
 The Computing+ course in SST equips students with computational thinking techniques and creativity to analyse and solve problems. Computational thinking is a problem-solving process involving analysis, pattern finding, abstraction and algorithmic design. Students use these processes to develop programmes to deal confidently with complex and open-ended problems. 
 
