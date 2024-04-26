@@ -15,6 +15,14 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
+  - infopic:
+      title: Open House 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Learn More
+      url: https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes
+      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
