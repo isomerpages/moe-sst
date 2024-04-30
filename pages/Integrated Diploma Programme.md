@@ -2,7 +2,6 @@
 title: Integrated Diploma Programme
 permalink: /about-sst/faqs/faq-idp/
 description: ""
-third_nav_title: FAQs
 variant: markdown
 ---
 ###### *(Updated 25 January 2024)*
@@ -37,12 +36,3 @@ project when in Secondary 4.
 ##### What are the 21 NP courses that the IDP students can articulate to?
 IDP students are offered 21 STEM-related courses from the [School of Engineering (SoE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering), [School of InfoComm Technology (SoICT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology), [School of Design & Environment (SoDE)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment) and [School of Life Sciences & Chemical Technology (SoLSCT)](https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology). Please refer to the diagram below.
 ![21 STEM COURSES](/images/IDP_NP_courses.jpg)
-
-
-    
-
-
-
-
-
-

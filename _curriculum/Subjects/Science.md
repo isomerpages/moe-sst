@@ -3,8 +3,9 @@ title: Science
 permalink: /academic-subjects/science/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
-![](/images/Curriculum/IP%20-%20Science%20Cover.jpg)
+![](/images/Curriculum/IP___Science_Cover.jpg)
 
 The SST Science curriculum is based on the philosophy of education through inquiry, experimentation, and discovery. Students are presented with a variety of learning experiences which pique their curiosity about the natural world and help cultivate habits of mind to be out-of-the-box innovators. 
 
