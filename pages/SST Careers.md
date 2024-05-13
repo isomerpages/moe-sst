@@ -11,10 +11,10 @@ and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Informations and Communications Technology Executive</p>
+<p>Information and Communications Technology Executive</p>
 </li>
 </ol>
-<p>The&nbsp; Informations and Communications Technology&nbsp;Executive&nbsp;reports
+<p>The&nbsp; Information and Communications Technology&nbsp;Executive&nbsp;reports
 to the&nbsp;Information and Communication Technology Manager.</p>
 <p>He/She is responsible for&nbsp;Information and Communication Technology&nbsp;matters
 such as:</p>
