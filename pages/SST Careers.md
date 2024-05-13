@@ -11,63 +11,77 @@ and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Student Affairs and Services Manager</p>
+<p>Informations and Communications Technology Executive</p>
 </li>
 </ol>
-<p>Student Affairs and Services Manager reports to the Vice Principal (Administration)
-and supervises the department.</p>
-<p>He/She is responsible for the management of student affairs matters such
-as:</p>
-<ul>
-<li>
-<p>Overseas trips</p>
-</li>
-<li>
-<p>Admissions, withdrawals and leave of absence</p>
-</li>
-<li>
-<p>Insurance</p>
-</li>
-<li>
-<p>Student surveys</p>
-</li>
-<li>
-<p>Student finance matters</p>
+<p>The&nbsp; Information and Communication Technology&nbsp;Executive&nbsp;reports
+to the&nbsp;Information and Communication Technology Manager.</p>
+<p>He/She is responsible for&nbsp;Information and Communication Technology&nbsp;matters
+such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bursaries, scholarships and Edusave</p>
+<p>&nbsp;Assist the Manager in monitoring the daily operations of the&nbsp;ICT&nbsp;helpdesk,
+and work with the outsourced Desktop engineer to provide end-user support.</p>
 </li>
 <li>
-<p>Government&nbsp;grants for students</p>
+<p>Provide support for school events and activities.</p>
 </li>
 <li>
-<p>Payment for school enrichment programmes, equipment and other purchases
-payable</p>
+<p>Maintain and troubleshoot ICT inventory including hardware and software.</p>
+</li>
+<li>
+<p>Maintain inventory of IT and audio-visual systems and equipment and their
+proper documentation.</p>
+</li>
+<li>
+<p>Monitor IT contracts, renew or procure new service contracts where necessary.</p>
+</li>
+<li>
+<p>Manage student learning portals such as Google workspace, Apple School
+Manager.</p>
+</li>
+<li>
+<p>Collaborate with external IT infrastructure maintenance team to provide
+level 1 support.</p>
+</li>
+<li>
+<p>Maintain and prepare internal exam server to meet exam requirements.</p>
+</li>
+<li>
+<p>Responsible for daily operations, conducting briefing on new applications
+and conduct staff&nbsp;induction.</p>
+</li>
+<li>
+<p>Assist In ICT projects when necessary.</p>
+</li>
+<li>
+<p>Explore new technology that meets school’s needs.</p>
 </li>
 </ul>
-</li>
-<li>
-<p>Communications&nbsp;with parents</p>
-</li>
-<li>
-<p>Student-related administrative matters</p>
-</li>
-<li>
-<p>Internal and external student services such as:</p>
+<p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Uniform</p>
+<p>Diploma in IT/Computer Science</p>
 </li>
 <li>
-<p>Bookshop</p>
+<p>Minimum 2 years of relevant working experience.</p>
 </li>
 <li>
-<p>Sickbay</p>
+<p>Window and Apple environment experience would be a plus</p>
 </li>
 <li>
-<p>Dental</p>
+<p>Good communication and customer service&nbsp;skills.</p>
 </li>
-</ul>
+<li>
+<p>Hands-on experience using Apple, Google related&nbsp;applications.</p>
+</li>
+<li>
+<p>Hands-on experience using Window Server&nbsp;Management (Hyper V Virtualization)</p>
+</li>
+<li>
+<p>Candidates with&nbsp;Apple certification, and Microsoft Server certification
+(MCSA/MCSE) would be an added advantage</p>
+<p></p>
 </li>
 </ul>
 <p>If you enjoy working with youth and are passionate about sharing your
