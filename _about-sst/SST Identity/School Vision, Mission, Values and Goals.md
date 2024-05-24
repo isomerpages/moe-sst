@@ -35,7 +35,7 @@ SST is an ecological entity unto itself, where individuals with diverse interest
 
 At SST, students will be nurtured to become:
 
-*   Critical Thinkers and Life-long Learners 
+*   Critical Thinkers and Lifelong Learners 
 *   Future Leaders with Exemplary Character 
 *   Creative Problem Finders & Solvers 
 *   Active Stewards in Service of Humanity
