@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Info Hub.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
@@ -21,3 +20,4 @@ collections:
       - Publication/.keep
       - Publication/Yearbook.md
       - Publication/The SSTraits Times.md
+      - Info Hub.md
