@@ -16,15 +16,6 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
-  - infopic:
-      title: Open House 2024
-      id: infopic
-      description: Discover the endless possibilities awaiting you and your child at
-        our school's open house!
-      button: Learn More
-      url: https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes
-      alt: Image alt text
-      image: /images/Open House/Digital_Banner__Social_Media__OH2024.png
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
