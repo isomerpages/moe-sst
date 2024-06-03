@@ -80,15 +80,20 @@ and conduct staff&nbsp;induction.</p>
 <p></p>
 </li>
 </ul>
-<p>2) Math HOD</p>
-<p>3) Math Teacher</p>
-<p>4) Physics Subject Head</p>
+<p>2) Head of Department, Mathematics</p>
+<p>3) Mathematics Teacher</p>
+<p>4) Subject Head, Physics</p>
 <p>5) Physics/Electronics Teacher</p>
 <p>6) Physics/Chemistry Teacher</p>
-<p>7) Chinese Teacher</p>
-<p>8) English Teacher</p>
-<p>9) Sports and Wellness Teacher</p>
+<p>7) Chinese Language Teacher</p>
+<p>8) English Language Teacher</p>
+<p>9) Sports and Wellness Teacher*</p>
 <p>10) History/Social Studies Teacher</p>
+<p></p>
+<p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
+which is a module in the school's signature ChangeMakers Programme. Under
+this programme, lower secondary students learn problem solving skills,
+acquire key concepts of entrepreneurship and work on real world problems.</p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
 creating and developing units of study, lesson plans, assessments, and
