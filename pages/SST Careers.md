@@ -9,11 +9,7 @@ of Science and Technology, Singapore (SST) seeks to nurture passionate
 innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Information and Communications Technology Executive</p>
-</li>
-</ol>
+<p>1) Information and Communications Technology Executive</p>
 <p>The&nbsp; Information and Communications Technology&nbsp;Executive&nbsp;reports
 to the&nbsp;Information and Communication Technology Manager.</p>
 <p>He/She is responsible for&nbsp;Information and Communication Technology&nbsp;matters
@@ -84,6 +80,26 @@ and conduct staff&nbsp;induction.</p>
 <p></p>
 </li>
 </ul>
+<p>2) Math HOD</p>
+<p>3) Math Teacher</p>
+<p>4) Physics Subject Head</p>
+<p>5) Physics/Electronics Teacher</p>
+<p>6) Physics/Chemistry Teacher</p>
+<p>7) Chinese Teacher</p>
+<p>8) English Teacher</p>
+<p>9) Sports and Wellness Teacher</p>
+<p>10) History/Social Studies Teacher</p>
+<p>The teacher will participate and contribute to the planning, developing,
+and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
+creating and developing units of study, lesson plans, assessments, and
+appropriate rubrics.
+<br>
+<br>Besides supporting departments/school programmes, the teacher should be&nbsp;open
+to learning and adopting innovative pedagogies and technology and be passionate
+about nurturing students' (13-16 years)&nbsp;moral and performance character
+development.
+<br>
+</p>
 <p>If you enjoy working with youth and are passionate about sharing your
 expertise with them, come join us in transforming learning to groom future-ready
 students!</p>
