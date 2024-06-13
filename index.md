@@ -6,8 +6,8 @@ description: |-
   Shaping passionate innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The General Office will be closed on June 6, for a school event
-  and will reopen on Friday, June 7, 2024.
+notification: The General Office will be closed on June 21, for a school event
+  and will reopen on Monday, 24 June 2024.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
