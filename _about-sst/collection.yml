@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Whistleblowing Policy.md
       - Board of Directors.md
       - School Exco Team/.keep
       - School Exco Team/Principal Message.md
@@ -22,3 +21,4 @@ collections:
       - Publication/Yearbook.md
       - Publication/The SSTraits Times.md
       - Info Hub.md
+      - Whistleblowing Policy.md
