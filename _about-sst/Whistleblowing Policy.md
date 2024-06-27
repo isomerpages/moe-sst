@@ -24,15 +24,14 @@ to bring to the attention of the Authorised Personnel any misdeed or impropriety
 committed.</p>
 <p>Genuine concerns about wrongdoing should be raised at the earliest opportunity,
 and in an appropriate way.</p>
-<p>The Authorised Personnel at <u>Table 1</u> shall investigate all concerns
-raised. To ensure a fair and objective investigation, the Authorised Personnel
-may conduct preliminary or more extensive, detailed investigations of the
-whistleblower allegations. In some cases, appropriately skilled and experienced
-investigators as well as independent investigation resources may be used.independent
-investigation resources may be used.</p>
+<p>The Authorised Personnel at <strong><u>Table 1</u></strong> shall investigate
+all concerns raised. To ensure a fair and objective investigation, the
+Authorised Personnel may conduct preliminary or more extensive, detailed
+investigations of the whistleblower allegations. In some cases, appropriately
+skilled and experienced investigators as well as independent investigation
+resources may be used.independent investigation resources may be used.</p>
 <p><strong>Table 1: Authorised Personnel</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,9 +82,10 @@ investigation resources may be used.</p>
 </tr>
 </tbody>
 </table>
-<p>+ To involve Estab Com Rep appointed by the Chairman of the SST Board
-of Directors if serious</p>
-<p>* To inform MOE HQ through the Cluster Superintendent</p>
+<p><em>+ To involve Estab Com Rep appointed by the Chairman of the SST Board of Directors if serious</em>
+</p>
+<p><em>* To inform MOE HQ through the Cluster Superintendent</em>
+</p>
 <p></p>
 <p>All concerns should be raised in writing via email to the Authorised Personnel.
 The information to be provided should contain the following, where possible,
