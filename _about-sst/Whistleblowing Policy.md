@@ -106,11 +106,17 @@ the Human Resource Manager at the end of the case.</p>
 to raise concerns in good faith, and the following safeguards are put in
 place to facilitate the process:</p>
 <p></p>
-<p><u>Protection</u>
+<p><strong><u>Protection</u></strong>
 </p>
-<p></p>
 <p>The school shall protect the whistleblower and ensure that he/she will
 not be victimized, discriminated, harassed, or disciplined. However, the
 same protection will not be extended to someone who maliciously raises
-a matter they know to be untrue</p>
+a matter they know to be untrue.</p>
+<p></p>
+<p><strong><u>Confidentiality</u></strong>
+</p>
+<p>Whistleblowers are encouraged to disclose their identity when reporting
+concerns and providing information. The identity of the whistleblower and
+the concerns raised together with all information shall be treated with
+the strictest confidentiality.</p>
 <p></p>
