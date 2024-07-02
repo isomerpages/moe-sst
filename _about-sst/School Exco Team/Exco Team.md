@@ -33,7 +33,7 @@ variant: markdown
 
 ![](/images/Exco%20Photo/H%20-%20John%20Tan%20Profile%20(Grey).svg)
 
-![[](/Images/Exco%20Photo/H%20-](/images/Exco%20Photo/H___Lu_Ting_Profile__Grey_.svg)
+![%20LuTing%20Wang%20Profile%20(Grey).svg)-](/images/Exco%20Photo/Lu_Ting_screenshot.png)
 
 ![](/images/Exco%20Photo/H%20-%20Woon%20Foong%20Profile%20(Grey).svg)
 
@@ -49,7 +49,9 @@ variant: markdown
 
 ![](/images/Exco%20Photo/Divider%20-%20SH.svg)
 
-![](/images/Exco%20Photo/SH%20-%20Karen%20Ng%20Profile%20(Blue%20-%20R).svg)
+
+![%20Karen%Ng%20Profile%20(Blue).svg)-](/images/Exco%20Photo/karen_ng_latest_screenshot.png)
+
 
 ![](/images/Exco%20Photo/SH%20-%20Stanley%20Profile%20(Blue%20-%20R).svg)
 
