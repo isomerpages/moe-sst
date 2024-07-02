@@ -1,14 +1,11 @@
 ---
 layout: homepage
 title: School of Science and Technology, Singapore
-description: |-
-  School of Science and Technology, Singapore
-  Shaping passionate innovators, The SST Way
+description: School of Science and Technology, Singapore Shaping passionate
+  innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Due to a school event, the General Office will operate from 1:00
-  PM to 5:30 PM on Thursday, June 20, 2024, and will be closed on Friday, June
-  21, 2024.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
