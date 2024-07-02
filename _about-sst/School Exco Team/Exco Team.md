@@ -49,7 +49,9 @@ variant: markdown
 
 ![](/images/Exco%20Photo/Divider%20-%20SH.svg)
 
-![](/images/Exco%20Photo/SH%20-%20Karen%20Ng%20Profile%20(Blue%20-%20R).svg)
+
+![%20Karen%Ng%20Profile%20(Blue).svg)-](/images/Exco%20Photo/karen_ng_latest_screenshot.png)
+
 
 ![](/images/Exco%20Photo/SH%20-%20Stanley%20Profile%20(Blue%20-%20R).svg)
 
