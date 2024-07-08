@@ -2,30 +2,212 @@
 title: School Fees
 permalink: /student-admission/school-fees/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### School Fees Per Month
-
-  
-
-<table style="font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(80, 0, 80); border-collapse: collapse; width: 405pt;" width="540" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width: 165pt;" width="220"><col style="width: 48pt;" span="5" width="64"></colgroup><tbody><tr style="height: 15pt;" height="20"><td style="margin: 0px; height: 30pt; width: 165pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-width: 1pt 0.5pt 0.5pt 1pt; border-style: solid; border-color: windowtext; background: rgb(240, 240, 240); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="220" height="40" rowspan="2">Nationality</td><td style="margin: 0px; border-left: none; width: 96pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-top: 1pt solid windowtext; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="128" colspan="2">School Fees</td><td style="margin: 0px; width: 48pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-width: 1pt 0.5pt 0.5pt; border-style: solid; border-color: windowtext; background: rgb(240, 240, 240); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="64" rowspan="2">Misc. Fees</td><td style="margin: 0px; border-right: 1pt solid black; border-left: none; width: 96pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-top: 1pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="128" colspan="2">Total</td></tr><tr style="height: 15pt;" height="20"><td style="margin: 0px; height: 15pt; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64" height="20">2023</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">2024</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">2023</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-weight: 700; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 1pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">2024</td></tr><tr style="height: 36pt;" height="48"><td style="margin: 0px; height: 36pt; border-top: none; width: 165pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 1pt solid windowtext; background: rgb(230, 230, 230); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="220" height="48">Singapore Citizen</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$300</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$300</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$30</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$330</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 1pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$330</td></tr><tr style="height: 36pt;" height="48"><td style="margin: 0px; height: 36pt; border-top: none; width: 165pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 1pt solid windowtext; background: rgb(240, 240, 240); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="220" height="48">Permanent Resident</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$850</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$900</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$30</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$880</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 1pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$930</td></tr><tr style="height: 36pt;" height="48"><td style="margin: 0px; height: 36pt; border-top: none; width: 165pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 1pt solid windowtext; background: rgb(230, 230, 230); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="220" height="48">International Student<br>(ASEAN)</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$1,600</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$1,750</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$30</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$1,630</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 1pt solid windowtext; border-bottom: 0.5pt solid windowtext; background: rgb(230, 230, 230); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$1,780</td></tr><tr style="height: 36pt;" height="48"><td style="margin: 0px; height: 36pt; border-top: none; width: 165pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; background: rgb(240, 240, 240); padding-left: 15px; padding-top: 1px; padding-right: 1px; color: black;" width="220" height="48">International Student<br>(Non-ASEAN)</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 1pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$2,200</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 1pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$2,400</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 1pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$30</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 0.5pt solid windowtext; border-bottom: 1pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$2,230</td><td style="margin: 0px; border-top: none; border-left: none; width: 48pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center; vertical-align: middle; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; background: rgb(240, 240, 240); padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black;" width="64">$2,430</td></tr></tbody></table>
-
-
-
-
-#### Changes in Citizenship Status
-
-Students are advised to keep the school updated with changes in your citizenship by submitting a copy of your new Identity Card or Passport as documentary proof to the SST General Office. The revised school fees rate will commence from the next month upon receipt of documents.
-
-#### Collection of School Fees
-
-1.  &nbsp;All fees are collected through the Inter-bank Giro Scheme.
-2.  It is compulsory for parents / guardians of students to take part in the Inter-bank Giro scheme. Parents / guardians must have a savings or current account. Fees due from students will then be automatically deducted through the scheme.
-3.  The softcopy of the form in PDF is available below:
-* [APPLICATION FORM FOR INTERBANK GIRO](/files/APPLICATION_FORM_FOR_INTERBANK_GIRO.pdf)
-
-#### School Fees Giro Deduction Dates
-
-Annual school fees payable is spread over 12 months of the academic year. Students who join on or before 5 February will have to pay fees for January Those who leave on or after 5 May will have to pay fees for June. Those who leave on or after 5 October will have to pay fees for November and December. For students who have applied for withdrawal from School, all outstanding fees will have to be made in full before the last day of school.
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; width: 820px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">Month</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;"><strong style="box-sizing: inherit; font-weight: bold;">Scheduled Date of Deduction</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">January &amp; February</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of February</td></tr><tr style="box-sizing: inherit; background: rgb(240, 240, 240);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">March – October</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of the month</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">November &amp; December</td><td style="box-sizing: inherit; padding: 5px 10px; border-color: transparent;">1st working day of November</td></tr></tbody></table>
+<h4>School Fees Per Month</h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Nationality</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>School Fees</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>Misc. Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Total</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$330</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$330</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Permanent Resident</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$950</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$930</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$980</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Student
+<br>(ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,750</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,830</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Student
+<br>(Non-ASEAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,450</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,430</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,480</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Changes in Citizenship Status</h4>
+<p>Students are advised to keep the school updated with changes in your citizenship
+by submitting a copy of your new Identity Card or Passport as documentary
+proof to the SST General Office. The revised school fees rate will commence
+from the next month upon receipt of documents.</p>
+<h4>Collection of School Fees</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>&nbsp;All fees are collected through the Inter-bank Giro Scheme.</p>
+</li>
+<li>
+<p>It is compulsory for parents / guardians of students to take part in the
+Inter-bank Giro scheme. Parents / guardians must have a savings or current
+account. Fees due from students will then be automatically deducted through
+the scheme.</p>
+</li>
+<li>
+<p>The softcopy of the form in PDF is available below:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/APPLICATION_FORM_FOR_INTERBANK_GIRO.pdf" rel="noopener noreferrer nofollow" target="_blank">APPLICATION FORM FOR INTERBANK GIRO</a>
+</p>
+</li>
+</ul>
+<h4>School Fees Giro Deduction Dates</h4>
+<p>Annual school fees payable is spread over 12 months of the academic year.
+Students who join on or before 5 February will have to pay fees for January
+Those who leave on or after 5 May will have to pay fees for June. Those
+who leave on or after 5 October will have to pay fees for November and
+December. For students who have applied for withdrawal from School, all
+outstanding fees will have to be made in full before the last day of school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Scheduled Date of Deduction</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January &amp; February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st working day of February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March – October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st working day of the month</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November &amp; December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st working day of November</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
