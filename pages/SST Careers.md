@@ -84,7 +84,7 @@ and conduct staff&nbsp;induction.</p>
 <p>3) Mathematics Teacher</p>
 <p>4) Subject Head, Physics</p>
 <p>5) Physics/Electronics Teacher</p>
-<p>6) Physics/Chemistry Teacher</p>
+<p>6) Physics/Mathematics Teacher</p>
 <p>7) Chinese Language Teacher</p>
 <p>8) English Language Teacher</p>
 <p>9) Sports and Wellness Teacher*</p>
