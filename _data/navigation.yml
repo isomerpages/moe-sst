@@ -52,5 +52,8 @@ links:
         url: /student-admission/s3-admission
       - title: 1-to-1 Learning Device
         url: /student-admission/1-to-1-learning-device
+  - title: Student Info & Services
+    url: /permalink
+    sublinks: []
   - title: Have a Question?
     url: https://ask.gov.sg/sst
