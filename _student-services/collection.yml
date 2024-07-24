@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Bursary.md
       - Scholarship.md
       - School Fees.md
       - Scholarship & Bursary/.keep
