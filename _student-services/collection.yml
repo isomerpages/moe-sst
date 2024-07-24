@@ -2,12 +2,12 @@ collections:
   student-services:
     output: true
     order:
+      - School Fees.md
       - Bursary.md
       - Scholarship.md
-      - School Fees.md
       - Scholarship & Bursary/.keep
       - Scholarship & Bursary/Scholarship.md
       - Scholarship & Bursary/Bursary.md
       - Insurance For Students.md
-      - Uniform.md
       - Bookshop.md
+      - Uniform.md
