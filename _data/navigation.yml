@@ -54,6 +54,18 @@ links:
         url: /student-admission/1-to-1-learning-device
   - title: Student Info & Services
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: School Fees
+        url: /permalink
+      - title: Bursary
+        url: /permalink
+      - title: Scholarship
+        url: /permalink
+      - title: Insurance for Students
+        url: /permalink
+      - title: Uniform
+        url: /permalink
+      - title: Bookshop
+        url: /permalink
   - title: Have a Question?
     url: https://ask.gov.sg/sst
