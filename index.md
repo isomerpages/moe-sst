@@ -69,6 +69,15 @@ sections:
           description: "Start Your Journey: Learn About Our Application Process Today!"
           linktext: Learn more
           url: /student-admission/s1-dsa/
+  - infopic:
+      title: Access Student Information & Services
+      id: infopic
+      description: Be informed of essential student information and services,
+        including uniforms, books, bursaries, fees, schoolships and insurance.
+      button: Learn More
+      url: /student-services/school-fees/
+      image: /images/Admin_Staff_at_Counter.jpg
+      alt: Image alt text
   - textcards:
       title: Stay Connected with SST
       id: textcards
@@ -90,15 +99,6 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.youtube.com/c/schoolofscienceandtechnologysingapore
-  - infopic:
-      title: Access Student Information & Services
-      id: infopic
-      description: Be informed of essential student information and services,
-        including uniforms, books, bursaries, fees, schoolships and insurance.
-      button: Learn More
-      url: /student-admission/school-fees/
-      image: /images/Admin_Staff_at_Counter.jpg
-      alt: Image alt text
   - infopic:
       title: Join our Team
       id: infopic
