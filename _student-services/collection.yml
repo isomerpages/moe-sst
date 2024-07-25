@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - School Fees.md
-      - Scholarship & Bursary/.keep
-      - Scholarship & Bursary/Scholarship.md
-      - Scholarship & Bursary/Bursary.md
+      - Bursary.md
+      - Scholarship.md
       - Insurance For Students.md
-      - Uniform.md
       - Bookshop.md
+      - Uniform.md

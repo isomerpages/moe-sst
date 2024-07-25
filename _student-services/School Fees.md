@@ -1,6 +1,6 @@
 ---
 title: School Fees
-permalink: /student-admission/school-fees/
+permalink: /student-services/school-fees/
 description: ""
 variant: tiptap
 ---
