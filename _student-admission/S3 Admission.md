@@ -2,7 +2,12 @@
 title: S3 Admission
 permalink: /student-admission/s3-admission/
 description: ""
+variant: markdown
 ---
+##### **Please note that there will be no admission exercise for the 2025 S3 intake. You can refer to the instructions below for details on the S3 admission exercise that has taken place in the past.**
+
+
+
 ### Admission for 2024 SST Secondary 3 (S3) Intake
 
 Admission for 2023 SST S3 Intake is open to Secondary 2 (or equivalent) applicants who have a proclivity and passion in areas related to Science, Technology, Engineering, Aesthetics and Mathematics (STEAM). 
