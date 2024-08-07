@@ -74,21 +74,84 @@ and conduct staff&nbsp;induction.</p>
 <li>
 <p>Hands-on experience using Window Server&nbsp;Management (Hyper V Virtualization)</p>
 </li>
-<li>
+</ul>
 <p>Candidates with&nbsp;Apple certification, and Microsoft Server certification
 (MCSA/MCSE) would be an added advantage</p>
 <p></p>
+<p>2) Communications &amp; Engagement Executive</p>
+<p>Duties and Responsibilities</p>
+<p>The Executive supports the Manager in administration-centred activities
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide marketing and corporate communications support to the school through
+production of collaterals (e.g. on-site branding materials, corporate videos,
+etc.). Depending on the project, this requires the job holder to produce
+written, graphic and multimedia contents.</p>
+</li>
+<li>
+<p>Implement digital communications plans through updates to the school website
+and creation of social media posts.&nbsp;</p>
+</li>
+<li>
+<p>Collate inputs from staff, write and disseminate parents' termly newsletters.</p>
+</li>
+<li>
+<p>Promote positive relations with stakeholders and partners by supporting
+key events, outreach activities and visits.</p>
+</li>
+<li>
+<p>Plan and organise photography sessions (liaise with the photographers
+and staff).</p>
+</li>
+<li>
+<p>Manage corporate gift inventory.</p>
+</li>
+<li>
+<p>Archive exchanges items and projects at Exhibition Centre, and maintains
+both the Visitor Centre and Exhibition Centre.</p>
+</li>
+<li>
+<p>Assist in the preparation of finance documents related to purchase of
+relevant services and goods.&nbsp;</p>
+</li>
+<li>
+<p>Assist in crafting news releases and copywriting of communications materials
+(such as yearbook, etc.).&nbsp;</p>
 </li>
 </ul>
-<p>2) Head of Department, Mathematics</p>
-<p>3) Mathematics Teacher</p>
-<p>4) Subject Head, Physics</p>
-<p>5) Physics/Electronics Teacher</p>
-<p>6) Physics/Mathematics Teacher</p>
-<p>7) Chinese Language Teacher</p>
-<p>8) English Language Teacher</p>
-<p>9) Sports and Wellness Teacher*</p>
-<p>10) History/Social Studies Teacher</p>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A minimum Diploma in Communications / Arts or related disciplines is required.</p>
+</li>
+<li>
+<p>1 - 2 years experience in marketing, advertising or public relations preferred</p>
+</li>
+<li>
+<p>Confident, and with a pleasant personality.</p>
+</li>
+<li>
+<p>Ability to work as a team player.</p>
+</li>
+<li>
+<p>Knowledge of graphic / multimedia design software (Illustrator, InDesign,
+Photoshop, iMovie, Final Cut Pro or equivalent) and web publishing platforms.</p>
+</li>
+<li>
+<p>Effectively bilingual is a plus.</p>
+</li>
+</ul>
+<p></p>
+<p>3) Head of Department, Mathematics</p>
+<p>4) Mathematics Teacher</p>
+<p>5) Subject Head, Physics</p>
+<p>6) Physics/Electronics Teacher</p>
+<p>7) Physics/Mathematics Teacher</p>
+<p>8) Chinese Language Teacher</p>
+<p>9) English Language Teacher</p>
+<p>10) Sports and Wellness Teacher*</p>
+<p>11) History/Social Studies Teacher</p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
 which is a module in the school's signature ChangeMakers Programme. Under
