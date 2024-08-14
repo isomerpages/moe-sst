@@ -111,7 +111,7 @@ school (GGAS) fee^</p>
 </table>
 <p>^ GGAS fee comprises school fee, standard miscellaneous fee and maximum
 2nd tier miscellaneous fee payable by Singapore Citizen students studying
-in GGAS. &nbsp;For 2020, the GGAS fee is $25 per month or $300 per year
+in GGAS. &nbsp;For 2024, the GGAS fee is $25 per month or $300 per year
 (in secondary level).</p>
 <p>*There will be no reimbursement of expenses incurred by students for the
 purchase of textbooks and/or school attire prior to the approval of the
