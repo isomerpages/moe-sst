@@ -82,8 +82,6 @@ and conduct staff&nbsp;induction.</p>
 <p></p>
 <p><strong>2)</strong>  <strong>Communications &amp; Engagement Executive</strong>
 </p>
-<p><strong>Duties and Responsibilities</strong>
-</p>
 <p>The Executive supports the Manager in administration-centred activities
 such as:</p>
 <ul data-tight="true" class="tight">
@@ -213,18 +211,85 @@ and General Ledger</p>
 </li>
 <li>
 <p>Minimum of 3 years of relevant experience required.</p>
-<p></p>
 </li>
 </ul>
-<p>4) Head of Department, Mathematics</p>
-<p>5) Mathematics Teacher</p>
-<p>6) Subject Head, Physics</p>
-<p>7) Physics/Electronics Teacher</p>
-<p>8) Physics/Mathematics Teacher</p>
-<p>9) Chinese Language Teacher</p>
-<p>10) English Language Teacher</p>
-<p>11) Sports and Wellness Teacher*</p>
-<p>12) History/Social Studies Teacher</p>
+<p></p>
+<p><strong>4) Laboratory Technician</strong>
+</p>
+<p><strong>Duties and Responsibilities:</strong>
+</p>
+<p>Support teaching and learning in the following areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preparation of laboratory materials, hand tools, and components for lessons
+and examinations</p>
+</li>
+<li>
+<p>Troubleshoot and maintenance of laboratory tools and instruments</p>
+</li>
+<li>
+<p>Management of laboratory space for student projects, project equipment,
+materials and&nbsp;storage</p>
+</li>
+<li>
+<p>Assist in managing activities in the laboratories and ensure safety procedures
+are&nbsp;observed</p>
+</li>
+<li>
+<p>Perform daily housekeeping and maintenance to ensure the safety, cleanliness,
+and tidiness of laboratories.</p>
+</li>
+<li>
+<p>Liaise with vendors and evaluate quotations from suppliers for laboratory
+equipment and electronics components.</p>
+</li>
+<li>
+<p>Track and maintain laboratory documentation (i.e., Risk Assessments and
+Components Data Sheets) and inventory of laboratory equipment, hand tools
+and components.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Requirements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma in Electronics &amp; Electrical Engineering or equivalent</p>
+</li>
+<li>
+<p>Knowledge in Electronics/Mechatronics</p>
+</li>
+<li>
+<p>Knowledge and hands-on experience&nbsp;in operating Electronics measuring
+instruments such as Digital Oscilloscope, Digital Power Supplies, Digital
+Function Generator and Digital Multimeter</p>
+</li>
+<li>
+<p>Able to understand PCB schematics, PCB/circuit layouts&nbsp;</p>
+</li>
+<li>
+<p>Possesses good soldering skills</p>
+</li>
+<li>
+<p>Proficiency in Microsoft Office and Circuit Simulation</p>
+</li>
+<li>
+<p>Physically fit and not colour vision deficient</p>
+</li>
+<li>
+<p>Team player and able to work independently</p>
+</li>
+</ul>
+<p></p>
+<p>5) Head of Department, Mathematics</p>
+<p>6) Mathematics Teacher</p>
+<p>7) Subject Head, Physics</p>
+<p>8) Physics/Electronics Teacher</p>
+<p>9) Physics/Mathematics Teacher</p>
+<p>10) Chinese Language Teacher</p>
+<p>11) English Language Teacher</p>
+<p>12) Sports and Wellness Teacher*</p>
+<p>13) History/Social Studies Teacher</p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
 which is a module in the school's signature ChangeMakers Programme. Under
