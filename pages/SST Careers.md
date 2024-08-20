@@ -214,7 +214,7 @@ and General Ledger</p>
 </li>
 </ul>
 <p></p>
-<p><strong>4) Laboratory Technician </strong>
+<p><strong>4) Laboratory Technician</strong>
 </p>
 <p><strong>Duties and Responsibilities:</strong>
 </p>
