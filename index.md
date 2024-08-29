@@ -5,7 +5,8 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: General Office will closed at 2.00pm on Thursday, 8 August 2024.
+notification: The General Office will be closed on 29th August, Thursday, at
+  2pm. The GO will also be closed on Monday, 2nd September.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
