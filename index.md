@@ -5,8 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The General Office will be closed on 2nd September & 4th September
-  (Closed for the full day).
+notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
