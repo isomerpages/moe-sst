@@ -3,48 +3,145 @@ title: Supplementary Intake Exercise
 permalink: /student-admission/s1-admission/s1-sie/
 description: ""
 third_nav_title: S1 Admission
-variant: markdown
+variant: tiptap
 ---
-### THE SST SUPPLEMENTARY INTAKE EXERCISE (SIE)
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="477"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #ffffff 1pt;border-right:solid #ffffff 1pt;border-bottom:solid #ffffff 1pt;border-top:solid #ffffff 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:17pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Please note that there will be </span><span style="font-size:17pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">NO</span><span style="font-size:17pt;font-family:Arial,sans-serif;color:#ff0000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Supplementary Intake Exercise (SIE) for 2024 S1 Intake.</span></p></td></tr></tbody></table>
-
-The Supplementary Intake Exercise is an admission exercise for primary six students who wish to seek admission to SST (Secondary 1 Intake for the following year) after the release of PSLE results. This is subject to the **availability of vacancies**.
-
-##### Important Information and Dates (For Reference)
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="367"><col width="221"><col width="110"></colgroup><tbody><tr style="height:26.25pt"><td style="border-bottom:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#323232;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p></td><td style="border-bottom:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#323232;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dates</span></p></td><td style="border-bottom:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#323232;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Time</span></p></td></tr><tr style="height:39.75pt"><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Opening of Online Application for SIE with Submission of PSLE Results</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">On the day of the release of PSLE results</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 1.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10 am</span></p></td></tr><tr style="height:39.75pt"><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Closing of Online Application for SIE</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3rd day* from the release of PSLE results</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10 am</span></p></td></tr><tr style="height:39.75pt"><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Selection Interview (Only Shortlisted Applicants)</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4th to 6th day from release of PSLE results</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">TBC</span></p></td></tr><tr style="height:39.75pt"><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Outcome of SIE Application</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4th to 6th day from release of PSLE results</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">TBC</span></p></td></tr><tr style="height:39.75pt"><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Acceptance of SIE offer</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">24 hours upon receiving SIE offer</span></p></td><td style="border-bottom:solid #d6d6d6 0.75pt;border-top:solid #d6d6d6 0.75pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td></tr></tbody></table>
-
-
-*If PSLE results are released on 20 Nov 2024 (Wednesday), 3rd day from release of PSLE results will be 22 Nov 2024.
-
-
-
-
-1. Students applying to SST will continue to participate in S1 Posting to choose schools and select Third Language option(s), if applicable.
-2.  For successful SIE applicants, their school choices in the S1 Posting will be void but their Third Language(s) options will continue to apply.
-3.  For unsuccessful SIE applicants, they will be posted based on their school choices and Third Language option(s) (if applicable) in the S1 Posting.
-4.  Candidates who are offered a place in SST will need to sign an acceptance form in person to complete the SIE.
-
-
-#### APPLICATION PROCESS
-
-Applicants must create a unique account and apply through an online portal. *(Link will be provided on the day of application if SIE is open for application)*
-
-The following documents should be submitted **online** to complete the application:
-
-1.  Student EZ-Link Card/Passport (or equivalent photo-identification);
-2.  PSLE Results Slip with the subject grades and PSLE score clearly shown;
-3.  Unfilled MOE S1 Options Form that shows the applicant is not posted to a school via DSA;
-4.  P5 Mid Year and Overall Results from School Report Book;
-5.  P6 Mid Year and Prelim Results from School Report Book;
-6.  CCA/Relevant Achievements (if any).
-
-Incomplete applications will not be considered.
-
-Only shortlisted candidates will be informed and invited to a face-to-face selection interview. The interview will be conducted in SST. Shortlisted candidates are only required to attend one session.
-
-The final outcome of the exercise will be made known to all applicants via email.&nbsp;
-
-For further enquiries on SIE, please contact SST at 65717200 (General Office) or admission@ssts.edu.sg
-
-*Information is correct as of 22 Nov 2023*
+<h3>THE SST SUPPLEMENTARY INTAKE EXERCISE (SIE)</h3>
+<p>The Supplementary Intake Exercise is an admission exercise for primary
+six students who wish to seek admission to SST (Secondary 1 Intake for
+the following year) after the release of PSLE results. This is subject
+to the <strong>availability of vacancies</strong>.</p>
+<h5>Important Information and Dates (For Reference)</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opening of Online Application for SIE with Submission of PSLE Results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On the day of the release of PSLE results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Closing of Online Application for SIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd day* from the release of PSLE results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Selection Interview (Only Shortlisted Applicants)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th to 6th day from release of PSLE results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outcome of SIE Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th to 6th day from release of PSLE results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acceptance of SIE offer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 hours upon receiving SIE offer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*If PSLE results are released on 20 Nov 2024 (Wednesday), 3rd day from
+release of PSLE results will be 22 Nov 2024.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students applying to SST will continue to participate in S1 Posting to
+choose schools and select Third Language option(s), if applicable.</p>
+</li>
+<li>
+<p>For successful SIE applicants, their school choices in the S1 Posting
+will be void but their Third Language(s) options will continue to apply.</p>
+</li>
+<li>
+<p>For unsuccessful SIE applicants, they will be posted based on their school
+choices and Third Language option(s) (if applicable) in the S1 Posting.</p>
+</li>
+<li>
+<p>Candidates who are offered a place in SST will need to sign an acceptance
+form in person to complete the SIE.</p>
+</li>
+</ol>
+<h4>APPLICATION PROCESS</h4>
+<p>Applicants must create a unique account and apply through an online portal. <em>(Link will be provided on the day of application if SIE is open for application)</em>
+</p>
+<p>The following documents should be submitted <strong>online</strong> to complete
+the application:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Student EZ-Link Card/Passport (or equivalent photo-identification);</p>
+</li>
+<li>
+<p>PSLE Results Slip with the subject grades and PSLE score clearly shown;</p>
+</li>
+<li>
+<p>Unfilled MOE S1 Options Form that shows the applicant is not posted to
+a school via DSA;</p>
+</li>
+<li>
+<p>P5 Mid Year and Overall Results from School Report Book;</p>
+</li>
+<li>
+<p>P6 Mid Year and Prelim Results from School Report Book;</p>
+</li>
+<li>
+<p>CCA/Relevant Achievements (if any).</p>
+</li>
+</ol>
+<p>Incomplete applications will not be considered.</p>
+<p>Only shortlisted candidates will be informed and invited to a face-to-face
+selection interview. The interview will be conducted in SST. Shortlisted
+candidates are only required to attend one session.</p>
+<p>The final outcome of the exercise will be made known to all applicants
+via email.&nbsp;</p>
+<p>For further enquiries on SIE, please contact SST at 65717200 (General
+Office) or admission@ssts.edu.sg</p>
+<p><em>Information is correct as of 22 Nov 2023</em>
+</p>
