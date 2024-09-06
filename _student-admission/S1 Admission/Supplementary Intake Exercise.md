@@ -143,5 +143,5 @@ candidates are only required to attend one session.</p>
 via email.&nbsp;</p>
 <p>For further enquiries on SIE, please contact SST at 65717200 (General
 Office) or admission@ssts.edu.sg</p>
-<p><em>Information is correct as of 22 Nov 2023</em>
+<p><em>Information is correct as of 6 Sep 2024</em>
 </p>
