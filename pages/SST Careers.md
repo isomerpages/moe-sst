@@ -79,76 +79,7 @@ and conduct staff&nbsp;induction.</p>
 </ul>
 <p>Candidates with&nbsp;Apple certification, and Microsoft Server certification
 (MCSA/MCSE) would be an added advantage</p>
-<p><strong>2) Finance and Procurement Executive</strong>
-</p>
-<p><strong>Finance</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Support full set of accounts in areas of Accounts Payable, Accounts Receivable
-and General Ledger</p>
-</li>
-<li>
-<p>Budget and Financial Reporting</p>
-</li>
-<li>
-<p>Regulatory returns such as GST returns and grants' returns</p>
-</li>
-</ul>
-<p><strong>Procurement and Asset Management:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Advise department on procurement processes</p>
-</li>
-<li>
-<p>Fixed asset management</p>
-</li>
-</ul>
-<p><strong>Audit and Compliance:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist in audit queries and prepare audit schedules.</p>
-</li>
-</ul>
-<p><strong>General:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist in any other ad hoc tasks as required.</p>
-</li>
-</ul>
-<p><strong>Requirements:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in Accountancy/Business or equivalent</p>
-</li>
-<li>
-<p>Those without a Diploma but with relevant work experience are welcome.</p>
-</li>
-<li>
-<p>Knowledge of Accpac Accounting System and GeBIZ preferred.</p>
-</li>
-<li>
-<p>Proficient in Microsoft Office.</p>
-</li>
-<li>
-<p>Good communication and interpersonal skills.</p>
-</li>
-<li>
-<p>Meticulous, independent, resourceful, and able to work under minimal supervision.</p>
-</li>
-<li>
-<p>Strong organizational, administrative, and time management skills.</p>
-</li>
-<li>
-<p>Minimum of 3 years of relevant experience required.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>3) Laboratory Technician</strong>
+<p><strong>2) Laboratory Technician</strong>
 </p>
 <p><strong>Duties and Responsibilities:</strong>
 </p>
@@ -215,15 +146,15 @@ Function Generator and Digital Multimeter</p>
 </li>
 </ul>
 <p></p>
-<p>4) Head of Department, Mathematics</p>
-<p>5) Mathematics Teacher</p>
-<p>6) Subject Head, Physics</p>
-<p>7) Physics/Electronics Teacher</p>
-<p>8) Physics/Mathematics Teacher</p>
-<p>9) Chinese Language Teacher</p>
-<p>10) English Language Teacher</p>
-<p>11) Sports and Wellness Teacher*</p>
-<p>12) History/Social Studies Teacher</p>
+<p>3) Head of Department, Mathematics</p>
+<p>4) Mathematics Teacher</p>
+<p>5) Subject Head, Physics</p>
+<p>6) Physics/Electronics Teacher</p>
+<p>7) Physics/Mathematics Teacher</p>
+<p>8) Chinese Language Teacher</p>
+<p>9) English Language Teacher</p>
+<p>10) Sports and Wellness Teacher*</p>
+<p>11) History/Social Studies Teacher</p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
 which is a module in the school's signature ChangeMakers Programme. Under
