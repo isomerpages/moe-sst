@@ -4,11 +4,10 @@ permalink: /prep-for-s1/p1/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_05_at_16_50_35__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_s1_welcome_photo.jpg">
 </div>
-<h3>Preparation for 2024 SST Secondary 1</h3>
+<h3>Preparation for 2025 SST Secondary 1</h3>
 <p>The school year begins on <strong>2 January 2024 (Tuesday).</strong> Students
 must report to school (Indoor Sports Hall, Block D) in full school uniform
 (SST T-shirt &amp; pants/bermudas/skorts) by <strong>7.40 am.</strong>
