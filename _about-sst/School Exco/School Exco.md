@@ -1,11 +1,11 @@
 ---
-title: Exco Team
+title: School Exco
 permalink: /about-us/school-exco-team/exco-team/
 description: ""
-third_nav_title: School Exco Team
+third_nav_title: School Exco
 variant: markdown
 ---
-![](/images/Exco%20Photo/Exco%20Profile%20(1).svg)
+![](/images/Exco_Profile.png)
 
 ![](/images/Exco%20Photo/Divider%20-%20SL.svg)
 

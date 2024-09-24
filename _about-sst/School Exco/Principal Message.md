@@ -2,7 +2,7 @@
 title: Principal Message
 permalink: /about-sst/Exco-Team/p-message/
 description: ""
-third_nav_title: School Exco Team
+third_nav_title: School Exco
 ---
 ![](/images/P%20msg%20part%201a.png)
 
