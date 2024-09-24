@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Exco
 variant: markdown
 ---
-![](/images/Exco%20Photo/Exco%20Profile%20(1).svg)
+![](/images/Exco_Profile.png)
 
 ![](/images/Exco%20Photo/Divider%20-%20SL.svg)
 
