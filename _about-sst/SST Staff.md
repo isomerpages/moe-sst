@@ -4,9 +4,8 @@ permalink: /about-sst/sst-staff/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -25,17 +24,11 @@ variant: tiptap
 <p><strong>SST Email Address</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Art, Design, Media and Technology Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -48,9 +41,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>mohamed_irfan_darian@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,9 +51,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>soh_wee_peng@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -76,9 +63,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ieo_gek_ling@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -89,9 +73,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_hui_min@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -104,17 +85,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>patricia_ng@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>English Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -127,9 +102,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>han_siu_yin@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,9 +112,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_wei_ling_jaslyn@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -155,9 +124,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>karlson_goh@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,9 +134,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chok_yong_hui_john@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -183,9 +146,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>christine_lam@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,9 +156,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liauw_yin_mei_carine@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -211,9 +168,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>lim_suet_ching_megan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -224,9 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_noor@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -239,9 +190,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>nurul_afiah_binte_abdul_rashid@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -252,9 +200,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurus_sa'adah_binte_hatraby@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -267,9 +212,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>rachel_oh@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -280,9 +222,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hui_en_debbie@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -295,17 +234,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>jasvindar_pal_kaur@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Humanities Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -318,9 +251,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>alvin_tan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -331,9 +261,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>alice_lim@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -346,9 +273,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>stanley_tan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -359,9 +283,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhang_jiaxin_genevieve@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -374,9 +295,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>seah_wei_kang_don@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -387,9 +305,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_hwee_kiang_ruth@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -402,9 +317,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>mohammad_firdaus_bin_sulaiman@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -415,9 +327,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>seth_tan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -430,9 +339,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ow_chee_kwong_dominic@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -443,9 +349,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_sixuan_esther@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -458,17 +361,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>chan_yong_hong@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Informatics Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -481,9 +378,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>aurelius_yeo@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -494,9 +388,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_kwai_yin@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -509,9 +400,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>jovita_tang@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -523,17 +411,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>sim_yong_seng@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Mathematics Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -545,9 +427,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_pei_pei_priscilla@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -561,9 +440,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>doreen_tan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -574,9 +450,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>janet_tan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -589,9 +462,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>wee_kheng_leong@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -602,9 +472,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_lai_fong@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -617,9 +484,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>chia_song_zhe_andy@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -630,9 +494,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chng_soon_hsien@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -645,9 +506,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>deana_syazwani_binte_azman@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -658,9 +516,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>dong_zilei@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -673,9 +528,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>foo_hao_ling@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -686,9 +538,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_swee_kheng_pamela@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -701,9 +550,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>liu_yi_jie@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -714,9 +560,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_ee_nee@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -729,9 +572,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>nur_johari_salleh@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -742,9 +582,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_kng_yih_kenny@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -757,17 +594,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_yiren_ivan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>MTL Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -780,9 +611,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>wong_lu_ting@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -793,9 +621,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>arfah_buang@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -808,9 +633,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>abdull_samath_bin_nagore_meerah@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -821,9 +643,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_leong@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -836,9 +655,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>yeo_sok_hui@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -849,9 +665,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>azizah_ahmad@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -864,9 +677,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>goh_su_huei@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -877,9 +687,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_sook_qin@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -892,9 +699,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>velayutham_jeyakumaran@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -905,9 +709,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_ho_yan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -920,9 +721,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>xu_wei@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -933,9 +731,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_hui_min@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -948,9 +743,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>yap_yee_ying@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -961,9 +753,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_leng_leng@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -976,17 +765,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>liew_sui_qiong@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Science Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -999,9 +782,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>leong_woon_foong@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1012,9 +792,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>john_tan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1027,9 +804,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_hoe_teck@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1040,9 +814,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ming_yang@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1055,9 +826,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ng_guohui@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1068,9 +836,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>karen_ng@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1083,9 +848,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>lim_chuay_sia@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1096,9 +858,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>praveena_sandra_mohan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1111,9 +870,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>karen_teo@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1124,9 +880,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chung_wing_shun_vincent@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1139,9 +892,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>chee_meng_teck@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1152,9 +902,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>choo_hui_en@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1167,9 +914,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>loh_yue_yan_amelia@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1180,9 +924,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>low_zu_you_allan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1195,9 +936,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>merlene_paik_xin_yi@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1208,9 +946,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_li_ping@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1223,9 +958,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ong_jie_ying@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1236,9 +968,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>szeto_dee_loon_dillon@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1251,9 +980,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>teo_wei_ting@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1264,9 +990,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_koi_lin@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1279,9 +1002,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_tong_lun_jason@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1293,17 +1013,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>wan_han_xuan_thomas@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Sports and Wellness Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1316,9 +1030,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>lam_hin_chew@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1329,9 +1040,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>camellia_lee@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1344,9 +1052,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>choo_mui_luan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1357,9 +1062,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_jun_wei@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1372,9 +1074,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>adele_lim@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1385,9 +1084,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_heng_meng_elson@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1400,9 +1096,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>jerome_tan@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1414,17 +1107,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_kai_chin@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Admin Managers</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1437,9 +1124,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>lim_pei_lin_mabel@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1450,9 +1134,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_bee_yan@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1465,9 +1146,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ngiow_shin_fatt@sst.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1478,9 +1156,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>gan_boon_seng_ashton@sst.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
