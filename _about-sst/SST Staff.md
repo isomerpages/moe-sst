@@ -373,7 +373,7 @@ variant: tiptap
 <p>Yeo Jien Yoen Aurelius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, Educational Technology</p>
+<p>Deputy Dean, Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aurelius_yeo@sst.edu.sg</p>
@@ -774,6 +774,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Soo Woon John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, Integrated Diploma Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>john_tan@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lim-Leong Woon Foong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -781,17 +792,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_woon_foong@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Soo Woon John</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD, Integrated Diploma Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>john_tan@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
