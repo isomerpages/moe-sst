@@ -21,17 +21,18 @@ variant: markdown
 
 ![](/images/Exco%20Photo/D%20-%20Doreen%20Profile%20(Red).svg)
 
+![](/images/Aurelius_Exco_Team_Profile__Red__Updated_2024.svg)
+
+![](/images/John_Tan_Exco_Team_Profile__Red__Updated_2024.svg)
+
 ![](/images/Exco%20Photo/Divider%20-%20HoDs.svg)
 
 ![](/images/Exco%20Photo/H%20-%20Irfan%20Profile%20(Grey).svg)
-
-![](/images/Exco%20Photo/H%20-%20Aurelius%20Profile%20(Grey).svg)
 
 ![](/images/Exco%20Photo/h%20-%20siu%20yin%20profile%20(grey).svg)
 
 ![](/images/Exco%20Photo/H%20-%20Alvin%20Profile%20(Grey).svg)
 
-![](/images/Exco%20Photo/H%20-%20John%20Tan%20Profile%20(Grey).svg)
 
 ![%20LuTing%20Wang%20Profile%20(Grey).svg)-](/images/Exco%20Photo/Lu_Ting_screenshot.png)
 
