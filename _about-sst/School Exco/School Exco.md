@@ -21,10 +21,9 @@ variant: markdown
 
 ![](/images/Exco%20Photo/D%20-%20Doreen%20Profile%20(Red).svg)
 
-![](/images/Aurelius_Exco_Team_Profile__Red__Updated_2024.png)
+![](/images/Aurelius_Exco_Team_Profile__Red__Updated_2024.svg)
 
-
-![](/images/John_Tan_Exco_Team_Profile__Red__Updated_2024.png)
+![](/images/John_Tan_Exco_Team_Profile__Red__Updated_2024.svg)
 
 ![](/images/Exco%20Photo/Divider%20-%20HoDs.svg)
 
