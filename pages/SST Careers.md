@@ -9,77 +9,8 @@ of Science and Technology, Singapore (SST) seeks to nurture passionate
 innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
-<p><strong>1) Information and Communications Technology Executive</strong>
-</p>
-<p>The&nbsp; Information and Communications Technology&nbsp;Executive&nbsp;reports
-to the&nbsp;Information and Communication Technology Manager.</p>
-<p>He/She is responsible for&nbsp;Information and Communication Technology&nbsp;matters
-such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Assist the Manager in monitoring the daily operations of the&nbsp;ICT&nbsp;helpdesk,
-and work with the outsourced Desktop engineer to provide end-user support.</p>
-</li>
-<li>
-<p>Provide support for school events and activities.</p>
-</li>
-<li>
-<p>Maintain and troubleshoot ICT inventory including hardware and software.</p>
-</li>
-<li>
-<p>Maintain inventory of IT and audio-visual systems and equipment and their
-proper documentation.</p>
-</li>
-<li>
-<p>Monitor IT contracts, renew or procure new service contracts where necessary.</p>
-</li>
-<li>
-<p>Manage student learning portals such as Google workspace, Apple School
-Manager.</p>
-</li>
-<li>
-<p>Collaborate with external IT infrastructure maintenance team to provide
-level 1 support.</p>
-</li>
-<li>
-<p>Maintain and prepare internal exam server to meet exam requirements.</p>
-</li>
-<li>
-<p>Responsible for daily operations, conducting briefing on new applications
-and conduct staff&nbsp;induction.</p>
-</li>
-<li>
-<p>Assist In ICT projects when necessary.</p>
-</li>
-<li>
-<p>Explore new technology that meets school’s needs.</p>
-</li>
-</ul>
-<p><strong>Requirements:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in IT/Computer Science</p>
-</li>
-<li>
-<p>Minimum 2 years of relevant working experience.</p>
-</li>
-<li>
-<p>Window and Apple environment experience would be a plus</p>
-</li>
-<li>
-<p>Good communication and customer service&nbsp;skills.</p>
-</li>
-<li>
-<p>Hands-on experience using Apple, Google related&nbsp;applications.</p>
-</li>
-<li>
-<p>Hands-on experience using Window Server&nbsp;Management (Hyper V Virtualization)</p>
-</li>
-</ul>
-<p>Candidates with&nbsp;Apple certification, and Microsoft Server certification
-(MCSA/MCSE) would be an added advantage</p>
-<p><strong>2) Laboratory Technician</strong>
+<p></p>
+<p><strong>1) Laboratory Technician (Electrical/Electronics/Mechatronics)</strong>
 </p>
 <p><strong>Duties and Responsibilities:</strong>
 </p>
