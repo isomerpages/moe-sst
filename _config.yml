@@ -1,6 +1,6 @@
 title: School of Science and Technology, Singapore
 url: https://www.sst.edu.sg
-favicon: /images/SSTLogoLarge(Jepg).jpeg
+favicon: /images/Icons/SST Logo Page.jpeg
 colors:
   primary-color: "#0078c9"
   secondary-color: "#4372d6"
@@ -15,9 +15,8 @@ colors:
       color: "#e70033"
     - title: media-color-five
       color: "#00838f"
-description: |-
-  School of Science and Technology, Singapore
-  Shaping passionate innovators, The SST Way
+description: School of Science and Technology, Singapore Shaping passionate
+  innovators, The SST Way
 permalink: none
 baseurl: ""
 exclude:
