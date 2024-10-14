@@ -226,7 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jasvindar Pal Kaur D/O Mukhtiar Singh</p>
+<p>Jasvindar Pal Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language Consultant &amp; Communications and Engagement Senior
