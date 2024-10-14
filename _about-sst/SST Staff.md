@@ -229,7 +229,8 @@ variant: tiptap
 <p>Jasvindar Pal Kaur D/O Mukhtiar Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>External Consultant</p>
+<p>English Language Consultant &amp; Communications and Engagement Senior
+Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jasvindar_pal_kaur@sst.edu.sg</p>
