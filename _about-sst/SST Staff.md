@@ -226,10 +226,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jasvindar Pal Kaur D/O Mukhtiar Singh</p>
+<p>Jasvindar Pal Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>External Consultant</p>
+<p>English Language Consultant &amp; Communications and Engagement Senior
+Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jasvindar_pal_kaur@sst.edu.sg</p>
@@ -1141,7 +1142,7 @@ variant: tiptap
 <p>Ngiow Shin Fatt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Information &amp; Communications Technology Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ngiow_shin_fatt@sst.edu.sg</p>
