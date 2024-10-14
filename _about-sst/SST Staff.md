@@ -1141,7 +1141,7 @@ variant: tiptap
 <p>Ngiow Shin Fatt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Information &amp; Communications Technology Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ngiow_shin_fatt@sst.edu.sg</p>
