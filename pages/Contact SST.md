@@ -2,6 +2,7 @@
 title: Contact SST
 permalink: /contact-sst/
 description: ""
+variant: markdown
 ---
 #### Contact Details
 Telephone: (+65) 6571 7200       
@@ -19,8 +20,8 @@ Fax: (+65) 6872 0856
 * Closed (Weekends &amp; Public Holidays)
 
 ##### School General Office Operating Hours During School Holidays (June and Nov/Dec):
-* 8:00 a.m. – 4:30 p.m. (Monday – Thursday)  
-* 8:00 a.m. – 4:00 p.m. (Friday)
+* 8:00 a.m. – 3:30 p.m. (Monday – Thursday)  
+* 8:00 a.m. – 3:00 p.m. (Friday)
 
 **School Gate Opening Hours:**
 

@@ -1,0 +1,9 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Financial Matters.md
+      - faq.md
+      - Integrated Diploma Programme.md
+      - Curriculum Matters.md
+      - General Matters.md
