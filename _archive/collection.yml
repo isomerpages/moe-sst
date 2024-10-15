@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Integrated Diploma Programme.md
       - Curriculum Matters.md
       - General Matters.md
