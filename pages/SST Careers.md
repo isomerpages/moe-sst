@@ -74,6 +74,50 @@ Function Generator and Digital Multimeter</p>
 </li>
 <li>
 <p>Team player and able to work independently</p>
+<p></p>
+</li>
+</ul>
+<p><strong>2) Temporary Student Affairs &amp; Services Assistant</strong>
+</p>
+<p>We are seeking a detail-oriented Temporary Student Affairs &amp; Services
+Assistant to support our Student Affairs &amp; Services Department in administrative
+tasks.&nbsp;</p>
+<p>A candidate with a background in office work, proficiency in Microsoft
+Office, and some familiarity with the school environment will be at an
+advantage.</p>
+<p><strong>Duties and Responsibilities:</strong>
+</p>
+<p>He/She will assist the Student Affairs &amp; Services Department in tasks
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct assessment of ISB (Independent School Bursary) applications</p>
+</li>
+<li>
+<p>Follow up on outstanding documents with applicants</p>
+</li>
+<li>
+<p>Generation of outcome letters</p>
+</li>
+</ul>
+<p></p>
+<p><u>Requirements</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Minimum GCE ‘O’ Levels</p>
+</li>
+<li>
+<p>Able to commit from 01 Nov to 31 Dec 2024</p>
+</li>
+<li>
+<p>Meticulous and detail-oriented</p>
+</li>
+<li>
+<p>Mature and patient personality</p>
+</li>
+<li>
+<p>Proficient in Microsoft Office</p>
 </li>
 </ul>
 <p></p>
