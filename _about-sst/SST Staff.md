@@ -651,7 +651,7 @@ Specialist</p>
 <p>Yeo Sok Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Senior Teacher, Chinese Language</p>
+<p>Senior Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_sok_hui@sst.edu.sg</p>
