@@ -101,7 +101,7 @@ such as:</p>
 </li>
 </ul>
 <p></p>
-<p><u>Requirements</u>
+<p><strong>Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -167,7 +167,8 @@ relevant services and goods.&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p>Requirements:</p>
+<p><strong>Requirements:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A minimum Diploma in Communications / Arts or related disciplines is required.</p>
