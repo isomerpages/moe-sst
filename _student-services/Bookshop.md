@@ -28,10 +28,12 @@ Website: [www.asencio.com.sg](http://www.asencio.com.sg/)
 
 Please refer to the instructions on the booklist
 
-[Secondary 1 Booklist 2024](/files/Preparation%20for%20S1/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%201.pdf)
+[[Secondary 1 Booklist 2025]](/files/School_of_Science___Technology_Sec_1.pdf)
 
-[Secondary 2 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%202.pdf)
+[[Secondary 2 Booklist 2025]](/files/School_of_Science___Technology_Sec_2.pdf)
 
-[Secondary 3 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%203.pdf)
+[[Secondary 3 Booklist 2025]](/files/School_of_Science___Technology_Sec_3.pdf)
 
-[Secondary 4 Booklist 2024](/files/Student%20Services/school%20of%20science%20&%20technology%20booklist%202024%203rd%20draft%20revised%20sec%204.pdf)
+[[Secondary 3 IDP Booklist 2025]](/files/School_of_Science___Technology_Sec_3_IDP.pdf)
+
+[[Secondary 4 Booklist 2025]](/files/School_of_Science___Technology_Sec_4.pdf)
