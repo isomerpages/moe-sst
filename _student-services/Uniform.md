@@ -52,6 +52,6 @@ All students are to be appropriately groomed and attired in SST school uniform w
 *   Mondays: SST Polo T-Shirt with Long Pants
 *   Tuesdays to Fridays: SST Polo T-Shirt with Long Pants or Bermudas
 
-It is recommended that you buy 3 sets of school uniforms and 2 sets of PE attire.
+It is recommended that you buy 3 sets of school uniforms (minimum 1 pair of long pants), 1 school jacket and 2 sets of PE attire.
 
 Students are allowed to wear coloured shoes with their school uniform. Please refer to the Attire and Grooming policy for more information.
