@@ -25,11 +25,9 @@ Blk 4012, Ang Mo Kio Ave 10, #01-08 Techplace 1, Singapore 569628
 
 **Note:** All uniforms are available for purchase at the School Bookshop during the Bookshop opening hours. (7.30 a.m. to 2.30 p.m. Mondays to Fridays, during School Term) Sale of uniform at the School Bookshop will be suspended during the year-end school holidays. Parents/students are required to make an appointment via [Online Booking](https://jeepsinguniform.com/pages/appointment-booking) for the purchase or exchange of uniforms at the retail outlet.
 
-##### Price Guide
+##### Sale Schedule and Price Guide
 
-Click [here](/files/SST_sale_schedule_EY24A_______3_.pdf) to access the Price Guide for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
-
-Click [here](/files/SST_sale_schedule_EY23__amended_.pdf) for the sale schedule.
+Please refer to the [Sale Schedule](/files/SST_sale_schedule_EY24A_______3_.pdf) and [Price Guide](https://jeepsinguniform.com/collections/school-of-science-and-technology) for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
 
 
 ##### Care of Uniform
