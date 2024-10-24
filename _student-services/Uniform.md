@@ -27,7 +27,7 @@ Blk 4012, Ang Mo Kio Ave 10, #01-08 Techplace 1, Singapore 569628
 
 ##### Price Guide
 
-Click [here](https://jeepsinguniform.com/collections/school-of-science-and-technology)] to access the Price Guide for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
+Click [here](/files/SST_sale_schedule_EY24A_______3_.pdf) to access the Price Guide for Polo T-shirts, Long Pants, Bermudas (new), Skorts, House T-Shirts, S&W Shorts, School Jacket and Socks.
 
 Click [here](/files/SST_sale_schedule_EY23__amended_.pdf) for the sale schedule.
 
@@ -52,6 +52,6 @@ All students are to be appropriately groomed and attired in SST school uniform w
 *   Mondays: SST Polo T-Shirt with Long Pants
 *   Tuesdays to Fridays: SST Polo T-Shirt with Long Pants or Bermudas
 
-It is recommended that you buy 3 sets of school uniforms and 2 sets of PE attire.
+It is recommended that you buy 3 sets of school uniforms (minimum 1 pair of long pants), 1 school jacket and 2 sets of PE attire.
 
 Students are allowed to wear coloured shoes with their school uniform. Please refer to the Attire and Grooming policy for more information.
