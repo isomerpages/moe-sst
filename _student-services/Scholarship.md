@@ -30,6 +30,18 @@ order to continue receiving the scholarship.</p>
 will be informed.</p>
 </li>
 </ul>
+<p>Students are awarded the ESIS for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 years, if they are in the O-Level programme,&nbsp;including those who
+are enrolled&nbsp;into the SST-NP Integrated Diploma Programme (IDP) in
+their upper secondary years.</p>
+</li>
+<li>
+<p>6 years, if they are in the 6-year programme.</p>
+</li>
+</ul>
+<p>This is subject to their good progress and conduct each year.</p>
 <h5>MOE Edusave Scholarships for Independent Schools (ESIS Secondary 3)</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,6 +63,17 @@ for the ESIS Test at the end of their Secondary 2 studies, in order to
 determine their suitability for the ESIS.</p>
 </li>
 </ul>
+<p>Students who performed well in the ESIS test are awarded for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 years, if they are in the O-Level programme&nbsp;or&nbsp;the SST-NP
+Integrated Diploma Programme (IDP).</p>
+</li>
+<li>
+<p>4 years, if they are in the 6-year programme.</p>
+</li>
+</ul>
+<p>This is subject to their good progress and conduct each year.</p>
 <h5>MOE Edusave Scholarship for Independent Schools (ESIS Yearly Award)</h5>
 <ul data-tight="true" class="tight">
 <li>

@@ -109,3 +109,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Gan_Boon_Seng_Ashton__Red_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Tok_Hong_Peng_Jasmine__Red_.jpg">
+</div>
+<p></p>
