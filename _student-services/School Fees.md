@@ -157,7 +157,7 @@ the scheme.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/APPLICATION_FORM_FOR_INTERBANK_GIRO.pdf" rel="noopener noreferrer nofollow" target="_blank">APPLICATION FORM FOR INTERBANK GIRO</a>
+<p><a href="/files/giro_appication_form.pdf" rel="noopener noreferrer nofollow" target="_blank">APPLICATION FORM FOR INTERBANK GIRO</a>
 </p>
 </li>
 </ul>
