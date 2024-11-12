@@ -10,51 +10,7 @@ innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <p></p>
-<p><strong>1) Temporary Student Affairs &amp; Services Assistant</strong>
-</p>
-<p>We are seeking a detail-oriented Temporary Student Affairs &amp; Services
-Assistant to support our Student Affairs &amp; Services Department in administrative
-tasks.&nbsp;</p>
-<p>A candidate with a background in office work, proficiency in Microsoft
-Office, and some familiarity with the school environment will be at an
-advantage.</p>
-<p><strong>Duties and Responsibilities:</strong>
-</p>
-<p>He/She will assist the Student Affairs &amp; Services Department in tasks
-such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Conduct assessment of ISB (Independent School Bursary) applications</p>
-</li>
-<li>
-<p>Follow up on outstanding documents with applicants</p>
-</li>
-<li>
-<p>Generation of outcome letters</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Requirements:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minimum GCE ‘O’ Levels</p>
-</li>
-<li>
-<p>Able to commit from 01 Nov to 31 Dec 2024</p>
-</li>
-<li>
-<p>Meticulous and detail-oriented</p>
-</li>
-<li>
-<p>Mature and patient personality</p>
-</li>
-<li>
-<p>Proficient in Microsoft Office</p>
-<p></p>
-</li>
-</ul>
-<p><strong>2) Communications &amp; Engagement Executive<br></strong>
+<p><strong>1) Communications &amp; Engagement Executive<br></strong>
 </p>
 <p><strong>Duties and Responsibilities:</strong>
 </p>
@@ -124,15 +80,15 @@ Photoshop, iMovie, Final Cut Pro or equivalent) and web publishing platforms.</p
 </li>
 </ul>
 <p></p>
-<p>3) Head of Department, Mathematics</p>
-<p>4) Mathematics Teacher</p>
-<p>5) Subject Head, Physics</p>
-<p>6) Physics/Electronics Teacher</p>
-<p>7) Physics/Mathematics Teacher</p>
-<p>8) Chinese Language Teacher</p>
-<p>9) English Language Teacher</p>
-<p>10) Sports and Wellness Teacher*</p>
-<p>11) History/Social Studies Teacher</p>
+<p>2) Head of Department, Mathematics</p>
+<p>3) Mathematics Teacher</p>
+<p>4) Subject Head, Physics</p>
+<p>5) Physics/Electronics Teacher</p>
+<p>6) Physics/Mathematics Teacher</p>
+<p>7) Chinese Language Teacher</p>
+<p>8) English Language Teacher</p>
+<p>9) Sports and Wellness Teacher*</p>
+<p>10) History/Social Studies Teacher</p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
 which is a module in the school's signature ChangeMakers Programme. Under
