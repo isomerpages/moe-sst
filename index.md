@@ -6,7 +6,7 @@ description: School of Science and Technology, Singapore Shaping passionate
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: On 15 November 2024 (Fri.) and 18 November (Mon.)  the General
-  Office be will closed.
+  Office will be closed.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
