@@ -10,7 +10,6 @@ variant: tiptap
 six students who wish to seek admission to SST (Secondary 1 Intake for
 the following year) after the release of PSLE results. This is subject
 to the <strong>availability of vacancies</strong>.</p>
-<p></p>
 <p><strong>Please use this <a href="https://form.gov.sg/673aa7772196d38524cb5076" rel="noopener nofollow" target="_blank">FORM</a> to indicate your interest in SIE.</strong>
 </p>
 <h5>Important Information and Dates (For Reference)</h5>
