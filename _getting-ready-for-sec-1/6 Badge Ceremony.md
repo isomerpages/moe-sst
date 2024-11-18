@@ -5,16 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3>6. Badge Ceremony</h3>
-<p>The Badge Ceremony will be held on 12 January 2024 (Friday). Parents are
-invited to join the experience at 5:30 - 8:30 pm in SST.</p>
-<p>At SST, we believe parents are our partners in creating meaningful learning
-experiences for our students. The Badge Ceremony is an important day in
-the life of Secondary 1 Students as it marks the day they are formally
-inducted into the SST community. The ceremony will be held in school for
-both students and parents.</p>
-<p>During this ceremony, students will be presented with their school badges.
-We believe that your presence at the SST’s Badge Ceremony on 12 January
-2024 (Friday) will provide greater encouragement for your child/ward to
-be engaged in their learning at SST.</p>
-<p>An online invitation link will be sent to you via Parents’ Gateway for
-you to indicate your attendance. Please look out for it closer to the date.</p>
+<p>The Badge Ceremony for our Secondary 1 students will be held on <strong>17 January 2025 (Friday).</strong>
+</p>
+<p>This significant event marks the formal induction of our new students
+into the SST community. During the ceremony, students will receive their
+school badges - a symbol of their commitment to the SST journey.</p>
+<p>Parents and guardians are warmly invited to join us for this meaningful
+occasion and celebrate this milestone together. Your presence will inspire
+and encourage our students as they embark on this exciting chapter.</p>
+<p>Further details will be shared closer to the event date. Parents will
+receive an online invitation link via Parents’ Gateway to confirm attendance.</p>
