@@ -15,6 +15,8 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
+      button: informationv for 2025 S1 students
+      url: vvv
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
