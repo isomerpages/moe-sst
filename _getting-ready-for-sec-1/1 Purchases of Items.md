@@ -39,7 +39,7 @@ vendors.</p>
 </p>
 </li>
 <li>
-<p>Instructions for purchase of S1 textbooks &amp; stationery<a href="https://www.sst.edu.sg/files/School_of_Science___Technology_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
+<p>Instructions for purchase of S1 textbooks &amp; stationery <a href="https://www.sst.edu.sg/files/School_of_Science___Technology_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
 </p>
 </li>
 </ul>
