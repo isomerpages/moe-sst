@@ -5,8 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: On 15 November 2024 (Fri.) and 18 November (Mon.)  the General
-  Office will be closed.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
@@ -15,6 +14,8 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
+      button: information for 2025 S1 students
+      url: /prep-for-s1/p1/
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
