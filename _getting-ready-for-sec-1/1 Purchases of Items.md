@@ -22,7 +22,7 @@ up to the Badge Ceremony that require your action.</p>
 </li>
 <li>
 <p>School-related purchases, which should be completed before the end of
-2023</p>
+2024</p>
 </li>
 <li>
 <p>Engagement programmes for students and parents</p>
