@@ -5,7 +5,8 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Please note that SST will not conduct SIE for the 2025 S1 cohort
+  as there is no vacancy.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
