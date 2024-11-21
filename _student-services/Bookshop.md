@@ -2,38 +2,31 @@
 title: Bookshop
 permalink: /student-services/bookshop/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Asencio Pte Ltd operates a bookstore at our school premises.
-
-##### Location
-
-Block B, 02-03
-
-##### Contact Information
-
-Office: 6764 3102
-
-E-mail: [bookshop@asencio.com.sg](mailto:bookshop@asencio.com.sg)
-
-Text Message Only: 8031 0502 (Weekdays 9:00 a.m. to 5:00 p.m., all calls to this number will not be answered.)
-
-Website: [www.asencio.com.sg](http://www.asencio.com.sg/)
-
-##### Opening Hours
-
-7.30 a.m. to 2.30 p.m. (Mondays to Fridays, during School Term)
-
-##### Secondary 1 - 4 Booklist
-
-Please refer to the instructions on the booklist
-
-[[Secondary 1 Booklist 2025]](/files/School_of_Science___Technology_Sec_1.pdf)
-
-[[Secondary 2 Booklist 2025]](/files/School_of_Science___Technology_Sec_2.pdf)
-
-[[Secondary 3 Booklist 2025]](/files/School_of_Science___Technology_Sec_3.pdf)
-
-[[Secondary 3 IDP Booklist 2025]](/files/School_of_Science___Technology_Sec_3_IDP.pdf)
-
-[[Secondary 4 Booklist 2025]](/files/School_of_Science___Technology_Sec_4.pdf)
+<h4>Asencio Pte Ltd operates a bookstore at our school premises.</h4>
+<h5>Location</h5>
+<p>Block B, 02-03</p>
+<h5>Contact Information</h5>
+<p>Office: 6764 3102</p>
+<p>E-mail:&nbsp;<a href="mailto:bookshop@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">bookshop@asencio.com.sg</a>
+</p>
+<p>Text Message Only: 8031 0502 (Weekdays 9:00 a.m. to 5:00 p.m., all calls
+to this number will not be answered.)</p>
+<p>Website:&nbsp;<a href="http://www.asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">asencio</a>
+<a href="http://asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">bookshop.sg</a>
+</p>
+<h5>Opening Hours</h5>
+<p>7.30 a.m. to 2.30 p.m. (Mondays to Fridays, during School Term)</p>
+<h5>Secondary 1 - 4 Booklist</h5>
+<p>Please refer to the instructions on the booklist</p>
+<p><a href="/files/School_of_Science___Technology_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 1 Booklist 2025]</a>
+</p>
+<p><a href="/files/School_of_Science___Technology_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 2 Booklist 2025]</a>
+</p>
+<p><a href="/files/School_of_Science___Technology_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 3 Booklist 2025]</a>
+</p>
+<p><a href="/files/School_of_Science___Technology_Sec_3_IDP.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 3 IDP Booklist 2025]</a>
+</p>
+<p><a href="/files/School_of_Science___Technology_Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 4 Booklist 2025]</a>
+</p>
