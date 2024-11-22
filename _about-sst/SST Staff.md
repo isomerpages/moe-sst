@@ -1161,6 +1161,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chua Kok Boon Desmond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Affairs and Services Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_kok_boon_desmond@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gan Boon Seng Ashton</p>
 </td>
 <td rowspan="1" colspan="1">
