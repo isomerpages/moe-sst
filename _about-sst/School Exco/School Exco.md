@@ -45,16 +45,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/h%20-%20siu%20yin%20profile%20(grey).svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Alvin%20Profile%20(Grey).svg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="%20LuTing%20Wang%20Profile%20(Grey).svg)-" src="/images/Exco%20Photo/Lu_Ting_screenshot.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Woon%20Foong%20Profile%20(Grey).svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Lam%20Hin%20Chew%20Profile%20(Grey).svg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="images/Exco%20%Photo/H%20" src="/images/Exco%20Photo/H___Kwai_Yin_Profile__Grey_.svg">
@@ -81,7 +75,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Chuan%20Leong%20Profile%20(Blue%20-%20R).svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Keith%20Profile%20(Blue%20-%20R).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/SH___Keith_Profile__Blue___R_.svg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Ming%20Yang%20Profile%20(Blue%20-%20R).svg">
@@ -101,7 +95,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Lim_Pei_Lin_Mabel_Profile__Red_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Ngiow_Shin_Fatt__Red___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Ngiow_Shin_Fatt__Red_.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Gan_Boon_Seng_Ashton__Red_.jpg">
