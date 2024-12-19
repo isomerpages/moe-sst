@@ -1142,7 +1142,7 @@ Specialist</p>
 <p>Tok Hong Peng Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human Resource &amp; School Administration Manager</p>
+<p>Senior Human Resource &amp; School Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tok_hong_peng_jasmine@sst.edu.sg</p>
