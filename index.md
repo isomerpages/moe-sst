@@ -6,8 +6,7 @@ description: School of Science and Technology, Singapore Shaping passionate
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: Please note that the General Office will be operating till 12.30pm
-  on 24/12/2024 (Christmas Eve) and 31/12/2024 (New Year's Eve). The school is
-  closed on on public holidays.
+  on 31/12/2024 (New Year's Eve). The school is closed on on public holidays.
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
