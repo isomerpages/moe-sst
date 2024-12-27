@@ -896,13 +896,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chee Meng Teck</p>
+<p>Lim Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Subject Head, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_meng_teck@sst.edu.sg</p>
+<p>lim_yi_wen@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -925,6 +925,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_yue_yan_amelia@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chee Meng Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_meng_teck@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
