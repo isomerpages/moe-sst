@@ -450,7 +450,7 @@ Specialist</p>
 <p>HOD, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_yoke_chee_jamie@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
