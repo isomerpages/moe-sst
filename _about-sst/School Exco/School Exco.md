@@ -45,10 +45,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/h%20-%20siu%20yin%20profile%20(grey).svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Lu_Ting_Profile__Grey_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Lu_Ting_Profile__Grey_.svg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Woon%20Foong%20Profile%20(Grey).svg">
