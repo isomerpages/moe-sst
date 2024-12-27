@@ -90,6 +90,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Mui%20Profile%20(Blue%20-%20R).svg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Yi_Wen_Profile__Blue___R_.svg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Divider___Admin_Managers.svg">
 </div>
 <div class="isomer-image-wrapper">
