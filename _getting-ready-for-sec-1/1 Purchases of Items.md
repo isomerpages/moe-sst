@@ -9,8 +9,9 @@ variant: tiptap
 </div>
 <h3>Preparation for 2025 SST Secondary 1</h3>
 <p>The school year begins on <strong>2 January 2025 (Thursday).</strong> Students
-must report to school (Indoor Sports Hall, Block D) in full school uniform
-(SST T-shirt &amp; pants/bermudas/skorts) by <strong>7.40 am.</strong>
+must report to school (Indoor Sports Hall, Block D) in SST Sports and&nbsp;Wellness
+attire or primary school PE attire (if SST attire has not been purchased)
+by <strong>7.40 am.</strong>
 </p>
 <p>Preparation for the new year begins after the release of the PSLE results.
 This section provides an overview of the important events and dates leading
