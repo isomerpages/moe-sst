@@ -1172,50 +1172,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pei Lin Mabel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finance &amp; Procurement Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_pei_lin_mabel@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Bee Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Executive, SASD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_bee_yan@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tok Hong Peng Jasmine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Human Resource &amp; School Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tok_hong_peng_jasmine@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ngiow Shin Fatt</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information &amp; Communications Technology Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ngiow_shin_fatt@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chua Kok Boon Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1234,6 +1190,50 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gan_boon_seng_ashton@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Bee Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Executive, SASD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_bee_yan@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Pei Lin Mabel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finance &amp; Procurement Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_pei_lin_mabel@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngiow Shin Fatt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communications Technology Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ngiow_shin_fatt@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tok Hong Peng Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Human Resource &amp; School Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tok_hong_peng_jasmine@sst.edu.sg</p>
 </td>
 </tr>
 </tbody>
