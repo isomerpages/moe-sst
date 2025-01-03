@@ -72,9 +72,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Karen_Ng_Profile__Blue___R_.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Stanley%20Profile%20(Blue%20-%20R).svg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Chuan%20Leong%20Profile%20(Blue%20-%20R).svg">
 </div>
 <div class="isomer-image-wrapper">
