@@ -1,0 +1,7 @@
+---
+title: Release of 2024 GCE O Level Examination Results
+permalink: /announcements/2024-gce-o-level-examination-results/
+variant: tiptap
+description: ""
+---
+<p>This announcement is for all 2023 Secondary 4 students.</p><p>2023 GCE O-Level Examination Results will be released on Thursday, 11 January 2024 at 2:00 p.m.</p><p><strong>Reporting time &amp; items to bring</strong></p><ul><li><p>All students are to be seated at the Multi-purpose Hall (MPH) by 1.30 p.m.&nbsp;</p></li><li><p>You will be allowed entry into SST from 1.00 p.m. onwards. Please stay in the Atrium and do not wander around campus as lessons are in progress.&nbsp;</p></li><li><p>Please bring along your NRIC/Passport/Birth Certificate/Student Pass for identification purposes. Writing materials are optional.&nbsp;</p><p></p></li></ul><p>Please refer to the student blog or your sst email for more information and details.</p><p></p><p><strong>Information for parents&nbsp;</strong></p><p>If you are accompanying your child and you are driving, we seek your cooperation to park at the following HDB carparks and enter the school via Gate B (near to the zebra crossing) or Gate C (near to the bus stop).<strong> </strong>There will be strictly no parking of cars within the school compound as it is a school day.</p><p>Kindly proceed to the Atrium where chairs will be provided for you while waiting.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent_carpark_near_SST.png"></div><p>Thank you.</p>
