@@ -66,7 +66,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Release of GCE O Level Examination Results</strong>
 </p>
-<p>For all students from classes S4-01 to S4-09</p>
+<p>For all students from classes S4-01 to
+<br>S4-09</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SST Multi-purpose Hall&nbsp;</strong>
