@@ -189,7 +189,7 @@ Specialist</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liauw_yin_mei_carine@sst.edu.sg</p>
+<p>liao_yin_mei_carine@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
