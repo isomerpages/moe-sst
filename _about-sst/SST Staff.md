@@ -415,6 +415,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chua Chun Min Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Specialist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jonathan_chua@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sim Yong Seng Stanley</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1234,6 +1245,140 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tok_hong_peng_jasmine@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Communications &amp; Engagement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fonseka Vera Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communications &amp; Engagement Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fonseka_vera_vanessa@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Yee Siang Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communications &amp; Engagement Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_yee_siang_alvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Finance &amp; Procurement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Pei Lin Mabel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chew An-Na Jeannette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quek Tat Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Human Resource &amp; School Administration</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tok Hong Peng Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Shuk Fan Katherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Yen Nie Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Information &amp; Communications Technology</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
