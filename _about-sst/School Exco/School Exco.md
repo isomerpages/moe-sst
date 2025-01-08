@@ -66,6 +66,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Camellia%20Profile%20(Grey).svg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Karen_Ng_Profile__Grey_.svg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/Divider%20-%20SH.svg">
 </div>
 <div class="isomer-image-wrapper">
