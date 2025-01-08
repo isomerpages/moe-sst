@@ -55,6 +55,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Seen Leng Patricia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creative Specialist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>patricia_ng@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ang Kah Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,17 +95,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_hui_min@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Seen Leng Patricia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>patricia_ng@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -426,17 +426,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pang Hee Tee Robin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Specialist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pang_hee_tee_robin@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chua Chun Min Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,6 +433,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jonathan_chua@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pang Hee Tee Robin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Specialist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_hee_tee_robin@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -502,7 +502,7 @@ Specialist</p>
 <p>Wee Kheng Leong Keith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Active Citizenship</p>
+<p>Subject Head, Active Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wee_kheng_leong@sst.edu.sg</p>
@@ -642,7 +642,7 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>MTL Department</strong>
+<p><strong>Mother Tongue Languages Department</strong>
 </p>
 </td>
 </tr>
@@ -1147,7 +1147,7 @@ Specialist</p>
 <p>Lam Hin Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher, Sports &amp; Wellness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lam_hin_chew@sst.edu.sg</p>
@@ -1201,6 +1201,18 @@ Specialist</p>
 <td rowspan="1" colspan="3">
 <p><strong>Communications &amp; Engagement</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jasvindar Pal Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Consultant &amp; Communications and Engagement Senior
+Specialist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jasvindar_pal_kaur@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1283,17 +1295,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Shuk Fan Katherine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Human Resource &amp; School Administration Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>katherine_chan@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Loh Yen Nie Jenny</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1301,6 +1302,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_yen_nie_jenny@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Shuk Fan Katherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Resource &amp; School Administration Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>katherine_chan@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1502,6 +1514,28 @@ Specialist</p>
 <td rowspan="1" colspan="3">
 <p><strong>Student Development</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sciberras Karen Ann Wilhemina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>karen_ann@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Hui Yu Claire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_hui_yu_claire@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
