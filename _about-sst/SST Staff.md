@@ -1286,10 +1286,10 @@ Specialist</p>
 <p>Lim Pei Lin Mabel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Finance &amp; Procurement Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_pei_lin_mabel</p>
 </td>
 </tr>
 <tr>
@@ -1297,10 +1297,10 @@ Specialist</p>
 <p>Chew An-Na Jeannette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Finance &amp; Procurement Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chew_an-na_jeannette</p>
 </td>
 </tr>
 <tr>
@@ -1308,10 +1308,10 @@ Specialist</p>
 <p>Quek Tat Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Finance &amp; Procurement Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>quek_tat_seng</p>
 </td>
 </tr>
 <tr>
@@ -1325,10 +1325,10 @@ Specialist</p>
 <p>Tok Hong Peng Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Human Resource &amp; School Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tok_hong_peng_jasmine</p>
 </td>
 </tr>
 <tr>
@@ -1336,10 +1336,10 @@ Specialist</p>
 <p>Chan Shuk Fan Katherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Human Resource &amp; School Administration Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>katherine_chan</p>
 </td>
 </tr>
 <tr>
@@ -1347,10 +1347,27 @@ Specialist</p>
 <p>Loh Yen Nie Jenny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Human Resource &amp; School Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>loh_yen_nie_jenny</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Info-Hub</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Juliana Binte Kamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Info-Hub Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>juliana_kamis</p>
 </td>
 </tr>
 <tr>
@@ -1361,10 +1378,60 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ngiow Shin Fatt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ngiow_shin_fatt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Yoke Kheng Stoney</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior ICT Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_yoke_kheng_stoney</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Zuladha Bin Mohamed Rozali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohamad_zuladha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Operations</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gan Boon Seng Ashton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Azrin Bin Pardi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1375,7 +1442,7 @@ Specialist</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
