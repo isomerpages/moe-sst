@@ -1496,7 +1496,7 @@ Specialist</p>
 <p>Senior Student Affairs &amp; Services Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kong_ai_choo@sst.edu.sg</p>
+<p>lee_bee_yan@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1507,7 +1507,7 @@ Specialist</p>
 <p>Senior Student Affairs &amp; Services Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_bee_yan@sst.edu.sg</p>
+<p>kong_ai_choo@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
