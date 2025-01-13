@@ -14,9 +14,8 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
-      button: SST NP IDP Graduation Ceremony for Students and Release of 2024 GCE O
-        Level Examination Results
-      url: https://www.sst.edu.sg/announcements/sst-np-idp-grad-ceremony-for-students-and-release-of-2024-gce-o-level-exam-results/
+      button: Getting Ready for Sec 1
+      url: https://www.sst.edu.sg/prep-for-s1/p1/
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
