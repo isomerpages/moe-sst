@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_s1_welcome_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250103_SST_195.jpg">
 </div>
 <h3>Preparation for 2025 SST Secondary 1</h3>
 <p>The school year begins on <strong>2 January 2025 (Thursday).</strong> Students
