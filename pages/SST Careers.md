@@ -32,21 +32,24 @@ provide level 1 support.
 and conduct staff induction.
 <br>- &nbsp;Assist In ICT projects when necessary.
 <br>- &nbsp;Explore new technology that meets school’s needs.</p>
-<p>&nbsp;<strong>Requirements</strong>
+<p><strong>Requirements</strong>
 </p>
-<p>1) Diploma in IT/Computer Science</p>
-<p>2) Minimum 2 years of relevant working experience. Candidate with Window
+<p>a) Diploma in IT/Computer Science</p>
+<p>b) Minimum 2 years of relevant working experience. Candidate with Window
 and Apple environment is added advantage.</p>
-<p>3) Good communications and customer service skills.</p>
-<p>4) Hands on experience using Apple, Google related applications.</p>
-<p>5) Hands on experience using Window Server Management (Hyper V Virtualization)</p>
-<p>6) The following technical Certification is an added advantage:
-<br>&nbsp; &nbsp; (a) &nbsp;Apple certification
-<br>&nbsp; &nbsp; (b) Microsoft Server certification (MCSA/MCSE)</p>
-<p>2) Mathematics Teacher</p>
-<p>3) English Language Teacher</p>
-<p>4) Sports and Wellness Teacher*</p>
-<p>5) History/Social Studies Teacher</p>
+<p>c) Good communications and customer service skills.</p>
+<p>d) Hands on experience using Apple, Google related applications.</p>
+<p>e) Hands on experience using Window Server Management (Hyper V Virtualization)</p>
+<p>f) The following technical Certification is an added advantage:
+<br>&nbsp; &nbsp; (i) &nbsp;Apple certification
+<br>&nbsp; &nbsp; (ii) Microsoft Server certification (MCSA/MCSE)</p>
+<p>2) <u>Mathematics Teacher</u>
+</p>
+<p>3) <u>English Language Teacher</u>
+</p>
+<p>4) <u>Sports and Wellness Teacher</u>*</p>
+<p>5) <u>History/Social Studies Teacher</u>
+</p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
 which is a module in the school's signature ChangeMakers Programme. Under
