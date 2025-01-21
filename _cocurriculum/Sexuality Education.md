@@ -33,18 +33,17 @@ foundation for strong families);</p>
 <p>d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> (
-<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-sexuality-education</u>
-</a>) for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+more information on MOE Sexuality Education.</p>
 <h4>Overview of School Of Science &amp; Technology, Singapore Sexuality Education Programme for 2024</h4>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
-curriculum. The content for Sexuality Education is grouped into five main
-themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> (
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-sexuality-education-scope</u>
-</a>) for more information on the scope of Sexuality Education in the school
-curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:&nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
+topics on sexuality include:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science&nbsp;</p>
@@ -54,12 +53,13 @@ curriculum.</p>
 </li>
 </ul>
 <h5>Sexuality Education Lessons</h5>
-<p>6.&nbsp;The values and attitudes of our youth towards sexuality are increasingly
-shaped by their peers, exposure to the media, popular culture and the internet.
-Adolescence is a complex stage in life as the adolescent attempts to find
-his or her own identity and often struggles with new social relationships.
-The period of middle adolescence (generally from 15 – 17 years old) can
-be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
+of our youth towards sexuality are increasingly shaped by their peers,
+exposure to the media, popular culture and the internet. Adolescence is
+a complex stage in life as the adolescent attempts to find his or her own
+identity and often struggles with new social relationships. The period
+of middle adolescence (generally from 15 – 17 years old) can be a turbulent
+period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
