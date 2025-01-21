@@ -109,25 +109,25 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <hr>
 <h5>eTeens Programme</h5>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eTeens&nbsp;is
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is
 a programme developed by Health Promotion Board, in collaboration with
 the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective.&nbsp;
-eTeens&nbsp;is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At School Of Science &amp; Technology, Singapore, the&nbsp; eTeens &nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At School Of Science &amp; Technology, Singapore, the&nbsp; eTeens &nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/e_teems_programme.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
