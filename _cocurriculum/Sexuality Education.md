@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on MOE Sexuality Education.</p>
-<h4>Overview of School Of Science &amp; Technology, Singapore Sexuality Education Programme for 2024</h4>
+<h4>Overview of School Of Science &amp; Technology, Singapore Sexuality Education Programme for 2025</h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -73,7 +73,7 @@ of the possible consequences of sexual behaviour.&nbsp;</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h5>At School Of Science &amp; Technology, Singapore, the following Sexuality Education lessons will be taught in&nbsp;2024:</h5>
+<h5>At School Of Science &amp; Technology, Singapore, the following Sexuality Education lessons will be taught in&nbsp;2025:</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_1.jpg">
 </div>
