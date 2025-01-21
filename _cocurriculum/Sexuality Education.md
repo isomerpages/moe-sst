@@ -131,18 +131,19 @@ family values are the key messages.</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons,&nbsp;eTeens&nbsp;and/or supplementary
-sexuality education programmes by MOE-approved external providers.</p>
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.&nbsp;</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1VsKcPZa2QDcoqofqFDAqsfmb7xthVyUx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 15 February 2024.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the&nbsp;<strong>eTeens_&nbsp;programme</strong>&nbsp;need to complete
+out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable&nbsp;<a href="https://drive.google.com/file/d/14V3JmlluAqZvSMJBVPWaeGUFGD_QrUeX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-&nbsp;The completed form is to be submitted by 15 February 2024.</p>
+of the year and is also downloadable <a href="https://drive.google.com/file/d/13ccs-nPv8rCGVRNA6CBlF2iWp5QlpYsm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed form is to be submitted by <strong>16 February 2025</strong>.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="https://drive.google.com/file/d/1Tqu1k8NEnYt6laFBDsTIvRsRvw7oORoE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
+The completed form is to be submitted by <strong>16 February 2025</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:contactus@sst.edu.sgf" rel="noopener noreferrer nofollow" target="_blank">contactus@sst.edu.sg</a>or discussion or to seek clarification about the
-school’s Sexuality Education programme.</p>
+<a href="https://drive.google.com/file/d/13ccs-nPv8rCGVRNA6CBlF2iWp5QlpYsm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>contactus@sst.edu.sg</u>
+</a>for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
