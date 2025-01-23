@@ -92,7 +92,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_b_updated.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_c.jpg">
@@ -111,10 +111,10 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>SECONDARY 4</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_a__updated.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_b__updated.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_c.jpg">
