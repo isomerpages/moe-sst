@@ -6,16 +6,15 @@ variant: tiptap
 ---
 <h3>MOE Sexuality Education in Schools</h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) in schools aims to enable students to understand&nbsp; the physiological,
-social and emotional changes they experience as they mature,&nbsp; develop
-healthy and rewarding relationships with others, including those with&nbsp;
-members of the opposite sex, and make wise, informed and responsible decisions
-on&nbsp; sexuality matters. SEd is premised on the importance of the family
-as the basic unit of&nbsp; society. This means encouraging healthy, heterosexual
-marriages and stable nuclear&nbsp; family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
+(SEd) in schools aims to enable students to understand the physiological,
+social and emotional changes they experience as they mature, develop healthy
+and rewarding relationships with others, including those with members of
+the opposite sex, and make wise, informed and responsible decisions on
+sexuality matters. SEd is premised on the importance of the family as the
+basic unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
@@ -37,7 +36,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>Overview of SST’S Sexuality Education Programme for 2025</h4>
+<h4>Overview of School Of Science &amp; Technology, Singapore's Sexuality Education Programme for 2025</h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes:&nbsp; Human Development,
@@ -56,12 +55,12 @@ topics on sexuality include:&nbsp;</p>
 </ul>
 <h5>Sexuality Education Lessons</h5>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
-of our youth towards sexuality are increasingly shaped&nbsp; by their peers,
-exposure to the media, popular culture and the internet. Adolescence&nbsp;
-is a complex stage in life as the adolescent attempts to find his or her
-own identity and&nbsp; often struggles with new social relationships. The
-period of middle adolescence&nbsp; (generally from 15 – 17 years old) can
-be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+of our youth towards sexuality are increasingly shaped by their peers,
+exposure to the media, popular culture and the internet. Adolescence is
+a complex stage in life as the adolescent attempts to find his or her own
+identity and often struggles with new social relationships. The period
+of middle adolescence (generally from 15 – 17 years old) can be a turbulent
+period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
@@ -72,70 +71,79 @@ sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.&nbsp;&nbsp;</p>
 <p>
 <br>7. Through the Sexuality Education lessons, secondary students will have
-the&nbsp; opportunity to develop a positive self-esteem, develop their
-character, and expand their understanding and repertoire of skills to deal
-with various issues related to&nbsp; sexuality, which are of prime concern
-at this age.</p>
-<h5>At SST<strong>,</strong> the following Sexuality Education lessons will be taught in&nbsp;2025:</h5>
+the opportunity to develop a positive self-esteem, develop their character,
+and expand their understanding and repertoire of skills to deal with various
+issues related to sexuality, which are of prime concern at this age.</p>
+<h5>At School Of Science &amp; Technology, Singapore, the following Sexuality Education lessons will be taught in&nbsp;2025:</h5>
+<p><strong>SECONDARY 1</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_1_a__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_1_b_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_c.jpg">
+</div>
+<p><strong>SECONDARY 2</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_2_a_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_c.jpg">
+</div>
+<p><strong>SECONDARY 3</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_2_b_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_c.jpg">
+</div>
+<p><strong>SECONDARY 4</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_3__a_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_4__a_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sec_4_b_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_c.jpg">
 </div>
 <hr>
 <h5>eTeens Programme</h5>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens </em>is
 a programme developed by Health Promotion Board, in collaboration with
 the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+information on STIs, HIV and protection from a health perspective. <em>eTeens </em>is
 conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
+The desired outcome of the <em>eTeens </em>programme is that students are
 empowered to make wise, informed and sensible decisions.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
-to sex and negative peer pressure. They also learn that the impact of STIs/HIV
-extends beyond themselves and involves their family, and the importance
-of responsible decision-making and seeking help. Abstinence and upholding
-family values are the key messages.</p>
+to sex and negative peer pressure.&nbsp; They also learn that the impact
+of STIs/HIV extends beyond themselves and involves their family, and the
+importance of responsible decision-making and seeking help. Abstinence
+and upholding family values are the key messages.</p>
 <p><strong>At School Of Science &amp; Technology, Singapore, the&nbsp; eTeens &nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p><strong>Information for Parents</strong>
-</p>
+<h5>Information for Parents</h5>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
-education programmes by MOE-approved external providers.&nbsp;</p>
+the Sexuality Education lessons, <em>eTeens </em>and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
@@ -150,3 +158,4 @@ The completed form is to be submitted by <strong>16 February 2025</strong>.</p>
 <a href="https://drive.google.com/file/d/13ccs-nPv8rCGVRNA6CBlF2iWp5QlpYsm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>contactus@sst.edu.sg</u>
 </a>for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<p></p>
