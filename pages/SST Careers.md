@@ -10,7 +10,7 @@ innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <p></p>
-<p>1) <u>ICT Executive (1 Year Contract)</u>
+<p><strong>1) <u>ICT Executive (1 Year Contract)</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 <br>- &nbsp;Assist the Manager in monitoring the daily operations of the ICT
@@ -43,12 +43,82 @@ and Apple environment is added advantage.</p>
 <p>f) The following technical Certification is an added advantage:
 <br>&nbsp; &nbsp; (i) &nbsp;Apple certification
 <br>&nbsp; &nbsp; (ii) Microsoft Server certification (MCSA/MCSE)</p>
-<p>2) <u>Mathematics Teacher</u>
+<p><strong>2) <u>Human Resource and School Administration Manager</u></strong>
 </p>
-<p>3) <u>English Language Teacher</u>
+<p>The Human Resource and School Administration Manager is responsible for
+overseeing all aspects of human resources practices, processes, and school
+administrative functions within the school. Driving HR Development and
+leading a team for HR Operations and School Administration, this role reports
+to the Vice Principal (Administration).</p>
+<p><strong>Key Responsibilities include:</strong>
 </p>
-<p>4) <u>Sports and Wellness Teacher</u>*</p>
-<p>5) <u>History/Social Studies Teacher</u>
+<p><strong>HR Development Functions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop, implement, and update HR policies, procedures and systems to
+ensure they meet organizational and regulatory standards.&nbsp;</p>
+</li>
+<li>
+<p>Support training &amp; development and staff engagement activities.
+<br>&nbsp;</p>
+<p><strong>HR Operations Functions</strong>
+</p>
+</li>
+<li>
+<p>Manage employment contracts</p>
+</li>
+<li>
+<p>Handle&nbsp;employee compensation and benefits function, ensuring competitive
+and fair compensation structures.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Manage the recruitment process, including sourcing and making job offers.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Accurately process monthly payrolls for all employees, including&nbsp;CPF
+contributions, income tax submissions (IR8A), and other statutory requirements.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Maintenance of employee records and HR systems.&nbsp;&nbsp;</p>
+<p></p>
+</li>
+</ul>
+<p><strong>School Administration</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oversees&nbsp;school administration functions such as front-counter duties,
+office stationery supplies, catering and bus bookings</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor’s degree in HR related discipline or possess a HR professional
+certification</p>
+</li>
+<li>
+<p>Minimum 5 years of HR Generalist or relevant experience</p>
+</li>
+<li>
+<p>Proficient and effective communicator and good interpersonal skills</p>
+</li>
+<li>
+<p>An eye for detail with strong analytical ability and a good understanding
+of the Singapore Employment Act</p>
+</li>
+</ul>
+<p></p>
+<p><strong>3) <u>Mathematics Teacher</u></strong>
+</p>
+<p><strong>4) <u>English Language Teacher</u></strong>
+</p>
+<p><strong>5) <u>Sports and Wellness Teacher</u>*</strong>
+</p>
+<p><strong>6) <u>History/Social Studies Teacher</u></strong>
 </p>
 <p></p>
 <p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
