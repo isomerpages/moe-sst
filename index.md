@@ -5,12 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "Please note the following: On 28 January 2025 (Eve of LNY),
-  students will be dismissed at 10.30am. The General Office will be operating
-  until 12.00pm. | The school is closed on public holidays (LNY, 29 - 30 January
-  2025). | On 31 January 2025, students will be having Home-Based Learning
-  (HBL). The General Office operating hours will be as usual, from 7.00am to
-  5.00pm."
+notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
