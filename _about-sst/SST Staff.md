@@ -1284,17 +1284,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tok Hong Peng Jasmine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Human Resource &amp; School Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tok_hong_peng_jasmine@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Loh Yen Nie Jenny</p>
 </td>
 <td rowspan="1" colspan="1">
