@@ -5,8 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The General Office will be closed at 4:30pm on Monday, 24 February
-  2025, in support of the nation-wide 'Eat With Your Family Day' initiative.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage_Banner_04.jpg
