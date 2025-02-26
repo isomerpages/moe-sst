@@ -5,100 +5,156 @@ description: ""
 third_nav_title: School Exco
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco_Profile_2024.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/Exco_Profile_2024.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/Divider%20-%20SL.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - SL.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SL%20-%20Nick%20Chan%20Profile%20(Blue).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL - Nick Chan Profile (Blue).svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SL%20-%20Guan%20Kiat%20Profile%20(Blue).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL___Guan_Kiat_Profile__Blue_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SL%20-%20Vincent%20Tan%20Profile%20(Blue).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL___Vincent_Tan_Profile__Blue_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/Divider%20-%20Deans.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - Deans.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/D%20-%20Priscilla%20Profile%20(Red).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Priscilla_Profile__Red_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/D%20-%20Doreen%20Profile%20(Red).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Doreen_Profile__Red_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aurelius_Exco_Team_Profile__Red__Updated_2024.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Aurelius_Profile__Red_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___John_Tan_Exco_Team_Profile__Red__Updated_2024.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___John_Tan_Profile__Red_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/Divider%20-%20HoDs.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Irfan%20Profile%20(Grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Irfan_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/h%20-%20siu%20yin%20profile%20(grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Siu_Yin_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Lu_Ting_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Lu_Ting_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Woon%20Foong%20Profile%20(Grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Woon_Foong_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="images/Exco%20%Photo/H%20" src="/images/Exco%20Photo/H___Kwai_Yin_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Kwai_Yin_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Wee%20Peng%20Profile%20(Grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Wee_Peng_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Arfah%20Profile%20(Grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Arfah_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/H%20-%20Camellia%20Profile%20(Grey).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Camellia_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Karen_Ng_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Genevieve_Zhang_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/Divider%20-%20SH.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Ng_Jun_Wei_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Chuan%20Leong%20Profile%20(Blue%20-%20R).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Karen_Ng_Profile__Grey_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/SH___Keith_Profile__Blue___R_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - SH.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Ming%20Yang%20Profile%20(Blue%20-%20R).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Jaslyn_Ting_Wei_Ling_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Guohui%20Profile%20(Blue%20-%20R).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Jovita_Tang_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco%20Photo/SH%20-%20Mui%20Profile%20(Blue%20-%20R).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Choo_Hui_En_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Divider___Admin_Managers.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Yi_Wen_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Lim_Pei_Lin_Mabel_Profile__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Keith_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Ngiow_Shin_Fatt__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Ming_Yang_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Gan_Boon_Seng_Ashton__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Guohui_Profile__Blue___R_.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM___Chua_Kok_Boon_Desmond__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Mui_Luan_Profile__Blue___R_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Chuan_Leong_Profile__Blue___R_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider___Admin_Managers.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Lim_Pei_Lin_Mabel_Profile__Red_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Ngiow_Shin_Fatt__Red_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Gan_Boon_Seng_Ashton__Red_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Chua_Kok_Boon_Desmond__Red_.svg">
 </div>
 <p></p>
