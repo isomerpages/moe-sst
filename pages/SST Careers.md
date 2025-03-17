@@ -13,102 +13,142 @@ rewarding career at SST!</p>
 <p><strong>1) <u>ICT Executive (1 Year Contract)</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
-<br>- &nbsp;Assist the Manager in monitoring the daily operations of the ICT
-helpdesk, and work with the outsourced Desktop &nbsp; &nbsp;engineer to
-provide end user support.
-<br>- &nbsp;Provide support for school events and activities.
-<br>- &nbsp;Maintain and troubleshoot ICT inventory including hardware and
-software.
-<br>- &nbsp;Maintain inventory of IT and audio-visual systems and equipment
-and its proper documentation.
-<br>- &nbsp;Monitor IT contracts, renew or procure new service contracts where
-necessary.
-<br>- &nbsp;Manage student learning portals such as google workspace, apple
-school manager.
-<br>- &nbsp;Collaborate with external IT infrastructure maintenance team to
-provide level 1 support.
-<br>- &nbsp;Maintain and prepare internal exam server to meet exam requirements.
-<br>- &nbsp;Responsible for daily operations, conducting briefing on new applications
-and conduct staff induction.
-<br>- &nbsp;Assist In ICT projects when necessary.
-<br>- &nbsp;Explore new technology that meets school’s needs.</p>
-<p><strong>Requirements</strong>
-</p>
-<p>a) Diploma in IT/Computer Science</p>
-<p>b) Minimum 2 years of relevant working experience. Candidate with Window
-and Apple environment is added advantage.</p>
-<p>c) Good communications and customer service skills.</p>
-<p>d) Hands on experience using Apple, Google related applications.</p>
-<p>e) Hands on experience using Window Server Management (Hyper V Virtualization)</p>
-<p>f) The following technical Certification is an added advantage:
-<br>&nbsp; &nbsp; (i) &nbsp;Apple certification
-<br>&nbsp; &nbsp; (ii) Microsoft Server certification (MCSA/MCSE)</p>
-<p><strong>2) <u>Human Resource and School Administration Manager</u></strong>
-</p>
-<p>The Human Resource and School Administration Manager is responsible for
-overseeing all aspects of human resources practices, processes, and school
-administrative functions within the school. Driving HR Development and
-leading a team for HR Operations and School Administration, this role reports
-to the Vice Principal (Administration).</p>
-<p><strong>Key Responsibilities include:</strong>
-</p>
-<p><strong>HR Development Functions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Develop, implement, and update HR policies, procedures and systems to
-ensure they meet organizational and regulatory standards.&nbsp;</p>
+<p>Assist the Manager in monitoring the daily operations of the ICT helpdesk,
+and work with the outsourced Desktop &nbsp; &nbsp;engineer to provide end
+user support.</p>
 </li>
 <li>
-<p>Support training &amp; development and staff engagement activities.
-<br>&nbsp;</p>
-<p><strong>HR Operations Functions</strong>
-</p>
+<p>Provide support for school events and activities.</p>
 </li>
 <li>
-<p>Manage employment contracts</p>
+<p>Maintain and troubleshoot ICT inventory including hardware and software.</p>
 </li>
 <li>
-<p>Handle&nbsp;employee compensation and benefits function, ensuring competitive
-and fair compensation structures.&nbsp;&nbsp;</p>
+<p>Maintain inventory of IT and audio-visual systems and equipment and its
+proper documentation.</p>
 </li>
 <li>
-<p>Manage the recruitment process, including sourcing and making job offers.&nbsp;&nbsp;</p>
+<p>Monitor IT contracts, renew or procure new service contracts where necessary.</p>
 </li>
 <li>
-<p>Accurately process monthly payrolls for all employees, including&nbsp;CPF
-contributions, income tax submissions (IR8A), and other statutory requirements.&nbsp;&nbsp;</p>
+<p>Manage student learning portals such as google workspace, apple school
+manager.</p>
 </li>
 <li>
-<p>Maintenance of employee records and HR systems.&nbsp;&nbsp;</p>
-<p></p>
+<p>Collaborate with external IT infrastructure maintenance team to provide
+level 1 support.</p>
 </li>
-</ul>
-<p><strong>School Administration</strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Oversees&nbsp;school administration functions such as front-counter duties,
-office stationery supplies, catering and bus bookings</p>
-<p></p>
+<p>Maintain and prepare internal exam server to meet exam requirements.</p>
+</li>
+<li>
+<p>Responsible for daily operations, conducting briefing on new applications
+and conduct staff induction.</p>
+</li>
+<li>
+<p>Assist In ICT projects when necessary.</p>
+</li>
+<li>
+<p>Explore new technology that meets school’s needs.</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor’s degree in HR related discipline or possess a HR professional
-certification</p>
+<p>Diploma in IT/Computer Science</p>
 </li>
 <li>
-<p>Minimum 5 years of HR Generalist or relevant experience</p>
+<p>Minimum 2 years of relevant working experience. Candidate with Window
+and Apple environment is added advantage.</p>
 </li>
 <li>
-<p>Proficient and effective communicator and good interpersonal skills</p>
+<p>Good communications and customer service skills.</p>
 </li>
 <li>
-<p>An eye for detail with strong analytical ability and a good understanding
-of the Singapore Employment Act</p>
+<p>Hands on experience using Apple, Google related applications.</p>
+</li>
+<li>
+<p>Hands on experience using Window Server Management (Hyper V Virtualization)</p>
+</li>
+<li>
+<p>The following technical Certification is an added advantage:
+<br>&nbsp; &nbsp; (i) &nbsp;Apple certification
+<br>&nbsp; &nbsp; (ii) Microsoft Server certification (MCSA/MCSE)</p>
+</li>
+</ul>
+<p><strong>2) <u>Finance&nbsp;&amp;&nbsp;Procurement&nbsp;Manager</u></strong>
+<br>The&nbsp;Manager&nbsp;reports to the Vice Principal(Administration) and
+is a key member of the School Administration Team. He/She manages a team
+of Executives and assists the School Leaders in the areas of&nbsp;Finance,&nbsp;Procurement&nbsp;and
+Company Secretarial function.</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Establish and review&nbsp;Procurement&nbsp;policies and procedures</p>
+</li>
+<li>
+<p>Advise user departments on&nbsp;Procurement&nbsp;Procedures</p>
+</li>
+<li>
+<p>Manage&nbsp;Accounts Receivables and Payables</p>
+</li>
+<li>
+<p>Ensure proper accounting of Fixed Assets and depreciation</p>
+</li>
+<li>
+<p>Conduct and consolidate annual budget and forecast for approval&nbsp;</p>
+</li>
+<li>
+<p>Manage book-keeping and reporting, including statutory reports/returns&nbsp;</p>
+</li>
+<li>
+<p>Ensure the financial records are available for audit check by external
+auditors</p>
+</li>
+<li>
+<p>Coordinate all matters relating to Board of Directors and Company Secretarial
+Matters</p>
+</li>
+<li>
+<p>Handle all administrative matters relating to IPC/Charity</p>
+</li>
+<li>
+<p>Manage cash flow for operational needs and maximise return on excess fund&nbsp;</p>
+</li>
+<li>
+<p>Manage and process payroll and related statutory contributions</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Accountancy or equivalent</p>
+</li>
+<li>
+<p>Experience in lieu of a degree will also be considered</p>
+</li>
+<li>
+<p>8 years of experience in Financial Accounting, with at least 2 year in
+a supervisory role</p>
+</li>
+<li>
+<p>Experience in organisational procurement processes and the use of GeBiz
+will be an added advantage</p>
+</li>
+<li>
+<p>Proficient in Financial Reporting Standards</p>
+</li>
+<li>
+<p>Meticulous and attentive to details</p>
+</li>
+<li>
+<p>Problem-solving and decision-making skills</p>
 </li>
 </ul>
 <p></p>
