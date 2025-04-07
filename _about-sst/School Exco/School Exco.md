@@ -146,7 +146,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider___Admin_Managers.svg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Chua_Kok_Boon_Desmond__Red_.svg">
 </div>
