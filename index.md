@@ -15,7 +15,7 @@ sections:
       subtitle: Walk down memory lane with us as we commemorate SST’s 15th Anniversary.
       title: SST’s 15th Anniversary
       button: View Highlights
-      url: https://www.sst.edu.sg/prep-for-s1/p1/
+      url: https://www.sst.edu.sg/memory-lane-sst-s-15th-anniversary/
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
