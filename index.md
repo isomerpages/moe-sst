@@ -8,12 +8,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage_Banner_04.jpg
+      background: /images/Hero Banner/15Anniv_HeroBanner.svg
       variant: center
       backgroundColor: gray
       size: md
-      subtitle: School of Science and Technology, Singapore
-      title: Shaping Passionate Innovators, The SST Way
+      subtitle: Walk down memory lane with us as we commemorate SST’s 15th Anniversary.
+      title: 15 Years of Transforming Learning, Impacting Society
       button: Getting Ready for Sec 1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - textcards:
