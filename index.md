@@ -12,8 +12,8 @@ sections:
       variant: center
       backgroundColor: gray
       size: md
-      subtitle: Walk down memory lane with us as we commemorate SST’s 15th Anniversary.
-      title: SST’s 15th Anniversary
+      subtitle: Walk down memory lane with us as we commemorate our 15th anniversary.
+      title: 15th Anniversary Celebrations
       button: View Highlights
       url: https://www.sst.edu.sg/memory-lane-sst-s-15th-anniversary/
   - textcards:
