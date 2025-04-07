@@ -13,8 +13,8 @@ sections:
       backgroundColor: gray
       size: md
       subtitle: Walk down memory lane with us as we commemorate SST’s 15th Anniversary.
-      title: 15 Years of Transforming Learning, Impacting Society
-      button: Getting Ready for Sec 1
+      title: SST’s 15th Anniversary
+      button: View Highlights
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - textcards:
       title: Meet Our Leadership Team
