@@ -97,6 +97,43 @@ through the school by the beginning of the next academic year.</p>
 Independent School Bursary (ISB), the ESIS award quantum is $2,400 per
 year,&nbsp;or&nbsp;the total annual school fees minus the school fees subsidy
 provided under ISB, whichever is lower.</p>
+<h5>SST-Ngee Ann Kongsi STEM Scholarship</h5>
+<p>The SST-Ngee Ann Kongsi STEM Scholarship is established to recognize outstanding
+students with a strong passion and talent in Science, Technology, Engineering,
+and Mathematics (STEM).</p>
+<p>This scholarship aims to inspire recipients to further their STEM pursuits
+and achieve excellence in these fields.</p>
+<ul>
+<li>
+<p>Open to current Secondary 2, Secondary 3 and Secondary 4 students at SST.</p>
+</li>
+<li>
+<p>Students currently receiving the MOE Edusave Scholarship for Independent
+Schools (ESIS) are not eligible.</p>
+</li>
+<li>
+<p>The student must have demonstrated active participation and outstanding
+performance in STEM-related areas, including involvement in research programmes
+and notable achievements in competitions.</p>
+</li>
+<li>
+<p>The student must have good conduct and consistently good academic performance.</p>
+</li>
+<li>
+<p>Quantum of Award: $1,200 for one year.</p>
+</li>
+<li>
+<p>The scholarship is valid for one academic year.</p>
+</li>
+<li>
+<p>Recipients are selected at the end of Secondary 1, Secondary 2 and Secondary
+3 respectively.&nbsp;</p>
+</li>
+<li>
+<p>No application is required. Students who meet the eligibility criteria
+will be informed.</p>
+</li>
+</ul>
 <h5>Other MOE Edusave Awards</h5>
 <p>Edusave Awards are given by the government annually to Singaporean students
 to enhance educational opportunities and motivate students to excel in
@@ -129,7 +166,7 @@ schools in academic and non-academic domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edusave CharacterAward</p>
+<p>Edusave Character Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who demonstrate exemplary values and personal qualities through
