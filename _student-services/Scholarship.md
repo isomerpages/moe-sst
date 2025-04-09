@@ -166,7 +166,7 @@ schools in academic and non-academic domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edusave CharacterAward</p>
+<p>Edusave Character Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who demonstrate exemplary values and personal qualities through
