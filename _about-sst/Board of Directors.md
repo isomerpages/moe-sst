@@ -11,6 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/Board_of_Directors_Govt_Agencies.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/House of Leaders/Board_of_Directors___Industry__April_2024_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board_of_Directors___Industry__April_2024___2_.jpg">
 </div>
 <p></p>
