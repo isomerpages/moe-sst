@@ -12,10 +12,17 @@ sections:
       variant: center
       backgroundColor: gray
       size: md
-      subtitle: Walk down memory lane with us as we commemorate our 15th anniversary.
-      title: 15th Anniversary Celebrations
+      subtitle: Experience the Future of Learning
+      title: Open House 2025
       button: View Highlights
       url: https://www.sst.edu.sg/15th-anniversary-celebrations/
+      key_highlights:
+        - title: 15th Anniversary Celebrations
+          description: Event Day Highlights
+          url: https://www.sst.edu.sg/15th-anniversary-celebrations/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
