@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - 15th Anniversary Celebrations.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal Message.md
@@ -16,6 +15,7 @@ collections:
       - SST Identity/School Attire.md
       - SST Identity/School Song.md
       - SST Identity/Hexagons.md
+      - 15th Anniversary Celebrations.md
       - Student's Code of Conduct.md
       - School Rules & Regulation.md
       - Publication/.keep
