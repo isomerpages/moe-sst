@@ -14,16 +14,19 @@ sections:
       backgroundColor: gray
       size: md
       subtitle: Experience the Future of Learning
-      title: Open House 2025
+      title: 15 Anniversary Celebrations
       button: View Highlights
       url: https://www.sst.edu.sg/15th-anniversary-celebrations/
-      key_highlights:
-        - title: 15th Anniversary Celebrations
-          description: Event Day Highlights
-          url: https://www.sst.edu.sg/15th-anniversary-celebrations/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+  - infopic:
+      title: 2025 Open House
+      id: infopic
+      description: Join us on 31 May, 9am–1pm, to learn more about SST. Tour the
+        campus, speak with our students and staff, and explore our curriculum
+        and programmes.
+      button: Find Out More & RSVP
+      url: https://sites.google.com/sst.edu.sg/2025sstopenhouse/
+      image: /images/SST_Web15_OH.jpg
+      alt: 2025 SST Open House
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
