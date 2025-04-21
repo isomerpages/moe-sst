@@ -16,43 +16,31 @@ rewarding career at SST!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Assist the Manager in monitoring the daily operations of the ICT helpdesk,
-and work with the outsourced Desktop &nbsp; &nbsp;engineer to provide end
-user support.</p>
+<p>Assist the Manager with day-to-day ICT service operations, helpdesk, and
+end-user support. Collaborate with outsourced desktop engineer to provide
+ongoing ICT support.</p>
 </li>
 <li>
-<p>Provide support for school events and activities.</p>
+<p>Assist the Manager track ICT hardware and services maintenance contract
+status</p>
 </li>
 <li>
-<p>Maintain and troubleshoot ICT inventory including hardware and software.</p>
+<p>Troubleshoot and resolve access issues related to student and staff learning
+portals (Microsoft, Google Workspace, Apple School Manager).</p>
 </li>
 <li>
-<p>Maintain inventory of IT and audio-visual systems and equipment and its
-proper documentation.</p>
+<p>Maintain and update AV systems, ICT hardware, and software.</p>
 </li>
 <li>
-<p>Monitor IT contracts, renew or procure new service contracts where necessary.</p>
+<p>Maintain accurate inventory records of all ICT assets including hardware
+and software.</p>
 </li>
 <li>
-<p>Manage student learning portals such as google workspace, apple school
-manager.</p>
+<p>Provide Audio Visual support and equipment setup for school events and
+activities.</p>
 </li>
 <li>
-<p>Collaborate with external IT infrastructure maintenance team to provide
-level 1 support.</p>
-</li>
-<li>
-<p>Maintain and prepare internal exam server to meet exam requirements.</p>
-</li>
-<li>
-<p>Responsible for daily operations, conducting briefing on new applications
-and conduct staff induction.</p>
-</li>
-<li>
-<p>Assist In ICT projects when necessary.</p>
-</li>
-<li>
-<p>Explore new technology that meets school’s needs.</p>
+<p>Assist Manager in ICT related projects.</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
@@ -62,22 +50,21 @@ and conduct staff induction.</p>
 <p>Diploma in IT/Computer Science</p>
 </li>
 <li>
-<p>Minimum 2 years of relevant working experience. Candidate with Window
-and Apple environment is added advantage.</p>
+<p>Minimum 1-year relevant work experience in lieu of diploma. Prior experience
+in providing support for Apple Operating Systems is a plus.</p>
+</li>
+<li>
+<p>Collaborative and adaptable mindset, with the ability to work well in
+a team environment</p>
 </li>
 <li>
 <p>Good communications and customer service skills.</p>
 </li>
 <li>
-<p>Hands on experience using Apple, Google related applications.</p>
-</li>
-<li>
-<p>Hands on experience using Window Server Management (Hyper V Virtualization)</p>
-</li>
-<li>
 <p>The following technical Certification is an added advantage:
-<br>&nbsp; &nbsp; (i) &nbsp;Apple certification
-<br>&nbsp; &nbsp; (ii) Microsoft Server certification (MCSA/MCSE)</p>
+<br>&nbsp; &nbsp; (i) &nbsp;Apple related certification
+<br>&nbsp; &nbsp; (ii) Microsoft related certification</p>
+<p></p>
 </li>
 </ul>
 <p><strong>2) <u>Finance&nbsp;&amp;&nbsp;Procurement&nbsp;Manager</u></strong>
