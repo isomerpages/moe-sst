@@ -5,17 +5,25 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: The General Office will be closed at 4:30pm on Monday, 28 April
+  2025, in support of the nation-wide 'Eat With Your Family Day' initiative.
 sections:
   - hero:
       background: /images/Hero Banner/15Anniv_HeroBanner_nologo.svg
       variant: center
       backgroundColor: gray
       size: md
-      subtitle: Walk down memory lane with us as we commemorate our 15th anniversary.
-      title: 15th Anniversary Celebrations
+      subtitle: Experience the Future of Learning
+      title: Open House 2025
       button: View Highlights
       url: https://www.sst.edu.sg/15th-anniversary-celebrations/
+      key_highlights:
+        - title: 15th Anniversary Celebrations
+          description: Event Day Highlights
+          url: https://www.sst.edu.sg/15th-anniversary-celebrations/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
