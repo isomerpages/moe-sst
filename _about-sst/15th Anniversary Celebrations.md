@@ -25,7 +25,7 @@ journey.
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="629" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf7aXlFXzJUoUqw5Pm2eRm1judfXCyNtndiQ3WvmJCBDR3UbTH5r4uByLQffHHrfWD3mIsnY5LLEw_/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="629" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf7aXlFXzJUoUqw5Pm2eRm1judfXCyNtndiQ3WvmJCBDR3UbTH5r4uByLQffHHrfWD3mIsnY5LLEw_/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <hr>
