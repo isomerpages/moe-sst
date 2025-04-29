@@ -13,14 +13,14 @@ notification: The General Office will be closed at 4:30pm on Monday, 28 April
   (off in lieu for Polling Day).
 sections:
   - hero:
-      background: /images/Hero Banner/15Anniv_HeroBanner_nologo.svg
+      background: /images/Hero Banner/Homepage_Banner_04.jpg
       variant: center
       backgroundColor: gray
       size: md
-      subtitle: Experience the Future of Learning
-      title: 15 Anniversary Celebrations
-      button: View Highlights
-      url: https://www.sst.edu.sg/15th-anniversary-celebrations/
+      subtitle: School of Science and Technology, Singapore
+      title: Shaping Passionate Innovators, The SST Way
+      button: Getting Ready for Sec 1
+      url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
       title: 2025 Open House
       id: infopic
@@ -31,6 +31,15 @@ sections:
       url: https://sites.google.com/sst.edu.sg/2025sstopenhouse/
       image: /images/SST_Web15_OH.jpg
       alt: 2025 SST Open House
+  - infopic:
+      title: 15 Anniversary Celebrations
+      id: infopic
+      description: Experience the Future of Learning. Explore the memorable moments
+        from our 15th anniversary.
+      button: View Highlights
+      url: /15th-anniversary-celebrations/
+      image: /images/15thAnv_SSTweb_iconpic.jpg
+      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
