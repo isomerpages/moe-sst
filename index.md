@@ -5,12 +5,10 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The General Office will be closed at 4:30pm on Monday, 28 April
-  2025, in support of the nation-wide 'Eat With Your Family Day' initiative. |
-  Please note that SST is a polling station for the upcoming General Election.
-  The school will be closed at 12.00pm on Friday, 2 May 2025 to facilitate the
-  set up for Polling Day. | The school will also be closed on Monday, 5 May 2025
-  (off in lieu for Polling Day).
+notification: Please note that SST is a polling station for the upcoming General
+  Election. The school will be closed at 12.00pm on Friday, 2 May 2025 to
+  facilitate the set up for Polling Day. | The school will also be closed on
+  Monday, 5 May 2025 (off in lieu for Polling Day).
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
