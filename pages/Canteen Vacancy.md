@@ -118,5 +118,7 @@ and</p>
 </ul>
 <p>*Shortlisted applicants will be notified for an interview and will be
 required to provide food sampling for the School Canteen Committee at the
-applicant's own expense.</p>
+applicant's own expense.
+<br>
+</p>
 <p></p>
