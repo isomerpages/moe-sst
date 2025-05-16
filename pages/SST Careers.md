@@ -143,15 +143,9 @@ will be an added advantage</p>
 </p>
 <p><strong>4) <u>English Language Teacher</u></strong>
 </p>
-<p><strong>5) <u>Sports and Wellness Teacher</u>*</strong>
-</p>
-<p><strong>6) <u>History/Social Studies Teacher</u></strong>
+<p><strong>5) <u>History/Social Studies Teacher</u></strong>
 </p>
 <p></p>
-<p>*Successful applicants will be required to teach Innovation and Entrepreneurship,
-which is a module in the school's signature ChangeMakers Programme. Under
-this programme, lower secondary students learn problem solving skills,
-acquire key concepts of entrepreneurship and work on real world problems.</p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
 creating and developing units of study, lesson plans, assessments, and
