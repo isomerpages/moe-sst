@@ -6,7 +6,8 @@ description: School of Science and Technology, Singapore Shaping passionate
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: Please note that the General Office will be closed for the entire
-  day on Thursday, 05 June 2025.
+  day on Thursday, 05 June 2025. | The school will be closed on Monday, 09 June
+  2025 in observance of Hari Raya Haji.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
