@@ -32,10 +32,20 @@ collaborate across different cultural contexts for the betterment of society.</p
 </li>
 </ul>
 <h4>Key Competitions/ Programmes</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Singapore Science and Engineering Fair (SSEF)</p>
+</li>
+<li>
 <p>National STEM Talent Search</p>
+</li>
+<li>
 <p>Japan Super Science Fair (JSSF)</p>
+</li>
+<li>
 <p>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</p>
+</li>
+</ul>
 <h4>Achievements/ Milestones</h4>
 <p><strong>SSEF 2025:</strong>
 </p>
