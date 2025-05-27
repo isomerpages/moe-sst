@@ -90,8 +90,26 @@ collaborate across different cultural contexts for the betterment of society.</p
 (SUTD R&amp;I) Award (Sustainability) 2024</p>
 </li>
 </ul>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learn_more_b_copy.jpg">
+</div>
+<p><em>A visit to Instron to learn more about the Universal Testing Machine.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied_science_b.jpg">
+</div>
+<p><em>Demonstrating applied science to juniors at CCA Fair.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_presenting_b_copy.jpg">
+</div>
+<p><em>Our team presented their research work at the Singapore Science and Engineering Fair.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felix_presenting_b_copy.jpg">
+</div>
+<p><em>Our student presenting his work on detecting cancers via artificial intelligence at the Japan Super Science Fair.</em>
 </p>
 <p>
 <br>
