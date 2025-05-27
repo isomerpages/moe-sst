@@ -143,7 +143,7 @@ will be an added advantage</p>
 </p>
 <p><strong>4) <u>English Language Teacher</u></strong>
 </p>
-<p><strong>5) <u>History/Social Studies Teacher</u></strong>
+<p><strong>5) <u>History/ Geography/ Social Studies Teacher</u></strong>
 </p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
