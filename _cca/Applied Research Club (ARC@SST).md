@@ -96,7 +96,6 @@ collaborate across different cultural contexts for the betterment of society.</p
 </div>
 <p><em>A visit to Instron to learn more about the Universal Testing Machine.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied_science_b.jpg">
 </div>
