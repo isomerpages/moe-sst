@@ -2,7 +2,7 @@
 title: Yearbook
 permalink: /about-us/publication/yearbook/
 description: ""
-third_nav_title: Publication
+third_nav_title: Publications
 variant: tiptap
 ---
 <h4>SST Yearbooks</h4>

@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PforSST_Exco_2024_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/000127thMar_SSTGroupPhotosA7400188.jpg">
 </div>
 <p>PforSST is SST’s Parents Support Group dedicated to working closely with
 the school to support our passionate innovators. All parents of SST students

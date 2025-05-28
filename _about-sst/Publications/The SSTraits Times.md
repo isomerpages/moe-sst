@@ -2,7 +2,7 @@
 title: The SSTraits Times
 permalink: /about-sst/publication/sstraits/
 description: ""
-third_nav_title: Publication
+third_nav_title: Publications
 ---
 #### The&nbsp;SSTraits&nbsp;Times
 
