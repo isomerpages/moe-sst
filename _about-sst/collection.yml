@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - SST Careers.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal Message.md
