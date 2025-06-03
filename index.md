@@ -7,7 +7,9 @@ image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: Please note that the General Office will be closed for the entire
   day on Thursday, 05 June 2025. | The school will be closed on Monday, 09 June
-  2025, as an off-in-lieu day for Hari Raya Haji.
+  2025, as an off-in-lieu day for Hari Raya Haji. | From 10 - 20 June 2025, the
+  General Office will be operating from 8.00am to 3.30pm on Mondays - Thursdays
+  and 8.00am - 3.00pm on Fridays.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
