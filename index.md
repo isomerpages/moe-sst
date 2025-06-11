@@ -7,7 +7,7 @@ image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: From 10 - 20 June 2025, the General Office will be operating from
   8.00am to 3.30pm on Mondays - Thursdays and 8.00am - 3.00pm on Fridays. |
-  Please note that the General Office will operate from 3.30pm to 5.00pm on 25
+  Please note that the General Office will operate from 3.30pm to 5.30pm on 25
   June 2025 (Wednesday), and from 7.00am to 11.30am on 26 June 2025 (Thursday).
 sections:
   - hero:
