@@ -22,10 +22,10 @@ sections:
   - infopic:
       title: 2025 Open House
       id: infopic
-      description: Join us on 31 May, 9am–1pm, to learn more about SST. Tour the
-        campus, speak with our students and staff, and explore our curriculum
-        and programmes.
-      button: Find Out More & RSVP
+      description: We had a successful Open House 2025! Thank you to all who joined us
+        on 31 May to tour our campus, meet our staff and students, and explore
+        SST’s programmes.
+      button: View Highlights
       url: https://sites.google.com/sst.edu.sg/2025sstopenhouse/
       image: /images/SST_Web15_OH.jpg
       alt: 2025 SST Open House
