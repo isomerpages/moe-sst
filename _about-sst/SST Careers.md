@@ -9,7 +9,7 @@ of Science and Technology, Singapore (SST) seeks to nurture passionate
 innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
-<p></p>
+<h4>Join Our Academic Team</h4>
 <p><strong>1) <u>Mathematics Teacher</u></strong>
 </p>
 <p><strong>2) <u>English Language Teacher</u></strong>
@@ -30,8 +30,8 @@ development.</p>
 <p>If you enjoy working with youth and are passionate about sharing your
 expertise with them, come join us in transforming learning to groom future-ready
 students!</p>
-<p></p>
-<p><strong>5) <u>ICT Executive (1 Year Contract)</u></strong>
+<h4>Join Our Administrative Team</h4>
+<p><strong>1) <u>ICT Executive (1 Year Contract)</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -89,7 +89,7 @@ a team environment</p>
 </li>
 </ul>
 <hr>
-<p><strong>How to apply:</strong>
+<p><strong>Information on the Application Process:</strong>
 </p>
 <p>Please send your detailed resume, educational certificates and transcripts
 with present and expected salaries to&nbsp;<a href="mailto:hrd@sst.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hrd@sst.edu.sg</a>.</p>
