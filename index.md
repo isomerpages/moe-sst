@@ -5,9 +5,10 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Please note that the General Office will operate from 3.30pm to
-  5.30pm on 25 June 2025 (Wednesday), and from 7.00am to 11.30am on 26 June 2025
-  (Thursday).
+notification: The General Office main phone line (6571 7200) is currently down
+  and is being rectified. In the meantime, please contact the school at 9339
+  5028 during office hours. Please also note that the General Office will only
+  operate from 7.00am to 11.30am on 26 June 2025 (Thursday).
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
@@ -18,16 +19,6 @@ sections:
       title: Shaping Passionate Innovators, The SST Way
       button: Getting Ready for Sec 1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
-  - infopic:
-      title: 2025 Open House
-      id: infopic
-      description: We had a successful Open House 2025! Thank you to all who joined us
-        on 31 May to tour our campus, meet our staff and students, and explore
-        SST’s programmes.
-      button: View Highlights
-      url: https://sites.google.com/sst.edu.sg/2025sstopenhouse/
-      image: /images/SST_Web15_OH.jpg
-      alt: 2025 SST Open House
   - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
