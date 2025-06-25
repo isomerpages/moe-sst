@@ -7,8 +7,9 @@ image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: The General Office main phone line (6571 7200) is currently down
   and is being rectified. In the meantime, please contact the school at 9339
-  5028 during office hours. Please also note that the General Office will only
-  operate from 7.00am to 11.30am on 26 June 2025 (Thursday).
+  5028 during office hours until further notice. Please also note that the
+  General Office will only operate from 7.00am to 11.30am on 26 June 2025
+  (Thursday).
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
