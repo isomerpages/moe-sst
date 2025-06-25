@@ -19,16 +19,6 @@ sections:
       button: Getting Ready for Sec 1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
-      title: 2025 Open House
-      id: infopic
-      description: We had a successful Open House 2025! Thank you to all who joined us
-        on 31 May to tour our campus, meet our staff and students, and explore
-        SST’s programmes.
-      button: View Highlights
-      url: https://sites.google.com/sst.edu.sg/2025sstopenhouse/
-      image: /images/SST_Web15_OH.jpg
-      alt: 2025 SST Open House
-  - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
       description: Experience the Future of Learning. Explore the memorable moments
