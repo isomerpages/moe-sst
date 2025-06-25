@@ -1166,6 +1166,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Go Yong Siang Christopher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>go_yong_siang_christopher@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tan Cheow Yiong Jerome</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1184,6 +1195,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_kai_chin@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tang Kang Yu Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_kang_yu_nicholas@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1245,13 +1267,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pei Lin Mabel</p>
+<p>Wong Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finance &amp; Procurement Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_pei_lin_mabel@sst.edu.sg</p>
+<p>wong_hui_ying@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1280,6 +1302,17 @@ Specialist</p>
 <td rowspan="1" colspan="3">
 <p><strong>Human Resource &amp; School Administration</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Wei Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Human Resource &amp; School Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_wei_choo@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1358,6 +1391,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamad_zuladha@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohd Redzuan Bin Mohd Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
