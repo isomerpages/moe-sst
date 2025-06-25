@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Open House 2025.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal Message.md
