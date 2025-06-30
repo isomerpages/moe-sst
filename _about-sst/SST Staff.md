@@ -36,6 +36,7 @@ variant: tiptap
 <p>Mohamed Irfan Bin Darian</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Deputy Dean, Applied Design</p>
 <p>HOD, ADMT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +153,7 @@ variant: tiptap
 <p>Nurul Afiah Binte Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_afiah_binte_abdul_rashid@sst.edu.sg</p>
@@ -280,7 +281,7 @@ Specialist</p>
 <p>Zhang Jiaxin Genevieve</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD, Humanities</p>
+<p>HOD, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zhang_jiaxin_genevieve@sst.edu.sg</p>
@@ -291,7 +292,7 @@ Specialist</p>
 <p>Seah Wei Kang Don</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head, Humanities</p>
+<p>Subject Head, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_wei_kang_don@sst.edu.sg</p>
@@ -396,7 +397,7 @@ Specialist</p>
 <p>Yeo Jien Yoen Aurelius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean, Educational Technology</p>
+<p>Dean, Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aurelius_yeo@sst.edu.sg</p>
@@ -479,8 +480,7 @@ Specialist</p>
 <p>Tan Yoke Leng Doreen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean, Student Development
-<br>HOD, Character &amp; Citizenship Education</p>
+<p>Dean, Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>doreen_tan@sst.edu.sg</p>
@@ -833,7 +833,7 @@ Specialist</p>
 <p>Tan Soo Woon John</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean, Integrated Diploma Programme</p>
+<p>Dean, Integrated Diploma Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>john_tan@sst.edu.sg</p>
@@ -855,7 +855,7 @@ Specialist</p>
 <p>Ng Yi Ting Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD, Character &amp; Citizenship Education</p>
+<p>HOD, Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>karen_ng@sst.edu.sg</p>
@@ -921,7 +921,7 @@ Specialist</p>
 <p>Loh Yue Yan Amelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head, Applied Research</p>
+<p>Subject Head, Applied Research</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_yue_yan_amelia@sst.edu.sg</p>
@@ -932,7 +932,7 @@ Specialist</p>
 <p>Merlene Paik Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>merlene_paik_xin_yi@sst.edu.sg</p>
@@ -1103,7 +1103,7 @@ Specialist</p>
 <p>Ng Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD, Sports &amp; Wellness / Co-Curricular Activities</p>
+<p>HOD, Sports &amp; Wellness / Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_jun_wei@sst.edu.sg</p>
@@ -1136,7 +1136,7 @@ Specialist</p>
 <p>Lim Shu-En Adele</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head, Sports &amp; Wellness</p>
+<p>Subject Head, Sports &amp; Wellness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>adele_lim@sst.edu.sg</p>
