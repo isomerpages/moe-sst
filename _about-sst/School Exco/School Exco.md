@@ -47,11 +47,15 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Irfan_Profile__Red_.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Irfan_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Arfah_Profile__Red_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -76,10 +80,6 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Wee_Peng_Profile__Grey_.svg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Arfah_Profile__Grey_.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -123,6 +123,10 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Don_Seah_Profile__Blue___R_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Keith_Profile__Blue___R_.svg">
 </div>
 <p></p>
@@ -140,6 +144,15 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Chuan_Leong_Profile__Blue___R_.svg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Afiah_Profile__Blue___R_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Merlene_Paik_Profile__Blue___R_.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
