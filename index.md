@@ -30,6 +30,18 @@ sections:
       url: https://sites.google.com/ssts.edu.sg/galess2025sst/home?authuser=0
       image: /images/Galess_Web_banner.jpg
       alt: Image alt text
+      subtitle: 29 june - 4 july 2025
+  - infopic:
+      title: Teach Summit@SST Lab School 2025
+      subtitle: 8 july - 11 july 2025
+      id: infopic
+      description: An inspiring professional learning experience empowering educators
+        to harness AI for future-ready teaching and responsible digital
+        citizenship.
+      button: View More
+      url: https://sites.google.com/sst.edu.sg/labschool/teachsst-lab-school?authuser=0
+      image: /images/Teach_Submit_Web.jpg
+      alt: Teach Summit
   - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
