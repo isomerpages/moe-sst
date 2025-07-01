@@ -20,7 +20,6 @@ sections:
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
       title: GALESS Singapore Conference 2025
-      subtitle: Add an image and text
       id: infopic
       description: Bringing together international educators and students to discuss
         emerging global challenges and explore collaborative solutions.
