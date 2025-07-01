@@ -19,6 +19,16 @@ sections:
       button: Getting Ready for Sec 1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
+      title: GALESS Singapore Conference 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Bringing together international educators and students to discuss
+        emerging global challenges and explore collaborative solutions.
+      button: View More
+      url: https://sites.google.com/ssts.edu.sg/galess2025sst/home?authuser=0
+      image: /images/Galess_Web_banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
       description: Experience the Future of Learning. Explore the memorable moments
