@@ -695,7 +695,7 @@ Specialist</p>
 <p>Arfah Binte Buang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Deputy Dean, Learning and Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>arfah_buang@sst.edu.sg</p>
