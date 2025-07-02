@@ -39,7 +39,7 @@ sections:
         to harness AI for future-ready teaching and responsible digital
         citizenship.
       button: View More
-      url: https://sites.google.com/sst.edu.sg/labschool/teachsst-lab-school?authuser=0
+      url: https://sites.google.com/sst.edu.sg/labschool/teachsst-lab-school
       image: /images/Teach_Submit_Web.jpg
       alt: Teach Summit
   - infopic:
