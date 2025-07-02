@@ -19,8 +19,6 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
-      button: Getting Ready for Sec 1
-      url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
       title: GALESS Singapore Conference 2025
       id: infopic
