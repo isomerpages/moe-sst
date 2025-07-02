@@ -5,12 +5,12 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: In celebration of Youth Day on Monday, 7 July, students will have
-  a school holiday. Please note that the General Office will operate from 7:30
-  a.m. to 12:00 p.m. and will be closed for the rest of the day. | The General
-  Office main phone line (6571 7200) is currently down and is being rectified.
-  In the meantime, please contact the school at 9339 5028 during office hours
-  until further notice.
+notification: In commemoration of Youth Day on Monday, 7 July, students will
+  have a school holiday. Please note that the General Office will operate from
+  7:30 a.m. to 12:00 p.m. and will be closed for the rest of the day. | The
+  General Office main phone line (6571 7200) is currently down and is being
+  rectified. In the meantime, please contact the school at 9339 5028 during
+  office hours until further notice.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
