@@ -322,17 +322,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loh Hwee Kiang Ruth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_hwee_kiang_ruth@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mohammad Firdaus Bin Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
