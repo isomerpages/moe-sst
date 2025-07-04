@@ -25,11 +25,13 @@ out more at <a href="https://www.galess.org/gls/" rel="noopener nofollow" target
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners/ISSN.png">
 </div>
-<p>The ISSN is a collaborative platform that brings together educators and
-school leaders from around the world to drive meaningful change in sustainability
-education. Through shared resources, action-focused dialogues, and cross-school
-partnerships, ISSN empowers schools to embed sustainability deeply into
-teaching, learning, and campus culture. Find out more at <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>
+<p>The ISSN is a global alliance of specialised science-focused secondary
+schools committed to advancing excellence in STEM education. Founded to
+foster innovation and international collaboration, ISSN connects students
+and educators to tackle global challenges through science. Its flagship
+event, the International Students Science Fair, has been held annually
+since 2005, providing a platform for idea exchange, cross-cultural connections,
+and nurturing future scientific leaders. Find out more at <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>
 </p>
 <p></p>
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
