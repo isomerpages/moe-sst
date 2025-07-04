@@ -7,8 +7,10 @@ description: ""
 <p>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</p>
 <p></p>
 <p>International Science Schools Network (ISSN)</p>
-<p></p>
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://sagesch.org/wp-content/uploads/2017/05/sage-logo.png?w=87">
+</div>
 <p>SAGE is a global network of innovative schools committed to building a
 better world through collaborative education. Founded in 2012, SAGE focuses
 on four key sectors.</p>
