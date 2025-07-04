@@ -19,7 +19,7 @@ a community of progressive schools dedicated to advancing sustainability
 through education and leadership. By fostering collaboration among students,
 educators, and institutions, GALESS promotes innovative practices and global
 partnerships that inspire action toward a more sustainable future. Find
-out more at <a href="https://www.galess.org/gls/" rel="noopener nofollow" target="_blank">HERE.</a>
+out more <a href="https://www.galess.org/gls/" rel="noopener nofollow" target="_blank">HERE.</a>
 </p>
 <h4>International Science Schools Network (ISSN)</h4>
 <div class="isomer-image-wrapper">
@@ -31,7 +31,7 @@ foster innovation and international collaboration, ISSN connects students
 and educators to tackle global challenges through science. Its flagship
 event, the International Students Science Fair, has been held annually
 since 2005, providing a platform for idea exchange, cross-cultural connections,
-and nurturing future scientific leaders. Find out more at <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>
+and nurturing future scientific leaders. Find out more <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>
 </p>
 <p></p>
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
@@ -57,6 +57,6 @@ on four key sectors.</p>
 </ol>
 <p>It aims to enable educators and students to share best practices, co-develop
 learning experiences, and grow as globally competent learners in the 21st
-century. Find out more at <a href="https://sagesch.org/" rel="noopener nofollow" target="_blank">HERE</a>.</p>
+century. Find out more <a href="https://sagesch.org/" rel="noopener nofollow" target="_blank">HERE</a>.</p>
 <p></p>
 <p></p>
