@@ -11,6 +11,10 @@ with like-minded schools to advance innovative education, sustainability,
 and student well-being, while preparing learners to thrive in an interconnected
 world.</p>
 <h4>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="https://www.galess.org/appgls/resources/GALESS%20Logo%202.jpg">
+</div>
 <p>GALESS (Global Alliance of Leading-Edge Schools for Sustainability) is
 a community of progressive schools dedicated to advancing sustainability
 through education and leadership. By fostering collaboration among students,
