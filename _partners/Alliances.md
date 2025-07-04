@@ -4,11 +4,12 @@ permalink: /alliances/
 variant: tiptap
 description: ""
 ---
-<p>The School of Science and Technology, Singapore (SST) is proud to be a
-member of three leading international education networks—SAGE, ISSN, and
-GALESS. Through these global platforms, SST collaborates with like-minded
-schools to advance innovative education, sustainability, and student well-being,
-while preparing learners to thrive in an interconnected world.</p>
+<h4>Educational Alliances </h4>
+<p>SST is proud to be a member of three leading international education networks
+- SAGE, ISSN, and GALESS. Through these global platforms, SST collaborates
+with like-minded schools to advance innovative education, sustainability,
+and student well-being, while preparing learners to thrive in an interconnected
+world.</p>
 <h4>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</h4>
 <p>GALESS (Global Alliance of Leading-Edge Schools for Sustainability) is
 a community of progressive schools dedicated to advancing sustainability
