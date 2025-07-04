@@ -35,7 +35,6 @@ and nurturing future scientific leaders. Find out more at <a href="https://issn-
 </p>
 <p></p>
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Partners/SAGE.png">
 </div>
