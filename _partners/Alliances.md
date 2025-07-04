@@ -21,6 +21,9 @@ out more at <a href="https://www.galess.org/gls/" rel="noopener nofollow" target
 </p>
 <h4>International Science Schools Network (ISSN)</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners/ISSN.png">
+</div>
 <p>The ISSN is a collaborative platform that brings together educators and
 school leaders from around the world to drive meaningful change in sustainability
 education. Through shared resources, action-focused dialogues, and cross-school
