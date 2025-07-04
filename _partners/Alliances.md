@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>SST’s Global Education Networks</h4>
 <p>SST is proud to be a member of three leading international education networks
-- SAGE, ISSN, and GALESS. Through these global platforms, SST collaborates
+- GALESS, ISSN and SAGE. Through these global platforms, SST collaborates
 with like-minded schools to advance innovative education, sustainability,
 and student well-being, while preparing learners to thrive in an interconnected
 world.</p>
