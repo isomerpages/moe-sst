@@ -12,7 +12,7 @@ and student well-being, while preparing learners to thrive in an interconnected
 world.</p>
 <h4>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Partners/GALESS.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Partners/GALESS.png">
 </div>
 <p>GALESS (Global Alliance of Leading-Edge Schools for Sustainability) is
 a community of progressive schools dedicated to advancing sustainability
@@ -35,7 +35,7 @@ teaching, learning, and campus culture. Find out more at <a href="https://issn-e
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Partners/SAGE.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Partners/SAGE.png">
 </div>
 <p>SAGE is a global network of innovative schools committed to building a
 better world through collaborative education. Founded in 2012, SAGE focuses
