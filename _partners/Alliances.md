@@ -4,9 +4,17 @@ permalink: /alliances/
 variant: tiptap
 description: ""
 ---
-<p>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</p>
+<h4>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</h4>
 <p></p>
-<p>International Science Schools Network (ISSN)</p>
+<h4>International Science Schools Network (ISSN)</h4>
+<p></p>
+<p>The ISSN is a collaborative platform that brings together educators and
+school leaders from around the world to drive meaningful change in sustainability
+education. Through shared resources, action-focused dialogues, and cross-school
+partnerships, ISSN empowers schools to embed sustainability deeply into
+teaching, learning, and campus culture. Find out more at <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>
+</p>
+<p></p>
 <h4>Strategic Alliance of Global Educators (SAGE)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="https://sagesch.org/wp-content/uploads/2017/05/sage-logo.png?w=87">
@@ -30,9 +38,6 @@ on four key sectors.</p>
 </ol>
 <p>It aims to enable educators and students to share best practices, co-develop
 learning experiences, and grow as globally competent learners in the 21st
-century. Find out more <a href="https://sagesch.org/" rel="noopener nofollow" target="_blank">HERE</a>.</p>
+century. Find out more at <a href="https://sagesch.org/" rel="noopener nofollow" target="_blank">HERE</a>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://sagesch.org/wp-content/uploads/2017/05/sage-logo.png?w=87">
-</div>
 <p></p>
