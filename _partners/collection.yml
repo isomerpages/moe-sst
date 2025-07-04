@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Alliances.md
       - ParentsforSST (PforSST).md
       - Alumni.md
       - Partners.md
+      - Alliances.md
