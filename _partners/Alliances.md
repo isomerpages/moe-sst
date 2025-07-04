@@ -32,3 +32,7 @@ on four key sectors.</p>
 learning experiences, and grow as globally competent learners in the 21st
 century. Find out more <a href="https://sagesch.org/" rel="noopener nofollow" target="_blank">HERE</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://sagesch.org/wp-content/uploads/2017/05/sage-logo.png?w=87">
+</div>
+<p></p>
