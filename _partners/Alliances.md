@@ -4,7 +4,7 @@ permalink: /alliances/
 variant: tiptap
 description: ""
 ---
-<h4>Educational Alliances</h4>
+<h4>SST’s Global Education Networks</h4>
 <p>SST is proud to be a member of three leading international education networks
 - SAGE, ISSN, and GALESS. Through these global platforms, SST collaborates
 with like-minded schools to advance innovative education, sustainability,
