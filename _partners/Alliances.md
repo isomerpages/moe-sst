@@ -21,7 +21,7 @@ through education and leadership. By fostering collaboration among students,
 educators, and institutions, it promotes innovative practices and global
 partnerships that inspire action for a more sustainable future. [Find out
 more <a href="https://www.galess.org/gls/" rel="noopener nofollow" target="_blank">HERE.</a>]</p>
-<h4>International Science Schools Network (ISSN)</h4>
+<h4>2. International Science Schools Network (ISSN)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners/ISSN.png">
 </div>
@@ -33,7 +33,7 @@ event, the International Student Science Fair, has been held annually since
 2005, providing a platform for the exchange of ideas, cross-cultural engagement,
 and the nurturing of future scientific leaders. [Find out more <a href="https://issn-education.org/" rel="noopener nofollow" target="_blank">HERE.</a>]</p>
 <p></p>
-<h4>Strategic Alliance of Global Educators (SAGE)</h4>
+<h4>3. Strategic Alliance of Global Educators (SAGE)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Partners/SAGE.png">
 </div>
