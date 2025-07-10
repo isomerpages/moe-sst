@@ -15,16 +15,6 @@ sections:
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
   - infopic:
-      title: GALESS Singapore Conference 2025
-      id: infopic
-      description: Bringing together international educators and students to discuss
-        emerging global challenges and explore collaborative solutions.
-      button: View More
-      url: https://sites.google.com/ssts.edu.sg/galess2025sst/home?authuser=0
-      image: /images/Galess_Web_banner.jpg
-      alt: Image alt text
-      subtitle: 29 june - 4 july 2025
-  - infopic:
       title: Teach Summit@SST Lab School 2025
       subtitle: 8 july - 11 july 2025
       id: infopic

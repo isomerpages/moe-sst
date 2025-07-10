@@ -1,5 +1,5 @@
 ---
-title: Alliances
+title: Global Education Networks
 permalink: /alliances/
 variant: tiptap
 description: ""
