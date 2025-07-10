@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Canteen Vacancy.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal Message.md
