@@ -31,7 +31,7 @@ variant: tiptap
 <p>Muslim Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 May 2025</p>
+<p>31 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal noodle dishes&nbsp;&nbsp;</p>
