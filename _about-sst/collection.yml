@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Privacy Policy.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal Message.md
@@ -26,4 +25,5 @@ collections:
       - Info Hub.md
       - SST Careers.md
       - School Canteen Advertisement.md
+      - Privacy Policy.md
       - Whistleblowing Policy.md
