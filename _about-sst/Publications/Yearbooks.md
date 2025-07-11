@@ -1,6 +1,6 @@
 ---
-title: Yearbook
-permalink: /about-us/publication/yearbook/
+title: Yearbooks
+permalink: /about-us/publication/yearbooks/
 description: ""
 third_nav_title: Publications
 variant: tiptap
@@ -23,6 +23,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
