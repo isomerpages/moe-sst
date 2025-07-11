@@ -18,13 +18,15 @@ links:
       - title: School Rules & Regulation
         url: /about-us/school-rules-regulation/
       - title: SST Careers
-        url: https://www.sst.edu.sg/sst-careers/
+        url: /sst-careers/
       - title: Publications
         url: /about-us/publication/yearbook/
       - title: Info Hub
-        url: https://www.sst.edu.sg/info-hub/
+        url: /info-hub/
       - title: Whistleblowing
         url: /whistleblowing-policy/
+      - title: Privacy Policy
+        url: /privacy/
   - title: Student Experience
     url: /
     sublinks:
@@ -76,6 +78,6 @@ links:
       - title: Uniform
         url: /student-services/uniform/
       - title: Getting Ready for Sec 1
-        url: https://www.sst.edu.sg/prep-for-s1/p1/
+        url: /prep-for-s1/p1/
   - title: Have a Question?
     url: https://ask.gov.sg/sst
