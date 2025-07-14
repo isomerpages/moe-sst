@@ -1,8 +1,9 @@
 ---
-title: Principal Message
-permalink: /about-sst/Exco-Team/p-message/
+title: Principal Message's
+permalink: /about-sst/exco-team/p-message/
 description: ""
 third_nav_title: School Exco
+variant: tiptap
 ---
 ![](/images/P%20msg%20part%201a.png)
 

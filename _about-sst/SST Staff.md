@@ -1267,6 +1267,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Cho Mei Har Dolly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Finance &amp; Procurement Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cho_mei_har_dolly@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chew An-Na Jeannette</p>
 </td>
 <td rowspan="1" colspan="1">
