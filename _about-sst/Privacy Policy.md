@@ -8,8 +8,8 @@ description: ""
 <p>Throughout the year, parents will receive updates on key school events
 through the Parent Gateway (PG).
 <br>
-<br>Stay connected with Cedarian events and achievements by following us on
-our social media page on <a href="https://www.instagram.com/sst_edu_sg/" rel="noopener nofollow" target="_blank">SST Instagram</a>.</p>
+<br>Stay connected with SST's events and achievements by following us on our
+social media page on <a href="https://www.instagram.com/sst_edu_sg/" rel="noopener nofollow" target="_blank">SST Instagram</a>.</p>
 <h3><br><strong>Digital Policy</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
