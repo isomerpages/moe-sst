@@ -1,5 +1,5 @@
 ---
-title: Principal Message's
+title: Principal's Message
 permalink: /about-sst/exco-team/p-message/
 description: ""
 third_nav_title: School Exco
