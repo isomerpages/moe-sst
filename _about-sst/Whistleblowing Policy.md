@@ -12,12 +12,12 @@ of professional and personal ethics, honesty, and integrity in carrying
 out their duties and responsibilities. They are to conduct themselves in
 a professional manner at all times to bring credit to and enhance the image
 of the school.</p>
-<p>Whistleblowing is the act of reporting wrongdoing in an organization to
+<p>Whistleblowing is the act of reporting wrongdoing in an organisation to
 the appropriate authorities. Examples of such wrongdoing include but are
 not limited to acts relating to unlawful conduct, financial malpractice
 and fraud, criminal violation of prevailing laws, rules, and regulations,
 conflicts of interest, non- compliance of the company’s internal controls
-and procedures, unauthorized disclosure of information, abuse of authority
+and procedures, unauthorised disclosure of information, abuse of authority
 for personal gain and discrimination and intimidation of staff in the course
 of work. This policy provides a channel for BOD, staff, or external parties
 to bring to the attention of the Authorised Personnel any misdeed or impropriety
@@ -109,7 +109,7 @@ place to facilitate the process:</p>
 <p><strong><u>Protection</u></strong>
 </p>
 <p>The school shall protect the whistleblower and ensure that he/she will
-not be victimized, discriminated, harassed, or disciplined. However, the
+not be victimised, discriminated, harassed, or disciplined. However, the
 same protection will not be extended to someone who maliciously raises
 a matter they know to be untrue.</p>
 <p></p>
