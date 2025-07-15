@@ -2,6 +2,7 @@ collections:
   about-sst:
     output: true
     order:
+      - Privacy Policy/Personal Data Privacy Policy.md
       - Privacy Policy/Digital Policy.md
       - Privacy Policy/.keep
       - Board of Directors.md
