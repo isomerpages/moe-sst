@@ -1,6 +1,6 @@
 ---
-title: Communication Channels and Personal Data Privacy Policy
-permalink: /communication-channels-pdp/
+title: Communication Channels
+permalink: /communication-channels/
 variant: tiptap
 description: Communication Channels
 ---
