@@ -1,17 +1,11 @@
 ---
-title: Communication Channels and Personal Data Privacy Policy
-permalink: /communication-channels-pdp/
+title: Personal Data Privacy Policy
+permalink: /personal-data-privacy-policy/
 variant: tiptap
-description: Communication Channels
-third_nav_title: Publications
+description: ""
+third_nav_title: Privacy Policy
 ---
-<h3><strong>Communication Channels</strong></h3>
-<p>Throughout the year, parents will receive updates on key school events
-through the Parent Gateway (PG).
-<br>
-<br>Stay connected with SST's events and achievements by following us on our
-social media page on <a href="https://www.instagram.com/sst_edu_sg/" rel="noopener nofollow" target="_blank"><u>SST Instagram</u></a>.</p>
-<h3><br><strong>Personal Data Privacy Policy for Parents of Students from School of Science and Technology, Singapore (SST)</strong></h3>
+<h3><strong>Personal Data Privacy Policy for Parents of Students from School of Science and Technology, Singapore (SST)</strong></h3>
 <h4><strong>Background</strong></h4>
 <p>SST has put in place a personal data privacy policy in view of the enactment
 of the Personal Data Protection Act (PDPA) effective from 2 July 2014 in

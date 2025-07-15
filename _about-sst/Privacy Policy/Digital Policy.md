@@ -1,8 +1,9 @@
 ---
-title: Privacy Policy
+title: Digital Policy
 permalink: /privacy/
 variant: tiptap
 description: ""
+third_nav_title: Privacy Policy
 ---
 <h3><strong>Digital Policy</strong></h3>
 <ol data-tight="true" class="tight">
