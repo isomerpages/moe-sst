@@ -2,7 +2,6 @@ collections:
   about-sst:
     output: true
     order:
-      - Communication Channels and Personal Data Privacy Policy.md
       - Board of Directors.md
       - School Exco/.keep
       - School Exco/Principal's Message.md
@@ -27,5 +26,6 @@ collections:
       - Info Hub.md
       - SST Careers.md
       - School Canteen Advertisement.md
+      - Communication Channels and Personal Data Privacy Policy.md
       - Privacy Policy.md
       - Whistleblowing Policy.md
