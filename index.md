@@ -5,7 +5,8 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Kindly note that the General Office will be closed for lunch from
+  12:00 p.m. to 1:00 p.m. on 16 and 17 July 2025.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
