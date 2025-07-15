@@ -2,7 +2,7 @@ collections:
   about-sst:
     output: true
     order:
-      - Privacy Policy/Privacy Policy.md
+      - Privacy Policy/Digital Policy.md
       - Privacy Policy/.keep
       - Board of Directors.md
       - School Exco/.keep
