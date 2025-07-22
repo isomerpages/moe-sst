@@ -5,8 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Kindly note that the General Office will be closed for lunch from
-  12:00 p.m. to 1:00 p.m. on 16 and 17 July 2025.
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
@@ -15,17 +14,6 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
-  - infopic:
-      title: Teach Summit@SST Lab School 2025
-      subtitle: 8 july - 11 july 2025
-      id: infopic
-      description: An inspiring professional learning experience empowering educators
-        to harness AI for future-ready teaching and responsible digital
-        citizenship.
-      button: View More
-      url: https://sites.google.com/sst.edu.sg/labschool/teachsst-lab-school
-      image: /images/Teach_Submit_Web.jpg
-      alt: Teach Summit
   - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
