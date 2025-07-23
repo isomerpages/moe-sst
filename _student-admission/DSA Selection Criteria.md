@@ -30,6 +30,11 @@ Applicants who do not have prior experience may also apply. The school will asse
 **Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 **Due to different profiles of applicants, selection/shortlisting trends may differ year on year.**
 
-We **do not consider or accept any external recommendations** from individuals or organisations in support of an applicant.
 
-Shortlisting and selection decisions are made independently by the school, and are based strictly on the merit of the application, performance in the selection tasks, and alignment with the school’s talent areas.
+### Important Notice on DSA-Sec Selection Process
+
+We would like to clarify that **all applications under the Direct School Admission – Secondary (DSA-Sec) exercise are assessed solely based on our internal selection criteria and processes**.
+
+We **do not consider or accept any recommendations from external individuals or organisations** in support of an applicant. **Any such claim is untrue**.
+
+Shortlisting and selection decisions are made independently by the school and are based strictly on the merit of the application, performance in the selection tasks, and alignment with the school’s talent areas.
