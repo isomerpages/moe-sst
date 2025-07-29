@@ -6,7 +6,7 @@ description: School of Science and Technology, Singapore Shaping passionate
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: Kindly note that Monday, 11 August will be a school holiday and a
-  designated day off-in-lieu. Schools will be closed, including the General
+  designated day off-in-lieu. The school will be closed, including the General
   Office.
 sections:
   - hero:
