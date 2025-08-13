@@ -98,7 +98,7 @@ Independent School Bursary (ISB), the ESIS award quantum is $2,400 per
 year,&nbsp;or&nbsp;the total annual school fees minus the school fees subsidy
 provided under ISB, whichever is lower.</p>
 <h5>SST-Ngee Ann Kongsi STEM Scholarship</h5>
-<p>The SST-Ngee Ann Kongsi STEM Scholarship is established to recognize outstanding
+<p>The SST-Ngee Ann Kongsi STEM Scholarship is established to recognise outstanding
 students with a strong passion and talent in Science, Technology, Engineering,
 and Mathematics (STEM).</p>
 <p>This scholarship aims to inspire recipients to further their STEM pursuits
@@ -207,7 +207,7 @@ and the SST Character Award (SSTCHA).</p>
 character&nbsp;and outstanding personal qualities through their behaviour
 and actions. In particular, students may be identified for demonstrating
 the following types of qualities:</p>
-<ol data-tight="true" class="tight">
+<ul>
 <li>
 <p>School values and/or character traits - A person who has moral character
 demonstrates ethical behaviour and acts for the common good and has performance
@@ -225,12 +225,11 @@ facing difficult circumstances (e.g. financial problems, family issues,
 health issues e.t.c.), and managed to overcome the odds and still do commendably
 well in academic and non-academic domains.</p>
 </li>
-</ol>
+</ul>
 <p>The MOE Edusave Character Award is only eligible to Singapore Citizen.
 The SST Character Award is eligible to all SST students.</p>
-<p>Nominations are open to students, staff, parents and public. Please submit
-the nominations through this link (<a href="https://forms.gle/AhhKkmBoZ6jQg2FN6" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/AhhKkmBoZ6jQg2FN6</a>)
-before 15 August 2025, 3 pm.</p>
+<p>Nominations are open to students, staff, parents and public. <a href="https://forms.gle/AhhKkmBoZ6jQg2FN6" rel="noopener nofollow" target="_blank">Please submit the nominations</a> before
+15 August 2025, 3 pm.</p>
 <h4>Yearly awards @ SST</h4>
 <p>Students of SST may continue to qualify for yearly awards in the form
 of scholarships such as the&nbsp;<em>SST Achievement Award (SSTAA).</em>&nbsp;Yearly
