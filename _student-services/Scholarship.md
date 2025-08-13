@@ -98,7 +98,7 @@ Independent School Bursary (ISB), the ESIS award quantum is $2,400 per
 year,&nbsp;or&nbsp;the total annual school fees minus the school fees subsidy
 provided under ISB, whichever is lower.</p>
 <h5>SST-Ngee Ann Kongsi STEM Scholarship</h5>
-<p>The SST-Ngee Ann Kongsi STEM Scholarship is established to recognize outstanding
+<p>The SST-Ngee Ann Kongsi STEM Scholarship is established to recognise outstanding
 students with a strong passion and talent in Science, Technology, Engineering,
 and Mathematics (STEM).</p>
 <p>This scholarship aims to inspire recipients to further their STEM pursuits
@@ -200,7 +200,37 @@ by post in late November.</p>
 </tr>
 </tbody>
 </table>
-<h5>Yearly awards @ SST</h5>
+<h4>2025 MOE Edusave &amp; SST Character Award Nomination</h4>
+<p>The nominations are now open for the MOE Edusave Character Award (ECHA)
+and the SST Character Award (SSTCHA).</p>
+<p>These awards aim to recognise students who have demonstrated exemplary
+character&nbsp;and outstanding personal qualities through their behaviour
+and actions. In particular, students may be identified for demonstrating
+the following types of qualities:</p>
+<ul>
+<li>
+<p>School values and/or character traits - A person who has moral character
+demonstrates ethical behaviour and acts for the common good and has performance
+character for excellence demonstrates self-mastery and leadership.</p>
+</li>
+<li>
+<p>A high level of civic responsibility - A person who has concerned about
+issues in the community or issues faced by others, initiating action to
+address these issues to improve the lives of others, and being committed
+to make a positive difference.</p>
+</li>
+<li>
+<p>Qualities associated with resilience - A person who has persevered despite
+facing difficult circumstances (e.g. financial problems, family issues,
+health issues e.t.c.), and managed to overcome the odds and still do commendably
+well in academic and non-academic domains.</p>
+</li>
+</ul>
+<p>The MOE Edusave Character Award is only eligible to Singapore Citizen.
+The SST Character Award is eligible to all SST students.</p>
+<p>Nominations are open to students, staff, parents and public. <a href="https://forms.gle/AhhKkmBoZ6jQg2FN6" rel="noopener nofollow" target="_blank">Please submit the nominations</a> before
+15 August 2025, 3 pm.</p>
+<h4>Yearly awards @ SST</h4>
 <p>Students of SST may continue to qualify for yearly awards in the form
 of scholarships such as the&nbsp;<em>SST Achievement Award (SSTAA).</em>&nbsp;Yearly
 awards are subject to the student’s academic performance and conduct during
