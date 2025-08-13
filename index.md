@@ -5,10 +5,10 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: The nominations are now open for the MOE Edusave Character Award
+notification: Nominations are now open for the MOE Edusave Character Award
   (ECHA) and the SST Character Award (SSTCHA). Please submit your nominations
-  through this link (https://forms.gle/AhhKkmBoZ6jQg2FN6) before 15 August 2025,
-  3 pm.
+  via this link (https://forms.gle/AhhKkmBoZ6jQg2FN6) before 15 August 2025, 3
+  pm.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
