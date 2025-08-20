@@ -132,7 +132,120 @@ a team environment</p>
 <p>The following technical Certification is an added advantage:
 <br>&nbsp; &nbsp; (i) &nbsp;Apple related certification
 <br>&nbsp; &nbsp; (ii) Microsoft related certification</p>
+</li>
+</ul>
+<p><strong>2) <u>Operations Executive</u></strong>
+</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<p>Estate &amp; Facility Operations:</p>
+<ul>
+<li>
+<p>Oversee the upkeep of school buildings as assigned by the Operations Manager</p>
+</li>
+<li>
+<p>Implement preventive and corrective maintenance programs for all key systems
+(Electrical, HVAC, Plumbing etc)</p>
+</li>
+<li>
+<p>Conduct regular inspections, initiate timely repairs and recommend improvement
+plans</p>
+</li>
+<li>
+<p>Ensure school infrastructure complies with local building code, safety
+regulations and MOE Guidelines</p>
+</li>
+<li>
+<p>Address feedback or facility issues promptly and professionally</p>
+</li>
+<li>
+<p>Ensure school is ready for the start of school day</p>
+</li>
+</ul>
+<p>&nbsp;School Operations:</p>
+<ul>
+<li>
+<p>Oversee and ensure school opens on time</p>
+</li>
+<li>
+<p>Be on ground to ensure smooth traffic flow during morning peak hour period</p>
+</li>
+<li>
+<p>Cover front-desk duties as and when necessary</p>
+</li>
+</ul>
+<p>&nbsp;Security Management:</p>
+<ul>
+<li>
+<p>Oversee daily security operations and manage outsourced security personnel</p>
+</li>
+<li>
+<p>Oversee drop-off point during the morning peak hour period</p>
+</li>
+<li>
+<p>Manage requests for viewing of CCTV footage</p>
+</li>
+<li>
+<p>Manage staff card access system and issuance of staff access card</p>
+</li>
+<li>
+<p>Manage METRO season parking system and issuance of staff parking car decal</p>
+</li>
+</ul>
+<p>&nbsp;Project Management:</p>
+<ul>
+<li>
+<p>Plan, coordinate and oversee projects assigned by the Operations Manager</p>
+</li>
+<li>
+<p>Prepare specification documents, evaluation reports and other documentation
+for Invitations to Quote (ITQ) and Invitations to Tender (ITT)</p>
+</li>
+<li>
+<p>Supervise contractors and worksites to ensure safety, quality and compliance</p>
+</li>
+<li>
+<p>Ensure Quality assurance processes for project completion verification
+before payment processing</p>
+</li>
+</ul>
+<p>&nbsp;Event &amp; Logistic Management:</p>
+<ul>
+<li>
+<p>Plan and support logistics (Venue setup/ moving of tables and chairs/
+parking) for school events</p>
+</li>
+<li>
+<p>Support logistics for school day to day operations</p>
+</li>
+</ul>
 <p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<ul>
+<li>
+<p>Minimum Diploma in Facilities Management of Equivalent</p>
+</li>
+<li>
+<p>Candidates without the minimum qualifications but with at least 5 years
+of relevant prior experience may apply</p>
+</li>
+<li>
+<p>Minimum 3 years of experience in facilities management (including managing
+outsourced security guards) preferably in a school environment</p>
+</li>
+<li>
+<p>Experience managing renovation, repair and improvement projects, preferably
+in a school environment</p>
+</li>
+<li>
+<p>Understanding of building systems, maintenance protocols and safety standards</p>
+</li>
+<li>
+<p>Strong communication skills to liaise with stakeholders and vendors</p>
+</li>
+<li>
+<p>Team player and but able to work and lead projects independently</p>
 </li>
 </ul>
 <hr>
