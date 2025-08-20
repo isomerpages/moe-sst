@@ -10,13 +10,60 @@ innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <h4>Join Our Academic Team</h4>
-<p><strong>1) <u>Mathematics Teacher</u></strong>
+<p><strong>1) <u>Art, Design, Media &amp; Technology (ADMT) Teacher</u></strong>
 </p>
-<p><strong>2) <u>English Language Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
 </p>
-<p><strong>3) <u>History/ Social Studies Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver creative and engaging lessons in Art, Design, Media &amp; Technology.</p>
+</li>
+<li>
+<p>Incorporate design thinking, digital tools, and applied learning approaches
+into the classroom.</p>
+</li>
+<li>
+<p>Guide students through the creative process, from ideation to prototyping
+and showcasing their work.</p>
+</li>
+<li>
+<p>Collaborate with colleagues to create interdisciplinary projects that
+connect with other subject areas.</p>
+</li>
+<li>
+<p>Support co-curricular programmes, projects, and events that foster innovation
+and creative confidence.</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
 </p>
-<p><strong>4) <u>Geography Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>A recognised degree in Art, Design, Media, Technology, or related fields.</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Proficiency in relevant design and/or multimedia software.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+<li>
+<p>Teaching qualification and experience in a school setting are preferred,
+but industry professionals with a passion for education are welcome to
+apply.</p>
+</li>
+</ul>
+<p><strong>2) <u>Mathematics Teacher</u></strong>
+</p>
+<p><strong>3) <u>English Language Teacher</u></strong>
+</p>
+<p><strong>4) <u>History/ Social Studies Teacher</u></strong>
+</p>
+<p><strong>5) <u>Geography Teacher</u></strong>
 </p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
