@@ -1433,17 +1433,6 @@ Specialist</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ong Joo Leong Gary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_joo_leong_gary@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Science Lab</strong>
 </p>
