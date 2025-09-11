@@ -5,11 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: Please note that on Teachers' Day, 05 September 2025, the General
-  Office will be operating till 1.00pm. | The General Office will closed for the
-  entire day on Wednesday, 10 September, as all staff will be participating in
-  the school's Corporate Social Responsibility event. We are excited to be
-  giving back to the community. Thank you for your understanding.
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
