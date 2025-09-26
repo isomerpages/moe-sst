@@ -6,6 +6,9 @@ description: ""
 ---
 <h4>SST Alumni Feature</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/upscalemedia_transformed__2_.jpg">
+</div>
 <p><strong>Erica Seah (Alumna, Class of 2024):</strong>
 </p>
 <p></p>
