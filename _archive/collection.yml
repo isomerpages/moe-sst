@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Financial Matters.md
       - faq.md
       - Integrated Diploma Programme.md
