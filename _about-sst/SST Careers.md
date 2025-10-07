@@ -57,9 +57,53 @@ but industry professionals with a passion for education are welcome to
 apply.</p>
 </li>
 </ul>
-<p><strong>2) <u>Mathematics Teacher</u></strong>
+<p><strong>2) <u>English Language Teacher</u></strong>
 </p>
-<p><strong>3) <u>English Language Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver engaging English Language lessons that cater to diverse learning
+needs and abilities.</p>
+</li>
+<li>
+<p>Develop students’ proficiency in language, literacy, and critical thinking
+through innovative and applied learning approaches.</p>
+</li>
+<li>
+<p>Assess and monitor students’ progress, providing constructive feedback
+and targeted support.</p>
+</li>
+<li>
+<p>Collaborate with colleagues on curriculum planning, assessment design,
+and professional development.</p>
+</li>
+<li>
+<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
+classroom culture (if needed).</p>
+</li>
+<li>
+<p>Contribute to the holistic education of students by supporting co-curricular
+activities and school events (if needed).</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BA (English and Education) Postgraduate Diploma in Education (PGDE) from
+the National Institute of Education (NIE), Diploma in Education from NIE
+or any other equivalent teaching qualifications.</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+</ul>
+<p><strong>3) <u>Mathematics Teacher</u></strong>
 </p>
 <p><strong>4) <u>History/ Social Studies Teacher</u></strong>
 </p>
