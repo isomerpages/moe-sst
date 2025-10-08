@@ -1144,17 +1144,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foo Jong Mun Derrick</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_jong_mun_derrick@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Go Yong Siang Christopher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1476,7 +1465,7 @@ Specialist</p>
 <p>Tay Su Lin Tanny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Technologist</p>
+<p>Senior Science Technologist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_su_lin_tanny@sst.edu.sg</p>
