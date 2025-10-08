@@ -36,8 +36,7 @@ variant: tiptap
 <p>Mohamed Irfan Bin Darian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean, Applied Design
-<br>HOD, ADMT</p>
+<p>Deputy Dean, Applied Design and HOD, ADMT &amp; ChangeMakers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_irfan_darian@sst.edu.sg</p>
@@ -59,7 +58,7 @@ variant: tiptap
 <p>Ng Seen Leng Patricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Creative Specialist</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>patricia_ng@sst.edu.sg</p>
