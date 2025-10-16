@@ -103,11 +103,57 @@ or any other equivalent teaching qualifications.</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>3) <u>Mathematics Teacher</u></strong>
+<p><strong>4) <u>Chinese Language&nbsp;Teacher</u></strong>
 </p>
-<p><strong>4) <u>History/ Social Studies Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
 </p>
-<p><strong>5) <u>Geography Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver engaging Chinese Language lessons that cater to diverse learning
+needs and abilities (G3 Higher Chinese/G3/ G2/ G1 Chinese).</p>
+</li>
+<li>
+<p>Develop students’ proficiency in language, literacy, and critical thinking
+through innovative and applied learning approaches.</p>
+</li>
+<li>
+<p>Assess and monitor students’ progress, providing constructive feedback
+and targeted support.</p>
+</li>
+<li>
+<p>Collaborate with colleagues on curriculum planning, assessment design,
+and professional development.</p>
+</li>
+<li>
+<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
+classroom culture.</p>
+</li>
+<li>
+<p>Contribute to the holistic education of students by supporting co-curricular
+activities and school events.</p>
+</li>
+</ul>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BA (Chinese), Postgraduate Diploma in Education (PGDE) from the National
+Institute of Education (NIE), Diploma in Education from NIE or any other
+equivalent teaching qualifications</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+</ul>
+<p><strong>4) <u>Mathematics Teacher</u></strong>
+</p>
+<p><strong>5) <u>History/ Social Studies Teacher</u></strong>
+</p>
+<p><strong>6) <u>Geography Teacher</u></strong>
 </p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
