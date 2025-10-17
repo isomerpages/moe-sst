@@ -116,7 +116,7 @@ purchase of textbooks and/or school attire prior to the approval of the
 MOE ISB.</p>
 <p>^ GGAS fee comprises school fee, standard miscellaneous fee and maximum
 2nd tier miscellaneous fee payable by Singapore Citizen students studying
-in GGAS. &nbsp;For 2024, the GGAS fee is $25 per month or $300 per year
+in GGAS.&nbsp;For 2025, the GGAS fee is $25 per month or $300 per year
 (in secondary level).</p>
 <p></p>
 <p><strong>UPLIFT Scholarship</strong>
