@@ -52,10 +52,10 @@ check your eligibility.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $3,000</p>
+<p>Not exceeding $4,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $750</p>
+<p>Not exceeding $1,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -66,11 +66,11 @@ check your eligibility.</p>
 <p>Free textbooks and school attire*</p>
 </li>
 <li>
-<p>$17 transport subsidy per month, capped at $204 per annum (for students
+<p>$21 transport subsidy per month, capped at $252 per annum (for students
 taking public transport)</p>
 </li>
 <li>
-<p>School meal subsidies at $3.80 per meal for 10 meals per school week</p>
+<p>School meal subsidies at $4.10 per meal for 10 meals per school week</p>
 </li>
 </ul>
 </td>
