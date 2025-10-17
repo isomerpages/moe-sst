@@ -77,10 +77,10 @@ taking public transport)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3,001 – $4,400</p>
+<p>$4,001 – $5,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$751 – $1,100</p>
+<p>$1,001 – $1,375</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of government and government-aided
@@ -89,10 +89,10 @@ school (GGAS) fee^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$4,401 – $7,500</p>
+<p>$5,501 – $9,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,101 – $1,875</p>
+<p>$1,376 – $2,250</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of 1.5 times GGAS fee^</p>
@@ -100,10 +100,10 @@ school (GGAS) fee^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$7,501 – $10,000</p>
+<p>$9,001 – $12,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,876 – $2,500</p>
+<p>$2,251 – $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>33% of school and miscellaneous fees subsidy</p>
