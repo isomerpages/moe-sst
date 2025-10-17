@@ -135,14 +135,14 @@ lower-income families.</p>
 the Edusave Scholarships for Independent Schools; and</p>
 </li>
 <li>
-<p>From families with gross monthly household income (GHI) ≤ $4,400, or monthly
-per capita income (PCI) ≤ $1,100 (PCI = GHI divided by the number of household
+<p>From families with gross monthly household income (GHI) ≤ $5,500, or monthly
+per capita income (PCI) ≤ $1,375 (PCI = GHI divided by the number of household
 members).</p>
 </li>
 </ol>
 <p>No application is required. Your child will automatically be awarded if
-they are receiving ISB pertaining to those whose GHI ≤ $4,400 or (PCI)
-≤ $1,100</p>
+they are receiving ISB pertaining to those whose GHI ≤ $5,500 or (PCI)
+≤ $1,375</p>
 <p>Students who require additional financial assistance may approach the
 school. You may call the General Office (Tel: 6571 7200) for enquiry or
 clarification.</p>
