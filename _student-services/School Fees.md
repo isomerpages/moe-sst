@@ -28,14 +28,21 @@ variant: tiptap
 <p><strong>Misc. Fees</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Total</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,11 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025</strong>
+<p><strong>2026</strong>
 </p>
 </td>
 </tr>
@@ -76,19 +79,19 @@ variant: tiptap
 <p>Permanent Resident</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$900</p>
+<p>$950</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$950</p>
+<p>$1,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$930</p>
+<p>$980</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$980</p>
+<p>$1,030</p>
 </td>
 </tr>
 <tr>
@@ -97,19 +100,19 @@ variant: tiptap
 <br>(ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,750</p>
+<p>$1,800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,800</p>
+<p>$1,850</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,780</p>
+<p>$1,830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,830</p>
+<p>$1,880</p>
 </td>
 </tr>
 <tr>
@@ -118,19 +121,19 @@ variant: tiptap
 <br>(Non-ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,400</p>
+<p>$2,450</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,450</p>
+<p>$2,500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,430</p>
+<p>$2,480</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2,480</p>
+<p>$2,530</p>
 </td>
 </tr>
 </tbody>

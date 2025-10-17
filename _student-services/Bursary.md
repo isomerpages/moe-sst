@@ -52,10 +52,10 @@ check your eligibility.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $3,000</p>
+<p>Not exceeding $4,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $750</p>
+<p>Not exceeding $1,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -66,21 +66,21 @@ check your eligibility.</p>
 <p>Free textbooks and school attire*</p>
 </li>
 <li>
-<p>$17 transport subsidy per month, capped at $204 per annum (for students
+<p>$21 transport subsidy per month, capped at $252 per annum (for students
 taking public transport)</p>
 </li>
 <li>
-<p>School meal subsidies at $3.80 per meal for 10 meals per school week</p>
+<p>School meal subsidies at $4.10 per meal for 10 meals per school week</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3,001 – $4,400</p>
+<p>$4,001 – $5,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$751 – $1,100</p>
+<p>$1,001 – $1,375</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of government and government-aided
@@ -89,10 +89,10 @@ school (GGAS) fee^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$4,401 – $7,500</p>
+<p>$5,501 – $9,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,101 – $1,875</p>
+<p>$1,376 – $2,250</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of 1.5 times GGAS fee^</p>
@@ -100,10 +100,10 @@ school (GGAS) fee^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$7,501 – $10,000</p>
+<p>$9,001 – $12,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,876 – $2,500</p>
+<p>$2,251 – $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>33% of school and miscellaneous fees subsidy</p>
@@ -135,14 +135,14 @@ lower-income families.</p>
 the Edusave Scholarships for Independent Schools; and</p>
 </li>
 <li>
-<p>From families with gross monthly household income (GHI) ≤ $4,400, or monthly
-per capita income (PCI) ≤ $1,100 (PCI = GHI divided by the number of household
+<p>From families with gross monthly household income (GHI) ≤ $5,500, or monthly
+per capita income (PCI) ≤ $1,375 (PCI = GHI divided by the number of household
 members).</p>
 </li>
 </ol>
 <p>No application is required. Your child will automatically be awarded if
-they are receiving ISB pertaining to those whose GHI ≤ $4,400 or (PCI)
-≤ $1,100</p>
+they are receiving ISB pertaining to those whose GHI ≤ $5,500 or (PCI)
+≤ $1,375</p>
 <p>Students who require additional financial assistance may approach the
 school. You may call the General Office (Tel: 6571 7200) for enquiry or
 clarification.</p>
