@@ -8,18 +8,24 @@ description: ""
 <p>Students (Singapore Citizens) who successfully gain admission into SST
 may apply for the MOE Independent School Bursary (ISB).</p>
 <h5><strong>How to Apply?</strong></h5>
-<p>The school will inform parents&nbsp;and guardians via the Parents Gateway
-once the 2026 Independent School Bursary (ISB) is open for application.</p>
-<p>Students who wish to apply for the 2025 bursary can obtain the application
-form from SST General Office or download and print a copy of the <a href="/files/MOE_ISB_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE ISB Application Form</a> .</p>
-<p>Students may also apply for the MOE ISB at any time throughout the academic
-year should the need arise. The bursary will take effect in the month the
-application is approved. There will be&nbsp;<strong>NO</strong>&nbsp;backdating
-of the effective month.</p>
+<p>2026 Independent School Bursary (ISB) is open for application. Students
+who wish to apply are strongly encouraged to do so via the online link
+-&nbsp;<a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">MOE ISB Application Form 2026</a>&nbsp;where
+most households no longer need to submit supporting&nbsp;documents, such
+as income documents, thus making the application process more convenient.
+<br>
+<br>Households with other administrative income (OAI) such as&nbsp;rental
+income, dividends and interest income may obtain the hardcopy application
+form from the General Office.</p>
 <p>All completed application forms, together with the necessary documents
 should be submitted to the General Office. Application forms can also be
 submitted via mail to:&nbsp;<strong>Student Affairs and Services Department</strong>,&nbsp;School
 of Science and Technology, Singapore, 1 Technology Drive, Singapore 138572.</p>
+<p>Students may also apply for the MOE ISB at any time throughout the academic
+year should the need arise. The bursary will take effect in the month the
+application is approved. There will be&nbsp;<strong>NO</strong>&nbsp;backdating
+of the effective month.</p>
+<p></p>
 <p><strong>Tenure of Bursary</strong>
 </p>
 <p>All ISB cases approved will be valid until December of the year. &nbsp;Fresh
