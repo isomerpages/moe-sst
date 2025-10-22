@@ -103,7 +103,7 @@ or any other equivalent teaching qualifications.</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>4) <u>Chinese Language&nbsp;Teacher</u></strong>
+<p><strong>3) <u>Chinese Language&nbsp;Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -133,7 +133,7 @@ classroom culture.</p>
 activities and school events.</p>
 </li>
 </ul>
-<p><strong>Duties and Responsibilities</strong>
+<p><strong>Job Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -149,11 +149,74 @@ equivalent teaching qualifications</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>4) <u>Mathematics Teacher</u></strong>
+<p><strong>4) <u>Computing and Cybersecurity Teacher</u></strong>
 </p>
-<p><strong>5) <u>History/ Social Studies Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
 </p>
-<p><strong>6) <u>Geography Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teach core and applied computing modules, with a strong focus on cybersecurity
+and Python programming.</p>
+</li>
+<li>
+<p>Design learner-centred lessons that build skills in secure coding, threat
+analysis, and ethical hacking.</p>
+</li>
+<li>
+<p>Guide students through real-world projects aligned with the UN Sustainable
+Development Goals.</p>
+</li>
+<li>
+<p>Lead and mentor student talent through CCAs such as coding clubs, cybersecurity
+competitions, and SST Inc. Girls-In-Tech.</p>
+</li>
+<li>
+<p>Lead female students in overseas education partnerships and programme.</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul>
+<li>
+<p>A recognised Bachelor’s degree in Computer Science, Information Technology,
+Cybersecurity, or a related field.</p>
+</li>
+<li>
+<p>Proficiency in cybersecurity concepts (secure systems, threat mitigation,
+ethical hacking) and Python programming.</p>
+</li>
+<li>
+<p>Strong classroom facilitation skills and a commitment to applied, inquiry-based
+learning.</p>
+</li>
+<li>
+<p>Openness to overseas travel for collaborative student programmes.</p>
+</li>
+</ul>
+<p><strong>Preferred Qualifications</strong>
+</p>
+<ul>
+<li>
+<p>Industry certifications such as CompTIA Security+, CEH, or CISSP.</p>
+</li>
+<li>
+<p>Experience in curriculum design, student mentorship, or managing CCA programmes
+in cybersecurity or computing.</p>
+</li>
+<li>
+<p>Familiarity with EdTech platforms, cloud tools, and innovative teaching
+pedagogies.</p>
+</li>
+</ul>
+<p>We strongly encourage all candidates who are passionate advocates for
+inclusive technology education and supporting girls-in-STEM initiatives
+to apply.</p>
+<p></p>
+<p><strong>5) <u>Mathematics Teacher</u></strong>
+</p>
+<p><strong>6) <u>History/ Social Studies Teacher</u></strong>
+</p>
+<p><strong>7) <u>Geography Teacher</u></strong>
 </p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
