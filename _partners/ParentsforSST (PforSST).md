@@ -11,7 +11,7 @@ variant: tiptap
 <p>PforSST is SST’s Parents Support Group dedicated to working closely with
 the school to support our passionate innovators. All parents of SST students
 are de facto members of PforSST.&nbsp; Parents who wish to join the Secondary
-1 level chat groups can connect with PforSST via this link :&nbsp;<a href="https://forms.gle/vn2oJorQSi8yJMtt9" rel="noopener noreferrer nofollow" target="_blank">PforSST S1 Registration 2025</a>
+1 level chat groups can connect with PforSST via this link :&nbsp;<a href="https://forms.gle/LGiHL4juvjoNdCrY7" rel="noopener noreferrer nofollow" target="_blank">PforSST S1 Registration 2026</a>
 </p>
 <p>Registering will enable you to receive updates on any upcoming activities/events
 organised by PforSST. PforSST will also add registered parents to parents
