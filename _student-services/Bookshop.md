@@ -20,7 +20,7 @@ to this number will not be answered.)</p>
 <p>7.30 a.m. to 2.30 p.m. (Mondays to Fridays, during School Term)</p>
 <h5>Secondary 1 - 4 Booklists</h5>
 <p>Please refer to the instructions on the booklist</p>
-<p><a href="/files/School_of_Science___Technology_2026___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 1 Booklist 2026]</a>
+<p><a href="/files/School_of_Science___Technology_2026___Sec_1_blue.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 1 Booklist 2026]</a>
 </p>
 <p><a href="/files/School_of_Science___Technology_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">[Secondary 2 Booklist 2026]</a>
 </p>
