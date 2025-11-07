@@ -211,12 +211,13 @@ pedagogies.</p>
 <p>We strongly encourage all candidates who are passionate advocates for
 inclusive technology education and supporting girls-in-STEM initiatives
 to apply.</p>
-<p></p>
-<p><strong>5) <u>Mathematics Teacher</u></strong>
+<p><strong>5) <u>Science (Biology/ Chemistry) FAJT</u></strong>
 </p>
-<p><strong>6) <u>History/ Social Studies Teacher</u></strong>
+<p><strong>6) <u>Mathematics Teacher</u></strong>
 </p>
-<p><strong>7) <u>Geography Teacher</u></strong>
+<p><strong>7) <u>History/ Social Studies Teacher</u></strong>
+</p>
+<p><strong>8) <u>Geography Teacher</u></strong>
 </p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
