@@ -5,7 +5,10 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Please note that the General office will be operating from 8.00am
+  - 12.00nn on 14 November 2025.     During the year-end school holidays (17
+  November – 30 December 2025), the General Office operates from 8.00 a.m. to
+  3.30 p.m. on Mondays to Thursdays, and from 8.00 a.m. to 3.00 p.m. on Fridays.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
