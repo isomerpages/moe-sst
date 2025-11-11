@@ -7,7 +7,7 @@ image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
 notification: Please note that on 14 November 2025, the General Office will be
   operating from 8.00am - 12.00nn, and the school will be closed at 5.00pm. |
-  During the year-end school holidays (17 November – 29 December 2025), the
+  During the year-end school holidays (17 November – 23 December 2025), the
   General Office operates from 8.00 a.m. to 3.30 p.m. on Mondays to Thursdays,
   and from 8.00 a.m. to 3.00 p.m. on Fridays.
 sections:
