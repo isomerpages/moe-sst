@@ -292,7 +292,7 @@ a team environment</p>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
-<p>Estate &amp; Facility Operations:</p>
+<p>a) <u>Estate &amp; Facility Operations</u>:</p>
 <ul>
 <li>
 <p>Oversee the upkeep of school buildings as assigned by the Operations Manager</p>
@@ -316,7 +316,7 @@ regulations and MOE Guidelines</p>
 <p>Ensure school is ready for the start of school day</p>
 </li>
 </ul>
-<p>&nbsp;School Operations:</p>
+<p>b)&nbsp;<u>School Operations</u>:</p>
 <ul>
 <li>
 <p>Oversee and ensure school opens on time</p>
@@ -346,7 +346,7 @@ regulations and MOE Guidelines</p>
 <p>Manage METRO season parking system and issuance of staff parking car decal</p>
 </li>
 </ul>
-<p>&nbsp;Project Management:</p>
+<p>c)&nbsp;<u>Project Management</u>:</p>
 <ul>
 <li>
 <p>Plan, coordinate and oversee projects assigned by the Operations Manager</p>
@@ -363,7 +363,7 @@ for Invitations to Quote (ITQ) and Invitations to Tender (ITT)</p>
 before payment processing</p>
 </li>
 </ul>
-<p>&nbsp;Event &amp; Logistic Management:</p>
+<p>&nbsp;d) <u>Event &amp; Logistic Management</u>:</p>
 <ul>
 <li>
 <p>Plan and support logistics (Venue setup/ moving of tables and chairs/
@@ -400,6 +400,149 @@ in a school environment</p>
 </li>
 <li>
 <p>Team player and but able to work and lead projects independently</p>
+</li>
+</ul>
+<p><strong>3) <u>Student Affairs and Services Executive</u></strong>
+</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<p>The Student Affairs and Services Executive support the Department in the
+following:</p>
+<p>a) <u>Scholarships, Bursaries and Financial Assistance</u>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Administrative support of Independent School Bursary (ISB), Uplift, Edusave
+and other scholarship applications</p>
+</li>
+<li>
+<p>Smart buddy meals subsidy system administrator</p>
+</li>
+<li>
+<p>Supports school programme payment and collection process</p>
+</li>
+</ul>
+<p>b) <u>Student Services</u>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Endorsement of student insurance</p>
+</li>
+<li>
+<p>Assist in the distribution of School Graduation Certificate and other
+relevant materials when required</p>
+</li>
+<li>
+<p>Processing of various student services request forms</p>
+</li>
+<li>
+<p>Supports Direct School Admission (DSA) Exercise</p>
+</li>
+<li>
+<p>Administrative support for students’ overseas trip</p>
+</li>
+<li>
+<p>Management of CCA coaches’ information</p>
+</li>
+<li>
+<p>Attends to student requiring first aid assistance</p>
+</li>
+</ul>
+<p>c) <u>External Services</u>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Supports management of uniform and bookstore vendors</p>
+</li>
+<li>
+<p>Administrative support for students’ purchase of laptop</p>
+</li>
+<li>
+<p>Liaison contact and support for Health and Dental Screening, NRIC Registration
+and other relevant services</p>
+</li>
+</ul>
+<p>d) Any other duties as assigned and required by the school.</p>
+<p>e) Candidate may experience job rotation when the opportunity arises.</p>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Minimum Diploma in any discipline</p>
+</li>
+<li>
+<p>Minimum of 2 years’ experience in general administration</p>
+</li>
+<li>
+<p>A team player with good interpersonal, organisation and communication
+skills</p>
+</li>
+<li>
+<p>Ability to work well in a dynamic environment</p>
+</li>
+<li>
+<p>Meticulous and attentive to details</p>
+</li>
+<li>
+<p>First-aid certified (if not, training will be provided)</p>
+</li>
+</ul>
+<p><strong>4) <u>Temporary Communications &amp;amp; Engagement Assistant (January - May 2026 period)</u></strong>
+</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<p>The Communications &amp;amp; Engagement (CED) Assistant supports the Manager
+and Executive in administration-centred activities such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Providing marketing and corporate communications support to the school
+through assisting in the production of collaterals (e.g. branding materials,
+corporate videos, etc.). Depending on the project, this may require the
+job holder to produce written, graphic and/or multimedia contents</p>
+</li>
+<li>
+<p>Requesting for contents from event owners and creating social media posts.
+Uploading the finalised posts after the vetting process.</p>
+</li>
+<li>
+<p>Assisting with the creation of the termly newsletter</p>
+</li>
+<li>
+<p>Promoting positive relations with stakeholders and partners by supporting
+school events, outreach activities and visits (group photo-taking at the
+green wall, set-up Heritage Hub and/or Visitor Centre, if required)</p>
+</li>
+<li>
+<p>Assisting with the planning and conduct of the photography sessions (liaising
+with the photographer and staff)</p>
+</li>
+<li>
+<p>Assisting with group or event photo-taking requests by event owners</p>
+</li>
+<li>
+<p>Fulfilling corporate gifts requests by staff and updating the corporate
+gifts inventory</p>
+</li>
+<li>
+<p>Supporting any other CED related tasks</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SST alumni / GCE ‘A’ Levels / Diploma</p>
+</li>
+<li>
+<p>Confident, and with a pleasant personality</p>
+</li>
+<li>
+<p>Ability to work as a team player</p>
+</li>
+<li>
+<p>Some knowledge of graphic / multimedia design software (Canva, Illustrator,
+Photoshop, video editing software (e.g. CapCut), etc.) and web publishing
+platforms</p>
+</li>
+<li>
+<p>Good communications skills (written and spoken English)</p>
 </li>
 </ul>
 <hr>
