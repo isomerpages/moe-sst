@@ -40,7 +40,8 @@ variant: tiptap
 <ul>
 <li>
 <p>Students who meet the MOE Eligibility criteria to oﬀer HMTL in secondary
-school are informed of their eligibility for HMTL via email from SST. <strong><u>Please conﬁrm the HMTL oﬀer within 2 days after S1 Registration Day via this Form </u></strong><u>(Link will be provided on S1 Registration Day)</u>.</p>
+school are informed of their eligibility for HMTL via email from SST on
+the day of S1 Registration Day. <strong><u>Please conﬁrm the HMTL oﬀer within 2 days after S1 Registration Day via this Form </u></strong><u>(Link will be provided on S1 Registration Day)</u>.</p>
 </li>
 <li>
 <p>Appeal for HMTL: Students who do not meet the MOE HMTL eligibility criteria
