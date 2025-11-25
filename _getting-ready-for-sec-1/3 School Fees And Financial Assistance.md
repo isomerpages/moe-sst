@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>3. School Fees And Financial Assistance</h3>
-<p>Please refer to the<a href="https://www.sst.edu.sg/student-services/school-fees/" rel="noopener noreferrer nofollow" target="_blank"><u> SST website</u></a> for
+<p>Please refer to the <a href="https://www.sst.edu.sg/student-services/school-fees/" rel="noopener noreferrer nofollow" target="_blank"><u>SST website</u></a> for
 the details on the school fees rate and payment of school fees. Parents/guardians
 of students must take part in the Interbank GIRO scheme for monthly auto-deduction
 of school fees. &nbsp; The application form for Interbank GIRO should be
