@@ -8,7 +8,7 @@ variant: tiptap
 <p>Please refer to the <a href="https://www.sst.edu.sg/student-services/school-fees/" rel="noopener noreferrer nofollow" target="_blank"><u>SST website</u></a> for
 the details on the school fees rate and payment of school fees. Parents/guardians
 of students must take part in the Interbank GIRO scheme for monthly auto-deduction
-of school fees. &nbsp; <strong>The application form for Interbank GIRO should be submitted to the SST General Office by 11 December 2025.</strong>
+of school fees. &nbsp; <strong>The application form for Interbank GIRO should be submitted to the SST General Office by 12 December 2025.</strong>
 </p>
 <ul>
 <li>
