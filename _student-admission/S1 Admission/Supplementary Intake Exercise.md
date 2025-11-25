@@ -6,7 +6,7 @@ third_nav_title: S1 Admission
 variant: tiptap
 ---
 <h3>THE SST SUPPLEMENTARY INTAKE EXERCISE (SIE)</h3>
-<h4><strong>SST will not conduct SIE for the 2025 S1 cohort as there is no vacancy. </strong></h4>
+<h4><strong>SST will not conduct SIE for the 2026 S1 cohort as there is no vacancy.</strong></h4>
 <p></p>
 <p>The Supplementary Intake Exercise is an admission exercise for primary
 six students who wish to seek admission to SST (Secondary 1 Intake for
