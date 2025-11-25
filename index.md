@@ -18,6 +18,8 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
+      button: Getting Ready for S1
+      url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
       title: 15 Anniversary Celebrations
       id: infopic
