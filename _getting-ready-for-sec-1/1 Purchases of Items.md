@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250103_SST_195.jpg">
 </div>
 <h3>Preparation for 2025 SST Secondary 1</h3>
-<p>The school year begins on <strong>2 January 2025 (Thursday).</strong> Students
+<p>The school year begins on <strong>2 January 2026 (Friday).</strong> Students
 must report to school (Indoor Sports Hall, Block D) in SST Sports and&nbsp;Wellness
 attire or primary school PE attire (if SST attire has not been purchased)
 by <strong>7.40 am.</strong>
@@ -23,7 +23,7 @@ up to the Badge Ceremony that require your action.</p>
 </li>
 <li>
 <p>School-related purchases, which should be completed before the end of
-2024</p>
+2025</p>
 </li>
 <li>
 <p>Engagement programmes for students and parents</p>
