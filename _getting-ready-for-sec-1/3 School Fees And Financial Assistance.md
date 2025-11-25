@@ -33,7 +33,7 @@ the eligibility criteria and entitlement under the scheme.</p>
 <p>You may refer to the <a href="https://www.sst.edu.sg/student-services/bursary/" rel="noopener noreferrer nofollow" target="_blank"><u>SST website</u></a> or
 call the General Office on Tel: 6571 7200 for enquiry or clarification.
 All completed forms and the necessary documents should be submitted to
-the SST General Office (hardcopy required) by 6 January 2025 for the bursary
-to be effective from January 2025 onwards.&nbsp; Application forms can
+the SST General Office (hardcopy required) by 6 January 2026 for the bursary
+to be effective from January 2026 onwards.&nbsp; Application forms can
 be submitted via mail to Student Affairs and Services Department, 1 Technology
 Drive, Singapore 138572.</p>
