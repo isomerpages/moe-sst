@@ -80,7 +80,7 @@ suppliers established by MOE.</p>
 <p>Magsafe 3 charging port</p>
 </li>
 <li>
-<p>Two thunderbolt/ USB 4 ports</p>
+<p>Two thunderbolt 4 ports</p>
 </li>
 <li>
 <p>Backlit Magic Keyboard with Touch ID - US English</p>
