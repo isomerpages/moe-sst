@@ -98,6 +98,6 @@ PLD.&nbsp; Students who are under the MOE Independent School Bursary (ISB)
 and with Gross Household Income (GHI) = $4,400 or less, or Per Capita Income
 (PCI) = $1,100 or less, will be eligible for funding support.&nbsp; SST
 will advise all students regarding the purchase of their PLD via Parents
-Gateway (PG) in December 2024.</p>
+Gateway (PG) in December 2025.</p>
 <p><strong>SST will advise all parents/ guardians regarding the purchase of the PLD in December 20246</strong>
 </p>
