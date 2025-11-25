@@ -20,8 +20,8 @@ skills and attitudes for a meaningful and fulfilling journey in SST.</p>
 <p>The Orientation Camp will be held on the school campus from 5 to 6 January
 2026. It would be a 2-day event with no overnight component. More details
 will be provided closer to the date.</p>
-<p><strong>(1 &amp; 7 Jan 2026)</strong>
+<p><strong>(2 &amp; 7 Jan 2026)</strong>
 </p>
-<p>On 6 &amp; 7 January 2026, there will be talks and sessions with Form
+<p>On 2 &amp; 7 January 2026, there will be talks and sessions with Form
 Teachers to equip students with essential skills and knowledge for their
 transition.</p>
