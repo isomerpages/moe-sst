@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250103_SST_195.jpg">
 </div>
-<h3>Preparation for 2025 SST Secondary 1</h3>
+<h3>Preparation for 2026 SST Secondary 1</h3>
 <p>The school year begins on <strong>2 January 2026 (Friday).</strong> Students
 must report to school (Indoor Sports Hall, Block D) in SST Sports and&nbsp;Wellness
 attire or primary school PE attire (if SST attire has not been purchased)
@@ -40,7 +40,7 @@ vendors.</p>
 </p>
 </li>
 <li>
-<p>Instructions for purchase of S1 textbooks &amp; stationery <a href="https://www.sst.edu.sg/files/School_of_Science___Technology_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
+<p>Instructions for purchase of S1 textbooks &amp; stationery <a href="https://www.sst.edu.sg/files/School_of_Science___Technology_2026___Sec_1_blue.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
 </p>
 </li>
 </ul>
@@ -99,5 +99,5 @@ and with Gross Household Income (GHI) = $4,400 or less, or Per Capita Income
 (PCI) = $1,100 or less, will be eligible for funding support.&nbsp; SST
 will advise all students regarding the purchase of their PLD via Parents
 Gateway (PG) in December 2024.</p>
-<p><strong>SST will advise all parents/ guardians regarding the purchase of the PLD in December 2024.</strong>
+<p><strong>SST will advise all parents/ guardians regarding the purchase of the PLD in December 20246</strong>
 </p>
