@@ -86,10 +86,7 @@ suppliers established by MOE.</p>
 <p>Backlit Magic Keyboard with Touch ID - US English</p>
 </li>
 <li>
-<p>Apple 4-Year AppleCare+ for Schools 13-inch</p>
-</li>
-<li>
-<p>Optional: Insurance Coverage for Macbook Air 13-Inch for 4 year</p>
+<p>Accessory Kit</p>
 </li>
 </ul>
 <p>Students who are Singapore citizens can use their Edusave to pay for the
