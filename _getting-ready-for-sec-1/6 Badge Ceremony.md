@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>6. Badge Ceremony</h3>
-<p>The Badge Ceremony for our Secondary 1 students will be held on <strong>17 January 2025 (Friday).</strong>
+<p>The Badge Ceremony for our Secondary 1 students will be held on <strong>16 January 2026 (Friday).</strong>
 </p>
 <p>This significant event marks the formal induction of our new students
 into the SST community. During the ceremony, students will receive their
