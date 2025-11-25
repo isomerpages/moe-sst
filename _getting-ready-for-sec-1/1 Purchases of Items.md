@@ -7,8 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250103_SST_195.jpg">
 </div>
-<h3>Preparation for 2025 SST Secondary 1</h3>
-<p>The school year begins on <strong>2 January 2025 (Thursday).</strong> Students
+<h3>Preparation for 2026 SST Secondary 1</h3>
+<p>The school year begins on <strong>2 January 2026 (Friday).</strong> Students
 must report to school (Indoor Sports Hall, Block D) in SST Sports and&nbsp;Wellness
 attire or primary school PE attire (if SST attire has not been purchased)
 by <strong>7.40 am.</strong>
@@ -23,7 +23,7 @@ up to the Badge Ceremony that require your action.</p>
 </li>
 <li>
 <p>School-related purchases, which should be completed before the end of
-2024</p>
+2025</p>
 </li>
 <li>
 <p>Engagement programmes for students and parents</p>
@@ -40,7 +40,7 @@ vendors.</p>
 </p>
 </li>
 <li>
-<p>Instructions for purchase of S1 textbooks &amp; stationery <a href="https://www.sst.edu.sg/files/School_of_Science___Technology_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
+<p>Instructions for purchase of S1 textbooks &amp; stationery <a href="https://www.sst.edu.sg/files/School_of_Science___Technology_2026___Sec_1_blue.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(LINK)</u></a>
 </p>
 </li>
 </ul>
@@ -59,8 +59,7 @@ suppliers established by MOE.</p>
 </p>
 <ul>
 <li>
-<p>13-inch Macbook Air with Apple M3 Chip with 8 Core CPU, 8 Core GPU, 16
-Core Neural Engine&nbsp;</p>
+<p>Apple M4 Chip with 10 Core CPU, 8 Core GPU, 16 Core Neural Engine&nbsp;</p>
 </li>
 <li>
 <p>16 GB Unified Memory</p>
@@ -69,35 +68,29 @@ Core Neural Engine&nbsp;</p>
 <p>256GB SSD Storage</p>
 </li>
 <li>
-<p>35W DUAL USB-C PORT COMPACT POWER ADAPTER&nbsp;</p>
+<p>35W Dual USB-C Port Power Adapter&nbsp;</p>
 </li>
 <li>
 <p>13.6-inch Liquid Retina Display with True Tone</p>
 </li>
 <li>
-<p>1080 Facetime HD Camera</p>
+<p>12MP Center Stage Camera</p>
 </li>
 <li>
 <p>Magsafe 3 charging port</p>
 </li>
 <li>
-<p>Two thunderbolt/ USB 4 ports</p>
+<p>Two thunderbolt 4 ports</p>
 </li>
 <li>
 <p>Backlit Magic Keyboard with Touch ID - US English</p>
 </li>
 <li>
-<p>Apple 4-Year AppleCare+ for Schools 13-inch</p>
-</li>
-<li>
-<p>Optional: Insurance Coverage for Macbook Air 13-Inch for 4 year</p>
+<p>Accessory Kit</p>
 </li>
 </ul>
 <p>Students who are Singapore citizens can use their Edusave to pay for the
 PLD.&nbsp; Students who are under the MOE Independent School Bursary (ISB)
 and with Gross Household Income (GHI) = $4,400 or less, or Per Capita Income
-(PCI) = $1,100 or less, will be eligible for funding support.&nbsp; SST
-will advise all students regarding the purchase of their PLD via Parents
-Gateway (PG) in December 2024.</p>
-<p><strong>SST will advise all parents/ guardians regarding the purchase of the PLD in December 2024.</strong>
+(PCI) = $1,100 or less, will be eligible for funding support.&nbsp; <strong>SST will advise all students regarding the purchase of their PLD via Parents Gateway (PG) in December 2025.</strong>
 </p>
