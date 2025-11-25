@@ -59,8 +59,7 @@ suppliers established by MOE.</p>
 </p>
 <ul>
 <li>
-<p>13-inch Macbook Air with Apple M3 Chip with 8 Core CPU, 8 Core GPU, 16
-Core Neural Engine&nbsp;</p>
+<p>Apple M4 Chip with 10 Core CPU, 8 Core GPU, 16 Core Neural Engine&nbsp;</p>
 </li>
 <li>
 <p>16 GB Unified Memory</p>
@@ -69,13 +68,13 @@ Core Neural Engine&nbsp;</p>
 <p>256GB SSD Storage</p>
 </li>
 <li>
-<p>35W DUAL USB-C PORT COMPACT POWER ADAPTER&nbsp;</p>
+<p>35W Dual USB-C Port Power Adapter&nbsp;</p>
 </li>
 <li>
 <p>13.6-inch Liquid Retina Display with True Tone</p>
 </li>
 <li>
-<p>1080 Facetime HD Camera</p>
+<p>12MP Center Stage Camera</p>
 </li>
 <li>
 <p>Magsafe 3 charging port</p>
