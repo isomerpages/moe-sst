@@ -14,9 +14,7 @@ who wish to apply are strongly encouraged to do so via the online link
 most households no longer need to submit supporting&nbsp;documents, such
 as income documents, thus making the application process more convenient.
 <br>
-<br>Households with other administrative income (OAI) such as&nbsp;rental
-income, dividends and taxable investment income may obtain the hardcopy
-application form from the General Office.</p>
+</p>
 <p>All completed application forms, together with the necessary documents
 should be submitted to the General Office. Application forms can also be
 submitted via mail to:&nbsp;<strong>Student Affairs and Services Department</strong>,&nbsp;School
