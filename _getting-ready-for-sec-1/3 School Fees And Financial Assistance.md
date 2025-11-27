@@ -8,7 +8,7 @@ variant: tiptap
 <p>Please refer to the <a href="https://www.sst.edu.sg/student-services/school-fees/" rel="noopener noreferrer nofollow" target="_blank"><u>SST website</u></a> for
 the details on the school fees rate and payment of school fees. Parents/guardians
 of students must take part in the Interbank GIRO scheme for monthly auto-deduction
-of school fees. &nbsp; <strong>The application form for Interbank GIRO should be submitted to the SST General Office by 12 December 2025.</strong>
+of school fees. &nbsp;<strong>Only original signed hardcopy application forms should be submitted in person or by mail to the SST General Office by 12 December 2025.</strong>
 </p>
 <ul>
 <li>
@@ -30,9 +30,7 @@ the eligibility criteria and entitlement under the scheme.</p>
 </p>
 </li>
 </ul>
-<p>You may refer to the <a href="https://www.sst.edu.sg/student-services/bursary/" rel="noopener noreferrer nofollow" target="_blank"><u>SST website</u></a> or
-call the General Office on Tel: 6571 7200 for enquiry or clarification.
-All completed forms and the necessary documents should be submitted to
-the SST General Office (hardcopy required) <strong>by 5 January 2026 for the bursary to be effective from January 2026 onwards.&nbsp; </strong>Application
-forms can be submitted via mail to Student Affairs and Services Department,
-1 Technology Drive, Singapore 138572.</p>
+<p><strong>Application should be submitted online by 25 December 2025 or soonest possible.</strong>
+</p>
+<p></p>
+<p>You may call the General Office on Tel: 6571 7200 for enquiry or clarification.</p>
