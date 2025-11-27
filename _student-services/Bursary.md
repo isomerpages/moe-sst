@@ -12,13 +12,7 @@ may apply for the MOE Independent School Bursary (ISB).</p>
 who wish to apply are strongly encouraged to do so via the online link
 -&nbsp;<a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">MOE ISB Application Form 2026</a>&nbsp;where
 most households no longer need to submit supporting&nbsp;documents, such
-as income documents, thus making the application process more convenient.
-<br>
-</p>
-<p>All completed application forms, together with the necessary documents
-should be submitted to the General Office. Application forms can also be
-submitted via mail to:&nbsp;<strong>Student Affairs and Services Department</strong>,&nbsp;School
-of Science and Technology, Singapore, 1 Technology Drive, Singapore 138572.</p>
+as income documents, thus making the application process more convenient.</p>
 <p>Students may also apply for the MOE ISB at any time throughout the academic
 year should the need arise. The bursary will take effect in the month the
 application is approved. There will be&nbsp;<strong>NO</strong>&nbsp;backdating
