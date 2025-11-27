@@ -72,9 +72,10 @@ to accept the oﬀer. <em>(The language centre will be either MOELC Bishan or MO
 </p>
 </li>
 <li>
-<p>Please submit this <a href="https://forms.gle/SpQhAqRv9BFP6dKTA" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a> by 31st Dec 2025
-to update the school on your decision to take up a third language. (Register
-with the centres<strong> first</strong> before filling in this form)</p>
+<p>Please submit this form (<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ_WAxTPqQGpTe7AVrdwO56ptiEJD9YJVIRtflcW1DnRasBQ/viewform" rel="noopener nofollow" target="_blank">LINK</a></strong>)
+by 31st Dec 2025 to update the school on your decision to take up a third
+language. (Register with the centres<strong> first</strong> before filling
+in this form)</p>
 </li>
 </ul>
 <p><em>&nbsp;</em>
