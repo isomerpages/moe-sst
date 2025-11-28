@@ -36,13 +36,13 @@ Apple store</p>
 <h4>2.4 Digital Communications</h4>
 <p>We will communicate official school-related matters concerning your child/
 ward via the <strong>Parents Gateway</strong>. Parents who do not have access
-to Parents Gateway may email ssd@sst.edu.sg for information regarding the
-onboarding procedure.</p>
+to Parents Gateway may email sasd@sst.edu.sg for information regarding
+the onboarding procedure.</p>
 <h4>2.5 SST Official Social Media Platforms</h4>
-<p>For regular updates on our students,&nbsp; school events and achievements,
-follow our official social media platforms:<a href="https://www.facebook.com/ssts.1technologydrive/" rel="noopener noreferrer nofollow" target="_blank"> <u>Facebook</u></a>,
-<a href="https://twitter.com/SSTSingapore?lang=en" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://www.instagram.com/sst_edu_sg/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>,
-and<a href="https://www.youtube.com/user/SSTSingapore" rel="noopener noreferrer nofollow" target="_blank"> <u>YouTube</u></a>.</p>
+<p>For regular updates on our students, school events and achievements, follow
+our official social media platforms:<a href="https://www.facebook.com/ssts.1technologydrive/" rel="noopener noreferrer nofollow" target="_blank"> <u>Facebook</u></a>,
+<a href="https://www.instagram.com/sst_edu_sg/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u>
+</a>, and<a href="https://www.youtube.com/user/SSTSingapore" rel="noopener noreferrer nofollow" target="_blank"> <u>YouTube</u></a>.</p>
 <h4>2.6 Acceptable Use Policy (AUP)</h4>
 <p>The AUP is intended to prescribe effective, ethical and lawful use of
 ICT resources by students and ensure a conducive and safe virtual environment
