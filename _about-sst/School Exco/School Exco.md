@@ -17,9 +17,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL - Nick Chan Profile (Blue).svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL___Tan_Boon_Jong_Profile__Blue_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL___Vincent_Tan_Profile__Blue_.svg">
 </div>
