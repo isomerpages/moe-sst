@@ -33,6 +33,7 @@ Formed in 2010, the Guitar Ensemble is a full-fledged Niibori guitar ensemble ma
 *  2025 Singapore Youth Festival (SYF) Certificate of Distinction "Danse Espagnole"
 *  2025 CCA Fair "Masamune"  
 *  2025 Lunar New Year Concert "Masamune"
+
 ##### 2024
 *   2024 Staff Appreciation Week Concert "Airship in the Night Sky" and "Memories Overture"
 *   2024 Singapore Raffles International Music Festival (SRIMF) Gold Award with Honours "Anitra's Dance"
