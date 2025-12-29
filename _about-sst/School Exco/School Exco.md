@@ -15,9 +15,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/01 School Leaders/SL - Nick Chan Profile (Blue).svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL___Nick_Chan_Profile__Blue_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL___Tan_Boon_Jong_Profile__Blue_.jpg">
 </div>
@@ -75,7 +74,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Kwai_Yin_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Kwai_Yin_Profile__Grey_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
