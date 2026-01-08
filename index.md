@@ -16,19 +16,14 @@ sections:
       size: md
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
-      button: Getting Ready for S1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
-  - announcements:
-      title: Announcements
-      id: announcements
   - infopic:
-      title: 15 Anniversary Celebrations
+      title: GCE O-Level Results and SST-NP IDP Graduation Certificates
+      subtitle: Release of 2025
       id: infopic
-      description: Experience the Future of Learning. Explore the memorable moments
-        from our 15th anniversary.
-      button: View Highlights
-      url: /15th-anniversary-celebrations/
-      image: /images/15thAnv_SSTweb_iconpic.jpg
+      button: Click here for details
+      url: https://www.sst.edu.sg/release-of-2025-gce-o-level-examination-results-and-sst-np-idp-graduation-certificates/
+      image: /images/DSC03927_copy.jpg
       alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
@@ -116,6 +111,14 @@ sections:
           linktext: Learn more
           url: https://www.youtube.com/c/schoolofscienceandtechnologysingapore
   - infopic:
+      title: Get official answers on our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/sst
+      image: /images/sst_askgov.png
+      alt: Image alt text
+  - infopic:
       title: Join our Team
       id: infopic
       description: Join our dedicated team, shaping passionate innovators and
@@ -124,12 +127,4 @@ sections:
       url: /sst-careers/
       alt: Image alt text
       image: /images/SST_Career_Cover.jpg
-  - infopic:
-      title: Get official answers on our Q&A Platform
-      subtitle: Have A question?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/sst
-      image: /images/sst_askgov.png
-      alt: Image alt text
 ---
