@@ -18,15 +18,14 @@ sections:
       title: Shaping Passionate Innovators, The SST Way
       button: Getting Ready for S1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
-  - announcements:
-      id: announcements
-      announcement_items:
-        - title: Release of 2025 GCE O-Level Examination Results and SST-NP IDP Graduation
-            Certificates
-          date: 14 January 2026
-          announcement: This announcement is for all 2025 Secondary 4 students.
-          link_text: Click here for details.
-          link_url: https://www.sst.edu.sg/release-of-2025-gce-o-level-examination-results-and-sst-np-idp-graduation-certificates/
+  - infopic:
+      title: GCE O-Level Results and SST-NP IDP Graduation Certificates
+      subtitle: Release of 2025
+      id: infopic
+      button: Click here for details
+      url: https://www.sst.edu.sg/release-of-2025-gce-o-level-examination-results-and-sst-np-idp-graduation-certificates/
+      image: /images/DSC03927_copy.jpg
+      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
@@ -113,6 +112,14 @@ sections:
           linktext: Learn more
           url: https://www.youtube.com/c/schoolofscienceandtechnologysingapore
   - infopic:
+      title: Get official answers on our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/sst
+      image: /images/sst_askgov.png
+      alt: Image alt text
+  - infopic:
       title: Join our Team
       id: infopic
       description: Join our dedicated team, shaping passionate innovators and
@@ -121,12 +128,4 @@ sections:
       url: /sst-careers/
       alt: Image alt text
       image: /images/SST_Career_Cover.jpg
-  - infopic:
-      title: Get official answers on our Q&A Platform
-      subtitle: Have A question?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/sst
-      image: /images/sst_askgov.png
-      alt: Image alt text
 ---
