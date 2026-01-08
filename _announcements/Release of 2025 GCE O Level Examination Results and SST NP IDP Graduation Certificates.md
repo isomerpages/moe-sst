@@ -102,10 +102,10 @@ you proceed to the Parents’ Section at the Multi-Purpose Hall and take
 a seat from 1:45 p.m. onwards. Please note that due to space constraints,
 we can only accommodate up to 2 parents per student.&nbsp;</p>
 <p>If you are driving, we appreciate your cooperation in parking at the following
-HDB carparks and entering the school via Gate B (near the zebra crossing)
-or Gate C (near the bus stop). As school will be in session on that day,
-we seek your understanding that parking within the school compound is not
-permitted.</p>
+HDB carparks and entering the school via Gate B (near the zebra crossing),
+Gate C (near the bus stop) or Gate D (near ISH). As school will be in session
+on that day, we seek your understanding that parking within the school
+compound is not permitted.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_110334.png">
