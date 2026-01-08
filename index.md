@@ -19,17 +19,14 @@ sections:
       button: Getting Ready for S1
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - announcements:
-      title: Announcements
       id: announcements
-  - infopic:
-      title: 15 Anniversary Celebrations
-      id: infopic
-      description: Experience the Future of Learning. Explore the memorable moments
-        from our 15th anniversary.
-      button: View Highlights
-      url: /15th-anniversary-celebrations/
-      image: /images/15thAnv_SSTweb_iconpic.jpg
-      alt: Image alt text
+      announcement_items:
+        - title: Release of 2025 GCE O-Level Examination Results and SST-NP IDP Graduation
+            Certificates
+          date: 14 January 2026
+          announcement: This announcement is for all 2025 Secondary 4 students.
+          link_text: Click here for details.
+          link_url: https://www.sst.edu.sg/release-of-2025-gce-o-level-examination-results-and-sst-np-idp-graduation-certificates/
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
