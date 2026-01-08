@@ -99,7 +99,7 @@ and details.</p>
 </p>
 <p>If you wish to accompany your child to school, we kindly request that
 you proceed to the Parents’ Section at the Multi-Purpose Hall and take
-a seat from 1:45 p.m. onwards. Please note that due to space constraints,
+a seat from 1:15 p.m. onwards. Please note that due to space constraints,
 we can only accommodate up to 2 parents per student.&nbsp;</p>
 <p>If you are driving, we appreciate your cooperation in parking at the following
 HDB carparks and entering the school via Gate B (near the zebra crossing),
