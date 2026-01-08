@@ -31,14 +31,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1400 to 1425</p>
+<p>1330 to 1355</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by SST - NP IDP (Pioneer Batch)</strong>
 </p>
 <p>For students from classes S4-03 &amp; S4-04&nbsp;</p>
 <p></p>
-<p><em>1425 to 1430: Movement of students from classes S4-03 &amp; S4-04 to the MPH.&nbsp;</em>
+<p><em>1355 to 1400: Movement of students from classes S4-03 &amp; S4-04 to the MPH.&nbsp;</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1400 to 1425</p>
+<p>1330 to 1355</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by Head-of-Year 4 (2025) on ECG and JAE Matters</strong>
@@ -62,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1430 to 1530</p>
+<p>1400 to 1500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of GCE O Level Examination Results and SST-NP IDP Graduation Certificates</strong>
