@@ -67,9 +67,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Release of GCE O Level Examination Results and SST-NP IDP Graduation Certificates</strong>
 </p>
-<p>
-<br>
-</p>
 <p>For all students from classes S4-01 to S4-09.</p>
 </td>
 <td rowspan="1" colspan="1">
