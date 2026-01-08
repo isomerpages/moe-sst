@@ -5,10 +5,9 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "The General Office will operate from 8.00 a.m. to 12.00 noon on
-  31 December 2025. Class of 2025 : Release of 2025 GCE O-Level Examination
-  Results and SST-NP IDP Graduation Certificates will be held on 14 January
-  2026, Wednesday."
+notification: "Class of 2025 : Release of 2025 GCE O-Level Examination Results
+  and SST-NP IDP Graduation Certificates will be held on 14 January 2026,
+  Wednesday."
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
