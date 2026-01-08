@@ -31,14 +31,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1400 to 1425</p>
+<p>1330 to 1355</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by SST - NP IDP (Pioneer Batch)</strong>
 </p>
 <p>For students from classes S4-03 &amp; S4-04&nbsp;</p>
 <p></p>
-<p><em>1425 to 1430: Movement of students from classes S4-03 &amp; S4-04 to the MPH.&nbsp;</em>
+<p><em>1355 to 1400: Movement of students from classes S4-03 &amp; S4-04 to the MPH.&nbsp;</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1400 to 1425</p>
+<p>1330 to 1355</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sharing by Head-of-Year 4 (2025) on ECG and JAE Matters</strong>
@@ -62,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1430 to 1530</p>
+<p>1400 to 1500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of GCE O Level Examination Results and SST-NP IDP Graduation Certificates</strong>
@@ -99,13 +99,13 @@ and details.</p>
 </p>
 <p>If you wish to accompany your child to school, we kindly request that
 you proceed to the Parents’ Section at the Multi-Purpose Hall and take
-a seat from 1:45 p.m. onwards. Please note that due to space constraints,
+a seat from 1:15 p.m. onwards. Please note that due to space constraints,
 we can only accommodate up to 2 parents per student.&nbsp;</p>
 <p>If you are driving, we appreciate your cooperation in parking at the following
-HDB carparks and entering the school via Gate B (near the zebra crossing)
-or Gate C (near the bus stop). As school will be in session on that day,
-we seek your understanding that parking within the school compound is not
-permitted.</p>
+HDB carparks and entering the school via Gate B (near the zebra crossing),
+Gate C (near the bus stop) or Gate D (near ISH). As school will be in session
+on that day, we seek your understanding that parking within the school
+compound is not permitted.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_08_110334.png">
