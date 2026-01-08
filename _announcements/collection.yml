@@ -2,5 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Release of 2025 GCE 'O' Level Examination Results and SST NP IDP
+        Graduation Certificates.md
       - SST NP IDP Graduation Ceremony for Students and Release of 2024 GCE O
         Level Examination Results.md
