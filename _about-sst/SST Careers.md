@@ -211,14 +211,164 @@ pedagogies.</p>
 <p>We strongly encourage all candidates who are passionate advocates for
 inclusive technology education and supporting girls-in-STEM initiatives
 to apply.</p>
-<p><strong>5) <u>Science (Biology/ Chemistry) FAJT</u></strong>
+<p><strong>5) <u>Subject Head History/ Social Studies</u></strong>
 </p>
-<p><strong>6) <u>Mathematics Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
 </p>
-<p><strong>7) <u>History/ Social Studies Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan and implement a comprehensive instructional programme in History/
+Social Studies, in consultation with the HOD;</p>
+</li>
+<li>
+<p>Oversee the effective teaching of History/ Social Studies in the school
+and the effective conduct of test and examinations on the subject;</p>
+</li>
+<li>
+<p>Vet test and examination papers for History/Social Studies;</p>
+</li>
+<li>
+<p>Help to monitor and analyse the performance of pupils in History/ Social
+Studies;</p>
+</li>
+<li>
+<p>Develop and adapt effective teaching strategies for the subject so as
+to increase learning effectiveness. This includes planning and implementing
+remediation and enrichment activities for the pupils;</p>
+</li>
+<li>
+<p>Together with this team of teachers, to select, prepare and organise suitable
+teaching/learning resources eg. textbooks, supplementary and media materials
+and encourages their effective use in classrooms;</p>
+</li>
+<li>
+<p>Guide teachers in History/Social Studies providing them with assistance
+whenever necessary</p>
+</li>
+<li>
+<p>Set out and implement training and professional upgrading plans for teachers
+in History/ Social Studies with the help of Senior Teachers and others</p>
+</li>
+<li>
+<p>Assist HODs in the management of the department including participating
+in decisions on professional and administrative matters concerning the
+department; and</p>
+</li>
+<li>
+<p>Assist HODs in evaluation of teachers under his/her charge.</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
 </p>
-<p><strong>8) <u>Geography Teacher</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
+Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications.</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centered
+approach.</p>
+</li>
+</ul>
+<p><strong>6)</strong>  <strong><u>History/ Social Studies Teacher</u></strong>
 </p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver engaging History/Social Studies lessons that cater to diverse
+learning needs and abilities.</p>
+</li>
+<li>
+<p>Develop students’ proficiency in History/Social Studies and critical thinking
+through innovative and applied learning approaches.</p>
+</li>
+<li>
+<p>Assess and monitor students’ progress, providing constructive feedback
+and targeted support.</p>
+</li>
+<li>
+<p>Collaborate with colleagues on curriculum planning, assessment design,
+and professional development.</p>
+</li>
+<li>
+<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
+classroom culture (if needed).</p>
+</li>
+<li>
+<p>Contribute to the holistic education of students by supporting co-curricular
+activities and school events (if needed).</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
+Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications.</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+</ul>
+<p><strong>7) <u>Geography Teacher</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver engaging Geography lessons that cater to diverse learning needs
+and abilities.</p>
+</li>
+<li>
+<p>Develop students’ proficiency in Geography and critical thinking through
+innovative and applied learning approaches.</p>
+</li>
+<li>
+<p>Assess and monitor students’ progress, providing constructive feedback
+and targeted support.</p>
+</li>
+<li>
+<p>Collaborate with colleagues on curriculum planning, assessment design,
+and professional development.</p>
+</li>
+<li>
+<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
+classroom culture (if needed).</p>
+</li>
+<li>
+<p>Contribute to the holistic education of students by supporting co-curricular
+activities and school events (if needed).</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
+Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications.</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+</ul>
+<p><strong>8) <u>Science (Biology/ Chemistry) FAJT</u></strong>
+</p>
+<p><strong>9) <u>Mathematics Teacher</u></strong>
+</p>
+<p></p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
 creating and developing units of study, lesson plans, assessments, and
