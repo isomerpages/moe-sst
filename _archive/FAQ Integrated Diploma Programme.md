@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h6><em>(Updated 25 January 2024)</em></h6>
+<h1>FAQ</h1>
 <h5>What is the SST-NP Integrated Diploma Programme (IDP)?</h5>
 <p>The SST-Ngee Ann Polytechnic (NP) IDP is a through-train programme <strong>from SST to Ngee Ann Polytechnic Year 1</strong>.
 IDP students will spend 2 years (Secondary 3 and 4) in SST before progressing
