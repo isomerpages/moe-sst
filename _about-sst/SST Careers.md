@@ -206,11 +206,9 @@ in cybersecurity or computing.</p>
 <li>
 <p>Familiarity with EdTech platforms, cloud tools, and innovative teaching
 pedagogies.</p>
+<p></p>
 </li>
 </ul>
-<p>We strongly encourage all candidates who are passionate advocates for
-inclusive technology education and supporting girls-in-STEM initiatives
-to apply.</p>
 <p><strong>5) <u>Subject Head History/ Social Studies</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
@@ -218,44 +216,44 @@ to apply.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Plan and implement a comprehensive instructional programme in History/
-Social Studies, in consultation with the HOD;</p>
+Social Studies, in consultation with the HOD.</p>
 </li>
 <li>
 <p>Oversee the effective teaching of History/ Social Studies in the school
-and the effective conduct of test and examinations on the subject;</p>
+and the effective conduct of test and examinations on the subject.</p>
 </li>
 <li>
-<p>Vet test and examination papers for History/Social Studies;</p>
+<p>Vet test and examination papers for History/ Social Studies.</p>
 </li>
 <li>
 <p>Help to monitor and analyse the performance of pupils in History/ Social
-Studies;</p>
+Studies.</p>
 </li>
 <li>
 <p>Develop and adapt effective teaching strategies for the subject so as
 to increase learning effectiveness. This includes planning and implementing
-remediation and enrichment activities for the pupils;</p>
+remediation and enrichment activities for the pupils.</p>
 </li>
 <li>
 <p>Together with this team of teachers, to select, prepare and organise suitable
 teaching/learning resources eg. textbooks, supplementary and media materials
-and encourages their effective use in classrooms;</p>
+and encourages their effective use in classrooms.</p>
 </li>
 <li>
 <p>Guide teachers in History/Social Studies providing them with assistance
-whenever necessary</p>
+whenever necessary.</p>
 </li>
 <li>
 <p>Set out and implement training and professional upgrading plans for teachers
-in History/ Social Studies with the help of Senior Teachers and others</p>
+in History/ Social Studies with the help of Senior Teachers and others.</p>
 </li>
 <li>
 <p>Assist HODs in the management of the department including participating
 in decisions on professional and administrative matters concerning the
-department; and</p>
+department.</p>
 </li>
 <li>
-<p>Assist HODs in evaluation of teachers under his/her charge.</p>
+<p>Assist HODs in evaluation of teachers under his/ her charge.</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
