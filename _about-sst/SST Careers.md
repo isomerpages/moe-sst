@@ -215,61 +215,49 @@ pedagogies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Plan and implement a comprehensive instructional programme in History/
-Social Studies, in consultation with the HOD.</p>
+<p>Support the Head of Department to develop a shared learning vision for
+the team as aligned with the department’s vision.</p>
 </li>
 <li>
-<p>Oversee the effective teaching of History/ Social Studies in the school
-and the effective conduct of test and examinations on the subject.</p>
+<p>Support Head of Department in curriculum leadership and strategic planning
+to establish effective frameworks to monitor and evaluate instructional
+programmes.</p>
 </li>
 <li>
-<p>Vet test and examination papers for History/ Social Studies.</p>
+<p>Promotes a community of learners and culture of innovation of team members.</p>
 </li>
 <li>
-<p>Help to monitor and analyse the performance of pupils in History/ Social
-Studies.</p>
-</li>
-<li>
-<p>Develop and adapt effective teaching strategies for the subject so as
-to increase learning effectiveness. This includes planning and implementing
-remediation and enrichment activities for the pupils.</p>
-</li>
-<li>
-<p>Together with this team of teachers, to select, prepare and organise suitable
-teaching/learning resources eg. textbooks, supplementary and media materials
-and encourages their effective use in classrooms.</p>
-</li>
-<li>
-<p>Guide teachers in History/Social Studies providing them with assistance
-whenever necessary.</p>
-</li>
-<li>
-<p>Set out and implement training and professional upgrading plans for teachers
-in History/ Social Studies with the help of Senior Teachers and others.</p>
-</li>
-<li>
-<p>Assist HODs in the management of the department including participating
-in decisions on professional and administrative matters concerning the
-department.</p>
-</li>
-<li>
-<p>Assist HODs in evaluation of teachers under his/ her charge.</p>
+<p>Has strong knowledge of the curriculum and pedagogy to improve students’
+learning outcomes.</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
-Education (NIE), Diploma in Education from NIE or any other equivalent
-teaching qualifications.</p>
+<p>A good undergraduate degree in the relevant discipline. BA (History/ Social
+Sciences) preferred.</p>
 </li>
 <li>
-<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+<p>A Postgraduate Diploma in Education (PGDE) from the National Institute
+of Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications is preferred.</p>
 </li>
 <li>
-<p>Strong communication and collaboration skills, with a student-centered
-approach.</p>
+<p>Proficiency in the use of education technology and data analysis will
+be an advantage.</p>
+</li>
+<li>
+<p>Comfortable with classroom and student management.</p>
+</li>
+<li>
+<p>Passionate to teach the age group of students from 13 to 16 years old.</p>
+</li>
+<li>
+<p>Excellent communication and interpersonal skills.</p>
+</li>
+<li>
+<p>Good team leader and player.</p>
 </li>
 </ul>
 <p><strong>6)</strong>  <strong><u>History/ Social Studies Teacher</u></strong>
@@ -278,12 +266,19 @@ approach.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deliver engaging History/Social Studies lessons that cater to diverse
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+<li>
+<p>Deliver engaging History/ Social Studies lessons that cater to diverse
 learning needs and abilities.</p>
 </li>
 <li>
-<p>Develop students’ proficiency in History/Social Studies and critical thinking
-through innovative and applied learning approaches.</p>
+<p>Develop students’ proficiency in History/Social Studies knowledge and
+critical thinking through innovative and applied learning approaches.</p>
 </li>
 <li>
 <p>Assess and monitor students’ progress, providing constructive feedback
@@ -306,28 +301,48 @@ activities and school events (if needed).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
-Education (NIE), Diploma in Education from NIE or any other equivalent
-teaching qualifications.</p>
+<p>A good undergraduate degree in the relevant discipline. BA (History/ Social
+Sciences/ English Language) preferred.</p>
 </li>
 <li>
-<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+<p>A Postgraduate Diploma in Education (PGDE) from the National Institute
+of Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications is preferred.</p>
 </li>
 <li>
-<p>Strong communication and collaboration skills, with a student-centred
-approach.</p>
+<p>Proficiency in the use of education technology or data analysis will be
+an advantage.</p>
+</li>
+<li>
+<p>Comfortable with classroom and student management.</p>
+</li>
+<li>
+<p>Passionate to teach the age group of students from 13 to 16 years old.</p>
+</li>
+<li>
+<p>Excellent communication and interpersonal skills.</p>
+</li>
+<li>
+<p>Good team player.</p>
 </li>
 </ul>
 <p><strong>7) <u>Geography Teacher</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+<li>
 <p>Deliver engaging Geography lessons that cater to diverse learning needs
 and abilities.</p>
 </li>
 <li>
-<p>Develop students’ proficiency in Geography and critical thinking through
-innovative and applied learning approaches.</p>
+<p>Develop students’ proficiency in critical thinking through innovative
+and applied learning approaches.</p>
 </li>
 <li>
 <p>Assess and monitor students’ progress, providing constructive feedback
@@ -350,16 +365,29 @@ activities and school events (if needed).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Postgraduate Diploma in Education (PGDE) from the National Institute of
-Education (NIE), Diploma in Education from NIE or any other equivalent
-teaching qualifications.</p>
+<p>A good undergraduate degree in the relevant discipline. BA (Geography)
+preferred.</p>
 </li>
 <li>
-<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+<p>A Postgraduate Diploma in Education (PGDE) from the National Institute
+of Education (NIE), Diploma in Education from NIE or any other equivalent
+teaching qualifications is preferred.</p>
 </li>
 <li>
-<p>Strong communication and collaboration skills, with a student-centred
-approach.</p>
+<p>Proficiency in the use of education technology or data analysis will be
+an advantage.</p>
+</li>
+<li>
+<p>Comfortable with classroom and student management.</p>
+</li>
+<li>
+<p>Passion to teach the age group of students from 13 to 16 years old.</p>
+</li>
+<li>
+<p>Excellent communication and interpersonal skills.</p>
+</li>
+<li>
+<p>Good team player.</p>
 </li>
 </ul>
 <p><strong>8) <u>Science (Biology/ Chemistry) FAJT</u></strong>
