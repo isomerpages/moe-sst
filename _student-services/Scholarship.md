@@ -45,8 +45,8 @@ their upper secondary years.</p>
 <h5>MOE Edusave Scholarships for Independent Schools (ESIS Secondary 3)</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Awarded to Singaporean students at Secondary 3 if they have performed
-well in the ESIS Test and are not awarded a 4-year ESIS at Secondary 1.</p>
+<p>Awarded to Singaporean students at Secondary 3 if they are not awarded
+a 4-year ESIS at Secondary 1.</p>
 </li>
 <li>
 <p>Quantum of Award: $2,400 per year for 2 years.&nbsp; The scholarship money
@@ -58,9 +58,7 @@ school fees on a monthly basis.</p>
 order to continue receiving the scholarship.</p>
 </li>
 <li>
-<p>Nominated/Shortlisted students will be invited by the School to apply
-for the ESIS Test at the end of their Secondary 2 studies, in order to
-determine their suitability for the ESIS.</p>
+<p>The school shall nominate eligible students to MOE HQ for the scholarship.</p>
 </li>
 </ul>
 <p>Students who performed well in the ESIS test are awarded for:</p>
