@@ -5,9 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: "Class of 2025 : Release of 2025 GCE O-Level Examination Results
-  and SST-NP IDP Graduation Certificates will be held on 14 January 2026,
-  Wednesday."
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
