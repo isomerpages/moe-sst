@@ -408,63 +408,7 @@ development.</p>
 expertise with them, come join us in transforming learning to groom future-ready
 students!</p>
 <h4>Join Our Administrative Team</h4>
-<p><strong>1) <u>ICT Executive (1 Year Contract)</u></strong>
-</p>
-<p><strong>Duties and Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist the Manager with day-to-day ICT service operations, helpdesk, and
-end-user support. Collaborate with outsourced desktop engineer to provide
-ongoing ICT support.</p>
-</li>
-<li>
-<p>Assist the Manager track ICT hardware and services maintenance contract
-status</p>
-</li>
-<li>
-<p>Troubleshoot and resolve access issues related to student and staff learning
-portals (Microsoft, Google Workspace, Apple School Manager).</p>
-</li>
-<li>
-<p>Maintain and update AV systems, ICT hardware, and software.</p>
-</li>
-<li>
-<p>Maintain accurate inventory records of all ICT assets including hardware
-and software.</p>
-</li>
-<li>
-<p>Provide Audio Visual support and equipment setup for school events and
-activities.</p>
-</li>
-<li>
-<p>Assist Manager in ICT related projects.</p>
-</li>
-</ul>
-<p><strong>Job Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in IT/Computer Science</p>
-</li>
-<li>
-<p>Minimum 1-year relevant work experience in lieu of diploma. Prior experience
-in providing support for Apple Operating Systems is a plus.</p>
-</li>
-<li>
-<p>Collaborative and adaptable mindset, with the ability to work well in
-a team environment</p>
-</li>
-<li>
-<p>Good communications and customer service skills.</p>
-</li>
-<li>
-<p>The following technical Certification is an added advantage:
-<br>&nbsp; &nbsp; (i) &nbsp;Apple related certification
-<br>&nbsp; &nbsp; (ii) Microsoft related certification</p>
-</li>
-</ul>
-<p><strong>2) <u>Operations Executive</u></strong>
+<p><strong>1) <u>Operations Executive</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
