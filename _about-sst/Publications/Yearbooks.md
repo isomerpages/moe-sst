@@ -26,7 +26,11 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yearbook_cover.png">
+</div>
+<p><a href="https://online.fliphtml5.com/aejkc/wmee/#p=1" rel="noopener noreferrer nofollow" target="_blank">View</a>
+</p>
 </td>
 </tr>
 <tr>
