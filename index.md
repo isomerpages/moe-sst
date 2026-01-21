@@ -15,14 +15,6 @@ sections:
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
       url: https://www.sst.edu.sg/prep-for-s1/p1/
-  - infopic:
-      title: GCE O-Level Results and SST-NP IDP Graduation Certificates
-      subtitle: Release of 2025
-      id: infopic
-      button: Click here for details
-      url: https://www.sst.edu.sg/release-of-2025-gce-o-level-examination-results-and-sst-np-idp-graduation-certificates/
-      image: /images/DSC03927_copy.jpg
-      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
