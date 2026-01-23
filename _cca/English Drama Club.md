@@ -4,8 +4,7 @@ permalink: /cca/drama-club/
 description: ""
 variant: markdown
 ---
-
- ![](/images/Copy_of_English_Drama_Formal_copy.jpg) 
+![](/images/Copy_of_English_Drama_Formal_copy.jpg) 
  
 SST English Drama Club is a small but mighty Performing Arts group that has grown from strength to strength, culminating in its award of the 2021 Certificate of Distinction for Singapore Youth Festival Arts Presentation (SYF 2021 AP). 
 
