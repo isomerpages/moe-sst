@@ -2,9 +2,11 @@
 title: English Drama Club
 permalink: /cca/drama-club/
 description: ""
+variant: markdown
 ---
-![](/images/CCA/drama%2002.jpg)
-    
+
+ ![](/images/Copy_of_English_Drama_Formal_copy.jpg) 
+ 
 SST English Drama Club is a small but mighty Performing Arts group that has grown from strength to strength, culminating in its award of the 2021 Certificate of Distinction for Singapore Youth Festival Arts Presentation (SYF 2021 AP). 
 
 Our members gain valuable exposure to various drama performances and relevant enrichment programmes. Some notable examples are the 2022 #Tellastory, a collaboration with the National Library Board, in which SST Drama Club eventually clinched the Best Live Performance, and the SYF 2021 AP. In preparation for competitions, our Drama members put in months of long and grueling practices; they relentlessly push themselves, again and again, to perfect the requisite skills so that the precise articulation of speech, nuanced facial and body gestures can be achieved. Through the continual process of honing stagecraft, and deepening backstage knowledge and skills, our Drama members have demonstrated courage, confidence, and strong communication skills, on top of strong teamwork and camaraderie.
@@ -13,16 +15,22 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 
 #### Training 
 
-*   Wednesdays (2.30pm to 4.30pm)
+*   Wednesdays (3.00pm to 5.00pm)
 *   Fridays (2.30pm to 4.30pm)
 
 #### Key Competitions/ Programme
 *   Singapore Youth Festival (SYF) - Drama
-*   #Tellastory (NLB)
+*   #Tellastory
     
 #### Achievements/ Milestones
+##### 2025
+*  SYF Drama Achievement, Mmmbeth
+##### 2024
+*  #Tellastory, Romeo and Juliet
+##### 2023
+*   SYF Drama Achievement, Lord of the Flies
 ##### 2022
-*   National Library Board (NLB) #TellStory7 Competition
+*   National Library Board (NLB) #TellaStory7 Competition
 *   Best Live Performance
 *   Best Actress - 2nd Runner-up
 
