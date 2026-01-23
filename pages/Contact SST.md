@@ -66,6 +66,9 @@ variant: tiptap
 <p>Friday: 7:00 a.m. – 5:00 p.m.</p>
 </li>
 <li>
+<p>Lunch time closure during HBL (Thursdays) days: 11:30 a.m. - 12:30 p.m.</p>
+</li>
+<li>
 <p>Closed on Weekends &amp; Public Holidays</p>
 </li>
 </ul>
