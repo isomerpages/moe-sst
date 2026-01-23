@@ -25,10 +25,10 @@ collaborate across different cultural contexts for the betterment of society.</p
 <h4>Training</h4>
 <ul>
 <li>
-<p>Wednesdays (2.30 pm to 4.30 pm)</p>
+<p>Wednesdays (3.00 pm to 5.00 pm)</p>
 </li>
 <li>
-<p>Fridays (3.00 pm to 5.30 pm)</p>
+<p>Fridays (2.00 pm to 4.30 pm)</p>
 </li>
 </ul>
 <h4>Key Competitions/ Programmes</h4>
