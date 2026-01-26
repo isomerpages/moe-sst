@@ -37,16 +37,16 @@ collaborate across different cultural contexts for the betterment of society.</p
 <p>Singapore Science and Engineering Fair (SSEF)</p>
 </li>
 <li>
-<p>National STEM Talent Search</p>
-</li>
-<li>
 <p>Japan Super Science Fair (JSSF)</p>
 </li>
 <li>
-<p>Global Alliance of Leading Edge Schools for Sustainability (GALESS)</p>
+<p>Tah Kah Kee Young Inventors’ Award (TKKYI)</p>
+</li>
+<li>
+<p>GT College International Science Project Competition (GTC-ISPC)Achievements/
+Milestones</p>
 </li>
 </ul>
-<h4>Achievements/ Milestones</h4>
 <p><strong>SSEF 2025:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -66,6 +66,21 @@ collaborate across different cultural contexts for the betterment of society.</p
 <li>
 <p>Singapore University of Technology and Design Research &amp; Innovation
 (SUTD R&amp;I) Award (Cities)</p>
+</li>
+<li>
+<p>Singapore Association for the Advancement of Science (SAAS) Special Award
+– Poster Award for Science Communication 2025</p>
+</li>
+<li>
+<p>GT College International Science Project Competition (GTC-ISPC) 2025</p>
+<ul>
+<li>
+<p>Overall Champion</p>
+</li>
+<li>
+<p>Greatest Potential Award</p>
+</li>
+</ul>
 <p></p>
 </li>
 </ul>
