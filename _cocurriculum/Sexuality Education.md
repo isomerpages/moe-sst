@@ -110,41 +110,45 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <hr>
 <h5>eTeens Programme</h5>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens </em>is
-a programme developed by Health Promotion Board, in collaboration with
-the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. <em>eTeens </em>is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens </em>programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is
+a programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
-to sex and negative peer pressure.&nbsp; They also learn that the impact
-of STIs/HIV extends beyond themselves and involves their family, and the
-importance of responsible decision-making and seeking help. Abstinence
-and upholding family values are the key messages.</p>
-<p><strong>At School Of Science &amp; Technology, Singapore, the&nbsp; eTeens &nbsp;programme will be implemented as follows in 2025:</strong>
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p><strong>At SST, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
 <h5>Information for Parents</h5>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons, <em>eTeens </em>and/or supplementary sexuality
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://drive.google.com/file/d/13ccs-nPv8rCGVRNA6CBlF2iWp5QlpYsm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by <strong>16 February 2025</strong>.</p>
+of the year and is also available <a href="https://drive.google.com/file/d/18G5eSDvXUgd0_MpstWMogi1k-WdBH6ZW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> (
+<a href="https://drive.google.com/file/d/18G5eSDvXUgd0_MpstWMogi1k-WdBH6ZW/view" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/18G5eSDvXUgd0_MpstWMogi1k-WdBH6ZW/view</a>).
+The completed form is to be submitted by <strong>20/02/2026</strong>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="https://drive.google.com/file/d/1Tqu1k8NEnYt6laFBDsTIvRsRvw7oORoE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
-The completed form is to be submitted by <strong>16 February 2025</strong>.</p>
+the year and is also available <a href="https://drive.google.com/file/d/1EJWXxMqPAA3CaB7WW6wGksBSWY32CQaV/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> (
+<a href="https://drive.google.com/file/d/1EJWXxMqPAA3CaB7WW6wGksBSWY32CQaV/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1EJWXxMqPAA3CaB7WW6wGksBSWY32CQaV/view?usp=sharing</a>).
+The completed form is to be submitted by <strong>20/02/2026</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="https://drive.google.com/file/d/13ccs-nPv8rCGVRNA6CBlF2iWp5QlpYsm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>contactus@sst.edu.sg</u>
-</a>for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<a href="mailto:contactus@sst.edu.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@sst.edu.sg</a>for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
 <p></p>
