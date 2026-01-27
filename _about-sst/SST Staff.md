@@ -127,21 +127,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Han Siu Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD, EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>han_siu_yin@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ting Wei Ling Jaslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, English Language</p>
+<p>Acting HOD, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_wei_ling_jaslyn@sst.edu.sg</p>
