@@ -79,46 +79,34 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>SECONDARY 1</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_b.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_b.png">
 </div>
 <p><strong>SECONDARY 2</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_b_updated.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_b.png">
 </div>
 <p><strong>SECONDARY 3</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_b.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_b.png">
 </div>
 <p><strong>SECONDARY 4</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_a__updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_b__updated.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_b.png">
 </div>
 <hr>
 <h5>eTeens Programme</h5>
