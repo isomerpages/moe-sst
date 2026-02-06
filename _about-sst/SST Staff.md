@@ -1171,6 +1171,17 @@ Specialist</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ahmad Faizi Bin Junaidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communications &amp; Engagement Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ahmad_faizi_bin _junaidi@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Finance &amp; Procurement</strong>
 </p>
@@ -1302,6 +1313,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_yoke_kheng_stoney@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eugene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communications Technology Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eugene_lim@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
