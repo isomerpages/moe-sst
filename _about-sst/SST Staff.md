@@ -77,6 +77,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nurin Amirah Binte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurin_amirah_binte_ abdul_razak@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teo Teck Kia Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -542,6 +553,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Soo Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_soo_ling@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nur Johari Bin Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -632,17 +654,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_sok_hui@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Arfah Binte Buang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Dean, Learning and Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>arfah_buang@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1182,6 +1193,17 @@ Specialist</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ahmad Faizi Bin Junaidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communications &amp; Engagement Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ahmad_faizi_bin _junaidi@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Finance &amp; Procurement</strong>
 </p>
@@ -1239,13 +1261,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Choo</p>
+<p>Lee Bee Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Human Resource &amp; School Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_wei_choo@sst.edu.sg</p>
+<p>lee_bee_yan@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1313,6 +1335,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_yoke_kheng_stoney@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eugene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communications Technology Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eugene_lim@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1445,17 +1478,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Bee Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Student Affairs &amp; Services Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_bee_yan@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kong Ai Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1463,6 +1485,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kong_ai_choo@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oh Jin Rong Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Affairs &amp; Services Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_jin_rong_adrian@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
