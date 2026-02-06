@@ -49,16 +49,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___Irfan_Profile__Red_.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Arfah_Profile__Red_.svg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Siu_Yin_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Jaslyn_Ting_Wei_Ling_Profile__Grey___R_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -101,9 +98,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - SH.svg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Jaslyn_Ting_Wei_Ling_Profile__Blue___R_.svg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Jovita_Tang_Profile__Blue___R_.svg">
