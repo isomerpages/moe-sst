@@ -47,7 +47,7 @@ variant: tiptap
 <p>Soh Wee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Organisational Partnership</p>
+<p>HOD, Organisational Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>soh_wee_peng@sst.edu.sg</p>
@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ting Wei Ling Jaslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD, English Language</p>
+<p>HOD, English Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_wei_ling_jaslyn@sst.edu.sg</p>
@@ -461,6 +461,18 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_yoke_chee_jamie@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Kwai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Knowledge Management and Organisational Excellence
+&amp; School Staff Developer (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_kwai_yin@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
