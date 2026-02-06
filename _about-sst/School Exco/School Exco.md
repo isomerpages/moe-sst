@@ -70,8 +70,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Woon_Foong_Profile__Grey_.svg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Kwai_Yin_Profile__Grey_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Kwai_Yin_Profile__Grey___1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
