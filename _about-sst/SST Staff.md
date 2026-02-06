@@ -66,28 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Kah Tiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_kah_tiong@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ieo Gek Ling Lisa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ieo_gek_ling@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ng Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -607,17 +585,6 @@ Specialist</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Wong Shiao-Ling Clara</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_shiao_ling_clara@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>Mother Tongue Languages Department</strong>
 </p>
@@ -731,17 +698,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_sui_qiong@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liong Peen Lee Sean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liong_peen_lee_sean@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
