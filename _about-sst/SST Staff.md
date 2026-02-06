@@ -1228,13 +1228,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Choo</p>
+<p>Lee Bee Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Human Resource &amp; School Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_wei_choo@sst.edu.sg</p>
+<p>lee_bee_yan@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1434,17 +1434,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Bee Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Student Affairs &amp; Services Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_bee_yan@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kong Ai Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1452,6 +1441,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kong_ai_choo@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oh Jin Rong Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Affairs &amp; Services Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_jin_rong_adrian@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
