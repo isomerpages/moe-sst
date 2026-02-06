@@ -77,6 +77,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nurin Amirah Binte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurin_amirah_binte_ abdul_razak@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teo Teck Kia Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,6 +549,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_yi_jie@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Soo Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_soo_ling@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
