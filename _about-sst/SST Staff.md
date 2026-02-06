@@ -636,17 +636,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arfah Binte Buang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Dean, Learning and Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>arfah_buang@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Abdull Samath Bin Nagore Meerah</p>
 </td>
 <td rowspan="1" colspan="1">
