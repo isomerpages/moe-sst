@@ -5,7 +5,9 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Please be informed that on 16 February 2026 (eve of Lunar New
+  Year), students will be dismissed at 10:30 a.m. after the Lunar New Year
+  celebration. The General Office will operate until 12:00 p.m. on that day.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
