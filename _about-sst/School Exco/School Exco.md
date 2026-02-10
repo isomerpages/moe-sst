@@ -169,12 +169,9 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Tan_Wei_Choo_Profile__Red_.svg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Ngiow_Shin_Fatt__Red_.svg">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/05 Admin/AM___Gan_Boon_Seng_Ashton__Red_.svg">
