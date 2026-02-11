@@ -390,15 +390,61 @@ an advantage.</p>
 <p>Good team player.</p>
 </li>
 </ul>
-<p><strong>8) <u>Science (Biology/ Chemistry) FAJT</u></strong>
+<p><strong>8) <u>Malay Language&nbsp;Teacher</u></strong>
 </p>
-<p><strong>9) <u>Mathematics Teacher</u></strong>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliver engaging Malay Language lessons that cater to diverse learning
+needs and abilities (G3 Higher Malay Language/G3/ G2/ G1 Malay Language).</p>
+</li>
+<li>
+<p>Develop students’ proficiency in language, literacy, and critical thinking
+through innovative and applied learning approaches.</p>
+</li>
+<li>
+<p>Assess and monitor students’ progress, providing constructive feedback
+and targeted support.</p>
+</li>
+<li>
+<p>Collaborate with colleagues on curriculum planning, assessment design,
+and professional development.</p>
+</li>
+<li>
+<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
+classroom culture.</p>
+</li>
+<li>
+<p>Contribute to the holistic education of students by supporting co-curricular
+activities and school events.</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BA (Malay Studies), Postgraduate Diploma in Education (PGDE) from the
+National Institute of Education (NIE), Diploma in Education from NIE or
+any other equivalent teaching qualifications</p>
+</li>
+<li>
+<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
+</li>
+<li>
+<p>Strong communication and collaboration skills, with a student-centred
+approach.</p>
+</li>
+</ul>
+<p><strong>9) <u>Science (Biology/ Chemistry) Teacher</u></strong>
+</p>
+<p><strong>10) <u>Mathematics Teacher</u></strong>
 </p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
-and teaching of an integrated curriculum/assigned subject.&nbsp; This includes
-creating and developing units of study, lesson plans, assessments, and
-appropriate rubrics.
+and teaching of an integrated curriculum/ assigned subject.&nbsp; This
+includes creating and developing units of study, lesson plans, assessments,
+and appropriate rubrics.
 <br>
 <br>Besides supporting departments/school programmes, the teacher should be&nbsp;open
 to learning and adopting innovative pedagogies and technology and be passionate
