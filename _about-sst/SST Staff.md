@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ting Wei Ling Jaslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, English Language (Covering)</p>
+<p>Acting HOD, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_wei_ling_jaslyn@sst.edu.sg</p>
@@ -367,17 +367,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aurelius_yeo@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Loh Kwai Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD, Organisational Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_kwai_yin@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
