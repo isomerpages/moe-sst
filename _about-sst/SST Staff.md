@@ -546,7 +546,7 @@ Specialist</p>
 <p>Liu Yi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Specialist, Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_yi_jie@sst.edu.sg</p>
@@ -629,7 +629,7 @@ Specialist</p>
 <p>Tan Chuan Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head, Upper Secondary</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_leong@sst.edu.sg</p>
