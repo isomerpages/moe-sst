@@ -1407,6 +1407,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Su Yahui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Science Technologist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>su_ya_hui@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Saiful Redzuan Bin Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1418,13 +1429,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Su Yahui</p>
+<p>Tay Su Lin Tanny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Science Technologist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_ya_hui@sst.edu.sg</p>
+<p>tay_su_lin_tanny@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1436,17 +1447,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_sufi_bin_ariff@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tay Su Lin Tanny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Science Technologist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_su_lin_tanny@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
