@@ -38,13 +38,11 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Aurelius_Profile__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___Aurelius_Profile__Red_V2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___John_Tan_Profile__Red_.svg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___Irfan_Profile__Red_.jpg">
@@ -54,10 +52,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Jaslyn_Ting_Wei_Ling_Profile__Grey___R_.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Jaslyn_Ting_Wei_Ling_Profile__Grey___R_V2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.svg">
 </div>
@@ -88,9 +86,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Ng_Jun_Wei_Profile__Grey_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H___Ng_Jun_Wei_Profile__Grey_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Karen_Ng_Profile__Grey_.svg">
 </div>
@@ -121,15 +118,10 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Adele_Profile__Blue___R_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Adele_Profile__Blue___R___1_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Keith_Profile__Blue___R_.svg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Ming_Yang_Profile__Blue___R_.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -141,9 +133,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Chuan_Leong_Profile__Blue___R_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Chuan_Leong_Profile__Blue___R_V2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Afiah_Profile__Blue___R_.svg">
 </div>

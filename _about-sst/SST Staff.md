@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ting Wei Ling Jaslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, English Language (Covering)</p>
+<p>Acting HOD, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_wei_ling_jaslyn@sst.edu.sg</p>
@@ -371,17 +371,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loh Kwai Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD, Organisational Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_kwai_yin@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tang Wen Qi Jovita</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -557,7 +546,7 @@ Specialist</p>
 <p>Liu Yi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Specialist, Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_yi_jie@sst.edu.sg</p>
@@ -640,7 +629,7 @@ Specialist</p>
 <p>Tan Chuan Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head, Upper Secondary</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_leong@sst.edu.sg</p>
@@ -651,7 +640,7 @@ Specialist</p>
 <p>Yap Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head, Chinese Language</p>
+<p>Subject Head, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_hui_min@sst.edu.sg</p>
@@ -819,17 +808,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Ming Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ming_yang@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choo Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -936,6 +914,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chee_meng_teck@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Ming Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ming_yang@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1092,7 +1081,7 @@ Specialist</p>
 <p>Lim Shu-En Adele</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Sports &amp; Wellness</p>
+<p>Subject Head, Sports &amp; Wellness / Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>adele_lim@sst.edu.sg</p>
@@ -1418,6 +1407,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Su Yahui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Science Technologist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>su_ya_hui@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Saiful Redzuan Bin Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1429,13 +1429,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Su Yahui</p>
+<p>Tay Su Lin Tanny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Science Technologist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_ya_hui@sst.edu.sg</p>
+<p>tay_su_lin_tanny@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1447,17 +1447,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_sufi_bin_ariff@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tay Su Lin Tanny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Science Technologist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_su_lin_tanny@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
