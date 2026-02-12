@@ -38,13 +38,11 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___Aurelius_Profile__Red_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___Aurelius_Profile__Red_V2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/02 Deans/D___John_Tan_Profile__Red_.svg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D___Irfan_Profile__Red_.jpg">
