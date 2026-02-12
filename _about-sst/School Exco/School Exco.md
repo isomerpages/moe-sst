@@ -139,9 +139,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Chuan_Leong_Profile__Blue___R_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Chuan_Leong_Profile__Blue___R_V2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/04 Subject and Year Heads/SH___Afiah_Profile__Blue___R_.svg">
 </div>
