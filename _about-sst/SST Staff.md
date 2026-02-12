@@ -808,17 +808,6 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Ming Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ming_yang@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choo Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -925,6 +914,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chee_meng_teck@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Ming Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ming_yang@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
