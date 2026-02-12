@@ -1081,7 +1081,7 @@ Specialist</p>
 <p>Lim Shu-En Adele</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Sports &amp; Wellness</p>
+<p>Subject Head, Sports &amp; Wellness / Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>adele_lim@sst.edu.sg</p>
