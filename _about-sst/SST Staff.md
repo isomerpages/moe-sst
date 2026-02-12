@@ -640,7 +640,7 @@ Specialist</p>
 <p>Yap Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head, Chinese Language</p>
+<p>Subject Head, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_hui_min@sst.edu.sg</p>
