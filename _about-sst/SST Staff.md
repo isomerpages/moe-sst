@@ -499,6 +499,17 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Liu Yi Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Specialist, Educational Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liu_yi_jie@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chia Song Zhe Andy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,17 +550,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_hao_ling@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liu Yi Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Specialist, Educational Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liu_yi_jie@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
