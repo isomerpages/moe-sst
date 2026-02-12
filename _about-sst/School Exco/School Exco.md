@@ -54,10 +54,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/00 Divder/Divider - HoDs.svg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Jaslyn_Ting_Wei_Ling_Profile__Grey___R_.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH___Jaslyn_Ting_Wei_Ling_Profile__Grey___R_V2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/03 HOD/H___Wong_Yoke_Chee_Jamie_Profile__Grey_.svg">
 </div>
