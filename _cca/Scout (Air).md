@@ -2,12 +2,15 @@
 title: Scout (Air)
 permalink: /cca/scout/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/scout%20cover.jpeg)
 
-The Scout programme in SST is an aviation and outdoor-oriented education programme that aims to inculcate discipline, leadership and teamwork qualities in scouts through an informal education process. The programme also aims to foster the active commitment of scouts to the spiritual values of life, to society and oneself.
 
-Using the Scout Method, every scout is empowered to be the principal agent of his/her development as a self-reliant, supportive, responsible and committed person. Every programme/activity is planned to encourage individuals to be actively involved in and be responsible for their own development. The Scout programme supports the values and character education in SST.
+The Scout programme in SST is an aviation- and outdoor-focused youth development programme that nurtures disciplined, resilient and service-oriented young people. Through experiential learning and the Scout Method, scouts develop leadership, teamwork and responsibility by actively taking ownership of their growth.
+
+Guided by the Scout Promise and Law, scouts learn through hands-on challenges, small-group (patrol) collaboration and community service. The programme shapes self-reliant, morally grounded individuals who are committed to serving others and contributing meaningfully to society, while complementing SST’s character and citizenship education.
+
 
 #### Training 
 *   Fridays (2.30pm to 5.30pm) - usual CCA sessions
@@ -16,29 +19,72 @@ Using the Scout Method, every scout is empowered to be the principal agent of hi
     
 #### Key Competitions/ Programme
 
-*   Aviation workshops/ trainings/ courses (e.g. drones flying, glider making, astronomy, real flight experience)
+**Aviation Development**
+
+*   Aviation workshops and training (e.g. drone flying, glider making, astronomy, real flight experience)
     
-*   Learning journeys to aviation-related industries/ locations
+*   Aviation competitions (e.g. SAFMC competitions, Drones Odyssey Challenge)
     
-*   Day and overnight camps, hikes, cycling expeditions
+* Learning journeys to aviation-related industries and locations  
+
+
+**Outdoor Adventure & Expeditions**
+
+*   Day and overnight camps
     
-*   Life skills workshops/ courses (e.g. first aid, foot drills, sports climbing, kayaking, land navigation, outdoor cooking, camp craft, pioneering)
+*   Hikes and cycling expeditions
     
-*   Recreational activities (e.g. bowling, expeditions, games day)
-  
-*   Community activities (e.g. Job Week, Diamond Jubilee Challenge, other community services)
+*   Jamboree and Camporee (local and overseas)
     
-*   Jamboree/ Camporee (local/ overseas camps)
+*   Rally and games day
     
-*   Intra-/Extra-unit competitions (e.g. Drones Odyssey Challenge, SAFMC competitions)
+
+**Life Skills & Personal Mastery**
+
+*   Cooking
+    
+*   Camp craft
+    
+*   Land navigation
+    
+*   Foot drills
+    
+*   First aid certification
+    
+*   Sports climbing
+    
+* Pioneering  
+
+
+**Community Engagement & Service**
+
+*   Singapore Scouts Community Challenge
+    
+*   Job Week
+    
+*   National Day Observance Ceremony/ Carnival
+    
+*   Other community service initiatives
+   
     
 #### Achievements/ Milestones
-##### 2015-2019
 
-*   Frank Cooper Sands Award (Bronze)
+##### 2025
+
+*   Frank Cooper Sands Award
+    
+*   Ngee Ann Polytechnic Aerobot Challenge 2026 (Champion)
+    
+##### 2024
+
+*   Frank Cooper Sands Award
 
 ##### 2022
 *  Frank Cooper Sands Award (Silver)
+
+##### 2015-2019
+
+*   Frank Cooper Sands Award (Bronze)
 
 \*Note: Due to COVID-19, there is no FCSA assessment.
 
