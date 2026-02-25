@@ -23,15 +23,17 @@ The Singapore Youth Flying Club (SYFC) offers programmes and activities that ign
 
 
 #### 2025
-1\. Singapore Amazing Flying Machine Competition (SAFMC) 2025:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+
+**1\. Singapore Amazing Flying Machine Competition (SAFMC) 2025:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement – 28 Certificates of Participation
+
 *   Secondary 2s (18 members)
+    
 *   Secondary 4s (10 members)
+    
 
-**
-
-2\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+**2\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement - 4 Certificates of Participation
 
@@ -39,10 +41,8 @@ Achievement - 4 Certificates of Participation
     
 *   Secondary 4s (1 member)
     
-**
-  
 
-3.  Offshore and Sustainable Engineering Challenge 2025 hosted by the School of Engineering, Ngee Ann Polytechnic
+**3.  Offshore and Sustainable Engineering Challenge 2025 hosted by the School of Engineering, Ngee Ann Polytechnic**
 
 Achievement - 16 Certificates of Participation
 
@@ -50,11 +50,8 @@ Achievement - 16 Certificates of Participation
     
 *   Secondary 3s (6 members)
     
-		
-**
 
-
-4.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)
+**4.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)**
 
 Achievement - 42 Certificates of Participation
 
@@ -63,12 +60,9 @@ Achievement - 42 Certificates of Participation
 *   Secondary 2s (15 members)
     
 *   Secondary 3s (12 members)
-    
-
-**
 
 
-5.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)
+**5.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)**
 
 Achievement - 4 Certificates of Participation
 
@@ -86,10 +80,9 @@ Achievement - Consolation Award (Senior Category)
 
 *   AEGON CHEUNG HAO EN (S3-03)
     
-**
-  
+		
 
-6.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)
+**6.  2025 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)**
 
 Achievement - 48 Certificates of Participation
 
@@ -115,10 +108,14 @@ Achievement - 2nd Place Award (Senior Category)
 *   AEGON CHEUNG HAO EN (S3-03)
     
 
-**
+  
+
+
     
 #### 2024
-1\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+
+
+**1\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement – 30 Certificates of Participation
 
@@ -128,10 +125,10 @@ Achievement – 30 Certificates of Participation
     
 *   Secondary 4s (3 members)
     
-**
+
   
 
-2\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+**2\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement - 4 Certificates of Participation
 
@@ -139,10 +136,10 @@ Achievement - 4 Certificates of Participation
     
 *   Secondary 4s (3 members)
     
-**
+
   
 
-3.  2024 National Air Race organised by AFSC (Asia Flight Simulation Centre)
+**3.  2024 National Air Race organised by AFSC (Asia Flight Simulation Centre)**
 
 Achievement – 2 Certificate of Participation
 
@@ -150,24 +147,24 @@ Achievement – 2 Certificate of Participation
     
 *   Jeremie Tan Hong Xuan (S4-09)
     
-**
+
   
 
 Achievement – Individual Award (Bronze Award)
 
 *   Chen Zhihui Matthew (S4-05)
     
-**
+
   
 
-4.  Offshore and Sustainable Engineering Challenge hosted by the School of Engineering, Ngee Ann Polytechnic
+**4.  Offshore and Sustainable Engineering Challenge hosted by the School of Engineering, Ngee Ann Polytechnic**
 
 Achievement - 19 Certificates of Participation
 
 *   Secondary 2s (9 members)
     
 *   Secondary 3s (10 members)
- **   
+    
 
 Achievement – Design Marvel Award
 
@@ -182,10 +179,10 @@ Achievement - Champion for Sustainable Quiz
 
 *   SST TEAM
     
-**
+
   
 
-5.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)
+**5.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)**
 
 Achievement - 43 Certificates of Participation
 
@@ -195,20 +192,19 @@ Achievement - 43 Certificates of Participation
     
 *   Secondary 3s (13 members)
     
-**
+
   
 
-6.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)
+**6.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)**
 
 Achievement - 6 Certificates of Participation
 
 *   Secondary 2s (3 members)
     
 *   Secondary 3s (3 members)
+    
 
-**
-
-7.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)
+**7.  2024 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)**
 
 Achievement - 25 Certificates of Participation
 
@@ -222,12 +218,9 @@ Achievement - Champion Award (Junior Category)
 *   ONG YU KIAN ENOCH (S2-08)
     
 
-**
-
 #### 2023
-**
 
-1\. Singapore Amazing Flying Machine Competition (SAFMC) 2023:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+**1\. Singapore Amazing Flying Machine Competition (SAFMC) 2023:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement – 28 Certificates of Participation
 
@@ -237,10 +230,10 @@ Achievement – 28 Certificates of Participation
     
 *   Secondary 4s (5 members)
     
-**
+
   
 
-2\. Singapore Amazing Flying Machine Competition (SAFMC) 2023:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
+**2\. Singapore Amazing Flying Machine Competition (SAFMC) 2023:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
 Achievement - 3 Certificates of Participation
 
@@ -248,10 +241,10 @@ Achievement - 3 Certificates of Participation
     
 *   Secondary 4s (1 member)
     
-**
+
   
 
-3.  Marine Offshore Challenge hosted by the School of Engineering, Ngee Ann Polytechnic
+**3.  Marine Offshore Challenge hosted by the School of Engineering, Ngee Ann Polytechnic**
 
 Achievement - 20 Certificates of Participation
 
@@ -273,10 +266,10 @@ Achievement - Champion for Sustainable Quiz
 
 *   SST TEAM
     
-**
+
   
 
-4.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)
+**4.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Unpowered Gliders (Team)**
 
 Achievement - 42 Certificates of Participation
 
@@ -286,10 +279,10 @@ Achievement - 42 Certificates of Participation
     
 *   Secondary 3s (15 members)
     
-**
+
   
 
-5.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)
+**5.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Drone FPV - Flight Novice (Individual)**
 
 Achievement - 2 Certificates of Participation
 
@@ -304,10 +297,10 @@ Achievement - Consolation Award (Senior Category)
     
 *   Cheang Liam (S4-07)
     
-**
+
   
 
-6.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)
+**6.  2023 SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ: Flight Simulation (Individual)**
 
 Achievement - 29 Certificates of Participation
 
@@ -326,76 +319,83 @@ Achievement - Champion Award (Junior Category)
 *   Ng Ray'en (S2-06)
     
 
-**
-
 
 #### 2022
-1.  SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ
 
-##### Achievement – Certificate of Participation
+**1\. SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ**
+
 *   Launch Glider – 6 Certificate of Participation
     
-     *   RYAN TUNG TZE-JIN (S2-02)
-    
-     *   XAVIER YAP JUN XIAN (S2-02)
-    
-     *   FIDELE POH XING YUN (FU XINGYUN) (S2-07)
-    
-     *   NAR KANG MING (S3-05)
-    
-     *   TAN XIANG, OWEN (S3-05)
-     
-     *   ARNAV KARTHIK CHILUKURI (S3-05)
-    
-   
-    
-*   Circuit Flight Simulation - 4 Certificate of Participation
 
-     *   QESHM SINGH SAANDHU (S1-06)
+*   RYAN TUNG TZE-JIN (S2-02)
     
-     *   RYAN TUNG TZE-JIN (S2-02)
+*   XAVIER YAP JUN XIAN (S2-02)
     
-     *   CHEN ZHIHUI MATTHEW (S2-07)
+*   FIDELE POH XING YUN (FU XINGYUN) (S2-07)
     
-     *   YAP SU HUI, ANASTASIA (S3-03)
+*   NAR KANG MING (S3-05)
     
+*   TAN XIANG, OWEN (S3-05)
+    
+*   ARNAV KARTHIK CHILUKURI (S3-05)
+
+*   Circuit Flight Simulation - 4 Certificate of Participation
+    
+
+*   QESHM SINGH SAANDHU (S1-06)
+    
+*   RYAN TUNG TZE-JIN (S2-02)
+    
+*   CHEN ZHIHUI MATTHEW (S2-07)
+    
+*   YAP SU HUI, ANASTASIA (S3-03) 
+    
+
 *   FRV Drone Flying Competition - 4 Certificate of Participation
     
-     *   CHEANG LIAM (S2-07)
-    
-     *   JEREMIE TAN HONG XUAN (S2-07)
-    
-     *   AXEL TEE YU LE (S2-08)
-    
-     *   RYAN WEE WEI YAN (S3-08)
-    
 
-#### Achievement – 2 Consolation Prize
-
-*   FRV Drone Flying Competition
+*   CHEANG LIAM (S2-07)
     
+*   JEREMIE TAN HONG XUAN (S2-07)
+    
+*   AXEL TEE YU LE (S2-08)
+    
+*   RYAN WEE WEI YAN (S3-08)
+    
+Achievement – Consolation Prize for FRV Drone Flying Competition
+
 *   ISAAC CHEOK (S3-04)
     
 *   ONG XUAN KAI (S3-07)
     
-1.  Marine and Offshore Challenge Competition 2022 by Ngee Ann Polytechnic
-    
-##### Achievement – 8 Certificate of Participation
+
+  
+
+2.  Marine and Offshore Challenge Competition 2022 by Ngee Ann Polytechnic
+
+Achievement – 8 Certificate of Participation
+
 *   Group 1 (3 members)
     
 *   Group 2 (2 members)
     
 *   Group 3 (3 members)
     
-##### Achievement - Most Innovative Design (Propulsion)
+
+Achievement - Most Innovative Design (Propulsion)
+
 *   AYAAN JAIN (S2-03)
     
 *   FIDELE POH XING YUN (FU XINGYUN) (S2-07)
     
-##### 2021
-1.  Singapore Amazing Flying Machine Competition (SAFMC) 2021:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
-    
-##### Achievement – 13 Certificates of Participation
+
+
+#### 2021
+
+**1\. Singapore Amazing Flying Machine Competition (SAFMC) 2021:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
+
+Achievement – 13 Certificates of Participation
+
 *   Group 1 (4 members)
     
 *   Group 2 (3 members)
@@ -404,33 +404,49 @@ Achievement - Champion Award (Junior Category)
     
 *   Group 5 (2 members)
     
-##### Achievement - Champion & Best Performance (2nd Runner Up)
+
+Achievement - Champion & Best Performance (2nd Runner Up)
+
 *   Group 1 (4 members)
     
-2.  Singapore Amazing Flying Machine Competition (SAFMC) 2021:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)
-    
-##### Achievement - 8 Certificates of Participation
+
+  
+
+**2.  Singapore Amazing Flying Machine Competition (SAFMC) 2021:  CATEGORY C2 - FPV Flight Novice (Individual) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
+
+Achievement - 8 Certificates of Participation
+
 *   Secondary 2s (5 members)
     
 *   Secondary 3s (1 member)
     
 *   Secondary 4s (2 members)
     
-3.  ASPIRE Aeronautics Challenge 2021 by Singapore Science Centre, Singapore Institute of Technology, Neo Aeronautics
-    
-##### Achievement - 15 Certificates of Participation
+
+  
+**3.  ASPIRE Aeronautics Challenge 2021 by Singapore Science Centre, Singapore Institute of Technology, Neo Aeronautics**
+
+Achievement - 15 Certificates of Participation
+
 *   Secondary 2s (5 members)
     
-*   Secondary 3s (10 member)
+*   Secondary 3s (10 members)
     
-##### Achievement - Best Ideas Award (Team)
+
+Achievement - Best Ideas Award (Team)
+
 *   Secondary 3s (2 members)
-    
-##### 2020
-1.  Drone Odyssey Challenge 2020 (online) by Singapore Science Centre
-    
-##### (A)  Obstacle Challenge
-##### Achievement - 4 Certificates of Participation
+   
+
+
+#### 2020
+
+**1\. Drone Odyssey Challenge 2020 (online) by Singapore Science Centre**
+
+(A) Obstacle Challenge
+
+Achievement - 4 Certificates of Participation
+
 *   ARNAV KARTHIK CHILUKURI, S1-05
     
 *   RICHIE HO JUN YOU, S1-08
@@ -440,15 +456,25 @@ Achievement - Champion Award (Junior Category)
 *   CHAN KENG YEOW, S3-04
     
 
-#### (B).  Coding Challenge
-##### Achievement - 2 Certificates of Distinction
+(B). Coding Challenge
+
+Achievement - 2 Certificates of Distinction
 
 *       ANJALI CURIC, S1-08
     
 *       SARAH FOO ZHI NING, S1-08
+  
 
+
+![](/images/Drone_group_getting_ready_for_SAFMC.jpg)
+*Drone group getting ready for SAFMC*
+
+![](/images/SYFC_members_engaging_the_visitors_at_SST_Open_House.jpg)
+*SYFC members engaging the visitors at SST Open House*
+    
 ![](/images/CCA/syfc%20-%20internal%20fs%20competition.JPG)
 *Internal Flight Simulation Competition*
 
 ![](/images/CCA/syfc%202021%20safmc%20lg%20champion%20with%20goh.JPG)
 *2021 SAFMC LG Champion with the G.O.H.*
+
