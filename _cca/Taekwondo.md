@@ -2,16 +2,17 @@
 title: Taekwondo
 permalink: /cca/taekwondo/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/tkd%20cover.jpg)
 
-Taekwondo is a martial art form that combines both physical training and mental development, inculcating discipline and values in students as they progress through belt levels and advanced sequences (Poomsae). Sparring (Kyorugi) and unarmed combat help improve reaction time, quick thinking and temperament. 
-
+Taekwondo is a martial art form that combines both physical training and mental development, inculcating discipline and values in students as they progress through belt levels and advanced sequences (Poomsae). Sparring (Kyorugi) and unarmed combat help improve reaction time, quick thinking and temperament.
 
 SST Taekwondo is committed to helping students develop their skills and character. Under the guidance of coaches Mr. Hun Teck Kwang and Mr. Jeffrey Tan, the Taekwondo programme has produced many medal-winning individuals and teams in the National School Games and other competitions.
 
+
 #### Trainings
-* Wednesdays (2.30pm to 4.30pm)
+* Wednesdays (3.00pm to 5.00pm)
 * Fridays (2.30pm to 4.30pm)
 
 #### Key Competitions/ Programme
