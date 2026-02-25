@@ -25,11 +25,11 @@ Beyond competition, floorball provides students with a meaningful platform to fo
 
 #### Achievements/ Milestones
 
-**2025**
+##### 2025
 
 *   Open Clinic - Floorball workshop from Swedish trainers
     
-**2024**
+##### 2024
 
 *   2nd place - in the NSG League 2 Finals
    
@@ -44,4 +44,3 @@ Beyond competition, floorball provides students with a meaningful platform to fo
 
 ![](/images/CCA/floorball%2003.png)
 *Discussing strategies during a match*
-
