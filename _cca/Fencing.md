@@ -2,6 +2,7 @@
 title: Fencing
 permalink: /cca/fencing/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/fencing%20cover.jpg)
 
@@ -12,12 +13,37 @@ Some people have the misconception about fencing as a sport with no physical int
 All in all, we hope that you have gained a better understanding of what fencing entails. If you think you have what it takes to be a great fencer, come join us! We hope to see you soon.
 
 #### Training 
-* Wednesdays (3.00pm to 5.00pm) 
-* Fridays (2.30pm to 4.30pm)
+* Wednesdays (3.10pm to 5.30pm) 
+* Fridays (2.25pm to 4.45pm)
 
 #### Key Competitions/ Programme 
 * National School Games (NSG) 
 * Singapore Minime
+
+#### Achievements/ Milestones 
+
+##### 2025
+
+*   B-div Gold Medal in National School Games (Fencing - Cadet Men's Foil) - JOVAN LEE KAI WEN
+
+*   B-div Individual 5th in National School Games (Fencing - Cadet Men's Foil) - MAX TIAN-LE FREEBODY
+
+
+##### 2024
+
+*   C-div Team 4th in National School Games (Fencing)
+    
+*   C-div Individual Gold Medal in National School Games (Fencing - Cadet Men's Foil) - MAX TIAN-LE FREEBODY
+    
+
+##### 2022
+
+*   C-div Individual 8th in National School Games (Fencing - Cadet Women's Saber) - LEE KEIRA TZE YING
+    
+*   B-div Individual 8th in National School Games (Fencing - Cadet Women's Saber) - NG ISABELLE XIN YI
+    
+
+
 
 ![](/images/CCA/fencing%2001.jpg)
 *Towards Victory!*

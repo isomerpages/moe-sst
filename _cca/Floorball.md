@@ -2,16 +2,15 @@
 title: Floorball
 permalink: /cca/floorball/
 description: ""
+variant: markdown
 ---
-![](/images/CCA/floorball%2001.png)
-    
-In SST, our Boys’ Floorball team was set up in 2013. Floorball is an indoor team sport played by three to five players and one goalkeeper per team. It is a fast-paced and adrenaline pumping sport that requires not only physical stamina but also a strategic mind. 
+![](/images/competition.jpg)
 
-Floorball teaches important values such as solidarity, non-discrimination and integrity. Weekly training sessions are intensive, but our boys enjoy being challenged to make quick strategic decisions during the game. They forge strong bonds and ever-lasting friendships. 
+The SST Boys’ Floorball team, established in 2013, participates in a fast-paced indoor sport that requires physical stamina, quick decision-making, and strong teamwork. 
 
-After a 2 year hiatus due to Covid 19, our B and C Division team finally had the chance to participate in the National School Games (NSG) Competition 2022. While preparing and striving through the different matches, the team forged stronger team spirit, better communication and tactical skills. Though we did not progress further in the competition, the team gained invaluable experience. The team will continue to strive for excellence in future competitions and display great sportsmanship.
+Through intensive weekly training, players develop resilience, strategic awareness, and core values such as integrity, solidarity, and sportsmanship. After a two-year hiatus due to COVID-19, both the B and C Division teams returned to the National School Games in 2022, gaining valuable competitive experience and strengthening team cohesion. The team’s dedication and perseverance led to a historic milestone in 2024, when the C Division secured 2nd place in the NSG League 2 Finals for the first time. 
 
-Through the sport, our boys also have another platform to hone their 21st-century competencies to prepare them for the future.
+Beyond competition, floorball provides students with a meaningful platform to forge lasting friendships and hone essential 21st-century competencies, preparing them for future challenges both on and off the court.
 
 #### Training 
 *   Wednesdays (3.00pm to 6.00pm)
@@ -19,14 +18,29 @@ Through the sport, our boys also have another platform to hone their 21st-centur
     
 
 #### Key Competitions/ Programme
-*   SSSC National Floorball Championships (Both B and C Divisions)
-*  ActiveSG - SFA Plate and Bowl (Both B and C Divisions)
+
+*   SSSC National Floorball Championships (B Divisions)
+    
+*   SSSC National Floorball Championships (C Divisions)
+
+#### Achievements/ Milestones
+
+##### 2025
+
+*   Open Clinic - Floorball workshop from Swedish trainers
+    
+##### 2024
+
+*   2nd place - in the NSG League 2 Finals
+   
+    
+		
+		
+![](/images/IMG_8142.jpg)
+
     
 ![](/images/CCA/floorball%2002.png)
 *2022 C Division Boys NSG Competition Team*
 
 ![](/images/CCA/floorball%2003.png)
 *Discussing strategies during a match*
-
-![](/images/CCA/floorball%2004.png)
-*Friendly match with another school*

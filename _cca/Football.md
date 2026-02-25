@@ -2,6 +2,7 @@
 title: Football
 permalink: /cca/football/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/football%20cca%203.jpg)
 
@@ -18,6 +19,17 @@ On the field, our players are fierce competitors who play with respect and deter
 ##### Key Competitions/ Programme
 *   National School Games (Football B Division)
 *   National School Games (Football C Division)
+
+##### Achievements/ Milestones
+##### 2025
+
+*   NSG Fair Play Award for C Division Boys
+    
+*   Promoted to League 4
+
+
+![](/images/Caption__B_Division_Captain_Akshay_delivering_his_team_talk_before_the_NSG_game.jpg)
+*B Division Captain Akshay delivering his team talk before the NSG game.*
 
 ![](/images/CCA/football%20cca%201.jpg)
 *Our football players pressing, intercepting and tackling our opponents tirelessly.*

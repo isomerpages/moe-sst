@@ -47,6 +47,7 @@ collaborate across different cultural contexts for the betterment of society.</p
 Milestones</p>
 </li>
 </ul>
+<h4>Achievements/ Milestones</h4>
 <p><strong>SSEF 2025:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -126,6 +127,15 @@ Milestones</p>
 </div>
 <p><em>Our student presenting his work on detecting cancers via artificial intelligence at the Japan Super Science Fair.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our students are learning from fellow participants around the world." src="/images/CCA/GTC_ISPC_5.jpg">
+</div>
+<p>Broadening horizons! Our students are learning from fellow participants
+and discovering the brilliant work being done by young scientists from
+around the world.</p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>

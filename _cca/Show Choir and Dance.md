@@ -2,71 +2,118 @@
 title: Show Choir and Dance
 permalink: /cca/show-choir-dance/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/show%20choir%20cover.jpeg)
 
-Show Choir and Dance started off as an interest group in 2011. Individuals of diverse backgrounds came together and decided to enliven the SST community by sharing their passion in singing and dancing. It was later recognised and officiated as one of the performing arts CCA in 2013.
+Show Choir and Dance began as a passionate student-initiated interest group in 2011. Individuals of diverse backgrounds came together with a singular vision: to enliven the SST community by sharing their love for performance. This initiative was officially recognised and established as a core performing arts CCA in 2013.
 
-The Show Choir and Dance consists of two arms; show choir and dance crew. Show choir focuses on artistic performances that combine choral singing along with choreography. Dance crew, on the other hand, delves into groovy street dance performances. Since its founding years, both arms have, on occasions, come together to produce musical productions which gained recognition of peers in the fraternity.
+The CCA comprises two distinct arms. The Show Choir focuses on high-energy artistic performances that seamlessly combine choral singing with complex choreography, while the Dance Crew delves into the techniques of groovy street dance. Each arm immerses members in a unique artistic discipline, providing a dedicated environment to discover their creative potential. By delving deep into the nuances of their chosen art form, students are encouraged to experiment, innovate, and master its distinct expressions.
 
-Although the COVID-19 pandemic inhibited performing opportunities, it paved the way for innovative curriculum such as music video productions to support physical and online school events, a venture that integrated affordances of technology into creative pieces. As safety measures eased, opportunities for live performances resurfaced, allowing our members to once again develop and display their showmanship and artistic expressions.
+Driven by a spirit of innovation, the CCA actively participates in a wide variety of competitions to challenge our members. We pride ourselves on constantly exploring new themes and venturing into fresh competitive arenas. These opportunities allow our members to adapt to different styles, refining their showmanship and artistic expressions on diverse stages.
 
-The commitment to produce passionate and excellent performers not only broadens our members’ artistic repertoire, but also builds them up to be confident individuals who strive to be dynamic and unconventional leaders in time to come.
+This rigorous exposure broadens our members’ artistic repertoire and builds them into confident individuals who strive to be dynamic and unconventional leaders, ready to make a positive impact in the future.
+
 
 #### Training 
-*   Wednesdays (3.00pm to 5.30pm)
+*   Wednesdays (3.20pm to 5.50pm)
 *   Fridays (2.30pm to 5.00pm)
     
 #### Key Competitions/ Programme
+
 *   Singapore Youth Festival Arts Presentation - International Dance
+    
 *   Singapore Youth Festival Arts Presentation - Choir
+    
 *   B-Dazzled Music & Dance Festival
     
-#### Achievements/ Milestones
-##### 2022
 *   Chinese Street Dance Competition
-    *   Champion
     
-* B-Dazzled Music & Dance Festival (Hip-Hop/K-Pop Under-21)
-    *   Diamond Award
+
+#### Achievements/ Milestones
+
+##### 2025
+
+*   Singapore Youth Festival Arts Presentation - Choir (Certificate of Accomplishment)
+    
+*   Singapore Youth Festival Arts Presentation - International Dance(Certificate of Distinction)
+    
+*   Lion City Dance Convention (LCDC)-Junior Showcase category （finals)
+    
 *   B-Dazzled Music & Dance Festival (Show Choir)
-     *   Diamond Award
-     *   Best Costume
-  
+    - Emerald Award
+    - Best Costume
+    
+
+##### 2024
+
+*   Chinese Street Dance Competition
+    - 2nd Runner up
+    
+
+*   Super 24 Dance Competition
+    - Gold Award + Top 10 in finals. 
+    
+
+*   B-Dazzled Music & Dance Festival (Show Choir)
+    -  Platinum Award
+    
+		
+
+##### 2023
+
+*   Singapore Youth Festival Arts Presentation - International Dance(Certificate of Distinction)
+    
+*   Singapore Youth Festival Arts Presentation - Choir (Certificate of Commendation)
+    
+*   B-Dazzled Music & Dance Festival (Show Choir) 
+    - Diamond  Award and Best Showmanship
+    
+
+##### 2022
+
+*   Chinese Street Dance Competition
+    - Champion
+    
+
+*   B-Dazzled Music & Dance Festival (Hip-Hop/K-Pop Under-21)
+    -  Diamond Award
+    
+
+*   B-Dazzled Music & Dance Festival (Show Choir)
+    - Diamond Award
+    - Best Costume
+
 ##### 2021
 
 *   Singapore Youth Festival Arts Presentation - International Dance
+    - Certificate of Accomplishment (senior crew)
+    - Certificate of Accomplishment (junior crew)
     
-     *   Certificate of Accomplishment (senior crew)
-    
-     *   Certificate of Accomplishment (junior crew)
-    
+
 ##### 2019
+
 *   Singapore Youth Festival Arts Presentation - International Dance
+    - Certificate of Distinction
     
-    *   Certificate of Distinction
-    
+
 *   Singapore Youth Festival Arts Presentation - Choir
-    
-    *   Certificate of Accomplishment
+    - Certificate of Accomplishment
     
 *   B-Dazzled Music & Dance Festival (Hip-Hop/K-Pop Under-21)
-    
-    *   Diamond Award and Overall Champion of Hip-Hop/K-Pop Under-21
+    - Diamond Award and Overall Champion of Hip-Hop/K-Pop Under-21
     
 *   B-Dazzled Music & Dance Festival (Show Choir)
-    
-     *   Diamond Award
+    - Diamond Award
    
+
 ##### 2018
 *   B-Dazzled Music & Dance Festival (Show Choir)
-     *   Diamond Award
-    
-     *   Best Costumes Award
-
-     *   Best Props and Sets Award
-    
-     *   Diamond Award (Vocals: Duet)
+    -  Diamond Award
+    - Best Costumes Award
+    - Best Props and Sets Award
+    - Diamond Award (Vocals: Duet)
+  
 
 ![](/images/CCA/show%20choir%2004.jpg)
 *Dance Crew and their instructors*
