@@ -120,3 +120,6 @@ Jet Propulsion Laboratory)*
 
 ![](/images/CCA/astro%2004.jpeg)
 *Participating in Astronomy Competitions (Poster & Quiz)*
+
+![](/images/AstroPark.jpg)
+*Overseas Trip to AstroPark*
