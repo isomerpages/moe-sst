@@ -37,6 +37,7 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 *   SYF Drama Distinction, Taming of the Shrew
 
 
+
 ![](/images/CCA/drama%2001.png) 
 *The English Language Drama Club booth at CCA Fair 2023.*
 
@@ -45,3 +46,6 @@ The pursuit of excellence driven by passion in Drama hones many life skills such
 
 ![](/images/CCA/drama%2004.jpg)
 *Alumni return to help out at CCA Fair 2023.*
+
+![](/images/A_scene_from_Romeo_and_Juliet_during__TellaStory_2024.jpg)
+*A scene from Romeo and Juliet during #TellaStory 2024*
