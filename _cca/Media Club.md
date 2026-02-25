@@ -2,6 +2,7 @@
 title: Media Club
 permalink: /cca/media-club/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/media%20club%20cover.jpeg)
     
