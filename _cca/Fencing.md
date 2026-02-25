@@ -13,8 +13,8 @@ Some people have the misconception about fencing as a sport with no physical int
 All in all, we hope that you have gained a better understanding of what fencing entails. If you think you have what it takes to be a great fencer, come join us! We hope to see you soon.
 
 #### Training 
-* Wednesday (3.10pm to 5.30pm) 
-* Friday (2.25pm to 4.45pm)
+* Wednesdays (3.10pm to 5.30pm) 
+* Fridays (2.25pm to 4.45pm)
 
 #### Key Competitions/ Programme 
 * National School Games (NSG) 
