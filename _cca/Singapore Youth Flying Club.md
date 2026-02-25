@@ -22,7 +22,7 @@ The Singapore Youth Flying Club (SYFC) offers programmes and activities that ign
 #### Achievements / Milestones
 
 
-#### 2025
+##### 2025
 
 **1\. Singapore Amazing Flying Machine Competition (SAFMC) 2025:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
@@ -112,7 +112,7 @@ Achievement - 2nd Place Award (Senior Category)
 
 
     
-#### 2024
+##### 2024
 
 
 **1\. Singapore Amazing Flying Machine Competition (SAFMC) 2024:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
@@ -218,7 +218,7 @@ Achievement - Champion Award (Junior Category)
 *   ONG YU KIAN ENOCH (S2-08)
     
 
-#### 2023
+##### 2023
 
 **1\. Singapore Amazing Flying Machine Competition (SAFMC) 2023:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
@@ -320,7 +320,7 @@ Achievement - Champion Award (Junior Category)
     
 
 
-#### 2022
+##### 2022
 
 **1\. SYFC Inter-school Aeromodelling Competition (SIAC) by SYFC HQ**
 
@@ -390,7 +390,7 @@ Achievement - Most Innovative Design (Propulsion)
     
 
 
-#### 2021
+##### 2021
 
 **1\. Singapore Amazing Flying Machine Competition (SAFMC) 2021:  CATEGORY B - Unpowered Glider (Group) by DSO National Laboratories (DSO) and Science Centre Singapore (SCS)**
 
@@ -439,7 +439,7 @@ Achievement - Best Ideas Award (Team)
    
 
 
-#### 2020
+##### 2020
 
 **1\. Drone Odyssey Challenge 2020 (online) by Singapore Science Centre**
 
@@ -477,4 +477,3 @@ Achievement - 2 Certificates of Distinction
 
 ![](/images/CCA/syfc%202021%20safmc%20lg%20champion%20with%20goh.JPG)
 *2021 SAFMC LG Champion with the G.O.H.*
-
