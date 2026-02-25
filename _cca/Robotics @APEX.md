@@ -39,11 +39,11 @@ Students are also encouraged to embark on ambitious creative projects and apply 
 #### Achievements/ Milestones
 
 
-**2026**
+##### 2026
 *   Singapore VEX V5 Robotics National Championship 2025-26 Sportsmanship Award
  
 
-**2025**
+##### 2025
 
 *   World Robot Olympiad International Finals Future Engineers Senior Category Qualifier
     
@@ -66,7 +66,7 @@ Students are also encouraged to embark on ambitious creative projects and apply 
 *   National Robotics Competition Open Category Secondary Judges’ Award (Merit)
    
 
-**2024:**
+##### 2024
 
 *   VEX V5 Robotics World Championship 2023-24 Qualifier
     
@@ -99,7 +99,7 @@ Students are also encouraged to embark on ambitious creative projects and apply 
 *   First LEGO League Champions Category 2nd Runner Up (Secondary)
     
 
-**2023**
+##### 2023
 
 *   RoboRAVE Kaga Sumobot Challenge (High School) 2nd Place
     
@@ -129,7 +129,7 @@ Students are also encouraged to embark on ambitious creative projects and apply 
     
 
 
-**2022**
+##### 2022
 
 *   World Robot Olympiad International Finals Future Innovators Category Qualifier
     
@@ -156,7 +156,7 @@ Students are also encouraged to embark on ambitious creative projects and apply 
 *   Robot Performance Award (Secondary) 3rd Place\*\*
     
 
-**2021**
+##### 2021
 
 *   Presentation, RoboCup Junior Rescue Line (U19) Merit 
     
@@ -191,7 +191,7 @@ Students are also encouraged to embark on ambitious creative projects and apply 
 *   Champions Award (Secondary) 3rd Place\*\*
     
 
-**2020**
+##### 2020
 
 *   RCAP CoSpace Rescue Challenge (U19) Finalist 
     
