@@ -21,7 +21,7 @@ On the field, our players are fierce competitors who play with respect and deter
 *   National School Games (Football C Division)
 
 ##### Achievements/ Milestones
-**2025**
+##### 2025
 
 *   NSG Fair Play Award for C Division Boys
     
