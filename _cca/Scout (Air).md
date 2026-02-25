@@ -89,8 +89,15 @@ Guided by the Scout Promise and Law, scouts learn through hands-on challenges, s
 \*Note: Due to COVID-19, there is no FCSA assessment.
 
 
-![](/images/CCA/scout%2001.jpg)
-*Aviation training: Glider making session*
+
+![](/images/Air_Scouts_participating_in_a_hiking_activity_in_Jurong_Lake_Garden_as_part_of_the_Founder_s_Day_celebration_for_the_West_Area.jpg)
+*Air Scouts participating in a hiking activity in Jurong Lake Garden as part of the Founder's Day celebration for the West Area*
+
+![](/images/Air_Scouts_showcasing_their__work_in_the_Scout_Go_Solar_Awareness_Road_Show__Passion_Wave.jpg)
+*Air Scouts showcasing their  work in the Scout Go Solar Awareness Road Show @Passion Wave*
+
+![](/images/Air_Scouts_taking_part_in_Scout_Leadershop_Course_together_with_Scouts_from_other_Units_.jpg)
+*Air Scouts taking part in Scout Leadership Course together with Scouts from other Units*
 
 ![](/images/CCA/scout%2002.jpg)
 *Unit bonding: Cycling expedition*
