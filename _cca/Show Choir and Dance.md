@@ -32,7 +32,7 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
 
 #### Achievements/ Milestones
 
-**2025**
+##### 2025
 
 *   Singapore Youth Festival Arts Presentation - Choir (Certificate of Accomplishment)
     
@@ -45,7 +45,7 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
     - Best Costume
     
 
-**2024**
+##### 2024
 
 *   Chinese Street Dance Competition
     - 2nd Runner up
@@ -60,7 +60,7 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
     
 		
 
-**2023**
+##### 2023
 
 *   Singapore Youth Festival Arts Presentation - International Dance(Certificate of Distinction)
     
@@ -70,7 +70,7 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
     - Diamond  Award and Best Showmanship
     
 
-**2022**
+##### 2022
 
 *   Chinese Street Dance Competition
     - Champion
@@ -84,14 +84,14 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
     - Diamond Award
     - Best Costume
 
-**2021**
+##### 2021
 
 *   Singapore Youth Festival Arts Presentation - International Dance
     - Certificate of Accomplishment (senior crew)
     - Certificate of Accomplishment (junior crew)
     
 
-**2019**
+##### 2019
 
 *   Singapore Youth Festival Arts Presentation - International Dance
     - Certificate of Distinction
@@ -107,8 +107,7 @@ This rigorous exposure broadens our members’ artistic repertoire and builds th
     - Diamond Award
    
 
-**2018**
-
+##### 2018
 *   B-Dazzled Music & Dance Festival (Show Choir)
     -  Diamond Award
     - Best Costumes Award
