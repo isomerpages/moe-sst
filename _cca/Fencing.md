@@ -22,21 +22,21 @@ All in all, we hope that you have gained a better understanding of what fencing 
 
 #### Achievements/ Milestones 
 
-**2025**
+##### 2025
 
 *   B-div Gold Medal in National School Games (Fencing - Cadet Men's Foil) - JOVAN LEE KAI WEN
 
 *   B-div Individual 5th in National School Games (Fencing - Cadet Men's Foil) - MAX TIAN-LE FREEBODY
 
 
-**2024**
+##### 2024
 
 *   C-div Team 4th in National School Games (Fencing)
     
 *   C-div Individual Gold Medal in National School Games (Fencing - Cadet Men's Foil) - MAX TIAN-LE FREEBODY
     
 
-**2022:**
+##### 2022
 
 *   C-div Individual 8th in National School Games (Fencing - Cadet Women's Saber) - LEE KEIRA TZE YING
     
