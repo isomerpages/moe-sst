@@ -4,7 +4,7 @@ permalink: /cca/basketball/
 description: ""
 variant: markdown
 ---
-![](/images/CCA/bball%2003.png)
+![](/images/B_Boys_competition_photo.jpg)
 
     
 
