@@ -32,5 +32,3 @@ The saying ‘Tough times don’t last, but tough people do’ reflects the SST 
 *   National School Games B Division Basketball Championship (West Zone, Girls)
     
 *   National School Games C Division Basketball Championship (West Zone, Boys)
-    
-   
