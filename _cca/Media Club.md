@@ -4,7 +4,7 @@ permalink: /cca/media-club/
 description: ""
 variant: markdown
 ---
-![](/images/CCA/media%20club%20cover.jpeg)
+![](/images/Picture_1.jpg)
    
 
 The SST Media Club provides a dynamic platform for students who are passionate about multimedia and technology. Our members come together to explore and create a variety of media forms, including journalism, photography, videography and audio-visual arts. The Club offers a wealth of opportunities to help members develop their skills in the ever-expanding field of multimedia. Those who are interested in video production, school event coverage, or simply honing your craft, the SST Media Club is the perfect place to start.
@@ -157,7 +157,17 @@ At the SST Media Club, members will be able to develop a range of practical skil
     - Liu Shyang Wan Ian(S3-06)  
     - Neo Gao En(S3-07)
     
+![](/images/Picture_2.jpg)
+*Sharing with incoming Sec 1s during CCA Fair 2026*
 
+![](/images/Picture_3.jpg)
+*Learning Journey to SPH Radios 20 Feb 2026*
+
+![](/images/Picture_4.jpg)
+*Learning Journey to Chinatown 29 Aug 2025*
+
+![](/images/Picture_5.jpg)
+*Graduation from the Apple New Media Course 21 May 2025*
 
 ![](/images/CCA/media%20club%2001.jpg)
 *Sharing by Media Club Alumni* 
