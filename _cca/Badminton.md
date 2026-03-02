@@ -4,7 +4,7 @@ permalink: /cca/badminton/
 description: ""
 variant: markdown
 ---
-![](/images/CCA/sst%20badminton%20(b%20div)%205.jpeg)
+![](/images/Our_captains_assemble.jpg)
 
 The SST Badminton CCA was set up in 2010 and has evolved from a small group of students to one of the biggest CCAs in SST.  The team comprises committed and dedicated students who genuinely enjoy the sport.  The members collaborate well and train hard for the yearly National School Games Badminton Competition. 
 
