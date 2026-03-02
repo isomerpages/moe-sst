@@ -48,8 +48,7 @@ Milestones</p>
 </li>
 </ul>
 <h4>Achievements/ Milestones</h4>
-<p><strong>SSEF 2025:</strong>
-</p>
+<h4>SSEF 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>3 Silver Awards (Main Category)</p>
@@ -85,8 +84,7 @@ Milestones</p>
 <p></p>
 </li>
 </ul>
-<p><strong>SSEF 2024:</strong>
-</p>
+<h4>SSEF 2024</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2 Silver Awards (Main Category)</p>

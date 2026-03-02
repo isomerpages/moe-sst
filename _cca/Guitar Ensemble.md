@@ -4,24 +4,37 @@ permalink: /cca/guitar-ensemble/
 description: ""
 variant: markdown
 ---
-![](/images/CCA/guitar%20cover.jpeg)
+![](/images/1_School_of_Science_and_Technology_033_2715.jpg)
   
-Formed in 2010, the Guitar Ensemble is a full-fledged Niibori guitar ensemble made up of a close-knitted community of young passionate musicians. Under the guidance of established guitar conductors, we work towards excellence and continue to be exposed to a wide variety of song genres, from classical to jazz and modern music.
+The School of Science and Technology, Singapore (SST) Guitar Ensemble was established in 2010 to introduce students at SST to classical guitar music. In 2012, the Ensemble expanded to include members playing Niibori guitars from Japan, enabling a richer and more versatile sound palette through the combination of Japanese and Spanish guitar timbres. Since its inception, the Ensemble has grown steadily in both size and artistic maturity, while remaining a close-knit community of young, passionate musicians.  Over the years, the Ensemble has become a family of 60 guitarists.
 
 #### Training 
 *   Wednesdays (3.00pm to 5.00pm)
 *   Fridays (2.30pm to 5.30pm)
     
 #### Key Competitions/ Programme
-*   Singapore Youth Festival (SYF) 
-*   Singapore Raffles Institution Music Festival (SRIMF)
-*   Vienna Virtuoso Festival
-*   Trinity Examination
-*   "Lyrics and Notes" Concert with St. Joseph's Institution
-*   Lunar New Year Concert 
-*   Staff Appreciation Week Concert
-*   SST School Open House
 
+
+*   Singapore Youth Festival (SYF) 
+
+*   Singapore Raffles Institution Music Festival (SRIMF)
+    
+*   Istana Open House Performance 
+    
+*   Concert at Esplanade Recital Hall 
+    
+*   Vienna Virtuoso Festival
+    
+*   Trinity Examination
+    
+*   “Lyrics and Notes” Concert with St. Joseph’s Institution
+    
+*   Lunar New Year Concert 
+    
+*   Staff Appreciation Week Concert
+    
+*   SST School Open House
+    
 #### Achievements/ Milestones
 ##### 2025
 *  2025 Staff Appreciation Week Concert "Wild Pokemon Battle"  
@@ -78,6 +91,10 @@ Formed in 2010, the Guitar Ensemble is a full-fledged Niibori guitar ensemble ma
 *   2015 "Lyrics and Notes" Concert with St. Joseph's Institution
 *   2015 Singapore Raffles International Music Festival (SRIMF)
 *   2015 Singapore Youth Festival (SYF) - Silver Award - "Kiss the Rain" and "Brandenburg Concerto No. 2"
+
+
+![](/images/2_School_of_Science_and_Technology_Z62_4313_copy.jpg)
+*Our enchanting melodies filled all five chambers—the left atrium, the left ventricle, the right atrium, the right ventricle, and the concert hall.*
 
 ![](/images/CCA/guitar%2001.jpg)
 *Behold – The SST Guitar Ensemble!*

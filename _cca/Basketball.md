@@ -32,16 +32,3 @@ The saying ‘Tough times don’t last, but tough people do’ reflects the SST 
 *   National School Games B Division Basketball Championship (West Zone, Girls)
     
 *   National School Games C Division Basketball Championship (West Zone, Boys)
-    
-   
-    
-![](https://lh4.googleusercontent.com/qxiaLsAL9iz_BAacwqjr19GIUTS07Eg0LD0s4vfVtLhFFPGSLHXnzD_mPyS-dihRvjtTpxkSTstxTAdWsWz4MloGkfwXKtGsuSpWy_XNT2tAqftqA9DruzN5DydJwhhXe7Sz8ibTshjoMYxFMhd0ZpA)
-*2023 B Division Girls, SST vs Crest Secondary School*
-
-
-
-![](https://lh3.googleusercontent.com/n9VwiE97CBhxJ8usZ9t_96WZ1vkSvHpJuqCoD4UaTC8Cp5cFkSCpAGX7GvZVbi7zrXbvO2T-FqDaVq_DrfcEjj8fCoS7lngcyRvVNB9EBkIUqYRJrAIXvnhjZooTgqNWfRRn0rNQZ7kv3ACnlmX4Lhc)
-*Mr Teo, our basketball coach, giving instructions to the B Division Girls.*
-
-![](https://lh5.googleusercontent.com/0ysXA5jaB5jb3bL3W4fWMiOmYRyVHyFeT5LFA7QOp_TH0q2_obEkCxbvuhnaKmVnHjX7lNEuRNHbgnfHWX4rrpPTxGOo-xboGn9yKn7OoCuthVQjjO2Z--q-7SWoADrcJJ8D7dkMNKn_j94dyZv2ReM)
-*2022 Farewell Party for Secondary 4 seniors*

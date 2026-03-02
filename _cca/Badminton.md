@@ -2,26 +2,34 @@
 title: Badminton
 permalink: /cca/badminton/
 description: ""
+variant: markdown
 ---
-![](/images/CCA/sst%20badminton%20(b%20div)%205.jpeg)
+![](/images/Our_captains_assemble.jpg)
 
-The SST Badminton CCA was set up in 2010 and has evolved from a small group of students to one of the biggest CCAs in SST.  The team comprises committed and dedicated students who genuinely enjoy the sport.  The members collaborate well and train hard for the yearly West Zone Badminton Competition. 
+The SST Badminton CCA was set up in 2010 and has evolved from a small group of students to one of the biggest CCAs in SST.  The team comprises committed and dedicated students who genuinely enjoy the sport.  The members collaborate well and train hard for the yearly National School Games Badminton Competition. 
 
-
-Through progressive training, friendly matches, CCA Day Camp and reflections, they have been able to hone resilience, perseverance, communication, and badminton skills and learn the importance of teamwork, cooperation and sportsmanship that will serve them well in their daily lives.    
+Through progressive training, friendly matches, CCA Day Camp and reflections, they have been able to hone resilience, perseverance, communication, and badminton skills and learn the importance of teamwork, cooperation and sportsmanship that will serve them well in their daily lives.**
 
 #### Training 
 *   Wednesdays 
-	*   2.30pm to 4.30pm (C Div)
-	*   4.00pm to 6.00pm (B Div)
+	*   2.40pm to 4.40pm (C Div)
+	*   4.10pm to 6.10pm (B Div)
 *   Fridays 
 	*   2.00pm to 6.00pm (C Div)
 	*   3.30pm to 5.30pm (B Div)
     
 
 #### Key Competitions/ Programme
-*   National School Games West Zone Badminton Championships
+
+*   National School Games West Zone B Division Badminton Competition
+    
+*   National School Games C Division League Badminton Championships
+    
 *   CCA Day Camp
+
+    
+![](/images/Our_B_Division_boys_in_a_ready_stance.jpg)
+*Ready to make the feathers fly*
 
 ![](/images/CCA/badmintion%20-%20debrief%20from%20the%20coach.JPG)
 *Debrief from the coach after the National School Games West Zone Badminton Championships Competition.*
