@@ -5,7 +5,9 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Please be informed that SST will be conducting an Emergency
+  Preparedness Exercise (GDX+) on Thursday, 5 March 2026. The school will be
+  closed from 9:00 a.m. till 12:00 noon during the exercise.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
