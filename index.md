@@ -5,7 +5,10 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: SST is proud to support the nationwide initiative “Eat With Your
+  Family Day” on Friday, 13 March 2026, which encourages families to set aside
+  time to bond over a shared meal. In support of this initiative, the General
+  Office will close at 4:00 p.m. on that day.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
