@@ -51,6 +51,6 @@ obtain at least a pass for their capstone project when in Secondary 4.</p>
 <a href="https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology" rel="noopener noreferrer nofollow" target="_blank">School of Life Sciences &amp; Chemical Technology (SoLSCT)</a>. Please
 refer to the diagram below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
 </div>
 <p></p>
