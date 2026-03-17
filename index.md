@@ -5,7 +5,8 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/School_of_Science_and_Technology,_Singapore_logo.png
 permalink: /
-notification: ""
+notification: Please note that the school will be closed on Monday, 23 March
+  2026 (off in lieu for Hari Raya Aidilfitri).
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
