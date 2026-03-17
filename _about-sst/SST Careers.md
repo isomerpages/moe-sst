@@ -209,7 +209,7 @@ pedagogies.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>5) <u>Subject Head History/ Social Studies</u></strong>
+<p><strong>5) <u>Subject Head (History/ Social Studies)</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -221,7 +221,7 @@ the team as aligned with the department’s vision.</p>
 <li>
 <p>Support Head of Department in curriculum leadership and strategic planning
 to establish effective frameworks to monitor and evaluate instructional
-programmes.</p>
+programmes,&nbsp;in the History and Social Studies units.</p>
 </li>
 <li>
 <p>Promotes a community of learners and culture of innovation of team members.</p>
@@ -251,7 +251,8 @@ be an advantage.</p>
 <p>Comfortable with classroom and student management.</p>
 </li>
 <li>
-<p>Passionate to teach the age group of students from 13 to 16 years old.</p>
+<p>Passionate to teach the age group of students from 13 to 16 years old
+for History and Social Studies.</p>
 </li>
 <li>
 <p>Excellent communication and interpersonal skills.</p>
