@@ -1195,13 +1195,13 @@ Specialist</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ahmad Faizi Bin Junaidi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Communications &amp; Engagement Executive</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_faizi_bin _junaidi@sst.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
