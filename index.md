@@ -21,7 +21,8 @@ sections:
       id: infopic
       image: /images/Message_of_the_Day__Banner_2026_V5.jpg
       alt: Image alt text
-      description: 🎉 Join Us at SST School’s Open House! 🎉
+      description: 🎉 Join Us at SST School’s Open House and come experience our
+        vibrant school life! 🎉
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
