@@ -15,6 +15,12 @@ sections:
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
       url: https://www.sst.edu.sg/prep-for-s1/p1/
+  - infopic:
+      title: SST OPEN HOUSE
+      subtitle: SATURDAY, 30 MAY 2026
+      id: infopic
+      image: /images/Google_Form_Open_House_Banner_2026_V4.jpg
+      alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
