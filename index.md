@@ -21,7 +21,7 @@ sections:
       id: infopic
       image: /images/Message_of_the_Day__Banner_2026_V5.jpg
       alt: Image alt text
-      description: 9:00AM TO 1:00PM
+      description: 🎉 Join Us at SST School’s Open House! 🎉
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
