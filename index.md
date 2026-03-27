@@ -17,7 +17,7 @@ sections:
       url: https://www.sst.edu.sg/prep-for-s1/p1/
   - infopic:
       title: SST OPEN HOUSE
-      subtitle: SATURDAY, 30 MAY 2026
+      subtitle: SATURDAY, 30 MAY 2026, 9AM-1PM
       id: infopic
       image: /images/Message_of_the_Day__Banner_2026_V5.jpg
       alt: Image alt text
