@@ -19,7 +19,7 @@ sections:
       title: SST OPEN HOUSE
       subtitle: SATURDAY, 30 MAY 2026
       id: infopic
-      image: /images/Google_Form_Open_House_Banner_2026_V4.jpg
+      image: /images/Message_of_the_Day__Banner_2026_V5.jpg
       alt: Image alt text
   - textcards:
       title: Meet Our Leadership Team
