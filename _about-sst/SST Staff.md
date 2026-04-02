@@ -127,6 +127,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Liao Yin Mei Carine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liao_yin_mei_carine@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nurul Afiah Binte Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,6 +156,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>karlson_goh@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Hui En Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head, Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_hui_en_debbie@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -179,17 +201,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>christine_lam@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liao Yin Mei Carine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liao_yin_mei_carine@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -234,17 +245,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rachel_oh@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Hui En Debbie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_hui_en_debbie@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
