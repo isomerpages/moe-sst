@@ -19,7 +19,7 @@ sections:
       title: SST OPEN HOUSE
       subtitle: SATURDAY, 30 MAY 2026, 9AM-1PM
       id: infopic
-      image: /images/Open_House_Banner_2026_V5.jpg
+      image: /images/Message_of_the_Day__Banner_2026_V5_with_QR_Code.jpg
       alt: Image alt text
       description: 🎉 Join Us at SST School’s Open House and come experience our
         vibrant school life! 🎉
