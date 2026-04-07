@@ -23,6 +23,8 @@ sections:
       alt: Image alt text
       description: 🎉 Join Us at SST School’s Open House and come experience our
         vibrant school life! 🎉
+      url: https://www.eventbrite.sg/e/sst-open-house-2026-tickets-1986516518382
+      button: Click here for more details
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
