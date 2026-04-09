@@ -66,9 +66,11 @@ Guided by the Scout Promise and Law, scouts learn through hands-on challenges, s
     
 *   Other community service initiatives
    
-    
 #### Achievements/ Milestones
 
+##### 2026
+
+*   Frank Cooper Sands Award
 ##### 2025
 
 *   Frank Cooper Sands Award
