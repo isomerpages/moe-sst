@@ -28,6 +28,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Snacks and Drink Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hot and Cold drinks/ snacks&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Muslim Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
