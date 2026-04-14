@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement/
 description: ""
 variant: tiptap
 ---
-<h3>School Canteen Advertisement - Muslim Noodle Stall</h3>
+<h3>School Canteen Advertisement</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
