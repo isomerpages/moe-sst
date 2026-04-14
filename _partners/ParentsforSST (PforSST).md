@@ -32,12 +32,12 @@ sharing communication channel via level chat groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson (Parent Engagement): Poovendhran K</p>
+<p>Vice Chairperson (School Engagement): Poovendhran K</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson (School Engagement &amp; Comms): Amanda Ang</p>
+<p>Vice Chairperson (Parent Engagement): Amanda Ang</p>
 </td>
 </tr>
 <tr>
@@ -52,35 +52,17 @@ sharing communication channel via level chat groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Procurement Lead: May Lim</p>
+<p>Sec 1 Connect: Ng Chek Hock</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communications Lead: Tang Chi Lin</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Level Connect: Ng Chek Hock</p>
+<p>Sec 2 Connect: Jelyn Chew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Level Connect: Jelyn Chew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secs 3 &amp; 4 Level Connect: Isabelle Lee</p>
+<p>Secs 3 &amp; 4 Connect: Isabelle Lee</p>
 </td>
 </tr>
 <tr>
@@ -91,6 +73,16 @@ sharing communication channel via level chat groups.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dads @SST Coordinator: Vasily Malanin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Procurement Lead: May Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Communications Lead: Tang Chi Lin</p>
 </td>
 </tr>
 </tbody>
