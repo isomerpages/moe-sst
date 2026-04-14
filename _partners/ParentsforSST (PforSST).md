@@ -16,7 +16,7 @@ are de facto members of PforSST.&nbsp; Parents who wish to join the Secondary
 <p>Registering will enable you to receive updates on any upcoming activities/events
 organised by PforSST. PforSST will also add registered parents to parents
 sharing communication channel via level chat groups.</p>
-<p><strong>2025 PforSST Executive Committee</strong>
+<p><strong>2026 PforSST Executive Committee</strong>
 </p>
 <p><strong>APEX (Advance Preparation EXecutive)</strong>
 </p>
@@ -27,37 +27,37 @@ sharing communication channel via level chat groups.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson: Mr. Poovendhran K</p>
+<p>Chairperson: Quah Pei Pei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson (Parent Engagement): Ms. Michele Chua</p>
+<p>Vice Chairperson (Parent Engagement): Poovendhran K</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson (School Engagement &amp; Comms): Ms. Carol Lim Mei Mei</p>
+<p>Vice Chairperson (School Engagement &amp; Comms): Amanda Ang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary: Mr.&nbsp;Sean Tan</p>
+<p>Secretary: Kyaw Lynn Myat</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Treasurer: Mr.&nbsp;Edmund Yeo</p>
+<p>Treasurer: Edmund Yeo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Procurement IC / Asst Treasurer: Ms.&nbsp;Amanda Ang</p>
+<p>Procurement Lead: May Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics IC / Asst Secretary: Mr.&nbsp;Kyaw Lynn Myat</p>
+<p>Communications Lead: Tang Chi Lin</p>
 </td>
 </tr>
 </tbody>
@@ -70,32 +70,27 @@ sharing communication channel via level chat groups.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Level Connect: Mr.&nbsp;Ng Chek Hock</p>
+<p>Sec 1 Level Connect: Ng Chek Hock</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Level Connect: Ms. Kuah Pei Pei</p>
+<p>Sec 2 Level Connect: Jelyn Chew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Level Connect: Ms. Isabelle Lee</p>
+<p>Secs 3 &amp; 4 Level Connect: Isabelle Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secs 3 &amp; 4 Level Connect: Ms.&nbsp;Lim Ying Ching</p>
+<p>Dads @SST Coordinator: Tim Wedemeyer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dads @SST Coordinator: Mr.&nbsp;Adrian Ruzsicska</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dads @SST Coordinator: Mr.&nbsp;Tim Wedemeyer</p>
+<p>Dads @SST Coordinator: Vasily Malanin</p>
 </td>
 </tr>
 </tbody>
