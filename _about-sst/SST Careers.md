@@ -569,6 +569,64 @@ in a school environment</p>
 <p>Team player and but able to work and lead projects independently</p>
 </li>
 </ul>
+<p><strong>2) <u>Student Affairs &amp;amp; Services Assistant</u></strong>
+</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Manage daily library operations, including resources, systems, and circulation
+services</p>
+</li>
+<li>
+<p>Support library programmes, user services, and literacy initiatives</p>
+</li>
+<li>
+<p>Supervise students and maintain a safe, conducive learning environment</p>
+</li>
+<li>
+<p>Administer and monitor Late-Coming (LC) records and student data</p>
+</li>
+<li>
+<p>Coordinate and supervise detention, suspension, and student management
+processes</p>
+</li>
+<li>
+<p>Maintain accurate documentation, reporting, and follow-up actions</p>
+</li>
+<li>
+<p>Provide administrative support, including budgeting, resource coordination,
+and compliance with school policies</p>
+</li>
+<li>
+<p>Other duty as assigned under Student Affairs &amp;amp; Services Department</p>
+</li>
+</ul>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nitec or its equivalent from the Library Association of Singapore</p>
+</li>
+<li>
+<p>Working experience in a similar capacity, preferably in a secondary school</p>
+</li>
+<li>
+<p>environment</p>
+</li>
+<li>
+<p>Experience in using the Spydus system will be an added advantage</p>
+</li>
+<li>
+<p>Ability to supervise students firmly and&nbsp;professionally</p>
+</li>
+<li>
+<p>Proficiency in spreadsheets and administrative tools</p>
+</li>
+<li>
+<p>Working Hours: 9 am - 6.30 pm (Mon to Thu) and 9 am - 6 pm (Fri)</p>
+</li>
+</ul>
 <hr>
 <p><strong>Information on the Application Process:</strong>
 </p>
