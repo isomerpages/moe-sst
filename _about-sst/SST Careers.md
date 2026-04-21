@@ -569,7 +569,7 @@ in a school environment</p>
 <p>Team player and but able to work and lead projects independently</p>
 </li>
 </ul>
-<p><strong>2) <u>Student Affairs &amp;amp; Services Assistant</u></strong>
+<p><strong>2) <u>Student Affairs &amp; Services Assistant</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
