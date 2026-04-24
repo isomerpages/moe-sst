@@ -579,27 +579,27 @@ in a school environment</p>
 services</p>
 </li>
 <li>
-<p>Support library programmes, user services, and literacy initiatives</p>
+<p>Support library programmes, user services, and literacy initiatives</p>
 </li>
 <li>
-<p>Supervise students and maintain a safe, conducive learning environment</p>
+<p>Supervise students and maintain a safe, conducive learning environment</p>
 </li>
 <li>
-<p>Administer and monitor Late-Coming (LC) records and student data</p>
+<p>Administer and monitor Late-Coming (LC) records and student data</p>
 </li>
 <li>
-<p>Coordinate and supervise detention, suspension, and student management
+<p>Coordinate and supervise detention, suspension, and student management
 processes</p>
 </li>
 <li>
-<p>Maintain accurate documentation, reporting, and follow-up actions</p>
+<p>Maintain accurate documentation, reporting, and follow-up actions</p>
 </li>
 <li>
-<p>Provide administrative support, including budgeting, resource coordination,
+<p>Provide administrative support, including budgeting, resource coordination,
 and compliance with school policies</p>
 </li>
 <li>
-<p>Other duty as assigned under Student Affairs &amp;amp; Services Department</p>
+<p>Other duty as assigned under Student Affairs &amp;amp; Services Department</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
@@ -609,22 +609,22 @@ and compliance with school policies</p>
 <p>Nitec or its equivalent from the Library Association of Singapore</p>
 </li>
 <li>
-<p>Working experience in a similar capacity, preferably in a secondary school</p>
+<p>Working experience in a similar capacity, preferably in a secondary school</p>
 </li>
 <li>
 <p>environment</p>
 </li>
 <li>
-<p>Experience in using the Spydus system will be an added advantage</p>
+<p>Experience in using the Spydus system will be an added advantage</p>
 </li>
 <li>
-<p>Ability to supervise students firmly and&nbsp;professionally</p>
+<p>Ability to supervise students firmly and&nbsp;professionally</p>
 </li>
 <li>
-<p>Proficiency in spreadsheets and administrative tools</p>
+<p>Proficiency in spreadsheets and administrative tools</p>
 </li>
 <li>
-<p>Working Hours: 9 am - 6.30 pm (Mon to Thu) and 9 am - 6 pm (Fri)</p>
+<p>Working Hours: 9 am - 6.30 pm (Mon to Thu) and 9 am - 6 pm (Fri)</p>
 </li>
 </ul>
 <hr>
