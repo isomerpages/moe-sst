@@ -441,6 +441,8 @@ approach.</p>
 </p>
 <p><strong>10) <u>Mathematics Teacher</u></strong>
 </p>
+<p><strong>11) <u>Social Studies FAJT</u></strong>
+</p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/ assigned subject.&nbsp; This
@@ -609,10 +611,8 @@ and compliance with school policies</p>
 <p>Nitec or its equivalent from the Library Association of Singapore</p>
 </li>
 <li>
-<p>Working experience in a similar capacity, preferably in a secondary school</p>
-</li>
-<li>
-<p>environment</p>
+<p>Working experience in a similar capacity, preferably in a secondary school
+environment</p>
 </li>
 <li>
 <p>Experience in using the Spydus system will be an added advantage</p>
