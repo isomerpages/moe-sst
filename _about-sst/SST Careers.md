@@ -609,10 +609,8 @@ and compliance with school policies</p>
 <p>Nitec or its equivalent from the Library Association of Singapore</p>
 </li>
 <li>
-<p>Working experience in a similar capacity, preferably in a secondary school</p>
-</li>
-<li>
-<p>environment</p>
+<p>Working experience in a similar capacity, preferably in a secondary school
+environment</p>
 </li>
 <li>
 <p>Experience in using the Spydus system will be an added advantage</p>
