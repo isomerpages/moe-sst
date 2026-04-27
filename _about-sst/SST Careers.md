@@ -441,6 +441,8 @@ approach.</p>
 </p>
 <p><strong>10) <u>Mathematics Teacher</u></strong>
 </p>
+<p><strong>11) <u>Social Studies FAJT</u></strong>
+</p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
 and teaching of an integrated curriculum/ assigned subject.&nbsp; This
