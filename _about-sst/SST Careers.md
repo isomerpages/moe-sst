@@ -325,73 +325,10 @@ an advantage.</p>
 </li>
 <li>
 <p>Good team player.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>7) <u>Geography Teacher</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
-</li>
-<li>
-<p>Strong communication and collaboration skills, with a student-centred
-approach.</p>
-</li>
-<li>
-<p>Deliver engaging Geography lessons that cater to diverse learning needs
-and abilities.</p>
-</li>
-<li>
-<p>Develop students’ proficiency in critical thinking through innovative
-and applied learning approaches.</p>
-</li>
-<li>
-<p>Assess and monitor students’ progress, providing constructive feedback
-and targeted support.</p>
-</li>
-<li>
-<p>Collaborate with colleagues on curriculum planning, assessment design,
-and professional development.</p>
-</li>
-<li>
-<p>Mentor and guide students as a Form Teacher, fostering a caring and supportive
-classroom culture (if needed).</p>
-</li>
-<li>
-<p>Contribute to the holistic education of students by supporting co-curricular
-activities and school events (if needed).</p>
-</li>
-</ul>
-<p><strong>Job Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A good undergraduate degree in the relevant discipline. BA (Geography)
-preferred.</p>
-</li>
-<li>
-<p>A Postgraduate Diploma in Education (PGDE) from the National Institute
-of Education (NIE), Diploma in Education from NIE or any other equivalent
-teaching qualifications is preferred.</p>
-</li>
-<li>
-<p>Proficiency in the use of education technology or data analysis will be
-an advantage.</p>
-</li>
-<li>
-<p>Comfortable with classroom and student management.</p>
-</li>
-<li>
-<p>Passion to teach the age group of students from 13 to 16 years old.</p>
-</li>
-<li>
-<p>Excellent communication and interpersonal skills.</p>
-</li>
-<li>
-<p>Good team player.</p>
-</li>
-</ul>
-<p><strong>8) <u>Malay Language&nbsp;Teacher</u></strong>
+<p><strong>7) <u>Malay Language&nbsp;Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -437,11 +374,11 @@ any other equivalent teaching qualifications</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>9) <u>Science (Biology/ Chemistry) Teacher</u></strong>
+<p><strong>8) <u>Science (Biology/ Chemistry) Teacher</u></strong>
 </p>
-<p><strong>10) <u>Mathematics Teacher</u></strong>
+<p><strong>9) <u>Mathematics Teacher</u></strong>
 </p>
-<p><strong>11) <u>Social Studies FAJT</u></strong>
+<p><strong>10) <u>Social Studies FAJT</u></strong>
 </p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
