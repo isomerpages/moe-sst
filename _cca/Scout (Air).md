@@ -70,25 +70,25 @@ Guided by the Scout Promise and Law, scouts learn through hands-on challenges, s
 
 ##### 2026
 
-*   Frank Cooper Sands Award
+*   Frank Cooper Sands Award (for WY 2025)
 ##### 2025
 
-*   Frank Cooper Sands Award
+*   Frank Cooper Sands Award (for WY 2024)
     
-*   Ngee Ann Polytechnic Aerobot Challenge 2026 (Champion)
+*   Ngee Ann Polytechnic Aerobot Challenge 2025 (Champion)
     
 ##### 2024
 
-*   Frank Cooper Sands Award
+*   Frank Cooper Sands Award (for WY 2023)
 
-##### 2022
-*  Frank Cooper Sands Award (Silver)
+##### 2022-2023
+*  Frank Cooper Sands Award (Silver) (for WY 2021-2022)
 
 ##### 2015-2019
 
-*   Frank Cooper Sands Award (Bronze)
+*   Frank Cooper Sands Award (Bronze) (for WY 2014-2018)
 
-\*Note: Due to COVID-19, there is no FCSA assessment.
+\*Note: Due to COVID-19, there is no FCSA assessment for Work Year (WY) 2019 and 2020.
 
 
 
