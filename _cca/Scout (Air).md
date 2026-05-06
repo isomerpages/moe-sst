@@ -71,6 +71,8 @@ Guided by the Scout Promise and Law, scouts learn through hands-on challenges, s
 ##### 2026
 
 *   Frank Cooper Sands Award (for WY 2025)
+
+
 ##### 2025
 
 *   Frank Cooper Sands Award (for WY 2024)
