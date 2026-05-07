@@ -28,13 +28,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snacks and Drink Stall</p>
+<p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 April 2026</p>
+<p>29 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hot and Cold drinks/ snacks&nbsp;&nbsp;</p>
+<p>Fishball Noodles, Minced Meat Noodles, Laksa/ Curry Noodles, Wantan Mee,
+Fried Noodles/ Beehoon&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +46,7 @@ variant: tiptap
 <p>27 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal noodle dishes&nbsp;&nbsp;</p>
+<p>Halal Noodle Dishes&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>
