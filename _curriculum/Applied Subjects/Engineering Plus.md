@@ -3,9 +3,22 @@ title: Engineering Plus
 permalink: /applied-subjects/engineering-plus/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
-The World Economic Forum believes that connected devices will outnumber people worldwide. These electronic devices, commonly known as the internet of things (IoT), come in many forms and applications. By 2025, the number of IoT devices is projected to exceed 40 billion, fuelled by continued technological advances and the plummeting costs of computing, storage and connectivity to spread to all aspects of daily life.
+At SST, **Engineering+ (Electronics and Computing)** equips students with the knowledge and skills to thrive in this rapidly evolving technological landscape. The subject integrates electronics, programming and computational thinking, enabling students to design, prototype and build intelligent systems that solve real-world problems.
 
-Programming is a must for every Electronics Engineering field except hardware design field. But knowing programming will help the hardware engineer also to create hardware better. IoT requires engineers who can manage the confluence of electronics and programming.
+  
 
-Computational thinking is a set of skills that involve expressing problems and their solutions in ways that a computer could execute. Increasingly, the SST alumni have reiterated to the school on the importance of programming and computational thinking in augmenting their university specialisations. External scans with students from UCLA Berkeley, Stanford and even the local universities have further validated the value of SST offering Engineering+ (Electronics and Computing) as a course option.
+Students learn how hardware and software work together through hands-on projects involving sensors, microcontrollers, embedded systems and IoT technologies. As programming becomes increasingly essential across engineering disciplines, students develop the ability to bridge electronics with computing, preparing them for future pathways in engineering, computer science, artificial intelligence and emerging technologies.
+
+  
+
+Engineering+ also introduces students to the exciting frontier of **Space Technology**. Drawing on their knowledge of electronics, coding, and systems design, students will have opportunities to explore the development of nanosatellites and smart space-based systems. Through these authentic learning experiences, students gain insight into how modern satellites collect data, communicate and support applications ranging from environmental monitoring to global connectivity. 
+
+  
+
+Central to the subject is the development of **computational thinking**: the ability to analyse problems logically, design systematic solutions and express them in forms that computers can execute. SST alumni have consistently shared how the foundations built through Engineering+ gave them an advantage in university courses and interdisciplinary fields. External engagements with students and institutions, such as **Stanford University**, **the University of California, Berkeley**, and local universities, further affirm the relevance and value of SST’s distinctive Engineering+ offering.
+
+  
+
+More than just a subject, Engineering+ empowers students to become future-ready innovators who can harness technology purposefully, ethically and creatively to shape the world of tomorrow.
