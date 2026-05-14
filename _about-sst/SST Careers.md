@@ -10,54 +10,7 @@ innovators who improve society through real-world applications of science
 and technology. If what we do excites you, talk to us about building a
 rewarding career at SST!</p>
 <h4>Join Our Academic Team</h4>
-<p><strong>1) <u>Art, Design, Media &amp; Technology (ADMT) Teacher</u></strong>
-</p>
-<p><strong>Duties and Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Deliver creative and engaging lessons in Art, Design, Media &amp; Technology.</p>
-</li>
-<li>
-<p>Incorporate design thinking, digital tools, and applied learning approaches
-into the classroom.</p>
-</li>
-<li>
-<p>Guide students through the creative process, from ideation to prototyping
-and showcasing their work.</p>
-</li>
-<li>
-<p>Collaborate with colleagues to create interdisciplinary projects that
-connect with other subject areas.</p>
-</li>
-<li>
-<p>Support co-curricular programmes, projects, and events that foster innovation
-and creative confidence.</p>
-</li>
-</ul>
-<p><strong>Job Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A recognised degree in Art, Design, Media, Technology, or related fields.</p>
-</li>
-<li>
-<p>Passion for applied learning, creativity, and interdisciplinary teaching.</p>
-</li>
-<li>
-<p>Proficiency in relevant design and/or multimedia software.</p>
-</li>
-<li>
-<p>Strong communication and collaboration skills, with a student-centred
-approach.</p>
-</li>
-<li>
-<p>Teaching qualification and experience in a school setting are preferred,
-but industry professionals with a passion for education are welcome to
-apply.</p>
-</li>
-</ul>
-<p><strong>2) <u>English Language Teacher</u></strong>
+<p><strong>1) <u>English Language Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -103,7 +56,7 @@ or any other equivalent teaching qualifications.</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>3) <u>Chinese Language&nbsp;Teacher</u></strong>
+<p><strong>2) <u>Chinese Language&nbsp;Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -149,7 +102,7 @@ equivalent teaching qualifications</p>
 approach.</p>
 </li>
 </ul>
-<p><strong>4) <u>Computing and Cybersecurity Teacher</u></strong>
+<p><strong>3) <u>Computing and Cybersecurity Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -209,7 +162,7 @@ pedagogies.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>5) <u>Subject Head (History/ Social Studies)</u></strong>
+<p><strong>4) <u>Subject Head (History/ Social Studies)</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -261,7 +214,7 @@ for History and Social Studies.</p>
 <p>Good team leader and player.</p>
 </li>
 </ul>
-<p><strong>6)</strong>  <strong><u>History/ Social Studies Teacher</u></strong>
+<p><strong>5)</strong>  <strong><u>History/ Social Studies Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -328,7 +281,7 @@ an advantage.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>7) <u>Malay Language&nbsp;Teacher</u></strong>
+<p><strong>6) <u>Malay Language&nbsp;Teacher</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -372,13 +325,22 @@ any other equivalent teaching qualifications</p>
 <li>
 <p>Strong communication and collaboration skills, with a student-centred
 approach.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>8) <u>Science (Biology/ Chemistry) Teacher</u></strong>
+<p><strong>7) <u>Mathematics Teacher</u></strong>
 </p>
-<p><strong>9) <u>Mathematics Teacher</u></strong>
+<p><strong>8) <u>Social Studies FAJT</u></strong>
 </p>
-<p><strong>10) <u>Social Studies FAJT</u></strong>
+<p><strong>9) <u>Science (Biology/Biotech) Teacher</u></strong>
+</p>
+<p><strong>10) <u>Science (Physics) Teacher</u></strong>
+</p>
+<p><strong>11)&nbsp;<u>Sports and Wellness Teacher</u></strong>
+</p>
+<p><strong>12) <u>Subject Head (History/ Social Studies)</u></strong>
+</p>
+<p><strong>13)&nbsp;<u>History/Social Studies Teacher</u></strong>
 </p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
