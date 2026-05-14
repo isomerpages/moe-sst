@@ -43,8 +43,7 @@ collaborate across different cultural contexts for the betterment of society.</p
 <p>Tah Kah Kee Young Inventors’ Award (TKKYI)</p>
 </li>
 <li>
-<p>GT College International Science Project Competition (GTC-ISPC)Achievements/
-Milestones</p>
+<p>GT College International Science Project Competition (GTC-ISPC)</p>
 </li>
 </ul>
 <h4>Achievements/ Milestones</h4>
