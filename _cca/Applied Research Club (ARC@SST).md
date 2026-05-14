@@ -47,6 +47,40 @@ collaborate across different cultural contexts for the betterment of society.</p
 </li>
 </ul>
 <h4>Achievements/ Milestones</h4>
+<h4>SSEF 2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSEF 2026 (Main Category):&nbsp;</p>
+</li>
+<li>
+<p>1 Gold Award</p>
+</li>
+<li>
+<p>1 Silver Award</p>
+</li>
+<li>
+<p>1 Bronze Award&nbsp;</p>
+</li>
+<li>
+<p>2 Merit Awards</p>
+</li>
+<li>
+<p>SUTD Research and Innovation Award (Multidisciplinary) Award</p>
+</li>
+<li>
+<p>James Dyson Foundation Design Engineering Award</p>
+<p></p>
+</li>
+</ul>
+<p>GT College International Science Project Competition (GTC-ISPC) 2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overall Champion</p>
+</li>
+<li>
+<p>Greatest Potential Award</p>
+</li>
+</ul>
 <h4>SSEF 2025</h4>
 <ul data-tight="true" class="tight">
 <li>
