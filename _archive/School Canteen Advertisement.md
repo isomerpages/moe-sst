@@ -82,7 +82,7 @@ date via email OR to the School's General Office.</p>
 <br>School Address: School of Science and Technology, Singapore. 1 Technology
 Drive, Singapore 138572
 <br>School Contact Number: 6571 7200
-<br>Email: <a href="mailto:contactus@sst.edu.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@sst.edu.sg</a>
+<br>Email: <a href="mailto:gan_boon_seng_ashton@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_boon_seng_ashton@schools.gov.sg</a>
 </p>
 <p>4. How to get to the school?</p>
 <ul>
