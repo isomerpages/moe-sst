@@ -28,6 +28,10 @@ OCBC, PSA and Sembcorp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
 </div>
+<blockquote>
+<p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
+</p>
+</blockquote>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
