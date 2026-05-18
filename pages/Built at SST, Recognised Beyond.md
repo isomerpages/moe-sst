@@ -561,7 +561,7 @@ seed funding</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engineering and Tech Programme Scholarship (ETPS)</p>
+<p>Engineering and Tech Programme (ETPS) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan, Fidele Poh Xing
@@ -571,7 +571,7 @@ Thirun, Nikola Winata, Bagavathula Sai Neha</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSIT Scholarship</p>
+<p>Centre for Strategic Infocomm Technologies Scholarship (CSIT) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb, Gabriel Ng Kai
@@ -581,7 +581,7 @@ Nandakumar Aravind</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSTA Scholarship</p>
+<p>Defence Science and Technology Agency (DSTA) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui Matthew, Jayden
