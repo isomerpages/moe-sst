@@ -48,16 +48,24 @@ for engineering, cybersecurity and technology innovation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
 </div>
-<p></p>
+<blockquote>
+<p><sup>CSIT Scholarship 2025 awardees </sup>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
 </div>
-<p>
-<br>
+<blockquote>
+<p><sup><sub>DSTA Scholarship 2025 awardees </sub></sup>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/ETPS_2025.jpg">
 </div>
+<blockquote>
+<p><sup><sub>&nbsp;ETPS Scholarship 2025 awardees</sub></sup>
+</p>
+</blockquote>
 <p>While our alumni pursue diverse pathways, they continue to embody the
 SST spirit of innovation, applied learning and meaningful impact. We congratulate
 all our alumni on their remarkable achievements and look forward to their
