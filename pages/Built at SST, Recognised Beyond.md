@@ -36,9 +36,7 @@ in seed funding for their education technology startup.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/Hult_award.jpg">
 </div>
 <blockquote>
-<p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left), co-founders of Stick ’Em (@</sub></sup>
-<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>stickem.sg</sub></sup>
-</a><sup><sub>), </sub></sup>
+<p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left)</sub></sup>
 </p>
 </blockquote>
 <p>Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
