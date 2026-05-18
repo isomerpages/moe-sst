@@ -44,13 +44,20 @@ service to the community.</p>
 <p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
 CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
 for engineering, cybersecurity and technology innovation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
+</div>
 <p>
 <br>
 </p>
-<p>📸 [Insert scholarship recipients group photo]</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/ETPS_2025.jpg">
+</div>
 <p>While our alumni pursue diverse pathways, they continue to embody the
 SST spirit of innovation, applied learning and meaningful impact. We congratulate
 all our alumni on their remarkable achievements and look forward to their
