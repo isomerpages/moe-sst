@@ -49,14 +49,14 @@ for engineering, cybersecurity and technology innovation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
 </div>
 <blockquote>
-<p><sup>CSIT Scholarship 2025 awardees </sup>
+<p><sup><sub>CSIT Scholarship 2025 awardees</sub></sup>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
 </div>
 <blockquote>
-<p><sup><sub>DSTA Scholarship 2025 awardees </sub></sup>
+<p><sup><sub>DSTA Scholarship 2025 awardees</sub></sup>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
