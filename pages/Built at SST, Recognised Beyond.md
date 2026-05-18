@@ -8,13 +8,11 @@ description: Alumni Achievements
 our alumni who continue to excel across diverse pathways through innovation,
 leadership and excellence. Their achievements reflect the applied learning
 mindset, curiosity and resilience nurtured during their time at SST.</p>
-<p>
-<br>
-</p>
-<p>📸 [Insert collage photo of alumni award recipients / graduation moments]</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
+</div>
+<p></p>
 <h3>Highlights from our alumni achievements include:</h3>
 <ul data-tight="true" class="tight">
 <li>
