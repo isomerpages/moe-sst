@@ -41,6 +41,10 @@ service to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg">
 </div>
+<blockquote>
+<p><sup><sub>Erica Seah (middle) at the award ceremony for the Lee Kuan Yew Award for All-Round Excellence</sub></sup>
+</p>
+</blockquote>
 <p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
 CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
 for engineering, cybersecurity and technology innovation.</p>
