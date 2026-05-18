@@ -9,10 +9,10 @@ our alumni who continue to excel across diverse pathways through innovation,
 leadership and excellence. Their achievements reflect the applied learning
 mindset, curiosity and resilience nurtured during their time at SST.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
+</div>
 <h3>Highlights from our alumni achievements include:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,15 +25,11 @@ cybersecurity, architecture, design and media.</p>
 Achievement Awards, Gold and Silver Medals, as well as prizes sponsored
 by organisations such as Amazon Web Services, Cisco Systems, A*STAR, IMDA,
 OCBC, PSA and Sembcorp.</p>
-<p>
-<br>
-</p>
 </li>
 </ul>
-<p>📸 [Insert photo of award ceremony / medal recipients]</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
+</div>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
