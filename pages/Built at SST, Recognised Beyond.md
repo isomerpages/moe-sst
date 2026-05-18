@@ -8,8 +8,6 @@ description: Alumni Achievements
 our alumni who continue to excel across diverse pathways through innovation,
 leadership and excellence. Their achievements reflect the applied learning
 mindset, curiosity and resilience nurtured during their time at SST.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
 </div>
@@ -34,26 +32,18 @@ OCBC, PSA and Sembcorp.</p>
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
 in seed funding for their education technology startup.</p>
-<p>
-<br>
-</p>
-<p>📸 [Insert Stick ’Em / Hult Prize team photo]</p>
-<p>
-<br>
-</p>
-<p>👏 Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/Hult_award.jpg">
+</div>
+<p>Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
 for All-Round Excellence in recognition of her leadership, resilience and
 service to the community.</p>
-<p>
-<br>
-</p>
-<p>📸 [Insert Erica Seah award presentation photo]</p>
-<p>
-<br>
-</p>
-<p>🎓 Alumni being awarded the Engineering and Tech Programme Scholarship
-(ETPS), CSIT Scholarship and DSTA Scholarship, reflecting their continued
-passion for engineering, cybersecurity and technology innovation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg">
+</div>
+<p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
+CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
+for engineering, cybersecurity and technology innovation.</p>
 <p>
 <br>
 </p>
