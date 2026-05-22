@@ -8,13 +8,9 @@ description: Alumni Achievements
 our alumni who continue to excel across diverse pathways through innovation,
 leadership and excellence. Their achievements reflect the applied learning
 mindset, curiosity and resilience nurtured during their time at SST.</p>
-<p>
-<br>
-</p>
-<p>📸 [Insert collage photo of alumni award recipients / graduation moments]</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
+</div>
 <h3>Highlights from our alumni achievements include:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -27,46 +23,61 @@ cybersecurity, architecture, design and media.</p>
 Achievement Awards, Gold and Silver Medals, as well as prizes sponsored
 by organisations such as Amazon Web Services, Cisco Systems, A*STAR, IMDA,
 OCBC, PSA and Sembcorp.</p>
-<p>
-<br>
-</p>
 </li>
 </ul>
-<p>📸 [Insert photo of award ceremony / medal recipients]</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
+</div>
+<blockquote>
+<p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
 </p>
+</blockquote>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
 in seed funding for their education technology startup.</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/Hult_award.jpg">
+</div>
+<blockquote>
+<p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left)</sub></sup>
 </p>
-<p>📸 [Insert Stick ’Em / Hult Prize team photo]</p>
-<p>
-<br>
-</p>
-<p>👏 Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
+</blockquote>
+<p>Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
 for All-Round Excellence in recognition of her leadership, resilience and
 service to the community.</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg">
+</div>
+<blockquote>
+<p><sup><sub>Erica Seah (middle) at the award ceremony for the Lee Kuan Yew Award for All-Round Excellence</sub></sup>
 </p>
-<p>📸 [Insert Erica Seah award presentation photo]</p>
-<p>
-<br>
+</blockquote>
+<p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
+CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
+for engineering, cybersecurity and technology innovation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
+</div>
+<blockquote>
+<p><sup><sub>Recipients of CSIT Scholarship</sub></sup>
 </p>
-<p>🎓 Alumni being awarded the Engineering and Tech Programme Scholarship
-(ETPS), CSIT Scholarship and DSTA Scholarship, reflecting their continued
-passion for engineering, cybersecurity and technology innovation.</p>
-<p>
-<br>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
+</div>
+<blockquote>
+<p><sup><sub>Recipients of DSTA Scholarship</sub></sup>
 </p>
-<p>📸 [Insert scholarship recipients group photo]</p>
-<p>
-<br>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/ETPS_2025.jpg">
+</div>
+<blockquote>
+<p><sup><sub>&nbsp;Recipients of ETPS Scholarship</sub></sup>
 </p>
+</blockquote>
 <p>While our alumni pursue diverse pathways, they continue to embody the
 SST spirit of innovation, applied learning and meaningful impact. We congratulate
 all our alumni on their remarkable achievements and look forward to their
@@ -562,7 +573,7 @@ seed funding</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engineering and Tech Programme Scholarship (ETPS)</p>
+<p>Engineering and Tech Programme (ETPS) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan, Fidele Poh Xing
@@ -572,7 +583,7 @@ Thirun, Nikola Winata, Bagavathula Sai Neha</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSIT Scholarship</p>
+<p>Centre for Strategic Infocomm Technologies Scholarship (CSIT) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb, Gabriel Ng Kai
@@ -582,7 +593,7 @@ Nandakumar Aravind</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSTA Scholarship</p>
+<p>Defence Science and Technology Agency (DSTA) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui Matthew, Jayden
