@@ -28,12 +28,12 @@ Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/IMG_0693.jpg">
 </div>
-</li>
-</ul>
 <blockquote>
 <p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
 </p>
 </blockquote>
+</li>
+</ul>
 <p></p>
 <h4>Celebrating Outstanding Alumni Trailblazers</h4>
 <p><strong>Global Innovation: Stick ’Em</strong>
