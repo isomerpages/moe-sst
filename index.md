@@ -5,7 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
-notification: ""
+notification: The General Office will be closed for the entire day on Monday, 8 June 2026.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
@@ -15,16 +15,6 @@ sections:
       subtitle: School of Science and Technology, Singapore
       title: Shaping Passionate Innovators, The SST Way
       url: https://www.sst.edu.sg/prep-for-s1/p1/
-  - infopic:
-      title: SST OPEN HOUSE
-      subtitle: SATURDAY, 30 MAY 2026, 9AM-1PM
-      id: infopic
-      image: /images/Message_of_the_Day__Banner_2026_V5_with_QR_Code_UPDATE_.jpg
-      alt: Image alt text
-      description: 🎉 Join Us at SST School’s Open House and come experience our
-        vibrant school life! 🎉
-      url: https://www.eventbrite.sg/e/sst-open-house-2026-tickets-1986516518382
-      button: Click here to RSVP
   - textcards:
       title: Meet Our Leadership Team
       id: textcards
@@ -47,6 +37,15 @@ sections:
           description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
+  - infopic:
+      title: Nurtured at SST, Recognised Beyond
+      id: infopic
+      description: From STEM innovation to leadership and entrepreneurship, see how
+        SST alumni are excelling beyond school.
+      button: Learn More
+      url: /nurtured-at-sst-recognised-beyond/
+      alt: Image alt text
+      image: /images/Nurtured at SST/upscalemedia_transformed__2_.jpg
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards

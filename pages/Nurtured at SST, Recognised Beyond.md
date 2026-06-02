@@ -1,78 +1,96 @@
 ---
-title: Built at SST, Recognised Beyond
-permalink: /built-at-sst-recognised-beyond/
+title: Nurtured at SST, Recognised Beyond
+permalink: /nurtured-at-sst-recognised-beyond/
 variant: tiptap
 description: Alumni Achievements
 ---
-<p>At the School of Science and Technology, Singapore, we are proud to celebrate
-our alumni who continue to excel across diverse pathways through innovation,
-leadership and excellence. Their achievements reflect the applied learning
-mindset, curiosity and resilience nurtured during their time at SST.</p>
+<p>Our alumni continue to demonstrate how innovation, applied learning and
+integrated learning can create meaningful impact beyond the classroom.
+School of Science and Technology, Singapore, is proud to celebrate their
+achievements across diverse pathways, industries and communities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/LKY_Award.jpg">
 </div>
-<h3>Highlights from our alumni achievements include:</h3>
+<h4>Highlights from our alumni achievements include:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Numerous alumni receiving Diplomas with Merit, course medals, valedictorian
-honours and industry-sponsored prizes across engineering, biomedical science,
-cybersecurity, architecture, design and media.</p>
+<p>Numerous graduates who have received valedictorian honours, course medals,
+diplomas with merit, and industry-sponsored prizes across fields such as
+engineering, biomedical science, cybersecurity, architecture, design, and
+media.</p>
 </li>
 <li>
-<p>Prestigious recognitions including the Lee Kuan Yew Award, Outstanding
-Achievement Awards, Gold and Silver Medals, as well as prizes sponsored
-by organisations such as Amazon Web Services, Cisco Systems, A*STAR, IMDA,
-OCBC, PSA and Sembcorp.</p>
-</li>
-</ul>
+<p>Prestigious accolades bestowed upon them, including the Lee Kuan Yew Award,
+Outstanding Achievement Awards, and Gold and Silver Medals. These were
+proudly sponsored by leading organisations such as Amazon Web Services,
+Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/IMG_0693.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
 </p>
 </blockquote>
+</li>
+</ul>
+<p></p>
+<h4>Celebrating Outstanding Alumni Trailblazers</h4>
+<p><strong>Global Innovation: Stick ’Em</strong>
+</p>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
 in seed funding for their education technology startup.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/Hult_award.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/Hult_award.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left)</sub></sup>
 </p>
 </blockquote>
+<p></p>
+<p><strong>Holistic Leadership: Erica Seah</strong>
+</p>
 <p>Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
 for All-Round Excellence in recognition of her leadership, resilience and
 service to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/upscalemedia_transformed__2_.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Erica Seah (middle) at the award ceremony for the Lee Kuan Yew Award for All-Round Excellence</sub></sup>
 </p>
 </blockquote>
+<p><strong>Engineering the Future: Tech &amp; Defence Scholarships</strong>
+</p>
 <p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
 CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
 for engineering, cybersecurity and technology innovation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/CSIT_Scholarship_2025.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Recipients of CSIT Scholarship</sub></sup>
 </p>
 </blockquote>
+<blockquote>
+<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/DSTA_Scholarship_2025_censored.png">
 </div>
 <blockquote>
 <p><sup><sub>Recipients of DSTA Scholarship</sub></sup>
 </p>
 </blockquote>
+<blockquote>
+<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/ETPS_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/ETPS_2025.jpg">
 </div>
 <blockquote>
 <p><sup><sub>&nbsp;Recipients of ETPS Scholarship</sub></sup>
@@ -81,8 +99,9 @@ for engineering, cybersecurity and technology innovation.</p>
 <p>While our alumni pursue diverse pathways, they continue to embody the
 SST spirit of innovation, applied learning and meaningful impact. We congratulate
 all our alumni on their remarkable achievements and look forward to their
-continued contributions beyond SST.</p>
+continued contributions to SST and beyond.</p>
 <p></p>
+<h4></h4>
 <h4><strong>Engineering &amp; Technology</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -280,6 +299,14 @@ with Merit</p>
 <p>Diploma with Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chew Ming Hong, Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -304,11 +331,11 @@ with Merit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Zhi En</p>
+<p>Deborah Wong Zhi En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Medallist in Biomedical Science, All Eights (Singapore) Gold Medal,
-Diploma with Merit</p>
+<p>Course Medallist in Biomedical Science (Top Student of the Course), All
+Eights (Singapore) Gold Medal, Diploma with Merit</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +398,7 @@ Gold Medal &amp; Prize, BioMedix Prize, Diploma with Merit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PNG Hyok Zing</p>
+<p>Png Hyok Zing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diploma with Merit</p>
@@ -573,22 +600,22 @@ seed funding</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engineering and Tech Programme (ETPS) Scholarship</p>
+<p>Engineering and Tech Programme Scholarship (ETPS) -&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan, Fidele Poh Xing
-Yun, Luke Yeo, Ayaan Jain, Irina Zi En Tan, Han Jeong Seu Caleb, Theshyan
-Thirun, Nikola Winata, Bagavathula Sai Neha</p>
+<p>(Class of 2024) Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan,
+Fidele Poh Xing Yun, Luke Yeo, Ayaan Jain, Irina Zi En Tan, Han Jeong Seu
+Caleb, Theshyan Thirun, Nikola Winata, Bagavathula Sai Neha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Centre for Strategic Infocomm Technologies Scholarship (CSIT) Scholarship</p>
+<p>Centre for Strategic Infocomm Technologies (CSIT) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb, Gabriel Ng Kai
-Jun, Luke Yeo, Lim Jun Rui, Chew Keng Yik Eason, Irina Zi-En Tan, Bellam
-Nandakumar Aravind</p>
+<p>(Class of 2024) Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb,
+Gabriel Ng Kai Jun, Luke Yeo, Lim Jun Rui, Chew Keng Yik Eason, Irina Zi-En
+Tan, Bellam Nandakumar Aravind</p>
 </td>
 </tr>
 <tr>
@@ -596,13 +623,12 @@ Nandakumar Aravind</p>
 <p>Defence Science and Technology Agency (DSTA) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui Matthew, Jayden
-Ng Kwan Zi, Tay Kai Quan, Lim Yi Ren Eben, Darius Toh Jun Yu, Anjali Curic,
-Ravin Nagpal, Tan Yu Zhe Richard, Ryan Tung Tze-Jin, Nicole Tan Yitong</p>
+<p>(Class of 2024) Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui
+Matthew, Jayden Ng Kwan Zi, Tay Kai Quan, Lim Yi Ren Eben, Darius Toh Jun
+Yu, Anjali Curic, Ravin Nagpal, Tan Yu Zhe Richard, Ryan Tung Tze-Jin,
+Nicole Tan Yitong</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
 <p></p>
