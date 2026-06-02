@@ -8,12 +8,8 @@ description: Alumni Achievements
 integrated learning can create meaningful impact beyond the classroom.
 School of Science and Technology, Singapore, is proud to celebrate their
 achievements across diverse pathways, industries and communities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/LKY_Award.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
 </div>
 <h4>Highlights from our alumni achievements include:</h4>
 <ul data-tight="true" class="tight">
@@ -46,8 +42,9 @@ Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
 in seed funding for their education technology startup.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/Hult_award.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/Hult_award.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left)</sub></sup>
@@ -60,7 +57,7 @@ in seed funding for their education technology startup.</p>
 for All-Round Excellence in recognition of her leadership, resilience and
 service to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/upscalemedia_transformed__2_.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Erica Seah (middle) at the award ceremony for the Lee Kuan Yew Award for All-Round Excellence</sub></sup>
@@ -73,21 +70,27 @@ CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
 for engineering, cybersecurity and technology innovation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/CSIT_Scholarship_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/CSIT_Scholarship_2025.jpg">
 </div>
 <blockquote>
 <p><sup><sub>Recipients of CSIT Scholarship</sub></sup>
 </p>
 </blockquote>
+<blockquote>
+<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/DSTA_Scholarship_2025_censored.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/DSTA_Scholarship_2025_censored.png">
 </div>
 <blockquote>
 <p><sup><sub>Recipients of DSTA Scholarship</sub></sup>
 </p>
 </blockquote>
+<blockquote>
+<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/ETPS_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/ETPS_2025.jpg">
 </div>
 <blockquote>
 <p><sup><sub>&nbsp;Recipients of ETPS Scholarship</sub></sup>
