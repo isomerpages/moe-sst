@@ -45,6 +45,7 @@ sections:
       button: Learn More
       url: /nurtured-at-sst-recognised-beyond/
       alt: Image alt text
+      image: /images/Built at SST Recognised Beyond/upscalemedia_transformed__2_.jpg
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards
