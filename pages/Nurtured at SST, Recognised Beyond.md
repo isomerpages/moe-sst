@@ -25,6 +25,9 @@ Outstanding Achievement Awards, and Gold and Silver Medals. These were
 proudly sponsored by leading organisations such as Amazon Web Services,
 Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/IMG_0693.jpg">
+</div>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
