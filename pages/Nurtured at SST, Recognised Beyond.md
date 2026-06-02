@@ -35,10 +35,9 @@ Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
 </p>
 </blockquote>
 <p></p>
-<h4><strong>Celebrating Outstanding Alumni Trailblazers</strong></h4>
+<h4>Celebrating Outstanding Alumni Trailblazers</h4>
 <p><strong>Global Innovation: Stick ’Em</strong>
 </p>
-<p></p>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
@@ -95,7 +94,7 @@ SST spirit of innovation, applied learning and meaningful impact. We congratulat
 all our alumni on their remarkable achievements and look forward to their
 continued contributions to SST and beyond.</p>
 <p></p>
-<h4><strong>Engineering &amp; Technology</strong></h4>
+<h4></h4>
 <h4><strong>Engineering &amp; Technology</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
