@@ -96,6 +96,7 @@ all our alumni on their remarkable achievements and look forward to their
 continued contributions to SST and beyond.</p>
 <p></p>
 <h4><strong>Engineering &amp; Technology</strong></h4>
+<h4><strong>Engineering &amp; Technology</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -292,6 +293,14 @@ with Merit</p>
 <p>Diploma with Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chew Ming Hong, Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -316,11 +325,11 @@ with Merit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Zhi En</p>
+<p>Deborah Wong Zhi En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Medallist in Biomedical Science, All Eights (Singapore) Gold Medal,
-Diploma with Merit</p>
+<p>Course Medallist in Biomedical Science (Top Student of the Course), All
+Eights (Singapore) Gold Medal, Diploma with Merit</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +392,7 @@ Gold Medal &amp; Prize, BioMedix Prize, Diploma with Merit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PNG Hyok Zing</p>
+<p>Png Hyok Zing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diploma with Merit</p>
@@ -585,22 +594,22 @@ seed funding</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engineering and Tech Programme (ETPS) Scholarship</p>
+<p>Engineering and Tech Programme Scholarship (ETPS) -&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan, Fidele Poh Xing
-Yun, Luke Yeo, Ayaan Jain, Irina Zi En Tan, Han Jeong Seu Caleb, Theshyan
-Thirun, Nikola Winata, Bagavathula Sai Neha</p>
+<p>(Class of 2024) Rovil Ng Jun Ying, Chan Yi Qian, Zachary Lo Fang Quan,
+Fidele Poh Xing Yun, Luke Yeo, Ayaan Jain, Irina Zi En Tan, Han Jeong Seu
+Caleb, Theshyan Thirun, Nikola Winata, Bagavathula Sai Neha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Centre for Strategic Infocomm Technologies Scholarship (CSIT) Scholarship</p>
+<p>Centre for Strategic Infocomm Technologies (CSIT) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb, Gabriel Ng Kai
-Jun, Luke Yeo, Lim Jun Rui, Chew Keng Yik Eason, Irina Zi-En Tan, Bellam
-Nandakumar Aravind</p>
+<p>(Class of 2024) Nikola Winata, Lin Houcheng Ethan, Han Jeong Seu Caleb,
+Gabriel Ng Kai Jun, Luke Yeo, Lim Jun Rui, Chew Keng Yik Eason, Irina Zi-En
+Tan, Bellam Nandakumar Aravind</p>
 </td>
 </tr>
 <tr>
@@ -608,13 +617,12 @@ Nandakumar Aravind</p>
 <p>Defence Science and Technology Agency (DSTA) Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui Matthew, Jayden
-Ng Kwan Zi, Tay Kai Quan, Lim Yi Ren Eben, Darius Toh Jun Yu, Anjali Curic,
-Ravin Nagpal, Tan Yu Zhe Richard, Ryan Tung Tze-Jin, Nicole Tan Yitong</p>
+<p>(Class of 2024) Emily Chang Ren Minh, Dimitros Lim Yi Sheng, Chen Zhihui
+Matthew, Jayden Ng Kwan Zi, Tay Kai Quan, Lim Yi Ren Eben, Darius Toh Jun
+Yu, Anjali Curic, Ravin Nagpal, Tan Yu Zhe Richard, Ryan Tung Tze-Jin,
+Nicole Tan Yitong</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
 <p></p>
