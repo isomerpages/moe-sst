@@ -93,7 +93,7 @@ for engineering, cybersecurity and technology innovation.</p>
 <p>While our alumni pursue diverse pathways, they continue to embody the
 SST spirit of innovation, applied learning and meaningful impact. We congratulate
 all our alumni on their remarkable achievements and look forward to their
-continued contributions beyond SST.</p>
+continued contributions to SST and beyond.</p>
 <p></p>
 <h4><strong>Engineering &amp; Technology</strong></h4>
 <table style="minWidth: 50px">
