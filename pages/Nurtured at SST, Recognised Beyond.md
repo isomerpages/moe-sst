@@ -4,25 +4,27 @@ permalink: /nurtured-at-sst-recognised-beyond/
 variant: tiptap
 description: Alumni Achievements
 ---
-<p>At the School of Science and Technology, Singapore, we are proud to celebrate
-our alumni who continue to excel across diverse pathways through innovation,
-leadership and excellence. Their achievements reflect the applied learning
-mindset, curiosity and resilience nurtured during their time at SST.</p>
+<p>Our alumni continue to demonstrate how innovation, applied learning and
+integrated learning can create meaningful impact beyond the classroom.
+School of Science and Technology, Singapore, is proud to celebrate their
+achievements across diverse pathways, industries and communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
 </div>
-<h3>Highlights from our alumni achievements include:</h3>
+<h4>Highlights from our alumni achievements include:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Numerous alumni receiving Diplomas with Merit, course medals, valedictorian
-honours and industry-sponsored prizes across engineering, biomedical science,
-cybersecurity, architecture, design and media.</p>
+<p>Numerous graduates who have received valedictorian honours, course medals,
+diplomas with merit, and industry-sponsored prizes across fields such as
+engineering, biomedical science, cybersecurity, architecture, design, and
+media.</p>
 </li>
 <li>
-<p>Prestigious recognitions including the Lee Kuan Yew Award, Outstanding
-Achievement Awards, Gold and Silver Medals, as well as prizes sponsored
-by organisations such as Amazon Web Services, Cisco Systems, A*STAR, IMDA,
-OCBC, PSA and Sembcorp.</p>
+<p>Prestigious accolades bestowed upon them, including the Lee Kuan Yew Award,
+Outstanding Achievement Awards, and Gold and Silver Medals. These were
+proudly sponsored by leading organisations such as Amazon Web Services,
+Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -32,6 +34,11 @@ OCBC, PSA and Sembcorp.</p>
 <p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
 </p>
 </blockquote>
+<p></p>
+<h4><strong>Celebrating Outstanding Alumni Trailblazers</strong></h4>
+<p><strong>Global Innovation: Stick ’Em</strong>
+</p>
+<p></p>
 <p>SST alumni Chong Ing Kai and Tew Jing An (Class of 2019), co-founders
 of Stick ’Em (@<a href="http://stickem.sg" rel="noopener noreferrer nofollow" target="_blank">stickem.sg</a>),
 winning the Hult Prize 2025 Global Championship and securing US$1 million
@@ -43,6 +50,9 @@ in seed funding for their education technology startup.</p>
 <p><sup><sub>Winners of the Hult Prize 2025 Global Championship: Tew Jing An and Chong Ing Kai (3rd and 4th from left)</sub></sup>
 </p>
 </blockquote>
+<p></p>
+<p><strong>Holistic Leadership: Erica Seah</strong>
+</p>
 <p>Erica Seah (Class of 2024) receiving the prestigious Lee Kuan Yew Award
 for All-Round Excellence in recognition of her leadership, resilience and
 service to the community.</p>
@@ -53,6 +63,8 @@ service to the community.</p>
 <p><sup><sub>Erica Seah (middle) at the award ceremony for the Lee Kuan Yew Award for All-Round Excellence</sub></sup>
 </p>
 </blockquote>
+<p><strong>Engineering the Future: Tech &amp; Defence Scholarships</strong>
+</p>
 <p>Alumni being awarded the Engineering and Tech Programme Scholarship (ETPS),
 CSIT Scholarship and DSTA Scholarship, reflecting their continued passion
 for engineering, cybersecurity and technology innovation.</p>
