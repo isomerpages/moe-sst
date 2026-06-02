@@ -37,6 +37,14 @@ sections:
           description: Innovative leaders shaping curriculum and student success.
           linktext: Learn more
           url: /about-us/school-exco-team/exco-team/
+  - infopic:
+      title: Nurtured at SST, Recognised Beyond
+      id: infopic
+      description: From STEM innovation to leadership and entrepreneurship, see how
+        SST alumni are excelling beyond school.
+      button: Learn More
+      url: nur
+      alt: Image alt text
   - textcards:
       title: Understand Our Special Curriculum Programme
       id: textcards
@@ -117,12 +125,4 @@ sections:
       url: /sst-careers/
       alt: Image alt text
       image: /images/SST_Career_Cover.jpg
-  - infopic:
-      title: Nurtured at SST, Recognised Beyond
-      id: infopic
-      description: From STEM innovation to leadership and entrepreneurship, see how
-        SST alumni are excelling beyond school.
-      button: Learn More
-      url: nur
-      alt: Image alt text
 ---
