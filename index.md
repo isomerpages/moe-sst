@@ -43,7 +43,7 @@ sections:
       description: From STEM innovation to leadership and entrepreneurship, see how
         SST alumni are excelling beyond school.
       button: Learn More
-      url: nur
+      url: /nurtured-at-sst-recognised-beyond/
       alt: Image alt text
   - textcards:
       title: Understand Our Special Curriculum Programme
