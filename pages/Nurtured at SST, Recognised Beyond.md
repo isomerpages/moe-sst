@@ -8,6 +8,10 @@ description: Alumni Achievements
 integrated learning can create meaningful impact beyond the classroom.
 School of Science and Technology, Singapore, is proud to celebrate their
 achievements across diverse pathways, industries and communities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurtured at SST/LKY_Award.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/LKY_Award.jpg">
 </div>
@@ -30,9 +34,6 @@ Cisco Systems, A*STAR, IMDA, OCBC, PSA, and Sembcorp.</p>
 </div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built at SST Recognised Beyond/IMG_0693.jpg">
-</div>
 <blockquote>
 <p><sup><sub>Recipients of the Lee Kuan Yew Award: (from left to right) Jay Liew Sin Jie, Leow Kar Lok and Koo Hong Bin Don</sub></sup>
 </p>
