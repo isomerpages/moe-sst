@@ -5,7 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
-notification: The General Office will be closed for the entire day on Monday, 8 June 2026.
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
