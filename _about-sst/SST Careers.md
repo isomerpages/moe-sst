@@ -529,9 +529,35 @@ in a school environment</p>
 <p>Team player and but able to work and lead projects independently</p>
 </li>
 <li>
-<p>Working hour from 6.30am to 4.00pm, Monday to Friday</p>
+<p>Working hour from Monday to Thursday: 7.30 am to 5 pm, Friday: 7.30 am
+to 4.30 pm</p>
 </li>
 </ul>
+<p><strong>3) <u>Temporary Science Laboratory Technician</u></strong>
+</p>
+<p><strong>Duties and Responsibilities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wash apparatus</p>
+</li>
+<li>
+<p>Check equipment</p>
+</li>
+<li>
+<p>Maintain general cleanliness of the labs</p>
+</li>
+<li>
+<p>Any other duties assigned by the Lab Technologists</p>
+</li>
+</ul>
+<p><strong>Working hours:</strong>
+</p>
+<p>Monday to Thursday: 7.30 am to 5 pm</p>
+<p>Friday: 7.30 am to 4.30 pm</p>
+<p><strong>Contract Period:</strong>
+</p>
+<p>03 August to&nbsp;17 September 2026</p>
 <hr>
 <p><strong>Information on the Application Process:</strong>
 </p>
