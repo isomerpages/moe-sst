@@ -529,7 +529,8 @@ in a school environment</p>
 <p>Team player and but able to work and lead projects independently</p>
 </li>
 <li>
-<p>Working hour from 6.30am to 4.00pm, Monday to Friday</p>
+<p>Working hour from Monday to Thursday: 7.30 am to 5 pm, Friday: 7.30 am
+to 4.30 pm</p>
 </li>
 </ul>
 <p><strong>3) <u>Temporary Science Laboratory Technician</u></strong>
