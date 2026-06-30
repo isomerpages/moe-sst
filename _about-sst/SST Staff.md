@@ -88,6 +88,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ieo Gek Ling Lisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ieo_gek_ling@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teo Teck Kia Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,6 +306,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_yong_hong@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lai Jianrong Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lai_jian_rong_jason@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -572,17 +594,6 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_johari_salleh@sst.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Seah Swee Kheng Pamela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seah_swee_kheng_pamela@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -947,6 +958,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mao_chamnap@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Yaseer Bin Mohamed Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_yaseer_bin_mohamed_salleh@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1497,6 +1519,17 @@ Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>oh_jin_rong_adrian@sst.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Lu Hwee Jamie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Affairs &amp; Services Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_lu_hwee_jamie@sst.edu.sg</p>
 </td>
 </tr>
 <tr>
