@@ -5,7 +5,9 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
-notification: ""
+notification: Please note that in commemoration of Youth Day on Monday, 6 July
+  2026, students will have a school holiday. Additionally, the General Office
+  will be closed for the entire day.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
