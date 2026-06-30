@@ -6,8 +6,9 @@ third_nav_title: School Exco
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco Photo/Exco_Profile_2024.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exco_Profile.svg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
