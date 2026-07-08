@@ -332,15 +332,11 @@ approach.</p>
 </p>
 <p><strong>8) <u>Social Studies FAJT</u></strong>
 </p>
-<p><strong>9) <u>Science (Biology/Biotech) Teacher</u></strong>
+<p><strong>9) <u>Science (Biology/ Biotech) Teacher</u></strong>
 </p>
 <p><strong>10) <u>Science (Physics) Teacher</u></strong>
 </p>
 <p><strong>11)&nbsp;<u>Sports and Wellness Teacher</u></strong>
-</p>
-<p><strong>12) <u>Subject Head (History/ Social Studies)</u></strong>
-</p>
-<p><strong>13)&nbsp;<u>History/Social Studies Teacher</u></strong>
 </p>
 <p></p>
 <p>The teacher will participate and contribute to the planning, developing,
@@ -356,63 +352,7 @@ development.</p>
 expertise with them, come join us in transforming learning to groom future-ready
 students!</p>
 <h4>Join Our Administrative Team</h4>
-<p><strong>1) <u>Student Affairs &amp; Services Assistant</u></strong>
-</p>
-<p><strong>Duties and Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Manage daily library operations, including resources, systems, and circulation
-services</p>
-</li>
-<li>
-<p>Support library programmes, user services, and literacy initiatives</p>
-</li>
-<li>
-<p>Supervise students and maintain a safe, conducive learning environment</p>
-</li>
-<li>
-<p>Administer and monitor Late-Coming (LC) records and student data</p>
-</li>
-<li>
-<p>Coordinate and supervise detention, suspension, and student management
-processes</p>
-</li>
-<li>
-<p>Maintain accurate documentation, reporting, and follow-up actions</p>
-</li>
-<li>
-<p>Provide administrative support, including budgeting, resource coordination,
-and compliance with school policies</p>
-</li>
-<li>
-<p>Other duty as assigned under Student Affairs &amp; Services Department</p>
-</li>
-</ul>
-<p><strong>Job Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nitec or its equivalent from the Library Association of Singapore</p>
-</li>
-<li>
-<p>Working experience in a similar capacity, preferably in a secondary school
-environment</p>
-</li>
-<li>
-<p>Experience in using the Spydus system will be an added advantage</p>
-</li>
-<li>
-<p>Ability to supervise students firmly and&nbsp;professionally</p>
-</li>
-<li>
-<p>Proficiency in spreadsheets and administrative tools</p>
-</li>
-<li>
-<p>Working Hours: 9 am - 6.30 pm (Mon to Thu) and 9 am - 6 pm (Fri)</p>
-</li>
-</ul>
-<p><strong>2) <u>Operations Executive</u></strong>
+<p><strong>1) <u>Operations Executive</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
@@ -533,7 +473,7 @@ in a school environment</p>
 to 4.30 pm</p>
 </li>
 </ul>
-<p><strong>3) <u>Temporary Science Laboratory Technician</u></strong>
+<p><strong>2) <u>Temporary Science Laboratory Technician</u></strong>
 </p>
 <p><strong>Duties and Responsibilities</strong>
 </p>
