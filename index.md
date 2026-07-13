@@ -5,7 +5,8 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
-notification: ""
+notification: The school's main line is currently unavailable. For enquiries,
+  please call 9339 5028. We apologise for any inconvenience casued.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
