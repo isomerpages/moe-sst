@@ -6,7 +6,7 @@ description: School of Science and Technology, Singapore Shaping passionate
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
 notification: The school's main line is currently unavailable. For enquiries,
-  please call 9339 5028. We apologise for any inconvenience casued.
+  please call 9339 5028. We apologise for any inconvenience caused.
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
