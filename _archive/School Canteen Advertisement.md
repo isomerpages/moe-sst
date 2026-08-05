@@ -28,22 +28,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 May 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fishball Noodles, Minced Meat Noodles, Laksa/ Curry Noodles, Wantan Mee,
-Fried Noodles/ Beehoon&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Muslim Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 June 2026</p>
+<p>4 September 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodle Dishes&nbsp;&nbsp;</p>
