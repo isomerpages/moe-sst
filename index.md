@@ -5,7 +5,7 @@ description: School of Science and Technology, Singapore Shaping passionate
   innovators, The SST Way
 image: /images/Icons/SST Logo Page.jpeg
 permalink: /
-notification: Please note that the General Office will be closed at 12.00nn on 7 August 2026.
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/Homepage_Banner_04.jpg
